@@ -19,7 +19,7 @@ This past summer, Thompson got the chance to return the favor when UMW junior El
 
 “Learning to write in the voice of a professional organization (especially in 140 characters) was enjoyably challenging,” said Finkelstein, a music and digital communications major. “Social media was more than just clicks, likes and shares – it was a way to explore my newfound passion for digital marketing.”
 
-As part of Subject Matter’s content team, Finkelstein worked with Thompson and a video production crew. She also gathered data and created her own presence on the firm’s blog, The Subject.
+As part of Subject Matter’s content team, Finkelstein worked with Thompson and a video production crew. She also gathered data and created her own presence on the firm’s blog, <a href="http://teamsubjectmatter.com/not-just-another-internship/">The Subject</a>.
 
 “My teammates (including Thompson) empowered me to have confidence,” said Finkelstein, who will graduate in the spring of 2018. “Subject Matter wasn’t just another summer internship—it was a realized opportunity. They gave me a summer I’ll never forget.”
 
