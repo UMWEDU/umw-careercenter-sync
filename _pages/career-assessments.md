@@ -6,7 +6,7 @@ post_date: 2016-11-01 09:33:14
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/career-assessments/
+  http://www.umw.edu/careercenter/students/career-assessments/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -15,7 +15,7 @@ If you are looking for a little guidance in figuring out your career path, these
 
 &nbsp;
 
-<strong><img class="alignnone wp-image-139 size-medium" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/11/focus2logo-300x58.png" alt="focus2logo" width="300" height="58" /></strong>
+<a href="http://www.focus2career.com/Portal/Register.cfm?Unique=%7bts%20'2016-07-29%2008:44:50'%7d&amp;SID=1400&amp;CFID=12805227&amp;CFTOKEN=396f8e9bd8070e9d-22CEC939-B82A-72DD-7468EE05ADAE2B06"><strong><img class="alignnone wp-image-139 size-medium" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/11/focus2logo-300x58.png" alt="focus2logo" width="300" height="58" /></strong></a>
 
 <strong>Focus2</strong>
 
