@@ -6,7 +6,7 @@ post_date: 2016-10-31 13:05:03
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/studentemployment/
+  http://www.umw.edu/careercenter/students/studentemployment/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -81,7 +81,7 @@ Contact ccpd@umw.edu
 
 &nbsp;
 
-Application Deadline: Open Until Filled
+Application Deadline: Feb. 1 2017
 
 The PCC Application &amp; PCA applications are open for submissions.
 
