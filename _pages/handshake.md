@@ -21,7 +21,8 @@ wpcf-home-page-grid-inclusion:
 In spring of 2017 we will replace our Employ-An-Eagle system with Handshake. This change allows us to provide our community of users with access to a brand new, state of the art system. This website provides you with important information, deadlines, and transition updates. We're also building out self-service training and tips under the name Handshake Hints ... so check back often for all the latest updates!
 
 <section class="info-section">
-<h3 class="info-section-headline">For Students</h3>
+<h3 class="info-section-headline"></h3>
+</section>For Students<section class="info-section">
 <div class="info-section-text">
 
 Information for UMW students about the all new Handshake system!
@@ -76,6 +77,9 @@ Meet our transition team and learn more about the new Handshake system. This sec
 </div>
 <ul class="info-section-links">
  	<li>Transition Team</li>
+</ul>
+</section><section class="info-section">
+<ul class="info-section-links">
  	<li>About Handshake</li>
 </ul>
 </section></div>
