@@ -13,7 +13,7 @@ wpcf-home-page-grid-inclusion:
 ---
 <div class="content-main">
 <h2 class="content-title"><img class="alignnone wp-image-158" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/Handshake-1-300x53.png" alt="handshake-1" width="384" height="68" /></h2>
-<h2 class="content-title">https://www.youtube.com/watch?v=jB-zmARNSnE</h2>
+<h2 class="content-title">[youtube]https://www.youtube.com/watch?v=jB-zmARNSnE[/youtube]</h2>
 In spring of 2017 we will replace our Employ-An-Eagle system with Handshake. This change allows us to provide our community of users with access to a brand new, state of the art system. This website provides you with important information, deadlines, and transition updates. We're also building out self-service training and tips under the name Handshake Hints ... so check back often for all the latest updates!
 
 <section class="info-section">
