@@ -12,7 +12,7 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <div class="content-main">
-<h2 class="content-title"><img class="wp-image-158 alignnone" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/Handshake-1-300x53.png" alt="handshake-1" width="384" height="68" /></h2>
+<h2 class="content-title"><img class="wp-image-158 aligncenter" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/Handshake-1-300x53.png" alt="handshake-1" width="384" height="68" /></h2>
 <h2 class="content-title">[youtube]https://www.youtube.com/watch?v=jB-zmARNSnE[/youtube]</h2>
 &nbsp;
 
