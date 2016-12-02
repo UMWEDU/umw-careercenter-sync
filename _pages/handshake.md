@@ -22,7 +22,9 @@ In spring of 2017 we will replace our Employ-An-Eagle system with Handshake. Thi
 
 <section class="info-section">
 <h3 class="info-section-headline"></h3>
-</section>For Students<section class="info-section">
+</section>For Students
+
+<section class="info-section">
 <div class="info-section-text">
 
 Information for UMW students about the all new Handshake system!
