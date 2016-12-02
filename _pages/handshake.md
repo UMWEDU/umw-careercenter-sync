@@ -77,12 +77,9 @@ Information for members of the UMW community about our implementation of Handsha
 Meet our transition team and learn more about the new Handshake system. This section will also include other, general updates for the communities we serve.
 
 </div>
-<ul class="info-section-links">
+<ul>
  	<li>Transition Team</li>
-</ul>
-</section><section class="info-section">
-<ul class="info-section-links">
  	<li>About Handshake</li>
 </ul>
-</section></div>
+</section><section class="info-section"></section></div>
 <!--more-->
