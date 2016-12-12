@@ -6,7 +6,7 @@ post_date: 2016-10-07 16:47:54
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/internships/credit/internship-policies/
+  http://www.umw.edu/careercenter/students/internships/credit/internship-policies/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -16,7 +16,7 @@ wpcf-home-page-grid-inclusion:
  	<li>Students must be <strong>a degree-seeking student</strong> at The University of Mary Washington</li>
  	<li>Students must have at least <strong>12 credit hours earned at UMW</strong>.</li>
  	<li>Students must have a <strong>G.P.A. of 2.0 or better</strong> at the start of the semester in which the internship occurs.</li>
- 	<li>Students must<strong> meet any additional requirements established by the department granting credit</strong> by reviewing the most recent  UMW <a href="http://publications.umw.edu/undergraduatecatalog/">undergraduate academic catalog </a>. For example, some departments require that internships be approved by a committee within the department; be pre-approved by the department, or require that certain courses be taken prior to the internship. Be sure to check in advance and learn if you’ll face any such requirements.</li>
+ 	<li>Students must<strong> meet any additional requirements established by the department granting credit</strong> by reviewing the most recent  UMW <a href="http://publications.umw.edu/undergraduatecatalog/">undergraduate academic catalog </a>. For example, some departments require that internships be approved by a committee within the department; be pre-approved by the department, or require that certain courses be taken prior to or during the internship. Be sure to check in advance and learn if you’ll face any such requirements.</li>
  	<li>“<strong>International students in F-1 or J-1 visa status</strong> must see the international student advisor in the Center for International Education (CIE) to make certain they are eligible for internships/employment.  Please see CIE’s <a href="http://international.umw.edu/international-services/current/employment/">Employment and Internship Opportunities for International Students </a>website for more information.”</li>
 </ul>
 &nbsp;
@@ -42,9 +42,9 @@ wpcf-home-page-grid-inclusion:
  	<li>Credit is awarded for the semester in which the internship takes place.</li>
  	<li><strong>No credit is awarded retroactively</strong>. All paperwork must be completed within seven days of starting the internship. Any exception must be approved in advance by the internship coordinator.</li>
  	<li>Students may accrue no more than 12 experiential credits towards graduation and no more than 55 credits in any one discipline.</li>
- 	<li>In order to drop an internship, a student must contact the Center for Career and Professional Development, along with their faculty sponsor and the site. The student must also contact the <a href="http://academics.umw.edu/registrar/">Registrar's Office</a> to drop the internship. The internship is not considered officially dropped from your schedule until you have followed up and completed the steps given to you by the Registrar's Office.</li>
+ 	<li>In order to drop an internship, a student must contact the Center for Career and Professional Development, along with their faculty sponsor and the site. The student must also contact the <a href="http://academics.umw.edu/registrar/">Registrar's Office</a> to drop the internship. <strong>The internship is not considered officially dropped from your schedule until you have followed up and completed the steps given to you by the Registrar's Office.</strong></li>
  	<li>Students who participate in an internship as part of an educational study abroad program must also obtain the approval of the Director of the Center for International Education (CIE).</li>
- 	<li>Students attempting to take <a href="http://publications.umw.edu/undergraduatecatalog/academic_policies/overload/">more than 18 credit hours</a> with the addtion of an internship will need approval from the Director of <a href="http://academics.umw.edu/academicandcareerservices/">Academic Services</a>.</li>
+ 	<li>Students attempting to take <a href="http://publications.umw.edu/undergraduatecatalog/academic_policies/overload/">more than 18 credit hours</a> with the addition of an internship will need approval from the Director of <a href="http://academics.umw.edu/academicandcareerservices/">Academic Services</a>.</li>
 </ul>
 <strong>Minimum Site Hours Required</strong>
 <ul>
