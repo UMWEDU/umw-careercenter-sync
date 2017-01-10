@@ -5,8 +5,7 @@ author: Shelley Keith
 post_date: 2016-08-22 11:57:47
 post_excerpt: ""
 layout: page
-permalink: >
-  https://owa.umw.edu/owa/calendar/kdanzey@umw.edu/CCPD_Handshake/calendar.html
+permalink: 'https://calendar.google.com/calendar/embed?src=c9q70hlaukfosv6j68oqi598mjrjlei1%40import.calendar.google.com&#038;ctz=America/New_York'
 published: true
 wpcf-homepage-copy:
   - Events
