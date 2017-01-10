@@ -6,7 +6,7 @@ post_date: 2016-08-22 11:57:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://orgsync.com/139324/events?view=upcoming
+  https://owa.umw.edu/owa/calendar/kdanzey@umw.edu/CCPD_Handshake/calendar.html
 published: true
 wpcf-homepage-copy:
   - Events
