@@ -5,7 +5,7 @@ author: Shelley Keith
 post_date: 2016-08-22 11:57:47
 post_excerpt: ""
 layout: page
-permalink: 'https://calendar.google.com/calendar/ical/i6dhk2lh3ctf3sfdpavrkk20c8eff57m%40import.calendar.google.com/public/basic.ics'
+permalink: 'https://calendar.google.com/calendar/embed?src=i6dhk2lh3ctf3sfdpavrkk20c8eff57m%40import.calendar.google.com&#038;ctz=America/New_York'
 published: true
 wpcf-homepage-copy:
   - Events
