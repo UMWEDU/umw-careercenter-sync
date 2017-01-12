@@ -6,7 +6,7 @@ post_date: 2016-06-29 20:05:57
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/courses/
+  https://www.umw.edu/careercenter/students/courses/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
