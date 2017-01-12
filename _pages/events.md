@@ -5,8 +5,7 @@ author: Shelley Keith
 post_date: 2016-08-22 11:57:47
 post_excerpt: ""
 layout: page
-permalink: >
-  https://umw.joinhandshake.com/schools/2nXLQMOJZZlAQsTL19wqxmlSIn_52NscyC_q3a-V7-cQ6NKKgEF9xw/calendar_sync.ics
+permalink: 'https://calendar.google.com/calendar/ical/i6dhk2lh3ctf3sfdpavrkk20c8eff57m%40import.calendar.google.com/public/basic.ics'
 published: true
 wpcf-homepage-copy:
   - Events
