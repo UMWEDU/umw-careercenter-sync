@@ -42,6 +42,4 @@ At the conclusion of this course, students will be able to:
  	<li>establish goals and personal development plans for life outside of work;</li>
  	<li>prepare for and thrive during inevitable career and job transitions that follow the first post-college destination.</li>
 </ol>
-&lt;iframe src="https://calendar.google.com/calendar/embed?height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=i6dhk2lh3ctf3sfdpavrkk20c8eff57m%40import.calendar.google.com&amp;amp;color=%23B1440E&amp;amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
-
 &nbsp;
