@@ -14,9 +14,9 @@ wpcf-homepage-copy:
   - |
     Connect with the UMW community to help build the future of your organization. From internships to job fairs and beyond, the CCPD has you covered.
     <ul>
-     	<li><a href="http://www.umw.edu/careercenter/employers/internships/">Internships</a> - what you need to know.</li>
-     	<li><a href="https://umw-csm.symplicity.com/employers/index.php">Post a job or internship</a> (Employ-An-Eagle)</li>
-     	<li><a href="http://www.umw.edu/careercenter/employers/policies-guidelines/">Policies &amp; Guidelines</a></li>
+    <li><a href="http://www.umw.edu/careercenter/employers/internships/">Internships</a> - what you need to know.</li>
+    <li><a href="https://umw-csm.symplicity.com/employers/index.php">Post a job or internship</a> (Employ-An-Eagle)</li>
+    <li><a href="http://www.umw.edu/careercenter/employers/policies-guidelines/">Policies &amp; Guidelines</a></li>
     </ul>
 ---
 <img class="alignnone size-large wp-image-63" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/stafford-lobby-1024x399.jpg" alt="" width="100%" />
