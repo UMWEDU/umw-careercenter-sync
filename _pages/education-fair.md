@@ -9,7 +9,7 @@ permalink: >
   http://www.umw.edu/careercenter/employers/education-fair/
 published: true
 wpcf-home-page-grid-inclusion:
-  - "0"
+  - "1"
 ---
 <strong>UMW Education Fair</strong>
 
