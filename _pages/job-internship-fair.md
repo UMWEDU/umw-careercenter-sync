@@ -6,8 +6,10 @@ post_date: 2017-02-02 14:25:38
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/employers/job-internship-fair/
+  https://www.umw.edu/careercenter/employers/job-internship-fair/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h1 class="entry-title">UMW Spring 2017 Job &amp; Internship Fair</h1>
 <div class="entry-content">
