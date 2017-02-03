@@ -6,10 +6,10 @@ post_date: 2017-02-02 14:29:41
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/employers/education-fair/
+  https://www.umw.edu/careercenter/employers/education-fair/
 published: true
 wpcf-home-page-grid-inclusion:
-  - "1"
+  - "0"
 ---
 <strong>UMW Education Fair</strong>
 
