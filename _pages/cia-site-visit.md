@@ -9,6 +9,6 @@ permalink: >
   http://www.umw.edu/careercenter/students/cia-site-visit/
 published: true
 wpcf-home-page-grid-inclusion:
-  - "0"
+  - "1"
 ---
 [gravityform id="3" title="true" description="true"]
