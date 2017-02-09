@@ -6,7 +6,7 @@ post_date: 2016-12-02 10:58:55
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/handshake/
+  http://www.umw.edu/careercenter/employers/handshake/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -21,7 +21,7 @@ wpcf-home-page-grid-inclusion:
 
 <section class="info-section">
 <ul class="info-section-links">
- 	<li>Information &amp; Updates</li>
+ 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">Information &amp; Updates</a></li>
  	<li>Action Steps</li>
  	<li>Handshake Hints</li>
  	<li>Access Handshake</li>
@@ -35,7 +35,7 @@ Information for employers and recruiters all about the Handshake system.
 
 </div>
 <ul class="info-section-links">
- 	<li>Information &amp; Updates</li>
+ 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">Information &amp; Updates</a></li>
  	<li>Action Steps</li>
  	<li>Access Handshake</li>
 </ul>
@@ -47,7 +47,7 @@ Information for UMW alumni about the new Handshake system.
 
 </div>
 <ul class="info-section-links">
- 	<li>Information &amp; Updates</li>
+ 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">Information &amp; Updates</a></li>
  	<li>Action Steps</li>
  	<li>Access Handshake</li>
 </ul>
@@ -60,7 +60,7 @@ Information for members of the UMW community about our implementation of Handsha
 
 </div>
 <ul class="info-section-links">
- 	<li>Information &amp; Updates</li>
+ 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">Information &amp; Updates</a></li>
 </ul>
 </section><section class="info-section">
 <h2 class="info-section-headline"><strong><span style="color: #fdce4a">General Project Information</span></strong></h2>
