@@ -6,7 +6,7 @@ post_date: 2016-06-28 19:30:02
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/
+  http://www.umw.edu/careercenter/employers/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
@@ -18,7 +18,7 @@ wpcf-homepage-copy:
     <li><a href="https://umw-csm.symplicity.com/employers/index.php">Post a job or internship</a> (Employ-An-Eagle)</li>
     <li><a href="https://www.umw.edu/careercenter/employers/policies-guidelines/">Policies &amp; Guidelines</a></li>
     <li><a href="https://www.umw.edu/careercenter/employers/education-fair/">Education Fair</a>, 3/22/17</li>
-    <li><a href="http://www.umw.edu/careercenter/employers/job-internship-fair/">Job &amp; Internship Fair</a>, 3/16/17</li>
+    <li><a href="https://www.umw.edu/careercenter/employers/job-internship-fair/">Job &amp; Internship Fair</a>, 3/16/17</li>
     </ul>
 ---
 <img class="alignnone size-large wp-image-63" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/stafford-lobby-1024x399.jpg" alt="" width="100%" />
