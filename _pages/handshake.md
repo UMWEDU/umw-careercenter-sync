@@ -6,7 +6,7 @@ post_date: 2016-12-02 10:58:55
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/handshake/
+  http://www.umw.edu/careercenter/employers/handshake/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -36,7 +36,7 @@ Information for employers and recruiters all about the Handshake system.
 </div>
 <ul class="info-section-links">
  	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">Information &amp; Updates</a></li>
- 	<li>Action Steps</li>
+ 	<li><a href="https://www.umw.edu/careercenter/handshake-employer-action-steps/">Action Steps</a></li>
  	<li>Access Handshake</li>
 </ul>
 </section><section class="info-section">
