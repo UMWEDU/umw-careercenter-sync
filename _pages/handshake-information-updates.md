@@ -6,15 +6,13 @@ post_date: 2017-02-09 09:51:02
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/
+  http://www.umw.edu/careercenter/handshake-information-updates/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <strong>Introducing Handshake</strong>
 Handshake, the new system replacing Employ-An-Eagle, is a completely new design.  It’s a combination of some of the best tools on the web today, taken from services like Instagram, Facebook, Twitter, and Pinterest.  It’s designed to help us precisely target career information, internship, Co-op, and employment opportunities, and career related events to student’s specific major, degree type, and interests.  The transition to Handshake represents a significant milestone in the continuing evolution of our office and the way in which we deliver services to our alumni, employers, faculty and staff, and students here at UMW.  Implementation will begin during the Summer 2017 term.
-
-&nbsp;
 <strong>Why Handshake?</strong>
 We chose Handshake as our new technology platform because of the wealth of features and functionality it offers to our users.  For example, Handshake provides:
 
