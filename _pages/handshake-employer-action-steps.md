@@ -6,8 +6,10 @@ post_date: 2017-02-09 10:03:01
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/handshake-employer-action-steps/
+  https://www.umw.edu/careercenter/handshake-employer-action-steps/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <strong>EMPLOYER ACTION STEPS</strong>
 Employers who are currently using the Employ-An-Eagle system and wish to transition to Handshake need to take all of the ACTIONS listed below.
