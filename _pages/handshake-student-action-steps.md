@@ -6,7 +6,7 @@ post_date: 2017-02-09 10:43:45
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/handshake-student-action-steps/
+  http://www.umw.edu/careercenter/employers/handshake/handshake-student-action-steps/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
