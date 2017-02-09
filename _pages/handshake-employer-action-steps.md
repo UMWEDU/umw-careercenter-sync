@@ -6,7 +6,7 @@ post_date: 2017-02-09 10:03:01
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/handshake-employer-action-steps/
+  https://www.umw.edu/careercenter/handshake-employer-action-steps/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
