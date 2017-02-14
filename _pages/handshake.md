@@ -6,7 +6,7 @@ post_date: 2016-12-02 10:58:55
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/handshake/
+  http://www.umw.edu/careercenter/employers/handshake/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -72,7 +72,7 @@ Meet our transition team and learn more about the new Handshake system. This sec
 
 </div>
 <ul>
- 	<li><a href="http://www.umw.edu/careercenter/contact/staff/">Transition Team</a></li>
+ 	<li>Transition Team</li>
  	<li><a href="https://www.joinhandshake.com/">What is Handshake?</a></li>
 </ul>
 </section></div>
