@@ -72,7 +72,7 @@ Meet our transition team and learn more about the new Handshake system. This sec
 
 </div>
 <ul>
- 	<li>Transition Team</li>
+ 	<li><a href="http://www.umw.edu/careercenter/employers/handshake/handshake-transition-team/">Transition Team</a></li>
  	<li><a href="https://www.joinhandshake.com/">What is Handshake?</a></li>
 </ul>
 </section></div>
