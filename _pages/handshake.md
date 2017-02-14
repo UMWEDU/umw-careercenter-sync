@@ -6,7 +6,7 @@ post_date: 2016-12-02 10:58:55
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/handshake/
+  http://www.umw.edu/careercenter/employers/handshake/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -21,9 +21,9 @@ wpcf-home-page-grid-inclusion:
 
 <section class="info-section">
 <ul class="info-section-links">
- 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">Information &amp; Updates</a></li>
+ 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">What is Handshake?</a></li>
  	<li><a href="https://www.umw.edu/careercenter/handshake-student-action-steps/">Action Steps</a></li>
- 	<li>Handshake Hints</li>
+ 	<li><a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Step-by-Step Guides</a></li>
  	<li>Access Handshake</li>
 </ul>
 </section><section class="info-section">
@@ -35,8 +35,9 @@ Information for employers and recruiters all about the Handshake system.
 
 </div>
 <ul class="info-section-links">
- 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">Information &amp; Updates</a></li>
+ 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">What is Handshake?</a></li>
  	<li><a href="https://www.umw.edu/careercenter/handshake-employer-action-steps/">Action Steps</a></li>
+ 	<li><a href="https://support.joinhandshake.com/hc/en-us/categories/202707307-Employer">Step-by-Step Guides</a></li>
  	<li>Access Handshake</li>
 </ul>
 </section><section class="info-section">
@@ -47,8 +48,9 @@ Information for UMW alumni about the new Handshake system.
 
 </div>
 <ul class="info-section-links">
- 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">Information &amp; Updates</a></li>
+ 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">What is Handshake?</a></li>
  	<li><a href="https://www.umw.edu/careercenter/handshake-student-action-steps/">Action Steps</a></li>
+ 	<li><a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Step-by-Step Guides</a></li>
  	<li>Access Handshake</li>
 </ul>
 </section><section class="info-section">
@@ -60,7 +62,7 @@ Information for members of the UMW community about our implementation of Handsha
 
 </div>
 <ul class="info-section-links">
- 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">Information &amp; Updates</a></li>
+ 	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">What is Handshake?</a></li>
 </ul>
 </section><section class="info-section">
 <h2 class="info-section-headline"><strong><span style="color: #fdce4a">General Project Information</span></strong></h2>
@@ -71,7 +73,7 @@ Meet our transition team and learn more about the new Handshake system. This sec
 </div>
 <ul>
  	<li><a href="http://www.umw.edu/careercenter/contact/staff/">Transition Team</a></li>
- 	<li><a href="https://www.joinhandshake.com/">About Handshake</a></li>
+ 	<li><a href="https://www.joinhandshake.com/">What is Handshake?</a></li>
 </ul>
 </section></div>
 <!--more-->
