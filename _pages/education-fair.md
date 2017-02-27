@@ -6,7 +6,7 @@ post_date: 2017-02-02 14:29:41
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/education-fair/
+  http://www.umw.edu/careercenter/employers/education-fair/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -25,5 +25,45 @@ The  Education Fair offers you the opportunity to discuss employment options wi
 This cost includes a six foot table for displays and marketing materials, two chairs, promotion on our website and throughout the University, wireless capabilities, electrical outlet access, if requested/available, and refreshments during the fair.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMRJdvm08n6-bjV901wF2SSP4ZgXwlxEThxH9TDUbsgYCf8Q/viewform" target="_blank" rel="nofollow">Please click here</a> for more information and to register.
+
+<strong>Schools Attending (As of 2/27/17)</strong>
+
+Alexandria City Public Schools
+
+Bering Strait School District
+
+Caroline County Public Schools
+
+Centra Rivermont Schools
+
+Culpeper County Public Schools
+
+Fauquier County Public Schools
+
+Frederick County Public Schools
+
+Fredericksburg City Public Schools
+
+Hanover County Public Schools
+
+King George County Public Schools
+
+Loudoun County Public Schools
+
+Manassas City Public Schools
+
+Manassas City Public Schools
+
+Newport News Public Schools
+
+Northumberland Co. Public Schools
+
+Prince William County Public Schools
+
+Southern Teachers
+
+Stafford County Public Schools
+
+Williamsburg-James City County Public Schools
 
 </div>
