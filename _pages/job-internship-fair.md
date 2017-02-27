@@ -6,12 +6,12 @@ post_date: 2017-02-02 14:25:38
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/employers/job-internship-fair/
+  https://www.umw.edu/careercenter/employers/job-internship-fair/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2><img class="alignright wp-image-59 " src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/CareerCenterHome-300x121.jpg" width="337" height="136" />3/16/17, 3-6 p.m.</h2>
 <h2>Chandler Ballroom, University Center</h2>
