@@ -6,7 +6,7 @@ post_date: 2017-02-27 14:54:56
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/internships/2017-internship-grants/
+  http://www.umw.edu/careercenter/students/internships/2017-internship-grants/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -38,7 +38,7 @@ Recipients are not required to enroll for academic credit, however a completed a
 
 <strong>Application Materials</strong>
 
-In 2017, applications must be submitted online at the CCPD website (with the exception of hard copies of reference letters which may be turned in or addressed to the Center for Career and Professional Development, UC Suite 206). A complete application includes: (1) online Internship Grant Application, (2) an internship contract, and (3) one letter of reference.
+In 2017, <a href="https://www.umw.edu/careercenter/students/internships/2017-internship-grant-application/">applications</a> must be submitted online at the CCPD website (with the exception of hard copies of reference letters which may be turned in or addressed to the Center for Career and Professional Development, UC Suite 206). A complete application includes: (1) <a href="https://www.umw.edu/careercenter/students/internships/2017-internship-grant-application/">online Internship Grant Application</a>, (2) an internship contract, and (3) one letter of reference.
 
 Applications are due  by 4/25/17 at 5 p.m. and recipients will be notified the week of May 1, 2017.
 
