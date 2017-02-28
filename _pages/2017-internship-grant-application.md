@@ -6,7 +6,7 @@ post_date: 2017-02-28 11:19:05
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/2017-internship-grant-application/
+  http://www.umw.edu/careercenter/students/internships/2017-internship-grant-application/
 published: true
 yst_prominent_words_version:
   - "1"
