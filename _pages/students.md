@@ -6,7 +6,7 @@ post_date: 2016-06-28 19:29:37
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/
+  https://www.umw.edu/careercenter/students/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
@@ -15,6 +15,7 @@ wpcf-homepage-copy:
     <a href="https://www.umw.edu/careercenter/students/courses/">Learn</a> to make meaningful connections between your academic experiences and post-graduation plans and opportunties.
     <ul>
     <li><a href="https://www.umw.edu/careercenter/events/">Upcoming Events</a></li>
+    <li><a href="https://www.umw.edu/careercenter/students/cia-site-visit/">CIA Site Visit</a></li>
     <li><a href="https://www.umw.edu/careercenter/students/internships/">Internships</a> - getting started</li>
     <li><a href="http://umw-csm.symplicity.com/students/index.php">Job/Internship Database</a> (Employ-An-Eagle)</li>
     <li><a href="https://www.umw.edu/careercenter/students/toolkit/">Toolkit</a></li>
