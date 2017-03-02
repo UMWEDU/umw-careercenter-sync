@@ -6,12 +6,12 @@ post_date: 2016-12-02 10:58:55
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/employers/handshake/
+  https://www.umw.edu/careercenter/employers/handshake/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <div class="content-main"> <img class=" wp-image-171 alignnone" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-lg-300x48.png" alt="" width="494" height="79" /></div>
 <div class="content-main"></div>
