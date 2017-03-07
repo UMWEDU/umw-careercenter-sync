@@ -6,7 +6,7 @@ post_date: 2016-06-28 19:29:37
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/
+  http://www.umw.edu/careercenter/students/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -18,7 +18,7 @@ wpcf-homepage-copy:
     <ul>
     <li><a href="https://www.umw.edu/careercenter/events/">Upcoming Events</a></li>
     <li><a href="https://www.umw.edu/careercenter/students/internships/">Internships</a> - getting started</li>
-    <li><a href="http://www.umw.edu/careercenter/students/internships/2017-internship-grants/">Internship Grants</a></li>
+    <li><a href="https://www.umw.edu/careercenter/students/internships/2017-internship-grants/">Internship Grants</a></li>
     <li><a href="http://umw-csm.symplicity.com/students/index.php">Job/Internship Database</a> (Employ-An-Eagle)</li>
     <li><a href="https://www.umw.edu/careercenter/students/toolkit/">Toolkit</a></li>
     <li><a href="https://www.umw.edu/careercenter/on-campus-recruitment/">On-Campus Recruitment </a></li>
