@@ -36,6 +36,8 @@ For more information and to register, <a href="https://docs.google.com/forms/d/e
 
 Federal Reserve Bank of Richmond
 
+<span>TechINT Solutions Group</span>
+
 United States Marine Corps System Command
 
 </div>
