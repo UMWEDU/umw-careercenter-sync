@@ -6,7 +6,7 @@ post_date: 2017-02-27 14:54:56
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/internships/2017-internship-grants/
+  http://www.umw.edu/careercenter/students/internships/2017-internship-grants/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -34,7 +34,7 @@ To be eligible for financial awards, students must meet the following criteria:
 </ul>
 <strong>Additional Requirements</strong>
 
-Recipients are not required to enroll for academic credit, however a completed and approved internship application must be on file with the CCPD prior to the disbursement of the award and the experience should involve at least 126 contact hours to be eligible for the largest award ($2000).  If you are doing an internship attached to credit, you will need the Summer 2017 Internship Contract (this will be available after spring break). If you are doing an internship that is not attached to academic credit, you will need the  <a href="http://academics.umw.edu/academicservices/files/2015/03/Grant-Internship-Contract-revised.pdf">Summer Grant Internship Contract-Non Credit</a>. Reviewers will consider the duration of the internship and the number of contact hours in considering the amount of the award. In addition, these cash awards require students to complete a W-9 and recipients will be responsible for any applicable federal, state, or local taxes. Students who receive a financial award to support their internship experience are required to submit an end-of-experience report that includes a brief (2 page) reflection on the experience and a thank you note to the sponsor. These awards may be used for student internship expenses, stipends, and travel. Prior to disbursement, students must be cleared by Financial Aid and Student Accounts as awards will not be processed for payment to recipients who have outstanding balances.
+Recipients are not required to enroll for academic credit, however a completed and approved internship application must be on file with the CCPD prior to the disbursement of the award and the experience should involve at least 126 contact hours to be eligible for the largest award ($2000).  If you are doing an internship attached to credit, you will need the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/Summer-2017-Internship-Contract-.pdf">Summer 2017 Internship Contract</a>. If you are doing an internship that is not attached to academic credit, you will need the  <a href="http://academics.umw.edu/academicservices/files/2015/03/Grant-Internship-Contract-revised.pdf">Summer Grant Internship Contract-Non Credit</a>. Reviewers will consider the duration of the internship and the number of contact hours in considering the amount of the award. In addition, these cash awards require students to complete a W-9 and recipients will be responsible for any applicable federal, state, or local taxes. Students who receive a financial award to support their internship experience are required to submit an end-of-experience report that includes a brief (2 page) reflection on the experience and a thank you note to the sponsor. These awards may be used for student internship expenses, stipends, and travel. Prior to disbursement, students must be cleared by Financial Aid and Student Accounts as awards will not be processed for payment to recipients who have outstanding balances.
 
 <strong>Application Materials</strong>
 
