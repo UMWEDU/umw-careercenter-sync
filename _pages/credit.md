@@ -8,10 +8,10 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/students/internships/credit/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Before</h2>
 <ul>
@@ -26,7 +26,7 @@ yst_prominent_words_version:
  	<li>Know the details of your internship such as who your supervisor is, what the expectations are timewise and your duties. Identify someone you would like to serve as your faculty sponsor.</li>
 </ul>
 </li>
- 	<li>Complete the<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/Summer-2017-Internship-Contract-.pdf">Summer 2017 Internship Contract</a> within a week of your internship start date
+ 	<li>Complete the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/Summer-2017-Internship-Contract-.pdf">Internship Contract</a> within a week of your internship start date
 <ul>
  	<li>Be sure to pay attention to the dates on the contract (due date and the dates you can complete your hours between)</li>
  	<li>Have your site supervisor, faculty advisor and faculty chair sign the contract. (The site supervisor and faculty advisor cannot be the same person)</li>
