@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <h2>Before</h2>
 <ul>
