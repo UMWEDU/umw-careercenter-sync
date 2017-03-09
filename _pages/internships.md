@@ -6,7 +6,7 @@ post_date: 2016-06-29 18:20:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/internships/
+  http://www.umw.edu/careercenter/students/internships/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -19,10 +19,10 @@ Internships provide an excellent opportunity to gain professional work experienc
 
 &nbsp;
 
-&nbsp;
-
-The Summer 2017 Internship contract will be posted after Spring Break.
-
-The summer internship deadline is June 2nd 2017
-
+<span style="text-decoration: underline"><strong>Important Information &amp; Updates</strong></span>
+<ul>
+ 	<li>Summer 2017 Internship Contract</li>
+ 	<li>The summer internship deadline is June 2nd 2017</li>
+ 	<li>We are not currently accepting internship contracts for Fall 2017.</li>
+</ul>
 &nbsp;
