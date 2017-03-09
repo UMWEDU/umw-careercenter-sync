@@ -6,7 +6,7 @@ post_date: 2017-02-02 14:25:38
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/job-internship-fair/
+  http://www.umw.edu/careercenter/employers/job-internship-fair/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -22,7 +22,7 @@ The Center for Career and Professional Development will be holding a spring job 
 <strong>Students do not need to register to attend this event.
 </strong>
 
-Visit our <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/02/Spring-2017-Job-Internship-Fair.pdf">Employer Directory</a> to learn more about the organizations attending.
+Visit our *<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/02/Spring-2017-Job-Internship-Fair.pdf">Employer Directory</a> to learn more about the organizations attending.
 
 Questions? Email ccpd@umw.edu or call us at 540-654-5646.
 
@@ -31,5 +31,11 @@ Questions? Email ccpd@umw.edu or call us at 540-654-5646.
 The rate will be $75 per organization. This rate includes a six foot table for displays and marketing materials, two chairs, parking, promotion on our website and throughout the University, wireless capabilities, and refreshments. <strong>The fee covers two representatives. Additional representatives will be $75 each.</strong>
 
 For more information and to register, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHHh0bvZAVeeycYjtxZrdVcyocyRDu624TnGmgcbbmGflUOA/viewform" target="_blank" rel="nofollow">please click here.</a>
+
+<strong>*Addendum</strong>
+
+Federal Reserve Bank of Richmond
+
+United States Marine Corps System Command
 
 </div>
