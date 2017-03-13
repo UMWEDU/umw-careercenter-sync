@@ -6,7 +6,7 @@ post_date: 2017-03-13 00:23:25
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/toolkit/career-major-exploration/
+  https://www.umw.edu/careercenter/students/toolkit/career-major-exploration/
 published: true
 yst_prominent_words_version:
   - "1"
