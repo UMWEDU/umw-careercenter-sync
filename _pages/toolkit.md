@@ -6,12 +6,12 @@ post_date: 2016-08-22 19:30:17
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/toolkit/
+  https://www.umw.edu/careercenter/students/toolkit/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <b>The Occupational Outlook Handbook </b>can help you find career information on duties, education and training, pay, and outlook for hundreds of occupations.
 
