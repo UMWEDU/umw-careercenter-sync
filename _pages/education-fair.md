@@ -6,7 +6,7 @@ post_date: 2017-02-02 14:29:41
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/education-fair/
+  http://www.umw.edu/careercenter/employers/education-fair/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -28,44 +28,74 @@ This cost includes a six foot table for displays and marketing materials, two ch
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMRJdvm08n6-bjV901wF2SSP4ZgXwlxEThxH9TDUbsgYCf8Q/viewform" target="_blank" rel="nofollow">Please click here</a> for more information and to register.
 
-<strong>Schools Attending (As of 2/27/17)</strong>
-
-Alexandria City Public Schools
-
-Bering Strait School District
-
-Caroline County Public Schools
-
-Centra Rivermont Schools
-
-Culpeper County Public Schools
-
-Fauquier County Public Schools
-
-Frederick County Public Schools
-
-Fredericksburg City Public Schools
-
-Hanover County Public Schools
-
-King George County Public Schools
-
-Loudoun County Public Schools
-
-Manassas City Public Schools
-
-Manassas City Public Schools
-
-Newport News Public Schools
-
-Northumberland Co. Public Schools
-
-Prince William County Public Schools
-
-Southern Teachers
-
-Stafford County Public Schools
-
-Williamsburg-James City County Public Schools
-
+<strong>Schools Attending
+</strong>
+<table width="245">
+<tbody>
+<tr>
+<td width="245">Alexandria City Public Schools</td>
+</tr>
+<tr>
+<td>Bering Strait School District</td>
+</tr>
+<tr>
+<td>Caroline County Public Schools</td>
+</tr>
+<tr>
+<td>Centra Rivermont Schools</td>
+</tr>
+<tr>
+<td>Chesapeake Bay Governor's School</td>
+</tr>
+<tr>
+<td>Culpeper County Public Schools</td>
+</tr>
+<tr>
+<td>Fauquier County Public Schools</td>
+</tr>
+<tr>
+<td>Frederick County Public Schools</td>
+</tr>
+<tr>
+<td>Fredericksburg City Public Schools</td>
+</tr>
+<tr>
+<td>Hanover County Public Schools</td>
+</tr>
+<tr>
+<td>Helping Hands, Inc. Private Day School</td>
+</tr>
+<tr>
+<td>King George County Public Schools</td>
+</tr>
+<tr>
+<td>Loudoun County Public Schools</td>
+</tr>
+<tr>
+<td>Manassas City Public Schools</td>
+</tr>
+<tr>
+<td>Newport News Public Schools</td>
+</tr>
+<tr>
+<td>Northumberland Co. Public Schools</td>
+</tr>
+<tr>
+<td>Prince William County Public Schools</td>
+</tr>
+<tr>
+<td>Southern Teachers</td>
+</tr>
+<tr>
+<td>Spotsylvania County Schools</td>
+</tr>
+<tr>
+<td>Stafford County Public Schools</td>
+</tr>
+<tr>
+<td width="245">Williamsburg-James City County
+Public Schools</td>
+</tr>
+</tbody>
+</table>
 </div>
