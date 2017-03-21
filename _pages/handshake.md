@@ -6,7 +6,7 @@ post_date: 2016-12-02 10:58:55
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/handshake/
+  http://www.umw.edu/careercenter/handshake/
 published: true
 yst_prominent_words_version:
   - "1"
