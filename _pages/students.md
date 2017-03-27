@@ -17,6 +17,7 @@ wpcf-homepage-copy:
     <a href="https://www.umw.edu/careercenter/students/courses/">Learn</a> to make meaningful connections between your academic experiences and post-graduation plans and opportunties.
     <ul>
     <li><a href="https://www.umw.edu/careercenter/events/">Upcoming Events</a></li>
+    <li><a href="https://www.umw.edu/careercenter/employers/job-internship-fair/">Job &amp; Internship Fair </a>- 3/16/17, 3-6 p.m.</li>
     <li><a href="https://www.umw.edu/careercenter/students/internships/">Internships</a> - getting started</li>
     <li><a href="https://www.umw.edu/careercenter/students/internships/2017-internship-grants/">Internship Grants</a></li>
     <li><a href="http://umw-csm.symplicity.com/students/index.php">Job/Internship Database</a> (Employ-An-Eagle)</li>
