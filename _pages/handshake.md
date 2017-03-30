@@ -6,7 +6,7 @@ post_date: 2016-12-02 10:58:55
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/handshake/
+  http://www.umw.edu/careercenter/handshake/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -17,6 +17,15 @@ wpcf-home-page-grid-inclusion:
 <div class="content-main"></div>
 <div class="content-main">In the summer of 2017 we will replace our Employ-An-Eagle system with <a href="https://www.joinhandshake.com/">Handshake</a>. This change allows us to provide our community of users with access to a brand new, state of the art system. This website provides you with important information, deadlines, and transition updates. We're also building out self-service training and tips under the name Handshake Hints ... so check back often for all the latest updates!</div>
 <div class="content-main"></div>
+<div class="content-main">
+
+<strong>Students: We want to note up front that by using the Services, you consent to: </strong>
+<ul>
+ 	<li>The Company’s sharing of your personally identifiable information, contact details, education history and grades, and other information you enter through the Services with your school(s) and potential employers.</li>
+ 	<li>The company use and sharing with third parties (in some cases, for compensation) of data gathered through your inputs to and interactions with the Services in de-identified form.</li>
+ 	<li>You can delete your personal information from our Services, but residual information about your previous use of the Services will remain on our systems even after an account is deleted.</li>
+</ul>
+</div>
 <div class="content-main">
 <h2 class="info-section-headline"><strong><span style="color: #fdce4a">For Students<img class="wp-image-176 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/students-300x192.png" alt="" width="240" height="154" /></span></strong></h2>
 <p class="info-section-headline">Information for UMW students about the all new Handshake system!</p>
