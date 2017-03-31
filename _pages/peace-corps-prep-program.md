@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -23,7 +23,7 @@ For 12 years, the Peace Corps has ranked the University of Mary Washington among
 <h2><strong>Competencies
 </strong></h2>
 Leveraging concrete knowledge and skills is central to on the ground international development work. Through this PC Prep program, you will begin to build a professional specialty, which should serve your career well whether or not you become a Peace Corps Volunteer.
-<table style="height: 674px" width="1677">
+<table style="height: 450px" width="1677">
 <tbody>
 <tr>
 <td width="229">
@@ -43,47 +43,20 @@ Leveraging concrete knowledge and skills is central to on the ground internation
 <td style="vertical-align: top">
 <h6>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector.</h6>
 <h6><a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/">See Requirements</a></h6>
-<h6>Sectors:</h6>
-<h6>Education</h6>
-<h6>Health</h6>
-<h6>Environment</h6>
-<h6>Agriculture</h6>
-<h6>Youth in Development</h6>
-<h6>Community Economic Development</h6>
 </td>
 <td style="vertical-align: top">
 <h6>Engaging thoughtfully and fluidly across cultures   begins with one’s own self-awareness. With this learning objective, you will deepen your cultural    agility through a mix of three introspective courses in which you learn about others while reflecting  upon your own self in relation to others.The goal is for you to build your capacity to shift perspective and behavior around relevant cultural differences.</h6>
-<h6>See Rquirements</h6>
-<h6>You’ll take at least 1 of these core courses:</h6>
-<h6>WGST 101 – Introduction to Women’s Studies</h6>
-<h6>SOCG 155 – Social Issues ANTH 101 – Introduction to Cultural and Social Anthropology IDIS 203 – Introduction to Ethnic Studies</h6>
+<h6>See Requirements</h6>
 </td>
 <td style="vertical-align: top">
 <h6>Peace Corps service and similar international development work opportunities are highly professional and selective. PC Prep requires <b>three specific activities </b>that will strengthen your candidacy for the Peace Corps (or any other professional endeavor).</h6>
 <h6>See Requirements</h6>
-<ul>
- 	<li>
-<h6>Have your resume critiqued by someone in the Center for Career and Professional Development.</h6>
-</li>
- 	<li>
-<h6>Attend a workshop or class on interview skills at the Center for Career and Professional Development</h6>
-</li>
- 	<li>
-<h6>Develop at least one significant leadership experience and be prepared to discuss it thoughtfully. For example, organizing a campus event, leading a work or volunteer project, or serving on the executive board of a student organization.</h6>
-</li>
- 	<li>
-<h6>Participation in one of UMW’s formal leadership programs organized through the Center for Honor, Leadership, and Service. For example, the Horizons Program offers students the opportunity to develop as individuals, leaders and scholars over the course of their college experience. The Program has three required components (educational, experiential, and reflection) which can be completed in several different ways. Students build foundations through engagement with the community, discover ways in which the individual can contribute to others, and explore ways in which they are empowered to make positive changes in the world.</h6>
-</li>
-</ul>
 </td>
 <td style="vertical-align: top">
 <h6>Working across cultures often entails verbal and nonverbal languages distinct from your own. Building foreign language skills is thus a second key component of the PC Prep curriculum.</h6>
 <h6><i>Where would you like to serve? </i>PC Prep minimum course requirements align with those needed by applicants to the Peace Corps itself, which vary by linguistic region.</h6>
 <h6>See Requirements</h6>
-<h6>Spanish-speaking countries: two 200-level courses.</h6>
-<h6>French-speaking countries: one 200-level course in any Romance Language.</h6>
-<h6>Everywhere else no explicit requirements, but language skills are a plus.</h6>
-&nbsp;</td>
+</td>
 </tr>
 </tbody>
 </table>
