@@ -6,10 +6,12 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector
 
