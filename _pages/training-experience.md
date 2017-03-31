@@ -6,16 +6,17 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  http://www.umw.edu/careercenter/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h6>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience.<img class=" wp-image-235 alignnone" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="413" height="219" /></h6>
-<h6>in that same sector. There are <u>six sectors</u> in which Peace Corps Volunteers serve—detailed below. <b><u>Choose one sector to focus on </u></b>then complete at least 3 courses + 50 hours of related experience in that sector.</h6>
-<h6>Education Sector</h6>
+<h6><img class="alignnone  wp-image-235" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="362" height="192" /></h6>
+<h5>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience.</h5>
+<h5>in that same sector. There are <u>six sectors</u> in which Peace Corps Volunteers serve—detailed below. <b><u>Choose one sector to focus on </u></b>then complete at least 3 courses + 50 hours of related experience in that sector.</h5>
+<h2>Education Sector</h2>
 <h6><i><u>If you choose Education, take 3 courses from one of the following areas</u></i><i>:</i></h6>
 <ol>
  	<li>Education</li>
@@ -48,7 +49,7 @@ wpcf-home-page-grid-inclusion:
  	<li>Teaching in one of these or a similar form: in a classroom, with a community outreach organization, or in a formal tutoring capacity.</li>
  	<li>The subject of the teaching may be English as a Foreign/Second Language, special education, drama, or a STEM subject.</li>
 </ol>
-Health Sector
+<h2>Health Sector</h2>
 <p class="wysiwyg-text-align-left"><i><u>If you choose Health, take three courses from one of the following areas</u></i><i>:</i></p>
 
 <ol>
