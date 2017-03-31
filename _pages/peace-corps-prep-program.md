@@ -41,8 +41,8 @@ Leveraging concrete knowledge and skills is central to on the ground internation
 </tr>
 <tr>
 <td style="vertical-align: top">
-<h6><span>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector.</span></h6>
-<h6>See Requirements</h6>
+<h6>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector.</h6>
+<h6><a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/">See Requirements</a></h6>
 <h6>Sectors:</h6>
 <h6>Education</h6>
 <h6>Health</h6>
@@ -80,9 +80,9 @@ Leveraging concrete knowledge and skills is central to on the ground internation
 <h6>Working across cultures often entails verbal and nonverbal languages distinct from your own. Building foreign language skills is thus a second key component of the PC Prep curriculum.</h6>
 <h6><i>Where would you like to serve? </i>PC Prep minimum course requirements align with those needed by applicants to the Peace Corps itself, which vary by linguistic region.</h6>
 <h6>See Requirements</h6>
-<h6><span>Spanish-speaking countries: two 200-level courses.</span></h6>
-<h6><span>French-speaking countries: one 200-level course in any Romance Language.</span></h6>
-<h6><span> Everywhere else no explicit requirements, but language skills are a plus.</span></h6>
+<h6>Spanish-speaking countries: two 200-level courses.</h6>
+<h6>French-speaking countries: one 200-level course in any Romance Language.</h6>
+<h6>Everywhere else no explicit requirements, but language skills are a plus.</h6>
 &nbsp;</td>
 </tr>
 </tbody>
