@@ -1,20 +1,25 @@
 ---
 ID: 231
-post_title: Peace Corps Prep Program
+post_title: Peace Corps Prep
 author: kdanzey
 post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
+<h2></h2>
+<h2><strong><img class=" wp-image-235 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="461" height="244" /></strong></h2>
 <h2><strong>About</strong></h2>
-For 12 years, the Peace Corps has ranked the University of Mary Washington among the nation’s top-producing colleges for alumni now serving as Peace Corps volunteers. The Peace Corps Prep program will prepare further you for international development fieldwork and potential Peace Corps service. To accomplish this, you’ll build four core competencies through interrelated coursework, hands-on experience professional development support, and professional savvy and leadership.
+<h2></h2>
+<h2></h2>
+<h2></h2>
+For 12 years, the Peace Corps has ranked the University of Mary Washington among the nation’s top-producing colleges for alumni now serving as Peace Corps volunteers. UMW's Peace Corps Prep program will prepare current student for  international development fieldwork and potential Peace Corps service. To accomplish this, student's will build four core competencies through interrelated coursework, hands-on experience professional development support, and professional savvy and leadership.
 <h2><strong>Competencies
 </strong></h2>
 Leveraging concrete knowledge and skills is central to on the ground international development work. Through this PC Prep program, you will begin to build a professional specialty, which should serve your career well whether or not you become a Peace Corps Volunteer.
@@ -36,7 +41,6 @@ Leveraging concrete knowledge and skills is central to on the ground internation
 </tr>
 <tr>
 <td width="229">For PC Prep, you need to complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector, preferably in a teaching or outreach capacity.
-
 Sector:
 Education
 Health
@@ -44,21 +48,15 @@ Environment
 Agriculture
 Youth in Development
 Community Economic Development</td>
-<td width="229">Engaging thoughtfully and fluidly across cultures begins with one’s own self-awareness. With this learning objective, you will deepen your cultural agility through a mix of three introspective courses in which you learn about others while reflecting upon your own self in relation to others. The goal is for you to build your capacity to shift perspective and behavior around relevant cultural differences.
-
-&nbsp;</td>
-<td width="229">Peace Corps service and similar international development work opportunities are highly professional and selective. PC Prep requires three specific activities that will strengthen your candidacy for the Peace Corps (or any other professional endeavor).</td>
+<td width="229">Engaging thoughtfully and fluidly across cultures begins with one’s own self-awareness. With this learning objective, you will deepen your cultural agility through a mix of three introspective courses in which you learn about others while reflecting upon your own self in relation to others. The goal is for you to build your capacity to shift perspective and behavior around relevant cultural differences.</td>
+<td width="229">
+<p style="text-align: left">Peace Corps service and similar international development work opportunities are highly professional and selective. PC Prep requires three specific activities that will strengthen your candidacy for the Peace Corps (or any other professional endeavor).</p>
+</td>
 <td width="229"><strong>Latin America:</strong> Individuals wanting to serve in Spanish speaking countries must apply with strong intermediate proficiency. This typically means completing two 200 level courses.
-
-&nbsp;
 
 <strong>West Africa:</strong> Individuals wanting to serve in French-­‐speaking African countries should be proficient in French (or, in some cases, any Romance Language), usually through one 200-­‐ level course.
 
-&nbsp;
-
 <strong>Everywhere else: </strong>The Peace Corps has no explicit language requirements for individuals applying to serve in most other countries. However, you will still likely learn and utilize another language during service, so it is only helpful to have taken at least one foreign language class.
-
-&nbsp;
 
 <strong>Note:</strong> If you are a strong native speaker and hope to serve in a country that speaks your same language, you can skip this requirement!</td>
 </tr>
