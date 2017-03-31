@@ -6,31 +6,17 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector
-
-Leveraging concrete knowledge and skills is central to on-­‐the-­‐ground international development work. Through this PC Prep program, you will begin to build a professional specialty, which should serve your career well whether or not you become a Peace Corps Volunteer.
-
-For PC Prep, you need to complete at least <b>3 courses </b>that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate <b>a minimum of 50 hours of volunteer or work experience in that </b><b><i>same </i></b><b>sector</b>, preferably in a teaching or outreach capacity.
-
-<i>If you intend to apply to the Peace Corps, the best way to assure that you will be a strong candidate is to explore Peace Corps’ openings and identify the <u>type of assignments</u> in which you’d like to serve</i><i>, then review the positions’ required and desired qualifications and build them up accordingly. In the process, you should fulfill these PC Prep experiential requirements!</i>
-
-There are <u>six sectors</u> in which Peace Corps Volunteers serve—detailed below. <b><u>Choose one sector to focus on </u></b>then complete at least 3 courses + 50 hours of related experience in that sector.
-
-<a title="Link: http://www.peacecorps.gov/volunteer/what-­" href="http://www.peacecorps.gov/volunteer/what-­" rel="nofollow">www.peacecorps.gov/volunteer/what-­</a>‐<a target="_blank" rel="nofollow">volunteers-­‐do </a>
-
-<i>Note: Actual Peace Corps assignments are based on local needs, and thus may or may not align seamlessly with your qualifications. Flexibility is central to the Peace Corps experience!</i>
-
-Education Sector
-
-<i><u>If you choose Education, take 3 courses from one of the following areas</u></i><i>:</i>
-<div>
+<h6>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience.<img class=" wp-image-235 alignnone" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="413" height="219" /></h6>
+<h6>in that same sector. There are <u>six sectors</u> in which Peace Corps Volunteers serve—detailed below. <b><u>Choose one sector to focus on </u></b>then complete at least 3 courses + 50 hours of related experience in that sector.</h6>
+<h6>Education Sector</h6>
+<h6><i><u>If you choose Education, take 3 courses from one of the following areas</u></i><i>:</i></h6>
 <ol>
  	<li>Education</li>
  	<li>English</li>
@@ -38,10 +24,8 @@ Education Sector
  	<li>Computer Science</li>
  	<li>Chemistry</li>
 </ol>
-</div>
-<i><u>Recommended courses</u></i><i>:
-</i>
-<div>
+<h6><i><u>Recommended courses</u></i><i>:
+</i></h6>
 <ol>
  	<li><u>EDUC 371 &amp; 373 – Language Development and Literacy Instruction (Primary/Intermediate)</u></li>
  	<li><u>EDUC 454 – The Teaching of Foreign Language</u></li>
@@ -102,4 +86,3 @@ Health Sector
  	<li>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region such as (1) the Virginia Department of Health, (2) Community of Hope, (3) the U.S. Department of Health and Human Services.</li>
  	<li>Participating in a UMW Abroad Program such as (1) CIEE Dakar, Senegal, (2) CIEE Monteverde, Costa Rica, (3) CIEE Gaborone, Botswana, (4) KEI Bangkok, Thailand, (5) SIT China: Community Health and Traditional Chinese Medicine, (6) SIT Jordan: Refugees, Health and Humanitarian Action, or (7) SIT Madagascar: Traditional Medicine and Healthcare Systems.</li>
 </ol>
-</div>
