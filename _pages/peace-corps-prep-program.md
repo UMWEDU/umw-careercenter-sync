@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -86,13 +86,15 @@ Second-semester freshmen, sophomores, and first-semester juniors in good standin
 All majors welcome.
 <h2><strong>Application Process</strong></h2>
 <h4>Apply through   <a href="http://www.umw.joinhandshake.com."><img class="alignnone wp-image-254" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/hs-logo-primary-lg-300x48.png" alt="" width="213" height="34" /></a></h4>
-<a href="http://www.umw.joinhandshake.com">www.umw.joinhandshake.com</a>.
+<a href="http://www.umw.joinhandshake.com">www.umw.joinhandshake.com</a>
+
+<a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Handshake Tutorials </a>
 <ul>
  	<li>From you homepage, select “Surveys” on the left hand menu.</li>
- 	<li>On the “Surveys” page, select Peace Corps Prep Program Application.</li>
+ 	<li>On the “Surveys” page, select <em>Peace Corps Prep Program Application</em>.</li>
  	<li>Once your application is reviewed, you will be contacted by the program coordinator.</li>
 </ul>
-<strong>NOTIFICATION</strong>:  Students would be notified of their application status in time for registration for the following semester (2-3 weeks after the application deadline).
+<strong>NOTIFICATION</strong>:  Students would be notified of their application status in time for <a href="http://academics.umw.edu/registrar/course-schedules-and-registration/">registration</a> for the following semester (2-3 weeks after the application deadline).
 
 <strong>CURRICULAR PLAN</strong>:  Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.
 
@@ -100,7 +102,7 @@ All majors welcome.
 <h2><strong>Program Benefits</strong></h2>
 <ul>
  	<li>A formal partnership between the Peace Corps and UMW that allows UMW students, who have strong interests in global citizenship, to prepare simultaneously for the Peace Corps.</li>
- 	<li>Students who successfully complete the program gain knowledge and experience that make them more competitive Peace Corps applicants.</li>
+ 	<li>Students who successfully complete the program gain g<span id="ctl00_contentPlaceHolder_mainDrop_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_TextLabel">lobal and intercultural fluency which is one of eight <a href="http://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">career ready competencies </a>identified by the <a href="http://www.naceweb.org/">National Association of College and Employers</a>.</span></li>
  	<li>Participation in and completion of the Peace Corps Prep Program demonstrates a sense of global awareness and compassion that many employers and graduate programs find attractive in their candidates.</li>
  	<li>All Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps.</li>
 </ul>
