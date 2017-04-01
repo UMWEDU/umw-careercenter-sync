@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -79,9 +79,9 @@ Leveraging concrete knowledge and skills is central to on the ground internation
 </tbody>
 </table>
 <h2><strong>Eligibility</strong></h2>
-Be a UMW degree seeking student.
+Be UMW degree-seeking student.
 
-Second-semester freshmen, sophomores, and first-semester juniors in good standing.
+Be a second-semester freshman, sophomore, or first-semester junior in good standing.
 
 All majors welcome.
 <h2><strong>Application Process</strong></h2>
@@ -90,9 +90,9 @@ All majors welcome.
 
 <a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Handshake Tutorials </a>
 <ul>
- 	<li>From your homepage, select “Surveys” on the left hand menu.</li>
- 	<li>On the “Surveys” page, select <em>Peace Corps Prep Program Application</em>.</li>
- 	<li>Once your application is reviewed, you will be contacted by the program coordinator.</li>
+ 	<li>From your homepage, select <em><strong>Search Events</strong></em> on the left hand menu.</li>
+ 	<li>Under <em><strong>E</strong><strong>vent Type</strong></em> select <strong><em>Group Appointment</em></strong>, <strong><em>Peace Corps Prep Program Application</em></strong></li>
+ 	<li><strong><em> </em></strong>Then <em><strong>Join Event </strong></em>and complete the application.</li>
 </ul>
 <strong>NOTIFICATION</strong>:  Students will be notified of their application status in time for <a href="http://academics.umw.edu/registrar/course-schedules-and-registration/">registration</a> for the following semester (2-3 weeks after the application deadline).
 
