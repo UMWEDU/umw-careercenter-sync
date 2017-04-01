@@ -6,14 +6,14 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/training-experience/
+  http://www.umw.edu/careercenter/students/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h6><img class="alignnone size-medium wp-image-235" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="300" height="159" />Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector. There are <u>six sectors</u> in which Peace Corps Volunteers serve—detailed below. <b><u>Choose one sector to focus on </u></b>then complete at least 3 courses + 50 hours of related experience in that sector.</h6>
+<h6><a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><img class="alignnone size-medium wp-image-235" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="300" height="159" /></a>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector. There are <u>six sectors</u> in which Peace Corps Volunteers serve—detailed below. <b><u>Choose one sector to focus on </u></b>then complete at least 3 courses + 50 hours of related experience in that sector.</h6>
 <table style="height: 238px" width="1653">
 <tbody>
 <tr>
