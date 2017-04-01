@@ -6,7 +6,7 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/training-experience/
+  http://www.umw.edu/careercenter/students/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
