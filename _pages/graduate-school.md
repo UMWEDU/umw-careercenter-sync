@@ -6,7 +6,7 @@ post_date: 2016-06-29 18:37:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/graduate-school/
+  http://www.umw.edu/careercenter/students/graduate-school/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
