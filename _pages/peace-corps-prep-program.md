@@ -1,6 +1,6 @@
 ---
 ID: 231
-post_title: ""
+post_title: 'Peace Corps Prep is a certificate program for undergraduates that centers on one empowering question: How can you prepare yourself to be the best Peace Corps Volunteer you can be?'
 author: kdanzey
 post_date: 2017-03-31 11:06:18
 post_excerpt: ""
