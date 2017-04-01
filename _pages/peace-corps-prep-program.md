@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -20,6 +20,24 @@ wpcf-home-page-grid-inclusion:
 <h2></h2>
 <h2></h2>
 For 12 years, the Peace Corps has ranked the University of Mary Washington among the nation’s top-producing colleges for alumni now serving as Peace Corps volunteers. UMW's Peace Corps Prep program will prepare current students for  international development fieldwork and potential Peace Corps service. To accomplish this, students will build four core competencies through interrelated coursework, hands-on experience professional development support, and professional savvy and leadership.
+<table style="height: 70px" width="1666">
+<tbody>
+<tr>
+<td width="156">
+<h6 style="text-align: center"><span style="color: #003366"><a style="color: #003366" href="https://www.peacecorps.gov/volunteer/volunteer-openings/">Where do you want to serve?</a></span></h6>
+</td>
+<td width="156">
+<h6 style="text-align: center"><span style="color: #003366"><a style="color: #003366" href="https://www.peacecorps.gov/volunteer/connect-with-a-recruiter/">Find a Recruiter</a></span></h6>
+</td>
+<td width="156">
+<h6 style="text-align: center"><span style="color: #003366"><a style="color: #003366" href="https://www.youtube.com/playlist?list=PL2B90BEBDEE4842E2">What Volunteers Do</a></span></h6>
+</td>
+<td width="156">
+<h6 style="text-align: center"><span style="color: #003366"><a style="color: #003366" href="https://www.youtube.com/playlist?list=PLA47533D149B82EEB">Frequently Asked Questions</a></span></h6>
+</td>
+</tr>
+</tbody>
+</table>
 <h2><strong>Competencies
 </strong></h2>
 Leveraging concrete knowledge and skills is central to on the ground international development work. Through this PC Prep program, you will begin to build a professional specialty, which should serve your career well whether or not you become a Peace Corps Volunteer.
