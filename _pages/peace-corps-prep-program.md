@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -100,11 +100,11 @@ Leveraging concrete knowledge and skills is central to on the ground internation
 <h6 style="padding-left: 60px">2. Under <em><strong>E</strong><strong>vent Type</strong></em> select <strong><em>Group Appointment</em></strong>, <strong><em>Peace Corps Prep Application</em></strong></h6>
 <h6 style="padding-left: 60px">3. Then select <em><strong>Join Event </strong></em>and complete the application.</h6>
 <h3><strong>Step 3:</strong> Receive notification of acceptance into the program</h3>
-<h6 style="padding-left: 30px"><em><strong>NOTIFICATION</strong>:  Students will be notified of their application status in time for <a href="http://academics.umw.edu/registrar/course-schedules-and-registration/">registration</a> for the following semester (2-3 weeks after the application deadline).</em></h6>
+<h6 style="padding-left: 30px"><em> Students will be notified of their application status in time for <a href="http://academics.umw.edu/registrar/course-schedules-and-registration/">registration</a> for the following semester (2-3 weeks after the application deadline).</em></h6>
 <h3></h3>
 <h3><strong>Step 4:</strong> Begin completing the requirements for the UMW Peace Corps Prep Certificate</h3>
-<h6 style="padding-left: 30px"><em><strong>CURRICULAR PLAN</strong>:  Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.</em></h6>
-<h6 style="padding-left: 30px"><em><strong>ORIENTATION AND OTHER OPPORTUNITIES</strong>: Each semester, the Coordinator will conduct a workshop for all newly admitted PCPP students. The coordinator will organize gatherings of students in the PCPP, inviting students to attend on-campus or off-campus events related to PCPP topics of interest.</em></h6>
+<h6 style="padding-left: 30px"><em>Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.</em></h6>
+<h6 style="padding-left: 30px"><em>Each semester, the Coordinator will conduct a workshop for all newly admitted PCPP students. The coordinator will organize gatherings of students in the PCPP, inviting students to attend on-campus or off-campus events related to PCPP topics of interest.</em></h6>
 <h2></h2>
 &nbsp;
 <h2><strong>Application Deadlines</strong></h2>
@@ -120,6 +120,8 @@ For assistance with the application process or further information, contact the 
 <h6>Center for Career and Professional Development</h6>
 <h6>Suite 206, University Center</h6>
 <h6><a href="http://www.umw.edu/careercenter">www.umw.edu/careercenter</a></h6>
+<h6></h6>
+<h6></h6>
 <h6>Click the logo below to request an appointment in Handshake.</h6>
 <h6><a href="https://umw.joinhandshake.com/login"><img class="alignnone wp-image-254" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/hs-logo-primary-lg-300x48.png" alt="" width="213" height="34" /></a></h6>
 <h6><a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">How do I request an appointment?</a></h6>
