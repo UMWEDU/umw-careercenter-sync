@@ -6,7 +6,7 @@ post_date: 2016-10-05 09:18:20
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/veterans-resources/
+  http://www.umw.edu/careercenter/students/veterans-resources/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
