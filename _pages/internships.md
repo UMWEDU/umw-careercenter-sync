@@ -6,7 +6,7 @@ post_date: 2016-06-29 18:20:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/internships/
+  http://www.umw.edu/careercenter/students/internships/
 published: true
 yst_prominent_words_version:
   - "1"
