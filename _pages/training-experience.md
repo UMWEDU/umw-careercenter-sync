@@ -256,7 +256,7 @@ wpcf-home-page-grid-inclusion:
 </td>
 <td style="vertical-align: top">
 <h6><em><u>If you choose Agriculture, take three courses from one of the following areas</u></em><em>:</em></h6>
-<h6>Biology o Earth and Environmental Science</h6>
+<h6>Biology or Earth and Environmental Science</h6>
 <h5><em><u>Recommended courses</u></em><em>:</em></h5>
 <ul>
  	<li>
