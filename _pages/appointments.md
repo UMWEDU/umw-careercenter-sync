@@ -6,7 +6,7 @@ post_date: 2016-06-28 20:39:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/appointments/
+  http://www.umw.edu/careercenter/students/appointments/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
