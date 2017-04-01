@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -41,7 +41,7 @@ For 12 years, the Peace Corps has ranked the University of Mary Washington among
 <h2><strong>Competencies
 </strong></h2>
 Leveraging concrete knowledge and skills is central to on the ground international development work. Through this PC Prep program, you will begin to build a professional specialty, which should serve your career well whether or not you become a Peace Corps Volunteer.
-<table style="height: 450px" width="1677">
+<table style="height: 340px" width="1677">
 <tbody>
 <tr>
 <td width="229">
@@ -85,14 +85,13 @@ Second-semester freshmen, sophomores, and first-semester juniors in good standin
 
 All majors welcome.
 <h2><strong>Application Process</strong></h2>
-Apply through Handshake, <a href="http://www.umw.joinhandshake.com">www.umw.joinhandshake.com</a>.
-
-From you homepage, select “Surveys” on the left hand menu.
-
-On the “Surveys” page, select Peace Corps Prep Program Application.
-
-Once your application is reviewed, you will be contacted by the program coordinator.
-
+<h4>Apply through   <a href="http://www.umw.joinhandshake.com."><img class="alignnone wp-image-254" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/hs-logo-primary-lg-300x48.png" alt="" width="213" height="34" /></a></h4>
+<a href="http://www.umw.joinhandshake.com">www.umw.joinhandshake.com</a>.
+<ul>
+ 	<li>From you homepage, select “Surveys” on the left hand menu.</li>
+ 	<li>On the “Surveys” page, select Peace Corps Prep Program Application.</li>
+ 	<li>Once your application is reviewed, you will be contacted by the program coordinator.</li>
+</ul>
 <strong>NOTIFICATION</strong>:  Students would be notified of their application status in time for registration for the following semester (2-3 weeks after the application deadline).
 
 <strong>CURRICULAR PLAN</strong>:  Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.
