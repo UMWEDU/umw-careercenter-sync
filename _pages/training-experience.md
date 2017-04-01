@@ -6,7 +6,7 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/training-experience/
+  http://www.umw.edu/careercenter/students/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -54,7 +54,7 @@ wpcf-home-page-grid-inclusion:
 <h6>Chemistry</h6>
 <h5><i><u>Recommended courses</u></i><i>:
 </i></h5>
-<ol>
+<ul>
  	<li>
 <h6><u>EDUC 371 &amp; 373 – Language Development and Literacy Instruction (Primary/Intermediate)</u></h6>
 </li>
@@ -91,7 +91,7 @@ wpcf-home-page-grid-inclusion:
  	<li>
 <h6><u>CHEM 493 – Chemical Outreach</u></h6>
 </li>
-</ol>
+</ul>
 <h5><i></i><i><u>And build 50 hours of </u></i><b><i><u>related </u></i></b><i><u>field experience through an activity such as</u></i><i>:</i></h5>
 <ul>
  	<li>
@@ -118,7 +118,7 @@ wpcf-home-page-grid-inclusion:
 <h6>Sociology</h6>
 <h6>Nursing</h6>
 <h5><i><u>Recommended courses:</u></i></h5>
-<ol>
+<ul>
  	<li>
 <h6><i><u>BIOL 384 – Human Anatomy </u></i></h6>
 </li>
@@ -143,7 +143,7 @@ wpcf-home-page-grid-inclusion:
  	<li>
 <h6><i><u>SOCG 335 – Global Perspectives on Health and Illness</u></i></h6>
 </li>
-</ol>
+</ul>
 <h5 class="wysiwyg-text-align-left"><u> </u><i><u>And build 50 hours of </u></i><b><i><u>related </u></i></b><i><u>field experience through an activity such as</u></i><i>:</i></h5>
 <ul>
  	<li>
