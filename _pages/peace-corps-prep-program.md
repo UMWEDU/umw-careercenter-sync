@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -85,8 +85,8 @@ Second-semester freshmen, sophomores, and first-semester juniors in good standin
 
 All majors welcome.
 <h2><strong>Application Process</strong></h2>
-<h4>Apply through   <a href="http://www.umw.joinhandshake.com."><img class="alignnone wp-image-254" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/hs-logo-primary-lg-300x48.png" alt="" width="213" height="34" /></a></h4>
-<a href="http://www.umw.joinhandshake.com">www.umw.joinhandshake.com</a>
+<h4>Apply through   <a href="http://www.umw.joinhandeshake.com."><img class="alignnone wp-image-254" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/hs-logo-primary-lg-300x48.png" alt="" width="213" height="34" /></a></h4>
+<a href="http://www.umw.joinhandshake.com">www.umw.joinhandeshake.com</a>
 
 <a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Handshake Tutorials </a>
 <ul>
