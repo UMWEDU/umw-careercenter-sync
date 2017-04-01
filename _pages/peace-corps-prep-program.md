@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -63,7 +63,7 @@ Leveraging concrete knowledge and skills is central to on the ground internation
 <h6><a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/">See Requirements</a></h6>
 </td>
 <td style="vertical-align: top">
-<h6>Engaging thoughtfully and fluidly across cultures   begins with one’s own self-awareness. With this learning objective, you will deepen your cultural    agility through a mix of three introspective courses in which you learn about others while reflecting  upon your own self in relation to others.The goal is for you to build your capacity to shift perspective and behavior around relevant cultural differences.</h6>
+<h6>Engaging thoughtfully and fluidly across cultures begins with one’s own self-awareness. With this learning objective, you will deepen your cultural agility through a mix of three introspective courses in which you learn about others while reflecting upon your own self in relation to others.The goal is for you to build your capacity to shift perspective and behavior around relevant cultural differences.</h6>
 <h6>See Requirements</h6>
 </td>
 <td style="vertical-align: top">
@@ -84,13 +84,20 @@ Be UMW degree-seeking student.
 Be a second-semester freshman, sophomore, or first-semester junior in good standing.
 
 All majors welcome.
+<h2><strong>Program Benefits</strong></h2>
+<ul>
+ 	<li>A formal partnership between the Peace Corps and UMW that allows UMW students, who have strong interests in global citizenship, to prepare simultaneously for the Peace Corps.</li>
+ 	<li>Students who successfully complete the program gain g<span id="ctl00_contentPlaceHolder_mainDrop_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_TextLabel">lobal and intercultural fluency which is one of eight <a href="http://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">career ready competencies </a>identified by the <a href="http://www.naceweb.org/">National Association of College and Employers</a>.</span></li>
+ 	<li>All Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps and a graduation cord.</li>
+</ul>
+<h2></h2>
 <h2><strong>Application Process</strong></h2>
 <h4>Apply through   <a href="https://umw.joinhandshake.com/login"><img class="alignnone wp-image-254" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/hs-logo-primary-lg-300x48.png" alt="" width="213" height="34" /></a></h4>
 <a href="https://umw.joinhandshake.com/login">www.umw.joinhandshake.com </a>
 
 <a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Handshake Tutorials </a>
 <ul>
- 	<li>From your homepage, select <em><strong>Search Events</strong></em> on the left hand menu.</li>
+ 	<li>From your homepage, select <em><strong>Search Events</strong></em> on the left-hand menu.</li>
  	<li>Under <em><strong>E</strong><strong>vent Type</strong></em> select <strong><em>Group Appointment</em></strong>, <strong><em>Peace Corps Prep Application</em></strong></li>
  	<li><strong><em> </em></strong>Then select <em><strong>Join Event </strong></em>and complete the application.</li>
 </ul>
@@ -99,15 +106,11 @@ All majors welcome.
 <strong>CURRICULAR PLAN</strong>:  Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.
 
 <strong>ORIENTATION AND OTHER OPPORTUNITIES</strong>: Each semester, the Coordinator will conduct a workshop for all newly admitted PCPP students. The coordinator will organize gatherings of students in the PCPP, inviting students to attend on-campus or off-campus events related to PCPP topics of interest.
-<h2><strong>Program Benefits</strong></h2>
-<ul>
- 	<li>A formal partnership between the Peace Corps and UMW that allows UMW students, who have strong interests in global citizenship, to prepare simultaneously for the Peace Corps.</li>
- 	<li>Students who successfully complete the program gain g<span id="ctl00_contentPlaceHolder_mainDrop_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_TextLabel">lobal and intercultural fluency which is one of eight <a href="http://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">career ready competencies </a>identified by the <a href="http://www.naceweb.org/">National Association of College and Employers</a>.</span></li>
- 	<li>All Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps and a graduation cord.</li>
-</ul>
 <h2><strong>Application Deadlines
 </strong></h2>
-<h4><span style="color: #ff0000"><strong>November 14th</strong><span style="color: #000000">:</span></span> Spring Cohort      <strong><span style="color: #ff0000">March 1st</span>:</strong> Fall Cohort</h4>
+<h4><span style="color: #ff0000"><strong>November 14th</strong><span style="color: #000000">:</span></span> Spring Cohort      <strong><span style="color: #ff0000">March 1st</span>:</strong> Fall Cohort</h4>
+&nbsp;
+
 For assistance with the application process or further information, contact the UMW Peace Corps Prep Coordinator:
 
 Kyle Danzey, Assistant Director for Career and Professional Development, 540-654-1022, <a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu.</a>
@@ -115,5 +118,9 @@ Kyle Danzey, Assistant Director for Career and Professional Development, 540-654
 Center for Career and Professional Development, Suite 206, University Center
 
 <a href="http://www.umw.edu/careercenter">www.umw.edu/careercenter</a>
+
+Click the logo below to request an appointment in Handshake.
+<h4><a href="https://umw.joinhandshake.com/login"><img class="alignnone wp-image-254" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/hs-logo-primary-lg-300x48.png" alt="" width="213" height="34" /></a></h4>
+<a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">How do I request an appointment?</a>
 
 [googlemaps https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3131.013059589835!2d-77.47862568438124!3d38.30236518940152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6c1f0d1d720db%3A0x89ff51f216e95296!2sCenter+for+Career+and+Professional+Development!5e0!3m2!1sen!2sus!4v1491006547731&amp;w=600&amp;h=450]
