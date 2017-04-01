@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -45,16 +45,16 @@ Leveraging concrete knowledge and skills is central to on the ground internation
 <tbody>
 <tr>
 <td width="229">
-<h4 style="text-align: center"><span style="color: #003366"><strong>Training and Experience</strong></span></h4>
+<h4 style="text-align: left"><span style="color: #003366"><strong>Training and Experience</strong></span></h4>
 </td>
 <td width="229">
-<h4 style="text-align: center"><strong><span style="color: #003366">Intercultural Competence</span></strong></h4>
+<h4 style="text-align: left"><strong><span style="color: #003366">Intercultural Competence</span></strong></h4>
 </td>
 <td width="229">
-<h4 style="text-align: center"><span style="color: #003366"><strong>Professional and Leadership Development</strong></span></h4>
+<h4 style="text-align: left"><span style="color: #003366"><strong>Professional and Leadership Development</strong></span></h4>
 </td>
 <td width="229">
-<h4 style="text-align: center"><span style="color: #003366"><strong>Foreign Language Skills</strong></span></h4>
+<h4 style="text-align: left"><span style="color: #003366"><strong>Foreign Language Skills</strong></span></h4>
 </td>
 </tr>
 <tr>
@@ -99,18 +99,16 @@ All majors welcome.
 <strong>ORIENTATION AND OTHER OPPORTUNITIES</strong>: Each semester, the Coordinator will conduct a workshop for all newly admitted PCPP students. The coordinator will organize gatherings of students in the PCPP, inviting students to attend on-campus or off-campus events related to PCPP topics of interest.
 <h2><strong>Application Deadlines
 </strong></h2>
-<strong>September 1st</strong> : Fall cohort
+<strong>November 14th</strong> : Spring Cohort
 
-<strong>January 19th :</strong> Spring cohort
+<strong>March 1st :</strong> Fall Cohort
 
 For assistance with the application process or further information, contact the UMW Peace Corps Prep Coordinator:
 
-Kyle Danzey, Assistant Director for Career and Professional Development
+Kyle Danzey, Assistant Director for Career and Professional Development, 540-654-1022, <a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu.</a>
 
-540-654-1022
-
-<a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a>
-
-CCPD, Suite 206, University Center
+Center for Career and Professional Development, Suite 206, University Center
 
 <a href="http://www.umw.edu/careercenter">www.umw.edu/careercenter</a>
+
+[googlemaps https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3131.013059589835!2d-77.47862568438124!3d38.30236518940152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6c1f0d1d720db%3A0x89ff51f216e95296!2sCenter+for+Career+and+Professional+Development!5e0!3m2!1sen!2sus!4v1491006547731&amp;w=600&amp;h=450]
