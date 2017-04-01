@@ -6,7 +6,7 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/training-experience/
+  http://www.umw.edu/careercenter/students/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -52,8 +52,8 @@ wpcf-home-page-grid-inclusion:
 <h6> Linguistics</h6>
 <h6> Computer Science</h6>
 <h6>Chemistry</h6>
-<h6><i><u>Recommended courses</u></i><i>:
-</i></h6>
+<h5><i><u>Recommended courses</u></i><i>:
+</i></h5>
 <ol>
  	<li>
 <h6><u>EDUC 371 &amp; 373 – Language Development and Literacy Instruction (Primary/Intermediate)</u></h6>
@@ -92,7 +92,7 @@ wpcf-home-page-grid-inclusion:
 <h6><u>CHEM 493 – Chemical Outreach</u></h6>
 </li>
 </ol>
-<h6><i></i><i><u>And build 50 hours of </u></i><b><i><u>related </u></i></b><i><u>field experience through an activity such as</u></i><i>:</i></h6>
+<h5><i></i><i><u>And build 50 hours of </u></i><b><i><u>related </u></i></b><i><u>field experience through an activity such as</u></i><i>:</i></h5>
 <ul>
  	<li>
 <h6>Participating in one or more of several regional service opportunities such as (1) local programs for underserved populations at Stafford Junction, Heritage Park, or Bragg Hill, or (2) Catholic Charities Refugee Services.</h6>
@@ -117,7 +117,7 @@ wpcf-home-page-grid-inclusion:
 <h6>Economics</h6>
 <h6>Sociology</h6>
 <h6>Nursing</h6>
-<i><u>Recommended courses:</u></i>
+<h5><i><u>Recommended courses:</u></i></h5>
 <ol>
  	<li>
 <h6><i><u>BIOL 384 – Human Anatomy </u></i></h6>
@@ -144,7 +144,7 @@ wpcf-home-page-grid-inclusion:
 <h6><i><u>SOCG 335 – Global Perspectives on Health and Illness</u></i></h6>
 </li>
 </ol>
-<h6 class="wysiwyg-text-align-left"><u> </u><i><u>And build 50 hours of </u></i><b><i><u>related </u></i></b><i><u>field experience through an activity such as</u></i><i>:</i></h6>
+<h5 class="wysiwyg-text-align-left"><u> </u><i><u>And build 50 hours of </u></i><b><i><u>related </u></i></b><i><u>field experience through an activity such as</u></i><i>:</i></h5>
 <ul>
  	<li>
 <h6>Volunteer or work experience in such areas as HIV/AIDS outreach, hospice, family   planning counseling, emergency medical technician (EMT) or CPR teaching/certification, maternal health, and hands-­‐on caregiving in a hospital, clinic, or lab technician setting</h6>
@@ -177,7 +177,7 @@ wpcf-home-page-grid-inclusion:
 <h6>Geology</h6>
 <h6>Philosophy</h6>
 <h6>Sociology</h6>
-<h6><em><u>Recommended courses</u></em><em>:</em></h6>
+<h5><em><u>Recommended courses</u></em><em>:</em></h5>
 <ul>
  	<li>
 <h6><em><u>BIOL 231 – Botany</u></em></h6>
@@ -222,7 +222,7 @@ wpcf-home-page-grid-inclusion:
 <h6><em><u>SOCG 354 – Environmental Sociology</u></em></h6>
 </li>
 </ul>
-<h6><u> </u><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h6>
+<h5><u> </u><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h5>
 <ul>
  	<li>
 <h6>Educating the public on environmental or conservation issues, or working on environmental campaigns</h6>
@@ -257,7 +257,7 @@ wpcf-home-page-grid-inclusion:
 <td style="vertical-align: top">
 <h6><em><u>If you choose Agriculture, take three courses from one of the following areas</u></em><em>:</em></h6>
 <h6>Biology o Earth and Environmental Science</h6>
-<h6><em><u>Recommended courses</u></em><em>:</em></h6>
+<h5><em><u>Recommended courses</u></em><em>:</em></h5>
 <ul>
  	<li>
 <h6><em><u>BIOL 231 – Botany</u></em></h6>
@@ -284,7 +284,7 @@ wpcf-home-page-grid-inclusion:
 <h6><em><u>EESC 325 – Environmental Geochemistry</u></em></h6>
 </li>
 </ul>
-<h6><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h6>
+<h5><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h5>
 <ul>
  	<li>
 <h6>Working with a large-­‐scale or family-­‐run business involving vegetable gardening, farming, nursery work, tree planting or care, urban forestry, landscaping, livestock care and management, or fish cultivation and     production</h6>
@@ -319,7 +319,7 @@ wpcf-home-page-grid-inclusion:
 <td style="vertical-align: top">
 <h6><em><u>If you choose Youth in Development, take three courses from one of the following areas</u></em><em>:</em></h6>
 <h6>Psychology or Sociology</h6>
-<h6><em><u>Recommended courses</u></em><em>:</em></h6>
+<h5><em><u>Recommended courses</u></em><em>:</em></h5>
 <ul>
  	<li>
 <h6><em><u>PSYC 331 – Developmental Psychology: The Infant and Child</u></em></h6>
@@ -340,7 +340,7 @@ wpcf-home-page-grid-inclusion:
 <h6><em><u>SOCG 351 – Juvenile Delinquency</u></em></h6>
 </li>
 </ul>
-<h6><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h6>
+<h5><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h5>
 <ul>
  	<li>
 <h6>Teaching or counseling in at-­‐risk youth programs</h6>
@@ -371,7 +371,7 @@ wpcf-home-page-grid-inclusion:
 <h6>Sociology</h6>
 <h6>Computer Science and related majors</h6>
 <h6>Geography</h6>
-<h6><em><u>Recommended courses</u></em><em>:</em></h6>
+<h5><em><u>Recommended courses</u></em><em>:</em></h5>
 <ul>
  	<li>
 <h6><em><u>ACCT 101 &amp; 102 – Principles of Accounting I &amp; II or ACCT 110 Intensive Principles of Accounting</u></em></h6>
@@ -450,7 +450,7 @@ wpcf-home-page-grid-inclusion:
 </li>
 </ul>
 <h6><em> </em></h6>
-<h6><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h6>
+<h5><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h5>
 <ul>
  	<li>
 <h6>Working with businesses, organizations, or cooperatives in accounting, finance, microfinance, management, project management, budgeting, or marketing</h6>
