@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -97,12 +97,16 @@ All majors welcome.
 <strong>CURRICULAR PLAN</strong>:  Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.
 
 <strong>ORIENTATION AND OTHER OPPORTUNITIES</strong>: Each semester, the Coordinator will conduct a workshop for all newly admitted PCPP students. The coordinator will organize gatherings of students in the PCPP, inviting students to attend on-campus or off-campus events related to PCPP topics of interest.
+<h2><strong>Program Benefits</strong></h2>
+<ul>
+ 	<li>A formal partnership between the Peace Corps and UMW that allows UMW students, who have strong interests in global citizenship, to prepare simultaneously for the Peace Corps.</li>
+ 	<li>Students who successfully complete the program gain knowledge and experience that make them more competitive Peace Corps applicants.</li>
+ 	<li>Participation in and completion of the Peace Corps Prep Program demonstrates a sense of global awareness and compassion that many employers and graduate programs find attractive in their candidates.</li>
+ 	<li>All Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps.</li>
+</ul>
 <h2><strong>Application Deadlines
 </strong></h2>
-<strong>November 14th</strong> : Spring Cohort
-
-<strong>March 1st :</strong> Fall Cohort
-
+<h4><span style="color: #ff0000"><strong>November 14th</strong><span style="color: #000000">:</span></span> Spring Cohort      <strong><span style="color: #ff0000">March 1st</span>:</strong> Fall Cohort</h4>
 For assistance with the application process or further information, contact the UMW Peace Corps Prep Coordinator:
 
 Kyle Danzey, Assistant Director for Career and Professional Development, 540-654-1022, <a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu.</a>
