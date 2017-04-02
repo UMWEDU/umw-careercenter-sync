@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -19,7 +19,7 @@ wpcf-home-page-grid-inclusion:
 <h2></h2>
 <h2></h2>
 <h2></h2>
-For 12 years, the Peace Corps has ranked the University of Mary Washington among the nation’s top-producing colleges for alumni now serving as Peace Corps volunteers. UMW's Peace Corps Prep program will prepare current students for  international development fieldwork and potential Peace Corps service. To accomplish this, students will build four core competencies through interrelated coursework, hands-on experience professional development support, and professional savvy and leadership.
+For 12 years, the Peace Corps has ranked the University of Mary Washington among the nation’s top-producing colleges for alumni now serving as Peace Corps volunteers. UMW's Peace Corps Prep program will prepare current students for  international development fieldwork and potential Peace Corps service. To accomplish this, students will build four core competencies through interrelated coursework, hands-on experience, professional development support, and professional savvy and leadership.
 <table style="height: 20px" width="1666">
 <tbody>
 <tr>
