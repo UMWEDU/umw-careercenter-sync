@@ -6,15 +6,14 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>
-<a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><strong><img class=" wp-image-235 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="461" height="244" /></strong></a><strong>About</strong></h2>
+<h2><a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><strong><img class=" wp-image-235 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="461" height="244" /></strong></a><strong>About</strong></h2>
 <h2></h2>
 <h2></h2>
 <h2></h2>
@@ -37,7 +36,7 @@ For 12 years, the Peace Corps has ranked the University of Mary Washington among
 </tr>
 </tbody>
 </table>
-https://www.youtube.com/watch?v=8uRbeW-Vro8&amp;index=2&amp;list=PL2B90BEBDEE4842E2 
+https://www.youtube.com/watch?v=8uRbeW-Vro8&amp;index=2&amp;list=PL2B90BEBDEE4842E2
 <h2><strong>Competencies
 </strong></h2>
 Leveraging concrete knowledge and skills is central to on the ground international development work. Through this PC Prep program, you will begin to build a professional specialty, which should serve your career well whether or not you become a Peace Corps Volunteer.
@@ -79,7 +78,7 @@ Leveraging concrete knowledge and skills is central to on the ground internation
 </tbody>
 </table>
 <h2><strong>Eligibility</strong></h2>
-<h6>Be UMW degree-seeking student.</h6>
+<h6>Be a UMW degree-seeking student.</h6>
 <h6>Be a second-semester freshman, sophomore, or first-semester junior in good standing.</h6>
 <h6>All majors welcome.</h6>
 <h2></h2>
