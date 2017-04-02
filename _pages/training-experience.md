@@ -6,7 +6,7 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -53,7 +53,8 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6>Linguistics</h6>
 <h6>Computer Science</h6>
 <h6>Chemistry</h6>
-<h6><span style="color: #003366"><strong><i><u>Recommended courses</u></i><i>:</i></strong></span></h6>
+<h6></h6>
+<h6><span style="color: #000000"><strong><i><u>Recommended courses</u></i><i>:</i></strong></span></h6>
 <h6><u>EDUC 371 &amp; 373 – Language Development and Literacy Instruction (Primary/Intermediate)</u></h6>
 <h6><u>EDUC 454 – The Teaching of Foreign Language</u></h6>
 <h6><u>EDUC 455 – The Teaching of Mathematics and Computer Science</u></h6>
@@ -66,7 +67,8 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6><u>CPSC 420 – Modeling and Simulation</u></h6>
 <h6><u>CHEM 105 &amp; 106 – Chemistry and Society with Laboratory</u></h6>
 <h6><u>CHEM 493 – Chemical Outreach</u></h6>
-<h6><i></i><span style="color: #003366"><strong><i><u>And build 50 hours of </u></i><i><u>related </u></i><i><u>field experience through an activity such as</u></i><i>:</i></strong></span></h6>
+&nbsp;
+<h6><i></i><span style="color: #000000"><strong><i><u>And build 50 hours of </u></i><i><u>related </u></i><i><u>field experience through an activity such as</u></i><i>:</i></strong></span></h6>
 <h6>Participating in one or more of several regional service opportunities such as (1) local programs for underserved populations at Stafford Junction, Heritage Park, or Bragg Hill, or (2) Catholic Charities Refugee Services.</h6>
 <h6>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region such as (1) Bundle of Joy Child Development, (2) the Virginia Museum of Fine Arts, (3) the Smithsonian National Education Outreach program, (4) or completing a supervised practicum experience through the College of Education.</h6>
 <h6>Participating in a UMW Abroad program such as (1) Academic Latinoamericana – Quito, Ecuador, (2) CIEE Dakar, Senegal, (3) CIEE Gaborone, Botswana, or (4) Sol Education Abroad – Heredia, Costa Rica.</h6>
@@ -79,15 +81,17 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6>Economics</h6>
 <h6>Sociology</h6>
 <h6>Nursing</h6>
-<h6><span style="color: #003366"><strong><i><u>Recommended courses:</u></i></strong></span></h6>
-<h6><i><u>BIOL 384 – Human Anatomy </u></i></h6>
-<h6><i><u>BIOL 385 – Human Physiology</u></i></h6>
-<h6><i><u>BIOL 391 – Immunology</u></i></h6>
-<h6><i><u>BIOL 440 – Biology of Cancer</u></i></h6>
-<h6><i><u>ECON 332 – Economics of Health</u></i></h6>
-<h6><i><u>SOCG 320 – Food Justice</u></i></h6>
-<h6><i><u>SOCG 334 – Medical Sociology</u></i></h6>
-<h6><i><u>SOCG 335 – Global Perspectives on Health and Illness</u></i></h6>
+<h6></h6>
+<h6><span style="color: #000000"><strong><i><u>Recommended courses:</u></i></strong></span></h6>
+<h6><u>BIOL 384 – Human Anatomy </u></h6>
+<h6><u>BIOL 385 – Human Physiology</u></h6>
+<h6><u>BIOL 391 – Immunology</u></h6>
+<h6><u>BIOL 440 – Biology of Cancer</u></h6>
+<h6><u>ECON 332 – Economics of Health</u></h6>
+<h6><u>SOCG 320 – Food Justice</u></h6>
+<h6><u>SOCG 334 – Medical Sociology</u></h6>
+<h6><u>SOCG 335 – Global Perspectives on Health and Illness</u></h6>
+<h6></h6>
 <h6><u> </u><i><u>And build 50 hours of </u></i><b><i><u>related </u></i></b><i><u>field experience through an activity such as</u></i><i>:</i></h6>
 <h6>Volunteer or work experience in such areas as HIV/AIDS outreach, hospice, family planning counseling, emergency medical technician (EMT) or CPR teaching/certification, maternal health, and hands-­‐on caregiving in a hospital, clinic, or lab technician setting.</h6>
 <h6>Counseling or teaching in health subjects.</h6>
@@ -105,7 +109,8 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6><span style="font-family: inherit;font-size: inherit">Geology</span></h6>
 <h6><span style="font-family: inherit;font-size: inherit">Philosophy</span></h6>
 <h6><span style="font-family: inherit;font-size: inherit">Sociology</span></h6>
-<h6><span style="color: #003366"><strong><em><u>Recommended courses</u></em><em>:</em></strong></span></h6>
+<h6></h6>
+<h6><span style="color: #000000"><strong><em><u>Recommended courses</u></em><em>:</em></strong></span></h6>
 <h6><u>B</u><u>IOL 231 – Botany</u></h6>
 <h6><u>BIOL 424 – Tropical Ecology</u></h6>
 <h6><u>BIOL 428 – Conservation Biology</u></h6>
@@ -120,7 +125,8 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6><u>PHIL 330 – Environmental Ethics</u></h6>
 <h6><u>PHIL 430 – Ethics, Environment, and Sustainability</u></h6>
 <h6><u>SOCG 354 – Environmental Sociology</u></h6>
-<h6><strong><span style="color: #003366"><u> </u><em><u>And build 50 hours of related field experience through an activity such as</u></em><em>:</em></span></strong></h6>
+<h6></h6>
+<h6><strong><span style="color: #003366"><u> </u><span style="color: #000000"><em><u>And build 50 hours of related field experience through an activity such as</u></em><em>:</em></span></span></strong></h6>
 <h6>Educating the public on environmental or conservation issues, or working on environmental campaigns.</h6>
 <h6>Conducting biological surveys of plants or animals.</h6>
 <h6>Investigating an environmental issue through an independent research project.</h6>
@@ -133,174 +139,100 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <td style="vertical-align: top">
 <h6><em><u>If you choose Agriculture, take three courses from one of the following areas</u></em><em>:</em></h6>
 <h6>Biology or Earth and Environmental Science</h6>
-<h5><em><u>Recommended courses</u></em><em>:</em></h5>
-<ul>
- 	<li>
-<h6><em><u>BIOL 231 – Botany</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>BIOL 311 – Plant Ecology</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>BIOL 312 – Plant Physiology</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>BIOL 323 – Entomology</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>EESC 230 – Global Environmental Problems</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>EESC 307 – Environmental Soil Science</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>EESC 315 – Hydrogeology</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>EESC 325 – Environmental Geochemistry</u></em></h6>
-</li>
-</ul>
-<h5><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h5>
-<ul>
- 	<li>
+<h6><em><u>Recommended courses</u></em><em>:</em></h6>
+<h6><u>BIOL 231 – Botany</u></h6>
+<h6><u>BIOL 311 – Plant Ecology</u></h6>
+<h6><u>BIOL 312 – Plant Physiology</u></h6>
+<h6><u>BIOL 323 – Entomology</u></h6>
+<h6><u>EESC 230 – Global Environmental Problems</u></h6>
+<h6><u>EESC 307 – Environmental Soil Science</u><u>EESC 315 – Hydrogeology</u><u>EESC 325 – Environmental Geochemistry</u></h6>
+<h6><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h6>
+&nbsp;
 <h6>Working with a large-­‐scale or family-­‐run business involving vegetable gardening, farming, nursery work, tree planting or care, urban forestry, landscaping, livestock care and management, or fish cultivation and     production</h6>
-</li>
- 	<li>
+&nbsp;
 <h6>Teaching or tutoring the public in environmental or agricultural issues/activities</h6>
-</li>
- 	<li>
+&nbsp;
 <h6>Working on the business management or marketing side of a commercial farm</h6>
-</li>
- 	<li>
+&nbsp;
 <h6>Participating in regional service opportunities such as (1) Tree Fredericksburg, (2) Braehead Farm, and (3) the Virginia Cooperative Extension (in Spotsylvania or Stafford counties).</h6>
-</li>
- 	<li>
-<h6>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region such as (1) the United States Department of Agriculture, (2) the Arcadia Center for Sustainable Food an Agriculture, (3) the Good Turn Earth Company,(4) Northern Virginia Soil and Water Conservation District.</h6>
-</li>
-</ul>
-<ul>
- 	<li>
+&nbsp;
+<h6>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region such as (1) the United States Department of Agriculture, (2) the Arcadia Center for Sustainable Food and Agriculture, (3) the Good Turn Earth Company,(4) Northern Virginia Soil and Water Conservation District.</h6>
+&nbsp;
 <h6>Participating in a UMW Abroad Program such as (1) CIEE Gaborone, Botswana, (2) SIT IHP: Rethinking Food Security: People, Agriculture, and Politics, (3) CIEE Monteverde, Costa Rica</h6>
-</li>
- 	<li>
+&nbsp;
 <h6>Teaching in one of these or a similar form: in a classroom, with a community outreach organization, or in a formal tutoring capacity</h6>
-<ul>
- 	<li>
+&nbsp;
 <h6>The subject of the teaching may be English as a Foreign/Second Language, special education, drama, or a STEM subject</h6>
-</li>
-</ul>
-</li>
-</ul>
 </td>
 <td style="vertical-align: top">
 <h6><em><u>If you choose Youth in Development, take three courses from one of the following areas</u></em><em>:</em></h6>
 <h6>Psychology or Sociology</h6>
-<h5><em><u>Recommended courses</u></em><em>:</em></h5>
-<ul>
- 	<li>
-<h6><em><u>PSYC 331 – Developmental Psychology: The Infant and Child</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>PSYC 332 – Developmental Psychology: The Adolescent and Adult</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>PSYC 347 – Psychology of Men</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>PSYC 350 – Psychology of women</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>SOCG 301 – Evolution and Social Behavior</u></em></h6>
-</li>
- 	<li>
-<h6><em><u>SOCG 351 – Juvenile Delinquency</u></em></h6>
-</li>
-</ul>
-<h5><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h5>
-<ul>
- 	<li>
-<h6>Teaching or counseling in at-­‐risk youth programs</h6>
-</li>
- 	<li>
-<h6>Activities that involve planning, organizing, assessing community needs, counseling, and leadership, in areas such as education, youth development, health and HIV/AIDS, the environment, and/or business</h6>
-</li>
- 	<li>
-<h6>Participating in regional service opportunities such as (1) UMW’s James Farmer Scholars Program, (2) Young Women Leaders Program, (3) Hope House or Thurman Brisben Center, (4) Catholic Charities Refugee</h6>
-</li>
- 	<li>
-<h6>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region such as Rappahannock Big Brothers, Big Sisters or the Boys and Girls Clubs of</h6>
-</li>
- 	<li>
-<h6>Participating in a UMW Abroad Program such as: (1) CIEE Dakar, Senegal, (2) SIT Nicaragua: Youth Culture, Literacy, and Media, or (3) SIT Samoa: Pacific Communities and Social Change.</h6>
-</li>
-</ul>
-</td>
-<td style="vertical-align: top"><em><u>If you choose Community Economic Dev., take three courses from one of the following areas</u></em><em>:</em>AccountingBusinessEconomicsGeographyManagementManagement Information SystemsMarketingSociologyComputer Science and related majorsGeography
-<h5><em><u>Recommended courses</u></em><em>:</em></h5>
-<h5><em><u>ACCT 101 &amp; 102 – Principles of Accounting I &amp; II or ACCT 110 Intensive Principles of Accounting</u></em></h5>
+<h6><em><u>Recommended courses</u></em><em>:</em></h6>
+<h6><u>PSYC</u><u> 331 – Developmental Psychology: The Infant and Child</u></h6>
 &nbsp;
-
-<em><u>ACCT 301 &amp; 302 – Intermediate Accounting I &amp; II</u></em>&nbsp;
-
-<em><u>ACCT 304 – Cost Managerial Accounting</u></em>&nbsp;
-
-<em><u>ACCT 401 – Accounting Information Systems</u></em>&nbsp;
-
-<em><u>ACC</u></em><em><u>T</u></em> <em><u>42</u></em><em><u>0</u></em> <em><u>–</u></em> <em><u>Go</u></em><em><u>ver</u></em><em><u>n</u></em><em><u>m</u></em><em><u>e</u></em><em><u>n</u></em><em><u>t</u></em><em><u>a</u></em><em><u>l</u></em> <em><u>an</u></em><em><u>d</u></em> <em><u>No</u></em><em><u>t</u></em><em><u>-­‐</u></em><em><u>f</u></em><em><u>o</u></em><em><u>r</u></em><em><u>-­‐</u></em><em><u>P</u></em><em><u>r</u></em><em><u>o</u></em><em><u>f</u></em><em><u>it</u></em> <em><u>A</u></em><em><u>cc</u></em><em><u>oun</u></em><em><u>t</u></em><em><u>ing</u></em>&nbsp;
-
-<em><u>BUAD 473 – Environment of International Business</u></em>&nbsp;
-
-<em><u>E</u></em><em><u>CO</u></em><em><u>N</u></em> <em><u>32</u></em><em><u>4</u></em> <em><u>–</u></em> <em><u>Econo</u></em><em><u>m</u></em><em><u>ics</u></em> <em><u>o</u></em><em><u>f</u></em> <em><u>Ph</u></em><em><u>ilanthropy</u></em> <em><u>an</u></em><em><u>d</u></em> <em><u>th</u></em><em><u>e</u></em> <em><u>N</u></em><em><u>o</u></em><em><u>n</u></em><em><u>-­‐</u></em><em><u>P</u></em><em><u>r</u></em><em><u>o</u></em><em><u>f</u></em><em><u>it</u></em> <em><u>Sect</u></em><em><u>o</u></em><em><u>r</u></em>&nbsp;
-
-<em><u>ECON 381 – Microfinance for Development</u></em>&nbsp;
-
-<em><u>ECON 384 – Economic Development</u></em>&nbsp;
-
-<em><u>FINC 301 – Principles of Finance</u></em>&nbsp;
-
-<em><u>FINC 430 – Financial Modeling</u></em>&nbsp;
-
-<em><u>GEOG 236 – Globalization and Local Development</u></em>&nbsp;
-
-<em><u>GEOG 250 – Introduction to Geographic Information Systems and Cartography</u></em>&nbsp;
-
-<em><u>GEOG 339 – Geography and Development</u></em>&nbsp;
-
-<em><u>GEOG 340 – Remote Sensing and Air Photo Interpretation</u></em>&nbsp;
-
-<em><u>GEOG 355 – Mobile Geographic Information Systems and Global Positioning Systems</u></em>&nbsp;
-
-<em><u>MGMT 300 – Principles of Management</u></em>&nbsp;
-
-<em><u>MGMT 346 – Human Resource Management</u></em>&nbsp;
-
-<em><u>MGMT 421 – Entrepreneurial Venture Creation</u></em>&nbsp;
-
-<em><u>MIST 201 – Management Information Systems and Applications</u></em>&nbsp;
-
-<em><u>MIST 301 – Principles of Knowledge Management</u></em>&nbsp;
-
-<em><u>MKTG 301 – Principles of Marketing</u></em>&nbsp;
-
-<em><u>MKTG 401 – Marketing Research</u></em>&nbsp;
-
-<em><u>MKTG 460 – International Marketing</u></em>&nbsp;
-
-<em><u>SOCG 404 – Global Inequality and Development</u></em><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em>
-<h5>Working with businesses, organizations, or cooperatives in accounting, finance, microfinance, management, project management, budgeting, or marketing</h5>
-Starting and running your own business or other entrepreneurial activity&nbsp;
-
-Training others in computer literacy, maintenance, and repair&nbsp;
-
-Website design or online marketing&nbsp;
-
-Founding or leading a community-­‐ or school-­‐based organization&nbsp;
-
-Participating in regional service opportunities or completing an internship such as at the Small Business Development Center or the Fredericksburg Regional Chamber of Commerce.&nbsp;
-
-Participating in a UMW Abroad Program such as (1) CIEE University of Botswana – Gaborone, Botswana, (2) CIEE Dakar, Senegal, (3) SIT Jordan: Modernization and Social Change, (4) SIT Madagascar: Urbanization and Rural Development, (5) SIT Nepal: Development and Social Change, (6) SIT Peru: Indigenous Peoples and Globalization, (6) SIT Samoa: Pacific Communities and Social Change, or (7) SIT Uganda: Development Studies,&nbsp;
-
-<em>Nearly two-­‐thirds of Peace Corps Volunteers serve in Education or Health. Coursework and meaningful experience in one of these areas—especially teaching English as a second/foreign language—produce some of the strongest candidates.</em></td>
+<h6><u>PSYC 332 – Developmental Psychology: The Adolescent and Adult</u></h6>
+&nbsp;
+<h6><u>PSYC 347 – Psychology of Men</u></h6>
+&nbsp;
+<h6><u>PSYC 350 – Psychology of women</u></h6>
+&nbsp;
+<h6><u>SOCG 301 – Evolution and Social Behavior</u></h6>
+&nbsp;
+<h6><u>SOCG 351 – Juvenile Delinquency</u></h6>
+<h6><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h6>
+<h6>Teaching or counseling in at-­‐risk youth programs</h6>
+<h6>Activities that involve planning, organizing, assessing community needs, counseling, and leadership, in areas such as education, youth development, health and HIV/AIDS, the environment, and/or business</h6>
+<h6>Participating in regional service opportunities such as (1) UMW’s James Farmer Scholars Program, (2) Young Women Leaders Program, (3) Hope House or Thurman Brisben Center, (4) Catholic Charities Refugee</h6>
+<h6>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region such as Rappahannock Big Brothers, Big Sisters or the Boys and Girls Clubs of</h6>
+<h6>Participating in a UMW Abroad Program such as: (1) CIEE Dakar, Senegal, (2) SIT Nicaragua: Youth Culture, Literacy, and Media, or (3) SIT Samoa: Pacific Communities and Social Change.</h6>
+</td>
+<td style="vertical-align: top">
+<h6><em><u>If you choose Community Economic Dev., take three courses from one of the following areas</u></em><em>:</em></h6>
+<h6>Accounting</h6>
+<h6>Business</h6>
+<h6>Economics</h6>
+<h6>Geography</h6>
+<h6>Management</h6>
+<h6>Management Information Systems</h6>
+<h6>Marketing</h6>
+<h6>Sociology</h6>
+<h6>Computer Science and related majors</h6>
+<h6><em><u>Recommended courses</u></em><em>:</em></h6>
+<h6><u>ACCT 101 &amp; 102 – Principles of Accounting I &amp; II or ACCT 110 Intensive Principles of Accounting</u></h6>
+<h6><u>ACCT 301 &amp; 302 – Intermediate Accounting I &amp; II</u></h6>
+<h6><u>ACCT 304 – Cost Managerial Accounting</u></h6>
+<h6><u>ACCT 401 – Accounting Information Systems</u></h6>
+<h6><u>ACC</u><u>T</u> <u>42</u><u>0</u> <u>–</u> <u>Go</u><u>ver</u><u>n</u><u>m</u><u>e</u><u>n</u><u>t</u><u>a</u><u>l</u> <u>an</u><u>d</u> <u>No</u><u>t</u><u>-­‐</u><u>f</u><u>o</u><u>r</u><u>-­‐</u><u>P</u><u>r</u><u>o</u><u>f</u><u>it</u> <u>A</u><u>cc</u><u>oun</u><u>t</u><u>ing</u></h6>
+<h6><u>BUAD 473 – Environment of International Business</u></h6>
+<h6><u>E</u><u>CO</u><u>N</u> <u>32</u><u>4</u> <u>–</u> <u>Econo</u><u>m</u><u>ics</u> <u>o</u><u>f</u> <u>Ph</u><u>ilanthropy</u> <u>an</u><u>d</u> <u>th</u><u>e</u> <u>N</u><u>o</u><u>n</u><u>-­‐</u><u>P</u><u>r</u><u>o</u><u>f</u><u>it</u> <u>Sect</u><u>o</u><u>r</u></h6>
+<h6><u>ECON 381 – Microfinance for Development</u></h6>
+<h6><u>ECON 384 – Economic Development</u></h6>
+<h6><u>FINC 301 – Principles of Finance</u></h6>
+<h6><u>FINC 430 – Financial Modeling</u></h6>
+<h6><u>GEOG 236 – Globalization and Local Development</u></h6>
+<h6><u>GEOG 250 – Introduction to Geographic Information Systems and Cartography</u></h6>
+<h6><u>GEOG 339 – Geography and Development</u></h6>
+<h6><u>GEOG 340 – Remote Sensing and Air Photo Interpretation</u></h6>
+<h6><u>GEOG 355 – Mobile Geographic Information Systems and Global Positioning Systems</u></h6>
+<h6><u>MGMT 300 – Principles of Management</u></h6>
+<h6><u>MGMT 346 – Human Resource Management</u></h6>
+<h6><u>MGMT 421 – Entrepreneurial Venture C</u><u>reation</u></h6>
+<h6><u>MIST 201 – Management Information Systems and Applications</u></h6>
+<h6><u>MIST 301 – Principles of Knowledge Management</u></h6>
+<h6><u>MKTG 301 – Principles of Marketing</u></h6>
+<h6><u>MKTG 401 – Marketing Research</u></h6>
+<h6><u>MKTG 460 – International Marketing</u></h6>
+<h6><u>SOCG 404 – Global Inequality and Development</u></h6>
+<h6><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h6>
+<h6>Working with businesses, organizations, or cooperatives in accounting, finance, microfinance, management, project management, budgeting, or marketing</h6>
+<h6>Starting and running your own business or other entrepreneurial activity</h6>
+<h6>Training others in computer literacy, maintenance, and repair</h6>
+<h6>Website design or online marketing</h6>
+<h6>Founding or leading a community-­‐ or school-­‐based organization</h6>
+<h6>Participating in regional service opportunities or completing an internship such as at the Small Business Development Center or the Fredericksburg Regional Chamber of Commerce.</h6>
+<h6>Participating in a UMW Abroad Program such as (1) CIEE University of Botswana – Gaborone, Botswana, (2) CIEE Dakar, Senegal, (3) SIT Jordan: Modernization and Social Change, (4) SIT Madagascar: Urbanization and Rural Development, (5) SIT Nepal: Development and Social Change, (6) SIT Peru: Indigenous Peoples and Globalization, (6) SIT Samoa: Pacific Communities and Social Change, or (7) SIT Uganda: Development Studies,</h6>
+<h6><em>Nearly two-­‐thirds of Peace Corps Volunteers serve in Education or Health. Coursework and meaningful experience in one of these areas—especially teaching English as a second/foreign language—produce some of the strongest candidates.</em></h6>
+</td>
 </tr>
 </tbody>
 </table>
