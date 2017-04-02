@@ -6,7 +6,7 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6>Linguistics</h6>
 <h6>Computer Science</h6>
 <h6>Chemistry</h6>
-<h6> <span style="color: #000000"><strong><i><u>Recommended courses</u></i><i>:</i></strong></span></h6>
+<h6><span style="color: #000000"><strong><i><u>Recommended courses</u></i><i>:</i></strong></span></h6>
 <h6><u>EDUC 371 &amp; 373 – Language Development and Literacy Instruction (Primary/Intermediate)</u></h6>
 <h6><u>EDUC 454 – The Teaching of Foreign Language</u></h6>
 <h6><u>EDUC 455 – The Teaching of Mathematics and Computer Science</u></h6>
