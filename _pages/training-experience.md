@@ -6,7 +6,7 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -53,6 +53,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6>Linguistics</h6>
 <h6>Computer Science</h6>
 <h6>Chemistry</h6>
+<h6></h6>
 <h6><span style="color: #000000"><strong><i><u>Recommended courses</u></i><i>:</i></strong></span></h6>
 <h6><u>EDUC 371 &amp; 373 – Language Development and Literacy Instruction (Primary/Intermediate)</u></h6>
 <h6><u>EDUC 454 – The Teaching of Foreign Language</u></h6>
@@ -79,6 +80,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6>Economics</h6>
 <h6>Sociology</h6>
 <h6>Nursing</h6>
+<h6></h6>
 <h6><span style="color: #000000"><strong><i><u>Recommended courses:</u></i></strong></span></h6>
 <h6><u>BIOL 384 – Human Anatomy </u></h6>
 <h6><u>BIOL 385 – Human Physiology</u></h6>
@@ -105,6 +107,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6><span style="font-family: inherit;font-size: inherit">Geology</span></h6>
 <h6><span style="font-family: inherit;font-size: inherit">Philosophy</span></h6>
 <h6><span style="font-family: inherit;font-size: inherit">Sociology</span></h6>
+<h6></h6>
 <h6><strong style="color: #000000;font-family: inherit;font-size: inherit"><em><u>Recommended courses</u></em><em>:</em></strong></h6>
 <h6><u>B</u><u>IOL 231 – Botany</u></h6>
 <h6><u>BIOL 424 – Tropical Ecology</u></h6>
@@ -133,6 +136,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <td style="vertical-align: top">
 <h6><strong><em><u>If you choose Agriculture, take three courses from one of the following areas</u></em><em>:</em></strong></h6>
 <h6>Biology or Earth and Environmental Science</h6>
+<h6></h6>
 <h6><strong><em><u>Recommended courses</u></em><em>:</em></strong></h6>
 <h6><u>BIOL 231 – Botany</u></h6>
 <h6><u>BIOL 311 – Plant Ecology</u></h6>
@@ -153,6 +157,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <td style="vertical-align: top">
 <h6><strong><em><u>If you choose Youth in Development, take three courses from one of the following areas</u></em><em>:</em></strong></h6>
 <h6>Psychology or Sociology</h6>
+<h6></h6>
 <h6><strong><em><u>Recommended courses</u></em><em>:</em></strong></h6>
 <h6><u>PSYC</u><u> 331 – Developmental Psychology: The Infant and Child</u></h6>
 <h6><u>PSYC 332 – Developmental Psychology: The Adolescent and Adult</u></h6>
@@ -178,6 +183,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6>Marketing</h6>
 <h6>Sociology</h6>
 <h6>Computer Science and related majors</h6>
+<h6></h6>
 <h6><strong><em><u>Recommended courses</u></em><em>:</em></strong></h6>
 <h6><u>ACCT 101 &amp; 102 – Principles of Accounting I &amp; II or ACCT 110 Intensive Principles of Accounting</u></h6>
 <h6><u>ACCT 301 &amp; 302 – Intermediate Accounting I &amp; II</u></h6>
