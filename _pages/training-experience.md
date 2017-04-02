@@ -6,7 +6,7 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -54,6 +54,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6>Computer Science</h6>
 <h6>Chemistry</h6>
 <h6></h6>
+<h6></h6>
 <h6><span style="color: #000000"><strong><i><u>Recommended courses</u></i><i>:</i></strong></span></h6>
 <h6><u>EDUC 371 &amp; 373 – Language Development and Literacy Instruction (Primary/Intermediate)</u></h6>
 <h6><u>EDUC 454 – The Teaching of Foreign Language</u></h6>
@@ -81,6 +82,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6>Economics</h6>
 <h6>Sociology</h6>
 <h6>Nursing</h6>
+<h6></h6>
 <h6></h6>
 <h6><span style="color: #000000"><strong><i><u>Recommended courses:</u></i></strong></span></h6>
 <h6><u>BIOL 384 – Human Anatomy </u></h6>
@@ -110,6 +112,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6><span style="font-family: inherit;font-size: inherit">Philosophy</span></h6>
 <h6><span style="font-family: inherit;font-size: inherit">Sociology</span></h6>
 <h6></h6>
+&nbsp;
 <h6><span style="color: #000000"><strong><em><u>Recommended courses</u></em><em>:</em></strong></span></h6>
 <h6><u>B</u><u>IOL 231 – Botany</u></h6>
 <h6><u>BIOL 424 – Tropical Ecology</u></h6>
@@ -139,6 +142,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <td style="vertical-align: top">
 <h6><em><u>If you choose Agriculture, take three courses from one of the following areas</u></em><em>:</em></h6>
 <h6>Biology or Earth and Environmental Science</h6>
+<h6></h6>
 <h6><em><u>Recommended courses</u></em><em>:</em></h6>
 <h6><u>BIOL 231 – Botany</u></h6>
 <h6><u>BIOL 311 – Plant Ecology</u></h6>
@@ -146,22 +150,15 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6><u>BIOL 323 – Entomology</u></h6>
 <h6><u>EESC 230 – Global Environmental Problems</u></h6>
 <h6><u>EESC 307 – Environmental Soil Science</u><u>EESC 315 – Hydrogeology</u><u>EESC 325 – Environmental Geochemistry</u></h6>
+<h6></h6>
 <h6><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h6>
-&nbsp;
 <h6>Working with a large-­‐scale or family-­‐run business involving vegetable gardening, farming, nursery work, tree planting or care, urban forestry, landscaping, livestock care and management, or fish cultivation and     production</h6>
-&nbsp;
 <h6>Teaching or tutoring the public in environmental or agricultural issues/activities</h6>
-&nbsp;
 <h6>Working on the business management or marketing side of a commercial farm</h6>
-&nbsp;
 <h6>Participating in regional service opportunities such as (1) Tree Fredericksburg, (2) Braehead Farm, and (3) the Virginia Cooperative Extension (in Spotsylvania or Stafford counties).</h6>
-&nbsp;
 <h6>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region such as (1) the United States Department of Agriculture, (2) the Arcadia Center for Sustainable Food and Agriculture, (3) the Good Turn Earth Company,(4) Northern Virginia Soil and Water Conservation District.</h6>
-&nbsp;
 <h6>Participating in a UMW Abroad Program such as (1) CIEE Gaborone, Botswana, (2) SIT IHP: Rethinking Food Security: People, Agriculture, and Politics, (3) CIEE Monteverde, Costa Rica</h6>
-&nbsp;
 <h6>Teaching in one of these or a similar form: in a classroom, with a community outreach organization, or in a formal tutoring capacity</h6>
-&nbsp;
 <h6>The subject of the teaching may be English as a Foreign/Second Language, special education, drama, or a STEM subject</h6>
 </td>
 <td style="vertical-align: top">
@@ -169,15 +166,10 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6>Psychology or Sociology</h6>
 <h6><em><u>Recommended courses</u></em><em>:</em></h6>
 <h6><u>PSYC</u><u> 331 – Developmental Psychology: The Infant and Child</u></h6>
-&nbsp;
 <h6><u>PSYC 332 – Developmental Psychology: The Adolescent and Adult</u></h6>
-&nbsp;
 <h6><u>PSYC 347 – Psychology of Men</u></h6>
-&nbsp;
 <h6><u>PSYC 350 – Psychology of women</u></h6>
-&nbsp;
 <h6><u>SOCG 301 – Evolution and Social Behavior</u></h6>
-&nbsp;
 <h6><u>SOCG 351 – Juvenile Delinquency</u></h6>
 <h6><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h6>
 <h6>Teaching or counseling in at-­‐risk youth programs</h6>
