@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
