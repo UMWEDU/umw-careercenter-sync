@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -97,7 +97,7 @@ Leveraging concrete knowledge and skills is central to on the ground internation
 <h6 style="padding-left: 30px"><a href="https://umw.joinhandshake.com/login">www.umw.joinhandshake.com </a></h6>
 <h6 style="padding-left: 30px"><a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Handshake Tutorials </a></h6>
 <h6 style="padding-left: 60px">1. From your homepage, select <em><strong>Search Events</strong></em> on the left-hand menu.</h6>
-<h6 style="padding-left: 60px">2. Under <em><strong>E</strong><strong>vent Type</strong></em> select <strong><em>Group Appointment</em></strong>, <strong><em>Peace Corps Prep Application</em></strong></h6>
+<h6 style="padding-left: 60px">2. Under <em><strong>E</strong><strong>vent Type</strong></em> select <strong><em>Group Appointment</em></strong>, <strong><em>Peace Corps Prep Application.</em></strong></h6>
 <h6 style="padding-left: 60px">3. Then select <em><strong>Join Event </strong></em>and complete the application.</h6>
 <h3><strong>Step 3:</strong> Receive notification of acceptance into the program</h3>
 <h6 style="padding-left: 30px"><em> Students will be notified of their application status in time for <a href="http://academics.umw.edu/registrar/course-schedules-and-registration/">registration</a> for the following semester (2-3 weeks after the application deadline).</em></h6>
