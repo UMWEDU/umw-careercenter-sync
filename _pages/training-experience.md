@@ -6,7 +6,7 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -66,7 +66,6 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6><u>CPSC 420 – Modeling and Simulation</u></h6>
 <h6><u>CHEM 105 &amp; 106 – Chemistry and Society with Laboratory</u></h6>
 <h6><u>CHEM 493 – Chemical Outreach</u></h6>
-&nbsp;
 <h6><i></i><span style="color: #000000"><strong><i><u>And build 50 hours of </u></i><i><u>related </u></i><i><u>field experience through an activity such as</u></i><i>:</i></strong></span></h6>
 <h6>Participating in one or more of several regional service opportunities such as (1) local programs for underserved populations at Stafford Junction, Heritage Park, or Bragg Hill, or (2) Catholic Charities Refugee Services.</h6>
 <h6>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region such as (1) Bundle of Joy Child Development, (2) the Virginia Museum of Fine Arts, (3) the Smithsonian National Education Outreach program, (4) or completing a supervised practicum experience through the College of Education.</h6>
@@ -89,8 +88,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6><u>SOCG 320 – Food Justice</u></h6>
 <h6><u>SOCG 334 – Medical Sociology</u></h6>
 <h6><u>SOCG 335 – Global Perspectives on Health and Illness</u></h6>
-<h6></h6>
-<h6><u> </u><i><u>And build 50 hours of </u></i><b><i><u>related </u></i></b><i><u>field experience through an activity such as</u></i><i>:</i></h6>
+<h6> <strong><i><u>And build 50 hours of </u></i><i><u>related </u></i><i><u>field experience through an activity such as</u></i><i>:</i></strong></h6>
 <h6>Volunteer or work experience in such areas as HIV/AIDS outreach, hospice, family planning counseling, emergency medical technician (EMT) or CPR teaching/certification, maternal health, and hands-­‐on caregiving in a hospital, clinic, or lab technician setting.</h6>
 <h6>Counseling or teaching in health subjects.</h6>
 <h6>Working as a resident advisor in a dormitory, as a peer nutritionist, or as a sexually transmitted infections counselor.</h6>
@@ -122,8 +120,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6><u>PHIL 330 – Environmental Ethics</u></h6>
 <h6><u>PHIL 430 – Ethics, Environment, and Sustainability</u></h6>
 <h6><u>SOCG 354 – Environmental Sociology</u></h6>
-<h6></h6>
-<h6><strong><span style="color: #003366"><u> </u><span style="color: #000000"><em><u>And build 50 hours of related field experience through an activity such as</u></em><em>:</em></span></span></strong></h6>
+<h6><strong><span style="color: #003366"><span style="color: #000000"><em><u>And build 50 hours of related field experience through an activity such as</u></em><em>:</em></span></span></strong></h6>
 <h6>Educating the public on environmental or conservation issues, or working on environmental campaigns.</h6>
 <h6>Conducting biological surveys of plants or animals.</h6>
 <h6>Investigating an environmental issue through an independent research project.</h6>
@@ -136,7 +133,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <td style="vertical-align: top">
 <h6><strong><em><u>If you choose Agriculture, take three courses from one of the following areas</u></em><em>:</em></strong></h6>
 <h6>Biology or Earth and Environmental Science</h6>
-<h6> <em><u>Recommended courses</u></em><em>:</em></h6>
+<h6><strong><em><u>Recommended courses</u></em><em>:</em></strong></h6>
 <h6><u>BIOL 231 – Botany</u></h6>
 <h6><u>BIOL 311 – Plant Ecology</u></h6>
 <h6><u>BIOL 312 – Plant Physiology</u></h6>
@@ -156,7 +153,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <td style="vertical-align: top">
 <h6><strong><em><u>If you choose Youth in Development, take three courses from one of the following areas</u></em><em>:</em></strong></h6>
 <h6>Psychology or Sociology</h6>
-<h6><em><u>Recommended courses</u></em><em>:</em></h6>
+<h6><strong><em><u>Recommended courses</u></em><em>:</em></strong></h6>
 <h6><u>PSYC</u><u> 331 – Developmental Psychology: The Infant and Child</u></h6>
 <h6><u>PSYC 332 – Developmental Psychology: The Adolescent and Adult</u></h6>
 <h6><u>PSYC 347 – Psychology of Men</u></h6>
@@ -207,7 +204,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6><u>MKTG 401 – Marketing Research</u></h6>
 <h6><u>MKTG 460 – International Marketing</u></h6>
 <h6><u>SOCG 404 – Global Inequality and Development</u></h6>
-<h6><em><u>And build 50 hours of <strong>related </strong>field experience through an activity such as</u></em><em>:</em></h6>
+<h6><strong><em><u>And build 50 hours of related field experience through an activity such as</u></em><em>:</em></strong></h6>
 <h6>Working with businesses, organizations, or cooperatives in accounting, finance, microfinance, management, project management, budgeting, or marketing</h6>
 <h6>Starting and running your own business or other entrepreneurial activity</h6>
 <h6>Training others in computer literacy, maintenance, and repair</h6>
