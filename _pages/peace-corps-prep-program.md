@@ -6,20 +6,19 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2></h2>
-<h2><a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><strong><img class=" wp-image-235 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="461" height="244" /></strong></a></h2>
-<h2><strong>About</strong></h2>
-<h2></h2>
+<h2>
+<a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><strong><img class=" wp-image-235 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="461" height="244" /></strong></a><strong>About</strong></h2>
 <h2></h2>
 <h2></h2>
-For 12 years, the Peace Corps has ranked the University of Mary Washington among the nation’s top-producing colleges for alumni now serving as Peace Corps volunteers. UMW's Peace Corps Prep program will prepare current students for  international development fieldwork and potential Peace Corps service. To accomplish this, students will build four core competencies through interrelated coursework, hands-on experience, and professional development support.
+<h2></h2>
+For 12 years, the Peace Corps has ranked the University of Mary Washington among the nation’s top-producing colleges for alumni now serving as Peace Corps volunteers. UMW's Peace Corps Prep program will prepare current students for international development fieldwork and potential Peace Corps service. To accomplish this, students will build four core competencies through interrelated coursework, hands-on experience, and professional development support.
 <table style="height: 20px" width="1666">
 <tbody>
 <tr>
@@ -38,6 +37,7 @@ For 12 years, the Peace Corps has ranked the University of Mary Washington among
 </tr>
 </tbody>
 </table>
+https://www.youtube.com/watch?v=8uRbeW-Vro8&amp;index=2&amp;list=PL2B90BEBDEE4842E2 
 <h2><strong>Competencies
 </strong></h2>
 Leveraging concrete knowledge and skills is central to on the ground international development work. Through this PC Prep program, you will begin to build a professional specialty, which should serve your career well whether or not you become a Peace Corps Volunteer.
@@ -126,3 +126,4 @@ For assistance with the application process or further information, contact the 
 <h6><a href="https://umw.joinhandshake.com/login"><img class="alignnone wp-image-254" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/hs-logo-primary-lg-300x48.png" alt="" width="213" height="34" /></a></h6>
 <h6><a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">How do I request an appointment?</a></h6>
 <h6>[googlemaps https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3131.013059589835!2d-77.47862568438124!3d38.30236518940152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6c1f0d1d720db%3A0x89ff51f216e95296!2sCenter+for+Career+and+Professional+Development!5e0!3m2!1sen!2sus!4v1491006547731&amp;w=600&amp;h=450]</h6>
+&nbsp;
