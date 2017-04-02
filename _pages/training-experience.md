@@ -6,7 +6,7 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 </tr>
 <tr>
 <td style="vertical-align: top">
-<h6 style="text-align: left"><strong><i><u>If you choose Education, take 3 courses from one of the following areas</u></i><i>:</i></strong></h6>
+<h6 style="text-align: left"><strong><i><u>If you choose Education, take three courses from one of the following areas</u></i><i>:</i></strong></h6>
 <h6>Education</h6>
 <h6>English</h6>
 <h6>Linguistics</h6>
@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=kxR8XZOeV-s&amp;list=PLA9AEA64178D1A657&amp;inde
 <h6>Participating in a UMW Abroad Program such as (1) CIEE Dakar, Senegal, (2) CIEE Monteverde, Costa Rica, (3) CIEE Gaborone, Botswana, (4) KEI Bangkok, Thailand, (5) SIT China: Community Health and Traditional Chinese Medicine, (6) SIT Jordan: Refugees, Health and Humanitarian Action, or (7) SIT Madagascar: Traditional Medicine and Healthcare Systems.</h6>
 </td>
 <td style="vertical-align: top">
-<h6><strong><em><u>If you choose Environment, take three courses from one of the following areas</u></em><em>:</em></strong></h6>
+<h6><strong><em><u>If you choose Environment, take three courses from </u></em></strong><strong><em><u>one of the following areas</u></em><em>:</em></strong></h6>
 <h6>Biology</h6>
 <h6>Economics</h6>
 <h6>Earth and<span style="font-family: inherit;font-size: inherit"> Environmental Science</span></h6>
