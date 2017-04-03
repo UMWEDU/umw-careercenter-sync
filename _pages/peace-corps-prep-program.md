@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -14,12 +14,11 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2><a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><strong><img class=" wp-image-235 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="461" height="244" /></strong></a></h2>
-<h2><strong>Peace Corps Prep is a certificate program for undergraduates that centers on one empowering question: How can you prepare yourself to be the best Peace Corps Volunteer you can be?</strong></h2>
 <h2><strong>About</strong></h2>
 <h2></h2>
 <h2></h2>
 <h2></h2>
-For 12 years, the Peace Corps has ranked the University of Mary Washington among the nation’s top-producing colleges for alumni now serving as Peace Corps volunteers. UMW's Peace Corps Prep program will prepare current students for international development fieldwork and potential Peace Corps service. To accomplish this, students will build four core competencies through interrelated coursework, hands-on experience, and professional development support.
+For 13 years, the Peace Corps has ranked the University of Mary Washington among the nation’s top-producing colleges for alumni now serving as Peace Corps volunteers. UMW's Peace Corps Prep program will prepare current students for international development fieldwork and potential Peace Corps service. To accomplish this, students will build four core competencies through interrelated coursework, hands-on experience, and professional development support.
 <table style="height: 20px" width="1666">
 <tbody>
 <tr>
@@ -42,43 +41,23 @@ https://www.youtube.com/watch?v=8uRbeW-Vro8&amp;index=2&amp;list=PL2B90BEBDEE484
 <h2><strong>Competencies
 </strong></h2>
 Leveraging concrete knowledge and skills is central to on the ground international development work. Through this PC Prep program, you will begin to build a professional specialty, which should serve your career well whether or not you become a Peace Corps Volunteer.
-<table style="height: 340px" width="1677">
-<tbody>
-<tr>
-<td width="229">
 <h4 style="text-align: left"><span style="color: #003366"><strong>Training and Experience</strong></span></h4>
-</td>
-<td width="229">
-<h4 style="text-align: left"><strong><span style="color: #003366">Intercultural Competence</span></strong></h4>
-</td>
-<td width="229">
-<h4 style="text-align: left"><span style="color: #003366"><strong>Professional and Leadership Development</strong></span></h4>
-</td>
-<td width="229">
-<h4 style="text-align: left"><span style="color: #003366"><strong>Foreign Language Skills</strong></span></h4>
-</td>
-</tr>
-<tr>
-<td style="vertical-align: top">
 <h6>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector.</h6>
 <h6><a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/">See Requirements</a></h6>
-</td>
-<td style="vertical-align: top">
+&nbsp;
+<h4 style="text-align: left"><strong><span style="color: #003366">Intercultural Competence</span></strong></h4>
 <h6>Engaging thoughtfully and fluidly across cultures begins with one’s own self-awareness. With this learning objective, you will deepen your cultural agility through a mix of three introspective courses in which you learn about others while reflecting upon your own self in relation to others.The goal is for you to build your capacity to shift perspective and behavior around relevant cultural differences.</h6>
-<h6>See Requirements</h6>
-</td>
-<td style="vertical-align: top">
+<h6></h6>
+&nbsp;
+<h4 style="text-align: left"><span style="color: #003366"><strong>Professional and Leadership Development</strong></span></h4>
 <h6>Peace Corps service and similar international development work opportunities are highly professional and selective. PC Prep requires <b>three specific activities </b>that will strengthen your candidacy for the Peace Corps (or any other professional endeavor).</h6>
-<h6>See Requirements</h6>
-</td>
-<td style="vertical-align: top">
+<h6></h6>
+&nbsp;
+<h4 style="text-align: left"><span style="color: #003366"><strong>Foreign Language Skills</strong></span></h4>
 <h6>Working across cultures often entails verbal and nonverbal languages distinct from your own. Building foreign language skills is thus a second key component of the PC Prep curriculum.</h6>
 <h6><i>Where would you like to serve? </i>PC Prep minimum course requirements align with those needed by applicants to the Peace Corps itself, which vary by linguistic region.</h6>
-<h6>See Requirements</h6>
-</td>
-</tr>
-</tbody>
-</table>
+<h6></h6>
+&nbsp;
 <h2><strong>Eligibility</strong></h2>
 <h6>Be a UMW degree-seeking student.</h6>
 <h6>Be a second-semester freshman, sophomore, or first-semester junior in good standing.</h6>
@@ -127,4 +106,3 @@ For assistance with the application process or further information, contact the 
 <h6><a href="https://umw.joinhandshake.com/login"><img class="alignnone wp-image-254" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/hs-logo-primary-lg-300x48.png" alt="" width="213" height="34" /></a></h6>
 <h6><a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">How do I request an appointment?</a></h6>
 <h6>[googlemaps https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3131.013059589835!2d-77.47862568438124!3d38.30236518940152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6c1f0d1d720db%3A0x89ff51f216e95296!2sCenter+for+Career+and+Professional+Development!5e0!3m2!1sen!2sus!4v1491006547731&amp;w=600&amp;h=450]</h6>
-&nbsp;
