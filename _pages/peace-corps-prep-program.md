@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -82,8 +82,8 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 </li>
  	<li>Begin completing the requirements for the UMW Peace Corps Prep Certificate
 <ul>
- 	<li style="padding-left: 30px;"><em>Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.</em></li>
- 	<li style="padding-left: 30px;"><em>Each semester, the Coordinator will conduct a workshop for all newly admitted PCPP students. The coordinator will organize gatherings of students in the PCPP, inviting students to attend on-campus or off-campus events related to PCPP topics of interest.</em></li>
+ 	<li><em>Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.</em></li>
+ 	<li><em>Each semester, the Coordinator will conduct a workshop for all newly admitted PCPP students. The coordinator will organize gatherings of students in the PCPP, inviting students to attend on-campus or off-campus events related to PCPP topics of interest.</em></li>
 </ul>
 </li>
 </ol>
