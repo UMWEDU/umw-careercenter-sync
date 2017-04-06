@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -67,8 +67,10 @@ Students who successfully complete the program gain g<span id="ctl00_contentPlac
 Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps and a graduation cord.
 <h2><strong>Application Process</strong></h2>
 <ol>
- 	<li>Review the <strong>Application</strong></li>
- 	<li>Submit an <a href="http://www.umw.joinhandshake.com">Online Application</a>
+ 	<li><strong>(Coming Soon)</strong>Review the <strong>Application (Coming Soon)
+</strong></li>
+ 	<li><strong>(Coming Soon) </strong>Submit an <a href="http://www.umw.joinhandshake.com">Online Application
+</a>
 <ol>
  	<li>From your homepage, select <em><strong>Search Events</strong></em> on the left-hand menu.</li>
  	<li>Under <em><strong>E</strong><strong>vent Type</strong></em> select <strong><em>Group Appointment</em></strong>, <strong><em>Peace Corps Prep Application.</em></strong></li>
