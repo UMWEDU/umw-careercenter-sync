@@ -6,7 +6,7 @@ post_date: 2017-02-06 16:51:56
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/cia-site-visit/
+  https://www.umw.edu/careercenter/students/cia-site-visit/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
