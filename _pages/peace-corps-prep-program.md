@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -67,7 +67,7 @@ Students who successfully complete the program gain g<span id="ctl00_contentPlac
 Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps and a graduation cord.
 <h2><strong>Application Process</strong></h2>
 <ol>
- 	<li><strong>(Coming Soon) </strong>Review the <strong>Application (Coming Soon)
+ 	<li><strong>(Coming Soon) </strong>Review the <strong>Application
 </strong></li>
  	<li><strong>(Coming Soon) </strong>Submit an <a href="http://www.umw.joinhandshake.com">Online Application</a>
 <ol>
@@ -88,9 +88,8 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 </ul>
 </li>
 </ol>
-&nbsp;
 <h2><strong>Application Deadlines</strong></h2>
-<h4><span style="color: #000000"><strong>November 14th</strong>:</span> Spring Cohort      <span style="color: #000000"><strong>March 1st:</strong> </span>Fall Cohort</h4>
+<h4><span style="color: #000000"><strong>November 14, 2017</strong>:</span> Spring 2018 Cohort      <span style="color: #000000"><strong>March 1, 2018:</strong> </span>Fall 2018 Cohort</h4>
 For assistance with the application process or further information, contact the UMW Peace Corps Prep Coordinator:
 <h6>Kyle Danzey<img class="wp-image-256 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/AAEAAQAAAAAAAATHAAAAJGI1ZjQ5OTk1LTVkYzUtNGFiOC04NzRiLTEzODVhYjdkMDU3OA-300x300.jpeg" alt="" width="133" height="133" /></h6>
 <h6>Assistant Director for Career and Professional Development</h6>
