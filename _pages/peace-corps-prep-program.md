@@ -6,7 +6,7 @@ post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -62,7 +62,7 @@ Working across cultures often entails verbal and nonverbal languages distinct fr
 <h2><strong>Program Benefits</strong></h2>
 A formal partnership between the Peace Corps and UMW that allows UMW students, who have strong interests in global citizenship, to prepare simultaneously for the Peace Corps.
 
-Students who successfully complete the program gain g<span id="ctl00_contentPlaceHolder_mainDrop_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_TextLabel">lobal and intercultural fluency which is one of eight <a href="http://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">career ready competencies </a>identified by the <a href="http://www.naceweb.org/">National Association of College and Employers</a>.</span>
+Students who successfully complete the program gain g<span id="ctl00_contentPlaceHolder_mainDrop_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_TextLabel">lobal and intercultural fluency which is one of eight <a href="http://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">career ready competencies </a>identified by the <a href="http://www.naceweb.org/">National Association of Colleges and Employers</a>.</span>
 
 Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps and a graduation cord.
 <h2><strong>Application Process</strong></h2>
