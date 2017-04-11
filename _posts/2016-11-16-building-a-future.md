@@ -8,6 +8,8 @@ layout: post
 permalink: >
   https://www.umw.edu/careercenter/2016/11/16/building-a-future/
 published: true
+yst_prominent_words_version:
+  - "1"
 ---
 Three years out of college, UMW alumnus Jeremy Thompson ’13 has begun building a successful career as a social media strategist at Subject Matter, a public affairs agency in Washington, D.C. But Thompson acknowledges he didn’t get there alone. Crediting the support of faculty mentors at UMW, he’s ready to give back by preparing the next generation of students to excel in the work place.
 
