@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <strong>EMPLOYER ACTION STEPS</strong>
 Employers who are currently using the Employ-An-Eagle system need to take all of the URGENT ACTIONS listed below. NEXT STEPS can be completed as needed and as the beginning dates allow.
