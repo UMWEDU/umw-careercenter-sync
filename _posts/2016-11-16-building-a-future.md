@@ -6,14 +6,16 @@ post_date: 2016-11-16 13:56:34
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.umw.edu/careercenter/2016/11/16/building-a-future/
+  http://www.umw.edu/careercenter/2016/11/16/building-a-future/
 published: true
 yst_prominent_words_version:
   - "1"
+yst_is_cornerstone:
+  - ""
 ---
 Three years out of college, UMW alumnus Jeremy Thompson ’13 has begun building a successful career as a social media strategist at Subject Matter, a public affairs agency in Washington, D.C. But Thompson acknowledges he didn’t get there alone. Crediting the support of faculty mentors at UMW, he’s ready to give back by preparing the next generation of students to excel in the work place.
 
-<img class="aligncenter size-large wp-image-153" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/11/Jeremey_HP-1024x413.jpg" alt="Jeremy" width="1024" height="413" />
+<img class="alignnone wp-image-283 size-large" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/11/jeremy-thompson-2-1024x413.jpg" alt="Jeremy Thompson" width="1024" height="413" />
 
 “Mentoring students is important to me,” said Thompson, a history and political science major. “I didn’t get where I am today without help from the people who came before me.”
 
