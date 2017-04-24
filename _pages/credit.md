@@ -56,7 +56,7 @@ Interested in doing an internship for credit? Follow the steps below.
 </ul>
 <strong>Step 6: Complete the Academic Internship Contract</strong>
 <ul>
- 	<li>You must fully complete the academic internship contract – read all policies, complete all questions, and collect all signatures.</li>
+ 	<li>You must fully complete the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/06/internshipcontract2edit2.pdf">academic internship contract</a> – read all policies, complete all questions, and collect all signatures.</li>
  	<li>Make a copy of your internship contract for your faculty sponsor.</li>
 </ul>
 <strong>Step 7: Submit Completed Contract to the Office of the Registrar</strong>
