@@ -6,34 +6,59 @@ post_date: 2016-06-30 16:05:59
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/faculty/working-with-internships/
+  http://www.umw.edu/careercenter/faculty/working-with-internships/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
-The Center for Career and Professional Development (CCPD) coordinates undergraduate academic internships for credit (designated by course number 499), putting qualified students to work both on and off campus. UMW faculty members play an important part in this process. Students wishing to complete for-credit internships must work with a faculty sponsor in their department, the department chair, an on-site supervisor, and the CCPD internship coordinator. Check out our current <a href="http://www.umw.edu/careercenter/students/internships/credit/">internship policies</a>.
-<h2>Before</h2>
-Students can work with the CCPD to find internships. Once they have identified an internship to pursue, they must complete the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/InternshipContract.pdf">academic internship contract</a>. Part of this contract must be completed by a faculty member. Please use the following guidelines when reviewing a student’s internship contract:
-<ol>
- 	<li><strong>Review the list of duties</strong> the student will complete at the internship site. Students should attach a list of responsibilities to their contract for faculty review.</li>
- 	<li><strong>Review the dates</strong>. Do the dates fall within the academic term. If the student’s internship will span beyond those dates, the internship coordinator will need your approval to request a G grade for the student.</li>
- 	<li><strong>Discuss the goal of the internship</strong> with the student. They should have a clear idea what their educational goal is when the internship is complete.</li>
- 	<li><strong>Set the expectations for successful completion.</strong> Speak with the student about what they will be expected to do during the internship and what they will need to complete at the end of the internship experience. Will they write a paper? Are they expected to meet with you weekly? How should they communicate with you during the internship?</li>
- 	<li><strong>Review the time commitment.</strong> For each credit earned, 42 hours of on-site work must be completed. Time spent on assignments, meetings with faculty, on commuting, cannot be counted toward the 42 hours.</li>
- 	<li><strong>Complete all required fields.</strong> The amount of credits agreed upon, the major granting credit, where the credit is to be applied, and a signature should all be completed.</li>
-</ol>
-Three-credit internships are the most common, but for most majors, it is possible for a student to request four to six credits for an internship. This requires a type-written statement from the student that justifies the additional credit. Note that simply doing <strong>more of the same duties</strong> does not justify additional credit. The experience must be deeper and incorporate higher level duties or are more extensive than the three-credit version of the same internship.
+<strong>Academic Internships –Overview for Faculty</strong>
 
-<strong>Credit is not awarded retroactively. </strong>Students must have their internship contracts completed and turned in within one week of the internship starting. Deadlines can be found on the academic calendar.
-<h2>During</h2>
+Internships provide structured learning experiences and must be evaluated by a faculty member and approved in advance by the department the student is seeking academic credit from. Credit is only awarded for internships that incorporate a hands-on experience per the duties outlined in the contract, and includes academic components which are determined at the discretion of the faculty sponsor. Requested internships should provide an opportunity for students to apply and supplement the knowledge gained in the classroom. Academic departments have the final decision for the approval of an academic internship.
+
+Here is a list of things to discuss with your student regarding academic internships:
+
+<strong>Helping your Student Find and Secure an Internship</strong>
 <ul>
- 	<li>Throughout the internship, you dictate how often and by what means the student communicates with you about their internship experience.</li>
+ 	<li><a href="https://www.umw.edu/careercenter/handshake/">Handshake</a> – UMW’s job and internship portal for students and alumni. Students can search for internships by keyword, major, location, etc.</li>
+ 	<li>Students can always make an appointment at the <a href="https://www.umw.edu/careercenter/">Career Center</a> – Our counselors can help to navigate the internship search through one-on-one appointments and workshops, resume and cover letter reviews, and interviewing skills.</li>
+ 	<li>Your connections – If you know employers who are looking for interns in your field, share their contact information with your student.</li>
 </ul>
-<h2>After:</h2>
+<strong>The Role of the Faculty Sponsor</strong>
 <ul>
- 	<li>The student should turn in all assignments to you at the close of the academic term.</li>
- 	<li>If a student will extend past the end of the academic term, the internship coordinator will need to request a G grade for the student.</li>
- 	<li>You will be sent an evaluation from the internship site in most cases. In a few rare circumstances, a site does not provide feedback via our evaluation form. We will try to have the student send their evaluation to you in those cases.</li>
- 	<li>The internship coordinator makes every attempt to request evaluations from internship sites. In some cases, the email address given by the student is incorrect or there is no response from the site. After three attempts, we generally ask the student to try and track down their evaluation.</li>
- 	<li>Your student will be required to complete an evaluation from the Career Center at the close of the internship. You will be emailed if there are any issues or discrepancies concerning internship completion.</li>
+ 	<li>Students need to have approval from a faculty sponsor and their Department Chair in order to have their internship approved for credit. Faculty sponsors will meet with students throughout their internship to assess their progress. Students should also be assigned academic work to go along with the internship.</li>
+ 	<li>Things to think about include:</li>
+ 	<li>Does the internship meet department regulations and policies?</li>
+ 	<li>Has the student met all criteria to do an internship? (see policies below)</li>
+ 	<li>If you are meeting with an international student, have they met with CIE prior to securing the internship?</li>
+ 	<li>What are the duties at the internship site?</li>
+ 	<li>How will the student be evaluated and how will a grade be assigned?</li>
+ 	<li>What type of academic work will be assigned along with the internship?</li>
+ 	<li>How often do you expect the student to meet with you throughout their internship?</li>
+ 	<li>How many hours will the student be working, and how many credits will they earn based on those hours?</li>
+ 	<li>If the internship runs past the end of the semester, are you willing to assign a ‘G’ grade and evaluate their performance upon completion of the academic component of the internship?</li>
+</ul>
+<strong>Academic Internship Criteria and Policies for Students</strong>
+<ul>
+ 	<li>Students must be degree-seeking at The University of Mary Washington.</li>
+ 	<li>Students must have at least 12 credit hours earned at UMW or have earned an Associate’s Degree.</li>
+ 	<li>Students must have a G.P.A. of 2.0 or better at the start of the semester in which the internship occurs.</li>
+ 	<li>International students with F-1 or J-1 visa status must see the international student advisor in the Center for International Education (CIE) to make certain they are eligible for internships/employment.</li>
+ 	<li>Students seeking internships abroad should contact the Center for International Education prior to seeking academic credit.</li>
+ 	<li>Adding or dropping an internship is not completed until the Registrar's Office has been contacted and the request has been processed. Students are responsible for verifying that their internships have been added or dropped and the information on their schedule is correct.</li>
+ 	<li>Academic internships which will result in registration for more than 18 credit hours (an overload) must be approved by Academic Services prior to the internship being added to the schedule (note: additional fees will apply).</li>
+ 	<li>Credit awarded is based on hours worked. Students must complete the required minimum hours in order to receive credit:</li>
+</ul>
+<p style="text-align: center">1 credit – 42 hours</p>
+<p style="text-align: center">2 credits – 84 hours</p>
+<p style="text-align: center">3 credits – 126 hours</p>
+<p style="text-align: center">4 credits – 168 hours</p>
+<p style="text-align: center">5 credits – 210 hours</p>
+<p style="text-align: center">6 credits – 252 hours</p>
+<strong>The Internship Contract</strong>
+<ul>
+ 	<li>Students are responsible for completing the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/06/internshipcontract2edit2.pdf">Academic Internship Contract</a> and submitting it to the Office of the Registrar prior to starting their internship. The contract can be found on the UMW Career Center’s website.</li>
+ 	<li>The student will ask you to complete the Faculty portion of the contract, as well as sign the Faculty Sponsor line on page one. The Department Chair will also need to sign off.</li>
+ 	<li>Students are responsible for providing copies of the contract to their Faculty Sponsors.</li>
 </ul>
