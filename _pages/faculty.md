@@ -5,8 +5,7 @@ author: Emily
 post_date: 2016-06-30 15:22:23
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.umw.edu/careercenter/faculty/
+permalink: http://www.umw.edu/careercenter/faculty/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
