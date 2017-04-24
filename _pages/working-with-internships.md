@@ -8,10 +8,12 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/faculty/working-with-internships/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+yst_is_cornerstone:
+  - ""
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <strong>Academic Internships –Overview for Faculty</strong>
 
