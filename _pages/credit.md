@@ -10,6 +10,8 @@ permalink: >
 published: true
 yst_prominent_words_version:
   - "1"
+yst_is_cornerstone:
+  - ""
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -41,13 +43,13 @@ Interested in doing an internship for credit? Follow the steps below.
  	<li>Adding or dropping an internship is not completed until the Registrar's Office has been contacted by you and the request has been processed. You are responsible for verifying that your internship has been added or dropped and the information on your schedule is correct.</li>
  	<li>Academic internships which will result in registration for more than 18 credit hours (an overload) must be approved by Academic Services prior to the internship being added to your schedule (note: additional fees will apply).</li>
  	<li>Credit awarded is based on hours worked. You must complete the required minimum hours during the course of the semester in order to receive credit:</li>
- 	<li>1 credit – 42 hours</li>
- 	<li>2 credits – 84 hours</li>
- 	<li>3 credits – 126 hours</li>
- 	<li>4 credits – 168 hours</li>
- 	<li>5 credits – 210 hours</li>
- 	<li>6 credits – 252 hours</li>
 </ul>
+<p style="text-align: center">1 credit – 42 hours</p>
+<p style="text-align: center">2 credits – 84 hours</p>
+<p style="text-align: center">3 credits – 126 hour</p>
+<p style="text-align: center">4 credits – 168 hours</p>
+<p style="text-align: center">5 credits – 210 hours</p>
+<p style="text-align: center">6 credits – 252 hours</p>
 <strong>Step 5: Speak to your Internship Site Supervisor</strong>
 <ul>
  	<li>Have a conversation with your future internship site supervisor. Explain the internship policies, hour requirements, and contract.</li>
