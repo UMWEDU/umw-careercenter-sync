@@ -6,14 +6,16 @@ post_date: 2016-08-22 12:32:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/internships/role/
+  http://www.umw.edu/careercenter/employers/internships/role/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <h2>Before</h2>
 <ul>
- 	<li>Sign the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/InternshipContract.pdf">academic internship contract</a>. (The student is responsible for completing the contract through our office).</li>
+ 	<li>Sign the academic internship contract (The student is responsible for completing the contract through our office).</li>
  	<li>The contract also requires that a list of duties be submitted. The student is responsible for attaching this information to the contract before it is submitted. The student can use the job description for this, or you can aid them by giving them an idea of the types of things they will be doing.</li>
  	<li>Create a general outline of expectations, duties, hours, etc. with the student.
 <ul>
@@ -22,8 +24,7 @@ wpcf-home-page-grid-inclusion:
 </li>
  	<li> For every 42 hours the student spends at the internship site,he or she is eligible for one academic credit. (Most students pursue three credits, which requires them to spend 126 hours on the internship throughout the semester). Often, students complete more hours than required for academic credit. Internship hours that are to be counted toward academic credit must be completed by the end of the current academic term unless there is a prior arrangement made for the student to continue working on their credits past the end date.</li>
  	<li>A student may continue interning at your site past the end of the academic term, but those hours will not count towards the total needed for academic credit.</li>
- 	<li>Once you have completed and signed your portion of the contract, the studentwill take it to his or her faculty supervisor, department chair, and the Center for Career and Professional Development for approval.</li>
- 	<li>Approved contracts will be emailed to you.</li>
+ 	<li>Once you have completed and signed your portion of the contract, the student will take it to his or her faculty supervisor, department chair, and finally, submit to the Registrar's Office.</li>
 </ul>
 <h2>During</h2>
 Decide on the best way to track internship hours. Will it be the supervisor’s responsibility or the student’s? Will you keep a physical log of hours worked? Since many students work more than the required number of hours, this is not typically an issue.
@@ -70,9 +71,8 @@ Following are more tips for developing and implementing an internship program sc
 <strong>See more <a href="http://www.naceweb.org/s12102014/develop-internship-program-schedule.aspx">Tips for Developing an Internship Program Schedule</a></strong>
 <h2>After</h2>
 <ul>
- 	<li> A few weeks before the close of the semester, you will receive an <a href="http://www.umw.edu/careercenter/employers/internships/evaluate-your-intern/">evaluation form</a> from our office. The faculty adviser will use the feedback you provide on the student’s performance in conjunction with his or her academic work to grade the internship experience.</li>
- 	<li>Discuss the evaluation with your intern and follow up on any goals set at the start of the internship.</li>
- 	<li>A student may return to your site to complete an additionally internship experience. However, the student must resubmit paperwork and be completing a set of duties different than the first time they interned.</li>
+ 	<li>Conduct an evaluation with your intern and follow up on any goals set at the start of the internship.</li>
+ 	<li>A student may return to your site to complete an additional internship experience. However, the student must resubmit paperwork and be completing a set of duties different than the first time they interned.</li>
 </ul>
 It is critical that your organization <a href="http://www.naceweb.org/s07232014/maintaining-relationship-with-interns.aspx">maintain the relationships it has developed with its interns</a> when they return to campus. Here are several tips for doing so:
 <ul>
