@@ -8,6 +8,10 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/employers/
 published: true
+yst_prominent_words_version:
+  - "1"
+yst_is_cornerstone:
+  - ""
 wpcf-home-page-grid-inclusion:
   - "1"
 wpcf-homepage-copy:
@@ -15,14 +19,9 @@ wpcf-homepage-copy:
     Connect with the UMW community to help build the future of your organization. From internships to job fairs and beyond, the CCPD has you covered.
     <ul>
     <li><a href="https://www.umw.edu/careercenter/employers/internships/">Internships</a> - what you need to know.</li>
-    <li><a href="https://umw-csm.symplicity.com/employers/index.php">Post a job or internship</a> (Employ-An-Eagle)</li>
+    <li><a href="https://umw.joinhandshake.com/employer_registrations/new">Post a job or internship</a> (Handshake)</li>
     <li><a href="https://www.umw.edu/careercenter/employers/policies-guidelines/">Policies &amp; Guidelines</a></li>
-    <li><a href="https://www.umw.edu/careercenter/employers/education-fair/">Education Fair</a>, 3/22/17</li>
-    <li><a href="https://www.umw.edu/careercenter/employers/job-internship-fair/">Job &amp; Internship Fair</a>, 3/16/17</li>
-    <li><a href="https://www.umw.edu/careercenter/employers/handshake/">Handshake</a> - Coming Summer 2017</li>
     </ul>
-yst_prominent_words_version:
-  - "1"
 ---
 <img class="alignnone size-large wp-image-63" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/stafford-lobby-1024x399.jpg" alt="" width="100%" />
 
