@@ -19,7 +19,10 @@ wpcf-homepage-copy:
     <li><a href="https://www.umw.edu/careercenter/employers/policies-guidelines/">Policies &amp; Guidelines</a></li>
     <li><a href="https://www.umw.edu/careercenter/employers/education-fair/">Education Fair</a>, 3/22/17</li>
     <li><a href="https://www.umw.edu/careercenter/employers/job-internship-fair/">Job &amp; Internship Fair</a>, 3/16/17</li>
+    <li><a href="https://www.umw.edu/careercenter/employers/handshake/">Handshake</a> - Coming Summer 2017</li>
     </ul>
+yst_prominent_words_version:
+  - "1"
 ---
 <img class="alignnone size-large wp-image-63" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/stafford-lobby-1024x399.jpg" alt="" width="100%" />
 
@@ -28,7 +31,7 @@ The Center for Career and Professional Development serves as a place where stude
 If you are interested in recruiting our students or using our space for remote work, hosting an alum reception, or conducting interviews, please contact us at 540-654-5646 or email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>.
 <div class="one-half first">
 <h2>Post a Job or Internship</h2>
-Register today to begin posting your open positions on <a href="https://umw-csm.symplicity.com/employers/index.php">Employ-An-Eagle</a>, UMW’s official job portal, where undergraduates, students, and alumni can apply for full time, part time, <a href="http://www.umw.edu/careercenter/employers/internships/">internship</a> and volunteer opportunities.
+Register today to begin posting your open positions on <a href="https://umw.joinhandshake.com/employer_registrations/new">Handshake</a>, UMW’s official job portal, where undergraduates, students, and alumni can apply for full time, part time, <a href="http://www.umw.edu/careercenter/employers/internships/">internship</a> and volunteer opportunities.
 <h2>Attend Job &amp; Internship Fairs</h2>
 Our fall and spring job and internship fairs, as well as at targeted employer events, are heavily marketed to and attended by our talented UMW students. The cost to attend is $75 per organization.
 <h2>Host an Information Session</h2>
