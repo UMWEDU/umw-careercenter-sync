@@ -10,13 +10,18 @@ permalink: >
 published: true
 yst_prominent_words_version:
   - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_is_cornerstone:
   - ""
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <div class="content-main"> <img class=" wp-image-171 alignnone" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-lg-300x48.png" alt="" width="494" height="79" /></div>
 <div class="content-main"></div>
+<div class="content-main"></div>
+<div class="content-main"></div>
+
+https://www.youtube.com/watch?v=jB-zmARNSnE
+
 <div class="content-main">In the summer of 2017 we will replace our Employ-An-Eagle system with <a href="https://www.joinhandshake.com/">Handshake</a>. This change allows us to provide our community of users with access to a brand new, state of the art system. This website provides you with important information, deadlines, and transition updates. We're also building out self-service training and tips under the name Handshake Hints ... so check back often for all the latest updates!</div>
 <div class="content-main"></div>
 <div class="content-main">
