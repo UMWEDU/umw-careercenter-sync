@@ -8,10 +8,6 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/students/internships/
 published: true
-yst_prominent_words_version:
-  - "1"
-yst_is_cornerstone:
-  - ""
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -20,6 +16,6 @@ Internships provide an excellent opportunity to gain professional work experienc
 [children]
 <ul>
  	<li><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/Summer-2017-Internship-Contract-.pdf">Summer 2017 Internship Contract - </a>The summer internship deadline is June 2nd 2017. Completed contracts are turned in at the Career Center.</li>
- 	<li><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/06/internshipcontract2edit2.pdf">Fall 2017 Internship Contract</a> - Completed contracts are delivered to the registrar's office. These do not go to the Career Center. <a href="https://www.umw.edu/careercenter/students/internships/credit/">Click here for more information.</a></li>
+ 	<li><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/06/fall17internshipcontract.pdf">Fall 2017 Internship Contract</a> - Completed contracts are delivered to the registrar's office. These do not go to the Career Center. <a href="https://www.umw.edu/careercenter/students/internships/credit/">Click here for more information.</a></li>
 </ul>
 &nbsp;
