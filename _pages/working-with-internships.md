@@ -8,10 +8,6 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/faculty/working-with-internships/
 published: true
-yst_prominent_words_version:
-  - "1"
-yst_is_cornerstone:
-  - ""
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -60,7 +56,7 @@ Here is a list of things to discuss with your student regarding academic interns
 <p style="text-align: center">6 credits – 252 hours</p>
 <strong>The Internship Contract</strong>
 <ul>
- 	<li>Students are responsible for completing the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/06/internshipcontract2edit2.pdf">Academic Internship Contract</a> and submitting it to the Office of the Registrar prior to starting their internship. The contract can be found on the UMW Career Center’s website.</li>
+ 	<li>Students are responsible for completing the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/06/fall17internshipcontract.pdf">Academic Internship Contract</a> and submitting it to the Office of the Registrar prior to starting their internship. The contract can be found on the UMW Career Center’s website.</li>
  	<li>The student will ask you to complete the Faculty portion of the contract, as well as sign the Faculty Sponsor line on page one. The Department Chair will also need to sign off.</li>
  	<li>Students are responsible for providing copies of the contract to their Faculty Sponsors.</li>
 </ul>
