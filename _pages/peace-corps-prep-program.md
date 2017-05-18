@@ -67,7 +67,7 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 <ol>
  	<li>Review the <strong><a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/05/PCPP-Student-Guide.pdf">Student Guide</a>
 </strong></li>
- 	<li>Submit an <a href="http://www.umw.joinhandshake.com">Online Application
+ 	<li>Submit an <a href="https://umw.joinhandshake.com/jobs/762875/share_preview">Online Application
 </a>
 <ol>
  	<li>From your homepage, select <em><strong>Jobs &amp; Internships</strong></em> on the left-hand menu.</li>
