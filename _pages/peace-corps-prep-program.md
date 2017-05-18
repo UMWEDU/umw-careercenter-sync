@@ -8,8 +8,6 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
-yst_prominent_words_version:
-  - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -67,13 +65,14 @@ Students who successfully complete the program gain g<span id="ctl00_contentPlac
 Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps and a graduation cord.
 <h2><strong>Application Process</strong></h2>
 <ol>
- 	<li><strong>(Coming Soon) </strong>Review the <strong>Application
+ 	<li>Review the <strong><a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/05/PCPP-Student-Guide.pdf">Student Guide</a>
 </strong></li>
- 	<li><strong>(Coming Soon) </strong>Submit an <a href="http://www.umw.joinhandshake.com">Online Application</a>
+ 	<li>Submit an <a href="http://www.umw.joinhandshake.com">Online Application
+</a>
 <ol>
- 	<li>From your homepage, select <em><strong>Search Events</strong></em> on the left-hand menu.</li>
- 	<li>Under <em><strong>E</strong><strong>vent Type</strong></em> select <strong><em>Group Appointment</em></strong>, <strong><em>Peace Corps Prep Application.</em></strong></li>
- 	<li>Then select <em><strong>Join Event </strong></em>and complete the application.</li>
+ 	<li>From your homepage, select <em><strong>Jobs &amp; Internships</strong></em> on the left-hand menu.</li>
+ 	<li>Under <em><strong>Keyword</strong></em> type <strong><em>Peace Corps Prep Application.</em></strong></li>
+ 	<li>Review and complete the application then select <em><strong>Apply Now.</strong></em></li>
 </ol>
 </li>
  	<li>Receive notification of acceptance into the program
@@ -91,7 +90,7 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 <h2><strong>Application Deadlines</strong></h2>
 <h4><span style="color: #000000"><strong>November 14, 2017</strong>:</span> Spring 2018 Cohort      <span style="color: #000000"><strong>March 1, 2018:</strong> </span>Fall 2018 Cohort</h4>
 For assistance with the application process or further information, contact the UMW Peace Corps Prep Coordinator:
-<h6>Kyle Danzey<img class="wp-image-256 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/AAEAAQAAAAAAAATHAAAAJGI1ZjQ5OTk1LTVkYzUtNGFiOC04NzRiLTEzODVhYjdkMDU3OA-300x300.jpeg" alt="" width="133" height="133" /></h6>
+<h6>Kyle Danzey<img class="alignleft wp-image-256" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/AAEAAQAAAAAAAATHAAAAJGI1ZjQ5OTk1LTVkYzUtNGFiOC04NzRiLTEzODVhYjdkMDU3OA-300x300.jpeg" alt="Kyle Danzey, Assistant Director for Career and Professional Development" width="133" height="133" /></h6>
 <h6>Assistant Director for Career and Professional Development</h6>
 <h6><a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a></h6>
 <h6>540-654-1022</h6>
