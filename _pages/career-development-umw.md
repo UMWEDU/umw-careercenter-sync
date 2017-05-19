@@ -5,10 +5,9 @@ author: Shelley Keith
 post_date: 2016-08-16 13:04:44
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/careercenter/
+permalink: >
+  http://umwwebmaster.staging.wpengine.com/careercenter/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
-yst_prominent_words_version:
-  - "1"
 ---
