@@ -6,21 +6,19 @@ post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
 published: true
-yst_prominent_words_version:
-  - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><img class="alignnone wp-image-235" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="309" height="164" /></a>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector. There are <u>six sectors</u> in which Peace Corps Volunteers serve—detailed below. <b><u>Choose one sector to focus on</u> </b>then complete at least 3 courses + 50 hours of related experience in that sector.
 
 [tabby title="Education"]
-<h4><strong><span style="color: #003366;">Education</span></strong></h4>
+<h4><strong><span style="color: #003366">Education</span></strong></h4>
 <img class="size-full wp-image-248 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R1.png" alt="" width="101" height="66" />
-<h6 style="text-align: left;"></h6>
-<h6 style="text-align: left;"></h6>
-<h6 style="text-align: left;"><strong><i><u>If you choose Education, take three courses from one of the following areas</u></i><i>:</i></strong></h6>
+<h6 style="text-align: left"></h6>
+<h6 style="text-align: left"></h6>
+<h6 style="text-align: left"><strong><i><u>If you choose Education, take three courses from one of the following areas</u></i><i>:</i></strong></h6>
 <ul>
  	<li>Education</li>
  	<li>English</li>
@@ -29,7 +27,7 @@ wpcf-home-page-grid-inclusion:
  	<li>Chemistry</li>
 </ul>
 <h6></h6>
-<h6><span style="color: #000000;"><strong><i><u>Recommended courses</u></i><i>:</i></strong></span></h6>
+<h6><span style="color: #000000"><strong><i><u>Recommended courses</u></i><i>:</i></strong></span></h6>
 <ul>
  	<li>EDUC 371 &amp; 373 – Language Development and Literacy Instruction (Primary/Intermediate)</li>
  	<li>EDUC 454 – The Teaching of Foreign Language</li>
@@ -44,7 +42,7 @@ wpcf-home-page-grid-inclusion:
  	<li>CHEM 105 &amp; 106 – Chemistry and Society with Laboratory</li>
  	<li>CHEM 493 – Chemical Outreach</li>
 </ul>
-<h6><i></i><span style="color: #000000;"><strong><i><u>And build 50 hours of </u></i><i><u>related </u></i><i><u>field experience through an activity such as</u></i><i>:</i></strong></span></h6>
+<h6><i></i><span style="color: #000000"><strong><i><u>And build 50 hours of </u></i><i><u>related </u></i><i><u>field experience through an activity such as</u></i><i>:</i></strong></span></h6>
 <ul>
  	<li>Participating in one or more of several regional service opportunities such as (1) local programs for underserved populations at Stafford Junction, Heritage Park, or Bragg Hill, or (2) Catholic Charities Refugee Services.</li>
  	<li>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region such as (1) Bundle of Joy Child Development, (2) the Virginia Museum of Fine Arts, (3) the Smithsonian National Education Outreach program, (4) or completing a supervised practicum experience through the College of Education.</li>
@@ -52,7 +50,7 @@ wpcf-home-page-grid-inclusion:
  	<li>Teaching in one of these or a similar form: in a classroom, with a community outreach organization, or in a formal tutoring capacity. The subject of the teaching may be English as a Foreign/Second Language, special education, drama, or a STEM subject.</li>
 </ul>
 [tabby title="Health"]
-<h4><strong><span style="color: #003366;"> Health</span></strong></h4>
+<h4><strong><span style="color: #003366"> Health</span></strong></h4>
 <img class="size-full wp-image-250 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R3.png" alt="" width="85" height="85" />
 <h6></h6>
 <h6></h6>
@@ -65,7 +63,7 @@ wpcf-home-page-grid-inclusion:
  	<li>Nursing</li>
 </ul>
 <h6></h6>
-<h6><span style="color: #000000;"><strong><i><u>Recommended courses:</u></i></strong></span></h6>
+<h6><span style="color: #000000"><strong><i><u>Recommended courses:</u></i></strong></span></h6>
 <ul>
  	<li><u>BIOL 384 – Human Anatomy </u></li>
  	<li><u>BIOL 385 – Human Physiology</u></li>
@@ -83,11 +81,11 @@ wpcf-home-page-grid-inclusion:
  	<li>Working as a resident advisor in a dormitory, as a peer nutritionist, or as a sexually transmitted infections counselor.</li>
  	<li>Significant experience in mechanical repairs, construction, carpentry, masonry, plumbing, hydrology, or set design.</li>
  	<li>Participating in regional service opportunities such as those at (1) the Moss Free Clinic, Mary Washington Hospital, or the Spotsylvania Medical Center, (2) Fredericksburg Area HIV/AIDS Support Services (FAHASS), or serving as a volunteer EMT at a local Fire and Rescue Unit.</li>
- 	<li>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region <span style="font-family: inherit; font-size: inherit;">such as (1) the Virginia Department of Health, (2) Community of Hope, (3) the U.S. Department of Health and Human Services.</span></li>
+ 	<li>Completing an internship at one of the many organizations and agencies in the Greater Fredericksburg region <span style="font-family: inherit;font-size: inherit">such as (1) the Virginia Department of Health, (2) Community of Hope, (3) the U.S. Department of Health and Human Services.</span></li>
  	<li>Participating in a UMW Abroad Program such as (1) CIEE Dakar, Senegal, (2) CIEE Monteverde, Costa Rica, (3) CIEE Gaborone, Botswana, (4) KEI Bangkok, Thailand, (5) SIT China: Community Health and Traditional Chinese Medicine, (6) SIT Jordan: Refugees, Health and Humanitarian Action, or (7) SIT Madagascar: Traditional Medicine and Healthcare Systems.</li>
 </ul>
 [tabby title="Environment"]
-<h4><strong><span style="color: #003366;"> Environment</span></strong></h4>
+<h4><strong><span style="color: #003366"> Environment</span></strong></h4>
 <img class="size-full wp-image-252 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R5.png" alt="" width="85" height="85" />
 <h6></h6>
 <h6></h6>
@@ -97,12 +95,12 @@ wpcf-home-page-grid-inclusion:
 <ul>
  	<li>Biology</li>
  	<li>Economics</li>
- 	<li>Earth and<span style="font-family: inherit; font-size: inherit;"> Environmental Science</span></li>
- 	<li><span style="font-family: inherit; font-size: inherit;">Geology</span></li>
- 	<li><span style="font-family: inherit; font-size: inherit;">Philosophy</span></li>
- 	<li><span style="font-family: inherit; font-size: inherit;">Sociology</span></li>
+ 	<li>Earth and<span style="font-family: inherit;font-size: inherit"> Environmental Science</span></li>
+ 	<li><span style="font-family: inherit;font-size: inherit">Geology</span></li>
+ 	<li><span style="font-family: inherit;font-size: inherit">Philosophy</span></li>
+ 	<li><span style="font-family: inherit;font-size: inherit">Sociology</span></li>
 </ul>
-<h6><strong style="color: #000000; font-family: inherit; font-size: inherit;"><em><u>Recommended courses</u></em><em>:</em></strong></h6>
+<h6><strong style="color: #000000;font-family: inherit;font-size: inherit"><em><u>Recommended courses</u></em><em>:</em></strong></h6>
 <ul>
  	<li><u>B</u><u>IOL 231 – Botany</u></li>
  	<li><u>BIOL 424 – Tropical Ecology</u></li>
@@ -119,7 +117,7 @@ wpcf-home-page-grid-inclusion:
  	<li><u>PHIL 430 – Ethics, Environment, and Sustainability</u></li>
  	<li><u>SOCG 354 – Environmental Sociology</u></li>
 </ul>
-<h6><strong><span style="color: #003366;"><span style="color: #000000;"><em><u>And build 50 hours of related field experience through an activity such as</u></em><em>:</em></span></span></strong></h6>
+<h6><strong><span style="color: #003366"><span style="color: #000000"><em><u>And build 50 hours of related field experience through an activity such as</u></em><em>:</em></span></span></strong></h6>
 <ul>
  	<li>Educating the public on environmental or conservation issues, or working on environmental campaigns.</li>
  	<li>Conducting biological surveys of plants or animals.</li>
@@ -131,7 +129,7 @@ wpcf-home-page-grid-inclusion:
  	<li>Participating in a UMW Abroad Program such as (1) CIEE Dakar, Senegal, (2) CIEE Gaborone, Botswana, (3) IES Galapagos Islands, Ecuador, (4) KEI Bangkok, Thailand, (5) SIT Ecuador: Comparative Ecology and Conservation, (6) SIT Madagascar: Biodiversity and Natural Resource Management, (7) SIT Mongolia: Geopolitics and the Environment,(8) SIT Panama: Tropical Ecology, Marine Ecosystems, &amp; Biodiversity Conservation, (9) SIT Panama: Tropical Ecology, Marine Ecosystems, and Biodiversity Conservation, (10), SIT Tanzania-­‐Zanzibar: Coastal Ecology &amp; Natural Resource Management, or (11) SIT Tanzania: Wildlife Conservation and Political Ecology.</li>
 </ul>
 [tabby title="Agriculture"]
-<h4><strong><span style="color: #003366;">Agriculture</span></strong></h4>
+<h4><strong><span style="color: #003366">Agriculture</span></strong></h4>
 <img class="size-full wp-image-249 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R2.png" alt="" width="85" height="85" />
 <h6></h6>
 <h6></h6>
@@ -160,7 +158,7 @@ wpcf-home-page-grid-inclusion:
  	<li>Teaching in one of these or a similar form: in a classroom, with a community outreach organization, or in a formal tutoring capacity. The subject of the teaching may be English as a Foreign/Second Language, special education, drama, or a STEM subject</li>
 </ul>
 [tabby title="Youth Development"]
-<h4><span style="color: #003366;"><strong>Youth in Development</strong></span></h4>
+<h4><span style="color: #003366"><strong>Youth in Development</strong></span></h4>
 <img class="size-full wp-image-251 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R4.png" alt="" width="85" height="85" />
 <h6></h6>
 <h6></h6>
@@ -188,7 +186,7 @@ wpcf-home-page-grid-inclusion:
  	<li>Participating in a UMW Abroad Program such as: (1) CIEE Dakar, Senegal, (2) SIT Nicaragua: Youth Culture, Literacy, and Media, or (3) SIT Samoa: Pacific Communities and Social Change.</li>
 </ul>
 [tabby title="Community Economic Development"]
-<h4><span style="color: #003366;"><strong>Community Economic Development</strong></span></h4>
+<h4><span style="color: #003366"><strong>Community Economic Development</strong></span></h4>
 <img class="wp-image-253 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R6.png" alt="" width="85" height="85" />
 <h6></h6>
 <h6></h6>
