@@ -6,7 +6,7 @@ post_date: 2017-05-23 12:30:09
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/peace-corps-prep-program/foreign-language-skills/
+  http://www.umw.edu/careercenter/foreign-language-skills/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
