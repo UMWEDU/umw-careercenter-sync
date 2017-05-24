@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2><a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><strong><img class=" wp-image-235 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="461" height="244" /></strong></a></h2>
+<h2><a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><strong><img class="alignright wp-image-235" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="Peace Corps Prep Logo" width="461" height="244" /></strong></a></h2>
 <h2><strong>About</strong></h2>
 <h2></h2>
 <h2></h2>
@@ -73,7 +73,7 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 <ol>
  	<li>Review the <strong><a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/05/PCPP-Student-Guide.pdf">Student Guide</a>
 </strong></li>
- 	<li>Submit an <a href="https://umw.joinhandshake.com/jobs/762875/share_preview">Online Application </a>in Handshake at https://umw.joinhandshake.com/jobs/762875/share_preview <a href="https://umw.joinhandshake.com/jobs/762875/share_preview">
+ 	<li>Submit an <a href="https://umw.joinhandshake.com/jobs/762875/share_preview">Online Application </a>in Handshake at <a href="https://umw.joinhandshake.com/jobs/762875/share_preview">https://umw.joinhandshake.com/jobs/762875/share_preview </a><a href="https://umw.joinhandshake.com/jobs/762875/share_preview">
 </a>
 <ol>
  	<li>From your homepage, select <em><strong>Jobs &amp; Internships</strong></em> on the left-hand menu.</li>
