@@ -49,6 +49,8 @@ Engaging thoughtfully and fluidly across cultures begins with one’s own self-a
 <a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/intercultural-competence/">See Requirements</a>
 <h4 style="text-align: left"><span style="color: #003366"><strong>Professional and Leadership Development</strong></span></h4>
 Peace Corps service and similar international development work opportunities are highly professional and selective. PC Prep requires <b>three specific activities </b>that will strengthen your candidacy for the Peace Corps (or any other professional endeavor).
+
+<a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/professional-leadership-development/">See Requirements</a>
 <h4 style="text-align: left"><span style="color: #003366"><strong>Foreign Language Skills</strong></span></h4>
 Working across cultures often entails verbal and nonverbal languages distinct from your own. Building foreign language skills is thus a second key component of the PC Prep curriculum.
 
@@ -71,7 +73,7 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 <ol>
  	<li>Review the <strong><a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/05/PCPP-Student-Guide.pdf">Student Guide</a>
 </strong></li>
- 	<li>Submit an <a href="https://umw.joinhandshake.com/jobs/762875/share_preview">Online Application
+ 	<li>Submit an <a href="https://umw.joinhandshake.com/jobs/762875/share_preview">Online Application </a>in Handshake at https://umw.joinhandshake.com/jobs/762875/share_preview <a href="https://umw.joinhandshake.com/jobs/762875/share_preview">
 </a>
 <ol>
  	<li>From your homepage, select <em><strong>Jobs &amp; Internships</strong></em> on the left-hand menu.</li>
