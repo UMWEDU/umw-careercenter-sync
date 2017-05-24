@@ -18,7 +18,7 @@ wpcf-home-page-grid-inclusion:
 </span></strong></h4>
 Have your resume critiqued by someone in the Center for Career and Professional Development.
 
-Schedule an appointment in Handshake at https://umw.joinhandshake.com
+Schedule an appointment in Handshake at <a href="https://umw.joinhandshake.com">https://umw.joinhandshake.com</a>
 <p style="margin: 0in;margin-bottom: .0001pt">Center for Career and Professional Development</p>
 <p style="margin: 0in;margin-bottom: .0001pt">2nd Floor, University Center</p>
 <p style="margin: 0in;margin-bottom: .0001pt">ccpd@umw.edu</p>
@@ -29,7 +29,7 @@ Schedule an appointment in Handshake at https://umw.joinhandshake.com
 </span></strong></h4>
 Attend a workshop or class on interview skills at the Center for Career and Professional Development.
 
-Schedule an appointment in Handshake at https://umw.joinhandshake.com
+Schedule an appointment in Handshake at <a href="https://umw.joinhandshake.com">https://umw.joinhandshake.com</a>
 <p style="margin: 0in;margin-bottom: .0001pt">Center for Career and Professional Development</p>
 <p style="margin: 0in;margin-bottom: .0001pt">2nd Floor, University Center</p>
 <p style="margin: 0in;margin-bottom: .0001pt">ccpd@umw.edu</p>
