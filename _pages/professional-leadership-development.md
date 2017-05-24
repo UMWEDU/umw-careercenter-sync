@@ -6,7 +6,7 @@ post_date: 2017-05-24 11:07:04
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/professional-leadership-development/
+  http://www.umw.edu/careercenter/students/peace-corps-prep-program/professional-leadership-development/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
