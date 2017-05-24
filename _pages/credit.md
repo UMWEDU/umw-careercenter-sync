@@ -8,10 +8,6 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/students/internships/credit/
 published: true
-yst_prominent_words_version:
-  - "1"
-yst_is_cornerstone:
-  - ""
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -38,8 +34,8 @@ Interested in doing an internship for credit? Follow the steps below.
  	<li>You must be degree-seeking at The University of Mary Washington.</li>
  	<li>You must have at least 12 credit hours earned at UMW or have earned an Associate’s Degree.</li>
  	<li>You must have a G.P.A. of 2.0 or better at the start of the semester in which the internship occurs.</li>
- 	<li>International students with F-1 or J-1 visa status must see the international student advisor in the Center for International Education (CIE) to make certain they are eligible for internships/employment.</li>
- 	<li>If you are seeking an internship abroad, you should contact the Center for International Education prior to seeking academic credit.</li>
+ 	<li>International students with F-1 or J-1 visa status must see the international student advisor in the <a href="http://international.umw.edu/study-abroad-2/program-search/internships-abroad-2/">Center for International Education (CIE)</a> to make certain they are eligible for internships/employment.</li>
+ 	<li>If you are seeking an internship abroad, you should contact the <a href="http://international.umw.edu/study-abroad-2/program-search/internships-abroad-2/">Center for International Education</a> prior to seeking academic credit.</li>
  	<li>Adding or dropping an internship is not completed until the Registrar's Office has been contacted by you and the request has been processed. You are responsible for verifying that your internship has been added or dropped and the information on your schedule is correct.</li>
  	<li>Academic internships which will result in registration for more than 18 credit hours (an overload) must be approved by Academic Services prior to the internship being added to your schedule (note: additional fees will apply).</li>
  	<li>Credit awarded is based on hours worked. You must complete the required minimum hours during the course of the semester in order to receive credit:</li>
