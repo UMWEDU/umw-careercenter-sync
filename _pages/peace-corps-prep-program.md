@@ -45,12 +45,16 @@ Complete at least 3 courses that align with a specific work sector (they can but
 <a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/">See Requirements</a>
 <h4 style="text-align: left"><strong><span style="color: #003366">Intercultural Competence</span></strong></h4>
 Engaging thoughtfully and fluidly across cultures begins with one’s own self-awareness. With this learning objective, you will deepen your cultural agility through a mix of three introspective courses in which you learn about others while reflecting upon your own self in relation to others.The goal is for you to build your capacity to shift perspective and behavior around relevant cultural differences.
+
+<a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/intercultural-competence/">See Requirements</a>
 <h4 style="text-align: left"><span style="color: #003366"><strong>Professional and Leadership Development</strong></span></h4>
 Peace Corps service and similar international development work opportunities are highly professional and selective. PC Prep requires <b>three specific activities </b>that will strengthen your candidacy for the Peace Corps (or any other professional endeavor).
 <h4 style="text-align: left"><span style="color: #003366"><strong>Foreign Language Skills</strong></span></h4>
 Working across cultures often entails verbal and nonverbal languages distinct from your own. Building foreign language skills is thus a second key component of the PC Prep curriculum.
 
 <i>Where would you like to serve? </i>PC Prep minimum course requirements align with those needed by applicants to the Peace Corps itself, which vary by linguistic region.
+
+<a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/foreign-language-skills/">See Requirements</a>
 <h2><strong>Eligibility</strong></h2>
 <ul>
  	<li>Be a UMW degree-seeking student.</li>
