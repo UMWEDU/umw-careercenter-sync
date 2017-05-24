@@ -6,7 +6,7 @@ post_date: 2016-08-22 11:57:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://orgsync.com/139324/events?view=upcoming
+  http://at.umw.edu/calendar/action~posterboard/tag_ids~144/request_format~html/
 published: true
 wpcf-homepage-copy:
   - Events
