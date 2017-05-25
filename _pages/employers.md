@@ -8,10 +8,6 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/employers/
 published: true
-yst_prominent_words_version:
-  - "1"
-yst_is_cornerstone:
-  - ""
 wpcf-home-page-grid-inclusion:
   - "1"
 wpcf-homepage-copy:
@@ -19,6 +15,7 @@ wpcf-homepage-copy:
     Connect with the UMW community to help build the future of your organization. From internships to job fairs and beyond, the CCPD has you covered.
     <ul>
     <li><a href="https://www.umw.edu/careercenter/employers/internships/">Internships</a> - what you need to know.</li>
+    <li><a href="https://www.umw.edu/careercenter/handshake/">Learn more about Handshake</a></li>
     <li><a href="https://umw.joinhandshake.com/employer_registrations/new">Post a job or internship</a> (Handshake)</li>
     <li><a href="https://www.umw.edu/careercenter/employers/policies-guidelines/">Policies &amp; Guidelines</a></li>
     </ul>
