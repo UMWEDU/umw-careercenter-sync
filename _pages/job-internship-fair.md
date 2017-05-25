@@ -20,7 +20,7 @@ A few updates this year:
  	<li>The fees are as follows:
 <ul>
  	<li>For-Profit Organizations: $200 for two representatives</li>
- 	<li>Graduate Schools: $200 for two representatives</li>
+ 	<li>Graduate Schools (by invite only): $200 for two representatives</li>
  	<li>Non-Profit Organizations: $50 for two representatives</li>
  	<li>$25 per additional representative</li>
 </ul>
