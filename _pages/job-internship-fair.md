@@ -20,11 +20,12 @@ A few updates this year:
  	<li>The fees are as follows:
 <ul>
  	<li>For-Profit Organizations: $200 for two representatives</li>
+ 	<li>Graduate Schools: $200 for two representatives</li>
  	<li>Non-Profit Organizations: $50 for two representatives</li>
  	<li>$25 per additional representative</li>
 </ul>
 </li>
- 	<li>The UMW Career Center is now using <a href="http://www.umw.edu/careercenter/handshake/">HANDSHAKE!</a>  - You must be registered in Handshake in order to register for the fair. We will send invites to the fair as the date gets closer</li>
+ 	<li>The UMW Career Center is now using <a href="http://www.umw.edu/careercenter/handshake/">HANDSHAKE!</a>  - Employing organizations be registered in Handshake in order to register for the fair. We will send invites to the fair as the date gets closer</li>
 </ul>
 Questions? Please contact Rose Maddox, rwagner@umw.edu.
 
