@@ -28,7 +28,7 @@ Appointment types include:
 Appointment hours are Monday through Friday, 9 a.m. to 5 p.m. Please review your confirmation email regarding the location of your appointment.
 <h3>To book an appointment:</h3>
 <ul>
- 	<li><a href="http://www.genbook.com/bookings/slot/reservation/30063859?bookingContactId=2143514385&amp;category=1357059448">Book Online</a></li>
+ 	<li><a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">Book Online through your Handshake profile</a></li>
  	<li>Call our office at 540-654-5646.</li>
  	<li>Email us at <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>.</li>
 </ul>
