@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=jB-zmARNSnE
  	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">What is Handshake?</a></li>
  	<li><a href="https://www.umw.edu/careercenter/handshake-student-action-steps/">Action Steps</a></li>
  	<li><a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Step-by-Step Guides</a></li>
- 	<li><a href="https://umw.joinhandshake.com/register">Access Handshake</a></li>
+ 	<li><a href="https://umw.joinhandshake.com/register">Access Handshake  - Use your UMW log-in information</a></li>
 </ul>
 </section><section class="info-section">
 <h2 class="info-section-headline"><strong><span style="color: #fdce4a"><img class="wp-image-174 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/Employers.png" alt="" width="100" height="100" /></span></strong></h2>
