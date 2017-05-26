@@ -8,10 +8,6 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/handshake/
 published: true
-yst_prominent_words_version:
-  - "1"
-yst_is_cornerstone:
-  - ""
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -19,9 +15,7 @@ wpcf-home-page-grid-inclusion:
 <div class="content-main"></div>
 <div class="content-main"></div>
 <div class="content-main"></div>
-
 https://www.youtube.com/watch?v=jB-zmARNSnE
-
 <div class="content-main">In the summer of 2017 we will replace our Employ-An-Eagle system with <a href="https://www.joinhandshake.com/">Handshake</a>. This change allows us to provide our community of users with access to a brand new, state of the art system. This website provides you with important information, deadlines, and transition updates. We're also building out self-service training and tips under the name Handshake Hints ... so check back often for all the latest updates!</div>
 <div class="content-main"></div>
 <div class="content-main">
@@ -56,6 +50,7 @@ Information for employers and recruiters all about the Handshake system.
  	<li><a href="https://www.umw.edu/careercenter/employers/handshake/handshake-information-updates/">What is Handshake?</a></li>
  	<li><a href="https://www.umw.edu/careercenter/handshake-employer-action-steps/">Action Steps</a></li>
  	<li><a href="https://support.joinhandshake.com/hc/en-us/categories/202707307-Employer">Step-by-Step Guides</a></li>
+ 	<li><a href="https://www.umw.edu/careercenter/employers/policies-guidelines/">Recruiting Policies and Guidelines</a></li>
  	<li><a href="https://umw.joinhandshake.com/employer_registrations/new">Access Handshake</a></li>
 </ul>
 </section><section class="info-section">
