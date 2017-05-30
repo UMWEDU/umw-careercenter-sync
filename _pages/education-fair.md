@@ -6,10 +6,8 @@ post_date: 2017-02-02 14:29:41
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/employers/education-fair/
+  http://www.umw.edu/careercenter/education-fair/
 published: true
-yst_prominent_words_version:
-  - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -26,7 +24,7 @@ The  Education Fair offers you the opportunity to discuss employment options wi
 
 This cost includes a six foot table for displays and marketing materials, two chairs, promotion on our website and throughout the University, wireless capabilities, electrical outlet access, if requested/available, and refreshments during the fair.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdMRJdvm08n6-bjV901wF2SSP4ZgXwlxEThxH9TDUbsgYCf8Q/viewform" target="_blank" rel="nofollow">Please click here</a> for more information and to register.
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdMRJdvm08n6-bjV901wF2SSP4ZgXwlxEThxH9TDUbsgYCf8Q/viewform" target="_blank" rel="nofollow noopener noreferrer">Please click here</a> for more information and to register.
 
 <strong>Schools Attending
 </strong>
