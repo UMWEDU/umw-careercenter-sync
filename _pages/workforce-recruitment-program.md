@@ -6,7 +6,7 @@ post_date: 2016-10-05 15:17:51
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/workforce-recruitment-program/
+  http://www.umw.edu/careercenter/workforce-recruitment-program/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
