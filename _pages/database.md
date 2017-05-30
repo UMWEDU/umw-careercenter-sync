@@ -1,8 +1,6 @@
 ---
 ID: 66
-post_title: >
-  Job/Internship Database
-  (Employ-An-Eagle)
+post_title: Job/Internship Database (Handshake)
 author: Shelley Keith
 post_date: 2016-08-22 10:10:22
 post_excerpt: ""
