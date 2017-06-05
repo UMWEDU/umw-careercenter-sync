@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=jB-zmARNSnE
 </ul>
 </div>
 <div class="content-main">
-<h2 class="info-section-headline"><strong><span style="color: #fdce4a">For Students<img class="wp-image-176 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/students-300x192.png" alt="" width="240" height="154" /></span></strong></h2>
+<h2>For Students<img class="wp-image-176 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/students-300x192.png" alt="" width="240" height="154" /></h2>
 <p class="info-section-headline">Information for UMW students about the all new Handshake system!</p>
 
 <section class="info-section">
@@ -39,8 +39,8 @@ https://www.youtube.com/watch?v=jB-zmARNSnE
  	<li><a href="https://umw.joinhandshake.com/register">Access Handshake  - Use your UMW log-in information</a></li>
 </ul>
 </section><section class="info-section">
-<h2 class="info-section-headline"><strong><span style="color: #fdce4a"><img class="wp-image-174 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/Employers.png" alt="" width="100" height="100" /></span></strong></h2>
-<h2 class="info-section-headline"><strong><span style="color: #fdce4a">For Employers</span></strong></h2>
+<h2><img class="wp-image-174 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/Employers.png" alt="" width="100" height="100" /></h2>
+<h2>For Employers</h2>
 <div class="info-section-text">
 
 Information for employers and recruiters all about the Handshake system.
@@ -54,7 +54,7 @@ Information for employers and recruiters all about the Handshake system.
  	<li><a href="https://umw.joinhandshake.com/register">Access Handshake</a></li>
 </ul>
 </section><section class="info-section">
-<h2 class="info-section-headline"><strong><span style="color: #fdce4a">For Alumni<img class=" wp-image-175 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/Universities-.png" alt="" width="115" height="115" /></span></strong></h2>
+<h2>For Alumni<img class=" wp-image-175 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/Universities-.png" alt="" width="115" height="115" /></h2>
 <div class="info-section-text">
 
 Information for UMW alumni about the new Handshake system.
@@ -67,8 +67,7 @@ Information for UMW alumni about the new Handshake system.
  	<li><a href="https://umw.joinhandshake.com/register">Access Handshake</a></li>
 </ul>
 </section><section class="info-section">
-<h2 class="info-section-headline"><strong><span style="color: #fdce4a">For The UMW Community
-</span></strong></h2>
+<h2>For The UMW Community</h2>
 <div class="info-section-text">
 
 Information for members of the UMW community about our implementation of Handshake.
@@ -79,7 +78,7 @@ Information for members of the UMW community about our implementation of Handsha
  	<li><a href="https://www.umw.edu/careercenter/employers/policies-guidelines/">Recruiting Policies and Guidelines</a></li>
 </ul>
 </section><section class="info-section">
-<h2 class="info-section-headline"><strong><span style="color: #fdce4a">General Project Information</span></strong></h2>
+<h2>General Project Information</h2>
 <div class="info-section-text">
 
 Meet our transition team and learn more about the new Handshake system. This section will also include other, general updates for the communities we serve.
