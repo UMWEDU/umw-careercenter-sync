@@ -6,7 +6,7 @@ post_date: 2016-08-22 11:57:47
 post_excerpt: ""
 layout: page
 permalink: >
-  http://at.umw.edu/calendar/action~posterboard/tag_ids~144/request_format~html/
+  http://at.umw.edu/calendar/action~posterboard/request_format~html/tag_ids~144/
 published: true
 wpcf-homepage-copy:
   - Events
