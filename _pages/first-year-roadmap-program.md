@@ -19,8 +19,6 @@ wpcf-home-page-grid-inclusion:
 
 <strong>PROGRAMMATIC ELEMENTS:</strong>
 
-&nbsp;
-
 <strong>Introductory meeting</strong> (November)
 
 <strong>Goal</strong>: To gather information and build a relationship with your coach
@@ -31,8 +29,6 @@ wpcf-home-page-grid-inclusion:
 
 <strong>Discuss</strong>: Customized Winter Break action plan (This will vary by student. Recommended elements include: volunteer work, job shadow, social media clean-up, etc.)
 
-&nbsp;
-
 <strong>Assessment Review</strong> ( January, immediately after winter break)
 
 <strong>Goal: </strong>Discuss assessment results and focus on possible career options
@@ -40,8 +36,6 @@ wpcf-home-page-grid-inclusion:
 <strong>Activity:</strong> Review results and identify three career interests
 
 <strong>Homework:</strong> Research careers of interest, conduct an informational interview with one professional in each identified field
-
-&nbsp;
 
 <strong>Career Research Meeting</strong> (February/March)
 
@@ -58,8 +52,6 @@ wpcf-home-page-grid-inclusion:
 <strong>-</strong>Internship opportunities for summer/next academic year
 
 <strong>Homework:</strong> Develop the above three items &amp; start to research internships
-
-&nbsp;
 
 <strong>Career Readiness/End of Year Meeting </strong>(March/April)
 
