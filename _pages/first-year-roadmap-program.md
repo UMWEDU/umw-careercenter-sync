@@ -20,45 +20,29 @@ wpcf-home-page-grid-inclusion:
 <strong>PROGRAMMATIC ELEMENTS:</strong>
 
 <strong>Introductory meeting</strong> (November)
-
-<strong>Goal</strong>: To gather information and build a relationship with your coach
-
-<strong>Activity</strong>: Discuss your background, interests, goals
-
-<strong>Homework</strong>: Complete at least one formal career assessment (FOCUS 2)
-
-<strong>Discuss</strong>: Customized Winter Break action plan (This will vary by student. Recommended elements include: volunteer work, job shadow, social media clean-up, etc.)
-
+<ul>
+ 	<li><strong>Goal</strong>: To gather information and build a relationship with your coach</li>
+ 	<li><strong>Activity</strong>: Discuss your background, interests, goals</li>
+ 	<li><strong>Homework</strong>: Complete at least one formal career assessment (FOCUS 2)</li>
+ 	<li><strong>Discuss</strong>: Customized Winter Break action plan (This will vary by student. Recommended elements include: volunteer work, job shadow, social media clean-up, etc.)</li>
+</ul>
 <strong>Assessment Review</strong> ( January, immediately after winter break)
-
-<strong>Goal: </strong>Discuss assessment results and focus on possible career options
-
-<strong>Activity:</strong> Review results and identify three career interests
-
-<strong>Homework:</strong> Research careers of interest, conduct an informational interview with one professional in each identified field
-
+<ul>
+ 	<li><strong>Goal: </strong>Discuss assessment results and focus on possible career options</li>
+ 	<li><strong>Activity:</strong> Review results and identify three career interests</li>
+ 	<li><strong>Homework:</strong> Research careers of interest, conduct an informational interview with one professional in each identified field</li>
+</ul>
 <strong>Career Research Meeting</strong> (February/March)
-
-<strong>Goal: </strong>Discuss career research results and develop customized career plan
-
-<strong>Activity:</strong> Cover the following topics:
-
-<strong>-</strong>Resume writing
-
-<strong>-</strong>Cover letter writing
-
-<strong>-</strong>Elevator pitch
-
-<strong>-</strong>Internship opportunities for summer/next academic year
-
-<strong>Homework:</strong> Develop the above three items &amp; start to research internships
-
+<ul>
+ 	<li><strong>Goal: </strong>Discuss career research results and develop customized career plan</li>
+ 	<li><strong>Activity:</strong> Cover the following topics: Resume writing, Cover letter writing, Elevator pitch, Internship opportunities for summer/next academic year</li>
+ 	<li><strong>Homework:</strong> Develop the above three items &amp; start to research internships</li>
+</ul>
 <strong>Career Readiness/End of Year Meeting </strong>(March/April)
-
-<strong>Goal</strong>: Learn more about the factors that comprise career readiness and how what you can do while at UMW to attain the “career ready” status upon graduation
-
-<strong>Activities</strong>:  Review resume and cover letter and discuss components of career readiness and discuss methods of integrating into the next three years
-
+<ul>
+ 	<li><strong>Goal</strong>: Learn more about the factors that comprise career readiness and how what you can do while at UMW to attain the “career ready” status upon graduation</li>
+ 	<li><strong>Activities</strong>:  Review resume and cover letter and discuss components of career readiness and discuss methods of integrating into the next three years</li>
+</ul>
 To apply, please complete the form below:
 
 [gravityform id="8" title="true" description="true"]
