@@ -8,10 +8,6 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/students/
 published: true
-yst_prominent_words_version:
-  - "1"
-yst_is_cornerstone:
-  - ""
 wpcf-home-page-grid-inclusion:
   - "1"
 wpcf-homepage-copy:
@@ -20,7 +16,7 @@ wpcf-homepage-copy:
     <ul>
     <li><a href="https://www.umw.edu/careercenter/events/">Upcoming Events</a></li>
     <li><a href="https://www.umw.edu/careercenter/students/internships/">Internships</a> - getting started</li>
-    <li><a href="http://umw-csm.symplicity.com/students/index.php">Job/Internship Database</a> (Employ-An-Eagle)</li>
+    <li><a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">Job/Internship Database</a> (Handshake - use your UMW email address and password)</li>
     <li><a href="https://www.umw.edu/careercenter/students/toolkit/">Toolkit</a></li>
     </ul>
 ---
