@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<strong>WHAT: </strong>This is a career coaching program focused on career exploration. It will set you on the road to career and professional readiness. Space is limited and participation is by application only. Applications are due _____. The program will begin in __________ and end in April 2018.
+<strong>WHAT: </strong>This is a career coaching program focused on career exploration. It will set you on the road to career and professional readiness. Space is limited and participation is by application only. Applications are due August 1. The program will begin in November 2017 and end in April 2018.
 
 <strong>YOUR COMMITMENT: </strong>All participants must agree that this is a high-value opportunity requiring commitment, active involvement, and follow-through. In additional completing regular homework essential to the success of the program, you agree to (1) four coaching sessions, (2) participation in at least two programs or workshops offered by the Center for Career and Professional Development and (3) attendance at the spring Job and Internship Fair (4) attendance at the culminating Etiquette Dinner.
 
@@ -59,6 +59,8 @@ wpcf-home-page-grid-inclusion:
 
 <strong>Activities</strong>:  Review resume and cover letter and discuss components of career readiness and discuss methods of integrating into the next three years
 
-&nbsp;
+To apply, please complete the form below:
+
+[gravityform id="8" title="true" description="true"]
 
 &nbsp;
