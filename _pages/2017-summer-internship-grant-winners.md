@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/careercenter/students/internships/2017-summer-internship-grant-winners/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <strong>Angie Thomson- c/o 2018</strong>
 
@@ -21,15 +23,17 @@ Boston, MA
 
 <strong>Claire Goode- c/o 2018</strong>
 
-&nbsp;
+History &amp; English Major
 
-&nbsp;
+Smithsonian National Museum of American History
+
+Washington DC
 
 &nbsp;
 
 <strong>Gregory Geruardi- c/o 2018</strong>
 
-Psychology
+Psychology Major
 
 Audubon Nature Institute
 
@@ -41,7 +45,7 @@ New Orleans, LA
 
 <strong>Thomas Lanier- c/o 2018</strong>
 
-Communication and Digital Studies
+Communication and Digital Studies Major
 
 Art-Is-In
 
@@ -53,7 +57,7 @@ Stafford, VA
 
 <strong>Carly Shapiro- c/o 2019</strong>
 
-Business Administration
+Business Administration Major
 
 Theater J
 
@@ -63,7 +67,7 @@ Washington, DC
 
 <strong>Tess Marie Burroughs- c/o 2019</strong>
 
-English
+English Major
 
 U.S. Fish and Wildlife Service
 
@@ -77,7 +81,7 @@ Laurel, MD
 <h3><strong>Sustainability Grant Winner: </strong></h3>
 <strong>Elizabeth Hiatt- c/o 2018</strong>
 
-Sociology
+Sociology Major
 
 Virginia Student Environmental Coalition
 
