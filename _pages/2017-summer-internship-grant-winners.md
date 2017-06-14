@@ -55,7 +55,7 @@ Stafford, VA
 
 &nbsp;
 
-<strong>Carly Shapiro- c/o 2019</strong>
+<strong>Carly Shapiro- c/o 2018</strong>
 
 Business Administration Major
 
