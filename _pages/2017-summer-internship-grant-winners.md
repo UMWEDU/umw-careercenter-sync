@@ -31,7 +31,7 @@ Washington DC
 
 &nbsp;
 
-<strong>Gregory Geruardi- c/o 2018</strong>
+<strong>Gregory Genuardi c/o 2018</strong>
 
 Psychology Major
 
