@@ -11,7 +11,7 @@ published: true
 ---
 Has anyone ever asked you or have you thought about attending a professional conference in your field? No? Why?! I know there can be a lot of anxieties and logistical concerns for a student, but don’t let that stop you! These were some of my fears about attending a conference; sound familiar?
 
-<img class="wp-image-341 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Picture-5-169x300.png" alt="A classmate and me at a free one day symposium in Northern Virginia. (Mount Vernon Regional History and GIS Symposium 2016)" width="259" height="459" />
+<img class="wp-image-341 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Picture-5-169x300.png" alt="A classmate and me at a free one day symposium in Northern Virginia. (Mount Vernon Regional History and GIS Symposium 2016)" width="259" height="459" />
 <ol>
  	<li><em>I don’t think there are many conferences for my field. </em></li>
  	<li><em>They are probably expensive and definitely too far away. </em></li>
@@ -24,9 +24,9 @@ You may be surprised to find that most of these are untrue. During my two years 
 
 <strong>Are there conferences in my field?</strong>
 
-100% Yes. Everything you could possibly study has a professional network that will meet at conferences to share their work with peers. There are international, national, regional, state, and local groups so you can start at a size and formality level comfortable for you. <img class="wp-image-342 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Picture-6-290x300.png" alt="This conference in Durham, North Carolina was free for me and the three students who attended through the conference’s student scholarship (Vernacular Architecture Forum 2016)" width="274" height="284" />
+100% Yes. Everything you could possibly study has a professional network that will meet at conferences to share their work with peers. There are international, national, regional, state, and local groups so you can start at a size and formality level comfortable for you.
 
-<em>Tip: Look for symposiums, annual meetings showcases, and meetups too. </em>
+<em>Tip: Look for symp</em><em>osiums, annual meetings showcases, and meetups too. </em>
 
 <strong>Will there be conferences around here?</strong>
 
@@ -48,7 +48,9 @@ That is up to you. You are never required to attend the entirety of a conference
 
 Not in the way you think. Networking is one of the biggest concerns students have and it is not the bad word you think it is. A network is just a safety net of peers in your field who you can reach out to for advice, information, and opportunities. You do not have to be a natural socialite because you probably already share a common interest in your field that can help easily start a conversation. Some techniques include chatting with the people sitting next to you or congratulating a speaker on their paper if it is something that interests you.
 
-<em>Tip: Print business cards. I printed out well over a hundred cards and have passed all of them out by the time I graduated. Conferences are a great way to get your name out there. Write something on the card to remind them where they met you, or maybe a note about your conversation. Always try to follow up by email after the conference to build and maintain a relationship.</em><img class="size-medium wp-image-343 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Picture-7-300x206.png" alt="My first conference presentation along with classmates and alumni. (Middle Atlantic Archaeology Conference 2017)." width="300" height="206" />
+<em>Tip: Print business cards. I printed out well over a hundred cards and have passed all of them out by the time I graduated. Conferences are a great way to get your name out there. Write something on the card to remind them where they met you, or maybe a note about your conversation. Always try to follow up by email after the conference to build and maintain a relationship.</em>
+
+<img class=" wp-image-343 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Picture-7-300x206.png" alt="My first conference presentation along with classmates and alumni. (Middle Atlantic Archaeology Conference 2017)." width="320" height="220" />
 
 <strong>Can students contribute to the conference?</strong>
 
@@ -58,11 +60,7 @@ Of course, you are the future of your field and your insight and work in the fie
 
 I hope you can see how attending a conference is an important next step in your career. It will help you know your peers and stay up to date on current research. Attending conferences was instrumental to making me feel secure in my future. Conferences introduced me to my summer internship as a geospatial information system (GIS) technician with the cultural resource management department of the international engineering firm AECOM. It gave me the opportunity to be a volunteer illustrator with Archaeology in the Community. You too will benefit from going to a conference, so why wait?
 
-&nbsp;
-
-<img class="wp-image-344 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Mel-300x300.jpg" alt="Student" width="271" height="271" />
-
-&nbsp;
+<img class="wp-image-344 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Mel-300x300.jpg" alt="Student" width="200" height="200" />
 
 &nbsp;
 
@@ -73,8 +71,6 @@ UMW Alumni ‘17
 B.A. Historic Preservation and Certificate GIS
 
 LinkedIn: https://www.linkedin.com/in/melanie-fuechsel-8b28ba60
-
-&nbsp;
 
 &nbsp;
 
