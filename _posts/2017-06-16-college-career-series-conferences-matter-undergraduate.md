@@ -60,17 +60,7 @@ Of course, you are the future of your field and your insight and work in the fie
 
 I hope you can see how attending a conference is an important next step in your career. It will help you know your peers and stay up to date on current research. Attending conferences was instrumental to making me feel secure in my future. Conferences introduced me to my summer internship as a geospatial information system (GIS) technician with the cultural resource management department of the international engineering firm AECOM. It gave me the opportunity to be a volunteer illustrator with Archaeology in the Community. You too will benefit from going to a conference, so why wait?
 
-<img class="wp-image-344 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Mel-300x300.jpg" alt="Student" width="200" height="200" />
-
-&nbsp;
-
-Melanie Fuechsel
-
-UMW Alumni ‘17
-
-B.A. Historic Preservation and Certificate GIS
-
-LinkedIn: https://www.linkedin.com/in/melanie-fuechsel-8b28ba60
+[caption id="attachment_344" align="alignleft" width="221"]<img class="wp-image-344" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Mel-300x300.jpg" alt="Student" width="221" height="221" /> Melanie Fuechsel UMW Alumni ‘17 B.A. Historic Preservation and Certificate GIS LinkedIn: https://www.linkedin.com/in/melanie-fuechsel-8b28ba60[/caption]
 
 &nbsp;
 
@@ -79,5 +69,3 @@ LinkedIn: https://www.linkedin.com/in/melanie-fuechsel-8b28ba60
 <em>A special thank you to the Historic Preservation and Geography departments, who showed me their commitment to student success by sponsoring my attendance at almost all of the conferences I highlighted in this article. I could not have done it without them.</em>
 
 UMW students and faculty pictured: Emma Spear ’18, Courtney Kuzemchek ’17, Sarah Rodgers ’17, Professor Henry, Sam Biggers ’16, Michelle Finnegan ‘17, Ian Purcell ’18, Kara Saffos ’15, Cheyenne Johnson ’18, Alison Cramer ‘16, Professor McMillan, Morgan Fries ’18, and Elyse Adams ’16.
-
-&nbsp;
