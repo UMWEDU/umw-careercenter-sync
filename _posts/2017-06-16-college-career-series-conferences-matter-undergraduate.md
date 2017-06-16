@@ -62,8 +62,6 @@ I hope you can see how attending a conference is an important next step in your 
 
 [caption id="attachment_344" align="alignleft" width="221"]<img class="wp-image-344" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Mel-300x300.jpg" alt="Student" width="221" height="221" /> Melanie Fuechsel UMW Alumni ‘17 B.A. Historic Preservation and Certificate GIS LinkedIn: https://www.linkedin.com/in/melanie-fuechsel-8b28ba60[/caption]
 
-&nbsp;
-
 <strong>More questions?</strong> Visit the Career Center in the University Center, Suite 206 or contact them at by email at ccpd@umw.edu or via phone 540-654-5646
 
 <em>A special thank you to the Historic Preservation and Geography departments, who showed me their commitment to student success by sponsoring my attendance at almost all of the conferences I highlighted in this article. I could not have done it without them.</em>
