@@ -41,9 +41,7 @@ Not in the way you think. Networking is one of the biggest concerns students hav
 <em>Tip: Print business cards. I printed out well over a hundred cards and have passed all of them out by the time I graduated. Conferences are a great way to get your name out there. Write something on the card to remind them where they met you, or maybe a note about your conversation. Always try to follow up by email after the conference to build and maintain a relationship.</em>
 
 <img class=" wp-image-343 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Picture-7-300x206.png" alt="My first conference presentation along with classmates and alumni. (Middle Atlantic Archaeology Conference 2017)." width="320" height="220" />
-
-<strong>Can students contribute to the conference?</strong>
-
+<h3><strong>Can students contribute to the conference?</strong></h3>
 Of course, you are the future of your field and your insight and work in the field matter more than you may think. There are opportunities for students to create and present posters to start sharing your work with other professionals, some with prizes and the possibility for publication. Presenting is not just for graduate students and UMW has grants available to help cover costs for students who are presenting. Most professionals recognize this and take pride in helping the next generation navigate conferences and can give you a step up in your conference game.
 
 <em>Tip: Tap into the network you already have professors and classmate if they are willing to introduce you to anyone they know at a conference. These are the easiest connections to make and will remind you of your importance to the field as a rising professional.</em>
