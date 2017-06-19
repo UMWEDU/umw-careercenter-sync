@@ -57,3 +57,17 @@ I hope you can see how attending a conference is an important next step in your 
 UMW students and faculty pictured: Emma Spear ’18, Courtney Kuzemchek ’17, Sarah Rodgers ’17, Professor Henry, Sam Biggers ’16, Michelle Finnegan ‘17, Ian Purcell ’18, Kara Saffos ’15, Cheyenne Johnson ’18, Alison Cramer ‘16, Professor McMillan, Morgan Fries ’18, and Elyse Adams ’16.
 
 Melanie Fueschsel's LinkedIn: <a href="https://www.linkedin.com/in/melanie-fuechsel-8b28ba60">www.linkedin.com/in/melanie-fuechsel-8b28ba60 </a>
+<h3><strong>Resources</strong></h3>
+<h3><strong>College of Art and Sciences</strong></h3>
+Undergraduate Research in the Liberal Arts and Sciences: <a href="http://cas.umw.edu/undergraduate-research-in-the-liberal-arts-and-sciences/">http://cas.umw.edu/undergraduate-research-in-the-liberal-arts-and-sciences/</a>
+<h3><strong>College of Education</strong></h3>
+Student Organizations: <a href="http://education.umw.edu/student-resources/student-organizations/">http://education.umw.edu/student-resources/student-organizations/</a>
+
+Student Research Funding: <a href="http://education.umw.edu/student-resources/student-research-funding/">http://education.umw.edu/student-resources/student-research-funding/ </a>
+<h3><strong>College of Business</strong></h3>
+Student Research Grants: <a href="http://business.umw.edu/current-students/student-opportunities/student-research-grants/">http://business.umw.edu/current-students/student-opportunities/student-research-grants/ </a>
+
+&nbsp;
+
+&nbsp;
+<p class="entry-title"></p>
