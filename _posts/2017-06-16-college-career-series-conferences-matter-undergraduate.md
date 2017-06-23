@@ -48,7 +48,7 @@ Of course, you are the future of your field and your insight and work in the fie
 
 I hope you can see how attending a conference is an important next step in your career. It will help you know your peers and stay up to date on current research. Attending conferences was instrumental to making me feel secure in my future. Conferences introduced me to my summer internship as a geospatial information system (GIS) technician with the cultural resource management department of the international engineering firm AECOM. It gave me the opportunity to be a volunteer illustrator with Archaeology in the Community. You too will benefit from going to a conference, so why wait?
 
-[caption id="attachment_344" align="alignleft" width="231"]<img class="wp-image-344" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Mel-300x300.jpg" alt="Melanie Fuechsel UMW Alumni ‘17 B.A. Historic Preservation and Certificate GIS " width="231" height="231" /> Melanie Fuechsel UMW Alumni ‘17 B.A. Historic Preservation and Certificate Geographic Information Science (GIS)[/caption]
+[caption id="attachment_344" align="alignleft" width="231"]<img class="wp-image-344" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Mel-300x300.jpg" alt="Melanie Fuechsel UMW Alumni ‘17 B.A. Historic Preservation and Certificate GIS " width="231" height="231" /> Melanie Fuechsel ‘17 B.A. Historic Preservation and Certificate Geographic Information Science (GIS)[/caption]
 
 <strong>More questions?</strong> Visit the Career Center in the University Center, Suite 206 or contact them at by email at ccpd@umw.edu or via phone 540-654-5646
 
