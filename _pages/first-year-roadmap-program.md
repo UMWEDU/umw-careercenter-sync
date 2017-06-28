@@ -15,9 +15,9 @@ wpcf-home-page-grid-inclusion:
 
 <strong>YOUR COMMITMENT: </strong>All participants must agree that this is a high-value opportunity requiring commitment, active involvement, and follow-through. In additional completing regular homework essential to the success of the program, you agree to (1) four coaching sessions, (2) participation in at least two programs or workshops offered by the Center for Career and Professional Development and (3) attendance at the spring Job and Internship Fair (4) attendance at the culminating Etiquette Dinner.
 
-<strong>RESULTS: </strong>You will be paired with a career coach with whom you will work. You will complete and discuss career assessments designed to help you identify your skills/talents and where they intersect with possible careers. In addition, you will learn how to write a resume and cover letter and will become familiar with the elements of “career readiness” as well as how to attain this status by the time you graduate from UMW.
+<strong>RESULTS: </strong>You will be paired with a Career Coach &amp; A Peer Career Consultant with whom you will work. You will complete and discuss career assessments designed to help you identify your skills/talents and where they intersect with possible careers. In addition, you will learn how to write a resume and cover letter and will become familiar with the elements of “career readiness” as well as how to attain this status by the time you graduate from UMW.
 
-<strong>PROGRAMMATIC ELEMENTS:</strong>
+<strong>Sample Program Schedule:</strong>
 
 <strong>Introductory meeting</strong> (November)
 <ul>
@@ -35,7 +35,7 @@ wpcf-home-page-grid-inclusion:
 <strong>Career Research Meeting</strong> (February/March)
 <ul>
  	<li><strong>Goal: </strong>Discuss career research results and develop customized career plan</li>
- 	<li><strong>Activity:</strong> Cover the following topics: Resume writing, Cover letter writing, Elevator pitch, Internship opportunities for summer/next academic year</li>
+ 	<li><strong>Activity:</strong> Cover the following topics: Resume Writing, Cover letter writing, Elevator pitch, Internship opportunities for summer/next academic year</li>
  	<li><strong>Homework:</strong> Develop the above three items &amp; start to research internships</li>
 </ul>
 <strong>Career Readiness/End of Year Meeting </strong>(March/April)
