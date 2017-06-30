@@ -19,7 +19,7 @@ wpcf-home-page-grid-inclusion:
 
 <strong>Sample Program Schedule:</strong>
 
-<strong>Introductory meeting</strong> (November)
+<strong>Introductory meeting</strong> (Mid to Late October)
 <ul>
  	<li><strong>Goal</strong>: To gather information and build a relationship with your coach</li>
  	<li><strong>Activity</strong>: Discuss your background, interests, goals</li>
