@@ -5,7 +5,7 @@ author: kdanzey
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/are-you-career-ready/
+  http://www.umw.edu/careercenter/students/ready/
 published: true
 post_date: 2017-07-12 16:45:32
 ---
