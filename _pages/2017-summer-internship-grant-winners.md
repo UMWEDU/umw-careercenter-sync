@@ -106,10 +106,6 @@ Laurel, MD
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 <strong>Angie Thomson- c/o 2018</strong>
 
 Art History Major
