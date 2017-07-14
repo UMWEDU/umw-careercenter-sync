@@ -14,15 +14,10 @@ post_date: 2017-06-14 14:50:40
 <strong><img class="size-medium wp-image-360 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Claire-Goode-200x300.png" alt="Photo of Claire Goode" width="200" height="300" /></strong>
 
 &nbsp;
-
-<strong>Claire Goode- c/o 2018</strong>
-
-History &amp; English Major
-
-Smithsonian National Museum of American History
-
-Washington DC
-
+<p style="text-align: left"><strong>Claire Goode- c/o 2018</strong></p>
+<p style="text-align: left">History &amp; English Major</p>
+<p style="text-align: left">Smithsonian National Museum of American History</p>
+<p style="text-align: left">Washington DC</p>
 &nbsp;
 
 &nbsp;
