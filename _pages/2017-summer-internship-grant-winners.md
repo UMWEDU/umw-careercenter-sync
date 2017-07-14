@@ -26,8 +26,6 @@ post_date: 2017-06-14 14:50:40
 
 &nbsp;
 
-&nbsp;
-
 <strong><img class=" wp-image-355 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Gregory-Genuardi-165x300.jpg" alt="" width="198" height="360" /></strong>
 
 <strong>Gregory Genuardi c/o 2018</strong>
@@ -37,20 +35,6 @@ Psychology Major
 Audubon Nature Institute
 
 New Orleans, LA
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -80,10 +64,6 @@ Stafford, VA
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 <strong><img class=" wp-image-358 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Carly-Shapiro-239x300.jpg" alt="Photo Carly Shapiro" width="248" height="311" /></strong>
 
 &nbsp;
@@ -101,12 +81,6 @@ Washington, DC
 &nbsp;
 
 <strong> </strong>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
