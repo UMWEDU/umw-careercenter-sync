@@ -11,7 +11,7 @@ post_date: 2017-06-14 14:50:40
 ---
 &nbsp;
 
-<strong><img class="size-medium wp-image-360 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Claire-Goode-200x300.png" alt="Photo of Claire Goode" width="200" height="300" /></strong>
+<strong><img class=" wp-image-360 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Claire-Goode-200x300.png" alt="Photo of Claire Goode" width="222" height="333" /></strong>
 
 &nbsp;
 <p style="text-align: left"><strong>Claire Goode- c/o 2018</strong></p>
@@ -24,11 +24,11 @@ post_date: 2017-06-14 14:50:40
 
 &nbsp;
 
-<strong><img class="size-medium wp-image-355 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Gregory-Genuardi-165x300.jpg" alt="" width="165" height="300" /></strong>
-
 &nbsp;
 
 &nbsp;
+
+<strong><img class=" wp-image-355 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Gregory-Genuardi-165x300.jpg" alt="" width="198" height="360" /></strong>
 
 <strong>Gregory Genuardi c/o 2018</strong>
 
@@ -37,6 +37,26 @@ Psychology Major
 Audubon Nature Institute
 
 New Orleans, LA
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -60,7 +80,11 @@ Stafford, VA
 
 &nbsp;
 
-<strong><img class="size-medium wp-image-358 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Carly-Shapiro-239x300.jpg" alt="Photo Carly Shapiro" width="239" height="300" /></strong>
+&nbsp;
+
+&nbsp;
+
+<strong><img class=" wp-image-358 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Carly-Shapiro-239x300.jpg" alt="Photo Carly Shapiro" width="248" height="311" /></strong>
 
 &nbsp;
 
@@ -76,13 +100,17 @@ Washington, DC
 
 &nbsp;
 
+<strong> </strong>
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
 
-<strong><img class="size-medium wp-image-359 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Tess-Burroughs-207x300.jpeg" alt="Photo of Tess Burroughs" width="207" height="300" /></strong>
-
 &nbsp;
+
+<strong><img class=" wp-image-359 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/06/Tess-Burroughs-207x300.jpeg" alt="Photo of Tess Burroughs" width="242" height="351" /></strong>
 
 <strong>Tess Marie Burroughs- c/o 2019</strong>
 
@@ -94,7 +122,15 @@ Laurel, MD
 
 &nbsp;
 
-<strong> </strong>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
