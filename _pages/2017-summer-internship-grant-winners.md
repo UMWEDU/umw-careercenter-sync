@@ -15,8 +15,6 @@ post_date: 2017-06-14 14:50:40
 
 &nbsp;
 
-&nbsp;
-
 <strong>Claire Goode- c/o 2018</strong>
 
 History &amp; English Major
@@ -71,8 +69,6 @@ Stafford, VA
 
 &nbsp;
 
-&nbsp;
-
 <strong>Carly Shapiro- c/o 2018</strong>
 
 Business Administration Major
@@ -80,6 +76,8 @@ Business Administration Major
 Theater J
 
 Washington, DC
+
+&nbsp;
 
 &nbsp;
 
@@ -102,6 +100,8 @@ Laurel, MD
 &nbsp;
 
 <strong> </strong>
+
+&nbsp;
 
 &nbsp;
 
