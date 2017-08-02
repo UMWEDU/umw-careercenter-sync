@@ -2,14 +2,12 @@
 ID: 95
 post_title: Workforce Recruitment Program
 author: kdanzey
-post_date: 2016-10-05 15:17:51
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/careercenter/workforce-recruitment-program/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-10-05 15:17:51
 ---
 <div class="post-20245 page type-page status-publish hentry entry">
 <div class="post-20245 page type-page status-publish hentry entry">
@@ -43,7 +41,20 @@ With the Workforce Recruitment Program, students can:
  	<li>Earn additional experience and expand their network of contacts while on the job</li>
  	<li>Demonstrate that students with disabilities can make fantastic employees</li>
 </ul>
-<strong>More Information </strong>
+<strong>Registration and Application (Complete both steps)</strong>
+<ol>
+ 	<li>Register for the WRP Information Session, which will be held Monday, September 18, 2017 from 12:00 pm - 1:00 pm.
+<ol>
+ 	<li><a href="https://umw.joinhandshake.com/events/69374/share_preview">https://umw.joinhandshake.com/events/69374/share_preview</a></li>
+</ol>
+</li>
+ 	<li>Apply by October 17, 2017 at <a href="https://umw.joinhandshake.com/jobs/888141/share_preview">https://umw.joinhandshake.com/jobs/888141/share_preview</a>
+<ol>
+ 	<li><strong><em>Application Opens on August 28, 2017</em></strong></li>
+</ol>
+</li>
+</ol>
+<strong> </strong><strong>More Information </strong>
 
 For specific details about the Workforce Recruitment Program as it relates to the University of Mary Washington, or to express your interest in becoming a WRP candidate, please contact Kyle Danzey at <a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a> or 540-654-1022.
 
@@ -53,17 +64,6 @@ For more information about the Workforce Recruitment Program, visit the followin
  	<li><a href="https://wrp.gov/AboutPre.do#Students">Workforce Recruitment Program (WRP): Employers, Schools and Students</a></li>
  	<li><a href="http://www.dol.gov/odep/wrp/Videos.htm">WRP Employability Video Series</a></li>
 </ul>
-<strong>Registration</strong>
-<ol>
- 	<li>Register for the WRP Workshop, which will be held Wednesday October, 5, 2016 at 4:00 p.m. in Suite 206 of the University Center. <a href="https://wp.me/P5seuQ-5gA">Click here to register.</a></li>
-</ol>
-<ol start="2">
- 	<li>Register at the WRP website, <a href="https://wrp.gov/LoginPre.do?method=login">https://wrp.gov/LoginPre.do?method=login</a>, by October 3, 2016.
-<ol>
- 	<li>If you need assistance with the application process, you can schedule a one-on-one appointment with Kyle Danzey by emailing <a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a> or calling 540-654-1022</li>
-</ol>
-</li>
-</ol>
 </div>
 </div>
 </div>
