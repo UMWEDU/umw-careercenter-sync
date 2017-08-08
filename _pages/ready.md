@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-07-12 16:45:32
 ---
-Career Readiness is the attainment and demonstration of competencies that prepare you for a successful transition into the workplace.
+<img class=" wp-image-176 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/students-300x192.png" alt="" width="283" height="181" />Career Readiness is the attainment and demonstration of competencies that prepare you for a successful transition into the workplace.
 
 How do you become Career Ready? Follow these steps. #CareerReadyUMW
 <ul>
