@@ -2,30 +2,20 @@
 ID: 5
 post_title: Employers
 author: Emily
-post_date: 2016-06-28 19:30:02
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/careercenter/employers/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "1"
-wpcf-homepage-copy:
-  - |
-    Connect with the UMW community to help build the future of your organization. From internships to job fairs and beyond, the CCPD has you covered.
-    <ul>
-    <li><a href="https://www.umw.edu/careercenter/employers/internships/">Internships</a> - what you need to know.</li>
-    <li><a href="https://www.umw.edu/careercenter/handshake/">Learn more about Handshake</a></li>
-    <li><a href="https://umw.joinhandshake.com/employer_registrations/new">Post a job or internship</a> (Handshake)</li>
-    <li><a href="https://www.umw.edu/careercenter/employers/job-internship-fair/">Fall 2017 Fair</a></li>
-    <li><a href="https://www.umw.edu/careercenter/employers/policies-guidelines/">Policies &amp; Guidelines</a></li>
-    </ul>
+post_date: 2016-06-28 19:30:02
 ---
 <img class="alignnone size-large wp-image-63" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/stafford-lobby-1024x399.jpg" alt="" width="100%" />
 
 The Center for Career and Professional Development serves as a place where students, alumni, employers, and academic programs converge in a variety of programs, opportunities, and services related to career and professional development.
 
 If you are interested in recruiting our students or using our space for remote work, hosting an alum reception, or conducting interviews, please contact us at 540-654-5646 or email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>.
+
+Download and share our new recruitment guide. <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/08/UMW-Employer-Packet.pdf">UMW Employer Packet</a>
 <div class="one-half first">
 <h2>Post a Job or Internship</h2>
 Register today to begin posting your open positions on <a href="https://umw.joinhandshake.com/employer_registrations/new">Handshake</a>, UMW’s official job portal, where undergraduates, students, and alumni can apply for full time, part time, <a href="http://www.umw.edu/careercenter/employers/internships/">internship</a> and volunteer opportunities.
