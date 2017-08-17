@@ -25,9 +25,10 @@ post_date: 2016-06-29 18:55:06
 <strong>Kyle Danzey, Assistant Director for Career &amp; Professional Development
 </strong>540-654-1022, kdanzey@umw.edu
 <ul>
- 	<li>Marketing</li>
- 	<li>Handshake</li>
- 	<li>Social Media</li>
+ 	<li>Communications and Marketing</li>
+ 	<li>Handshake Support &amp; Training</li>
+ 	<li>Peace Corps Prep Program</li>
+ 	<li>Workforce Development Program</li>
  	<li>Career coaching</li>
 </ul>
 <strong>Mary Becelia, Career Coach
