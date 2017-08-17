@@ -35,3 +35,7 @@ Your department can use Handshake to recruit UMW students for on-campus employme
  	<li>Create a Mentor Account here: <a href="https://app.joinhandshake.com/register">https://app.joinhandshake.com/register </a></li>
 </ul>
 [tabbyending]
+
+<a href="https://www.umw.edu/careercenter/handshake/">UMW Handshake Home Page</a>
+
+<a href="http://www.umw.edu/careercenter/">Center for Career and Professional Development Home Page</a>
