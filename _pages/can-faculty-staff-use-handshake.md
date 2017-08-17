@@ -36,6 +36,10 @@ Your department can use Handshake to recruit UMW students for on-campus employme
 </ul>
 [tabbyending]
 
-<a href="https://www.umw.edu/careercenter/handshake/">UMW Handshake Home Page</a>
+[tabby title="UMW Handshake Home Page"]
 
-<a href="http://www.umw.edu/careercenter/">Center for Career and Professional Development Home Page</a>
+<a href="http://www.umw.edu/careercenter/">[tabby title="Center for Career and Professional Development Home Page"]</a>
+
+[tabbyending]
+
+&nbsp;
