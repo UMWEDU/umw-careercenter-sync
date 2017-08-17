@@ -14,8 +14,11 @@ post_date: 2016-12-02 10:58:55
 <div class="content-main"></div>
 <div class="content-main"></div>
 https://www.youtube.com/watch?v=jB-zmARNSnE
-<div class="content-main">In the summer of 2017 we will replace our Employ-An-Eagle system with <a href="https://www.joinhandshake.com/">Handshake</a>. This change allows us to provide our community of users with access to a brand new, state of the art system. This website provides you with important information, deadlines, and transition updates. We're also building out self-service training and tips under the name Handshake Hints ... so check back often for all the latest updates!</div>
-<div class="content-main"></div>
+<div class="content-main">
+
+The Center for Career and Professional Development has upgraded to a new career management platform called Handshake. This new technology provides significant improvements to online student recruiting, events management, appointment scheduling, and communication services functions<strong>.</strong> <strong>Handshake is a combination of some of the best tools on the web today, taken from services like Instagram, Facebook, Twitter, and LinkedIn. It’s designed to help us precisely target career information, internship, employment opportunities, and career related events to student’s specific major, degree type, and interests. </strong>
+
+Handshake is<strong> used on over 170 U.S. university campuses</strong>, including schools like Stanford University, Cornell University, Villanova University, and Wake Forest University. Likewise<strong>, 80% of Fortune 100</strong>, including Goldman Sachs, Citigroup, Google, Microsoft, and JP Morgan, are using Handshake to recruit from colleges and universities.</div>
 <div class="content-main">
 
 <strong>Students: We want to note up front that by using the Services, you consent to: </strong>
@@ -32,7 +35,7 @@ https://www.youtube.com/watch?v=jB-zmARNSnE
 <section class="info-section">
 <ul class="info-section-links">
  	<li><a href="https://www.joinhandshake.com/students/">What is Handshake?</a></li>
- 	<li>Setting Up Your Account</li>
+ 	<li><a href="https://support.joinhandshake.com/hc/en-us/sections/204202108-Getting-Started">Setting Up Your Account</a></li>
  	<li><a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Step-by-Step Guides</a></li>
  	<li><a href="https://umw.joinhandshake.com/login">Access Handshake  - Use your UMW NetID and Password</a></li>
 </ul>
