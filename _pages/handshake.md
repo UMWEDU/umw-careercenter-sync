@@ -1,6 +1,6 @@
 ---
 ID: 157
-post_title: It Starts with a
+post_title: 'It Starts with a &#8230;.'
 author: kdanzey
 post_excerpt: ""
 layout: page
