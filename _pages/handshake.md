@@ -73,7 +73,7 @@ Information for members of the UMW community can use Handshake
 </div>
 <ul class="info-section-links">
  	<li><a href="https://www.joinhandshake.com/">What is Handshake?</a></li>
- 	<li>How Faculty and Staff Can Use Handshake</li>
+ 	<li><a href="https://www.umw.edu/careercenter/handshake/can-faculty-staff-use-handshake/">How Faculty and Staff Can Use Handshake</a></li>
 </ul>
 </section><section class="info-section">
 <h2>General Project Information</h2>
