@@ -9,17 +9,17 @@ permalink: >
 published: true
 post_date: 2016-06-29 18:55:06
 ---
-<strong>Timothy O'Donnell, Director
+<strong>Timothy O'Donnell, Associate Provost for Academic Success &amp; Student Engagement
 </strong>540-654-1252, todonnel@umw.edu
 <ul>
- 	<li>Strategy/mission/vision of the office</li>
- 	<li>Curriculum Director</li>
+ 	<li>Strategy/mission/vision</li>
+ 	<li>Curriculum</li>
 </ul>
 <strong>Rose Maddox, Operations &amp; Employer Relations Manager
 </strong>540-654-1271, rwagner@umw.edu
 <ul>
  	<li>Employer relations</li>
- 	<li>Programs/events</li>
+ 	<li>Programs and events</li>
  	<li>Job postings</li>
  	<li>Office manager</li>
 </ul>
@@ -42,6 +42,5 @@ post_date: 2016-06-29 18:55:06
 </strong>540-654-5648, mbecelia@umw.edu
 <ul>
  	<li>Roadmap</li>
- 	<li>Course Instructor</li>
  	<li>Career coaching</li>
 </ul>
