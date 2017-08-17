@@ -15,14 +15,6 @@ post_date: 2016-06-29 18:55:06
  	<li>Strategy/mission/vision</li>
  	<li>Curriculum</li>
 </ul>
-<strong>Rose Maddox, Operations &amp; Employer Relations Manager
-</strong>540-654-1271, rwagner@umw.edu
-<ul>
- 	<li>Employer relations</li>
- 	<li>Programs and events</li>
- 	<li>Job postings</li>
- 	<li>Office manager</li>
-</ul>
 <strong>Bianca Hightower, Assistant Director for Career &amp; Professional Development
 </strong>540-654-1091, bfaison@umw.edu
 <ul>
@@ -43,4 +35,12 @@ post_date: 2016-06-29 18:55:06
 <ul>
  	<li>Roadmap</li>
  	<li>Career coaching</li>
+</ul>
+<strong>Rose Maddox, Operations &amp; Employer Relations Manager
+</strong>540-654-1271, rwagner@umw.edu
+<ul>
+ 	<li>Employer relations</li>
+ 	<li>Programs and events</li>
+ 	<li>Job postings</li>
+ 	<li>Office manager</li>
 </ul>
