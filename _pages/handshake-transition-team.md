@@ -20,8 +20,6 @@ post_date: 2017-02-14 09:18:11
  	<li class="content-main">Mary Becelia, <em>Career Coach</em></li>
  	<li class="content-main">Peer Career Consultants</li>
 </ul>
-<div class="content-main"></div>
-<div class="content-main"></div>
 <strong>Information Technology</strong>
 <ul>
  	<li>Virginia Ashley, <em>Director, Reporting &amp; Decision Support</em></li>
