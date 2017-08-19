@@ -11,7 +11,9 @@ post_date: 2016-12-02 10:58:55
 ---
 <div class="content-main"></div>
 https://www.youtube.com/watch?v=jB-zmARNSnE
-<div class="content-main"><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png"><img class="size-full wp-image-402 alignnone" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png" alt="" width="188" height="30" /></a>Handshake is a combination of some of the best tools on the web today, taken from services like Instagram, Facebook, Twitter, and LinkedIn. It’s designed to help us precisely target career information, internship, employment opportunities, and career related events to student’s specific major, degree type, and interests. Handshake is<strong> used on over 170 U.S. university campuses</strong>, including schools like Stanford University, Cornell University, Villanova University, and Wake Forest University. Likewise<strong>, 80% of Fortune 100</strong>, including Goldman Sachs, Citigroup, Google, Microsoft, and JP Morgan, are using Handshake to recruit from colleges and universities.[tabby title="For Students"]
+<div class="content-main">
+
+Handshake is a combination of some of the best tools on the web today, taken from services like Instagram, Facebook, Twitter, and LinkedIn. It’s designed to help us precisely target career information, internship, employment opportunities, and career related events to student’s specific major, degree type, and interests. Handshake is<strong> used on over 170 U.S. university campuses</strong>, including schools like Stanford University, Cornell University, Villanova University, and Wake Forest University. Likewise<strong>, 80% of Fortune 100</strong>, including Goldman Sachs, Citigroup, Google, Microsoft, and JP Morgan, are using Handshake to recruit from colleges and universities.[tabby title="For Students"]
 
 <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/students.png"><img class="size-medium wp-image-176 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/students-300x192.png" alt="" width="300" height="192" /></a>
 <h2 class="header header--bold">Easily find the best jobs and internships</h2>
@@ -99,7 +101,4 @@ https://www.youtube.com/watch?v=jB-zmARNSnE
  	<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=E8mlZpm3iEqGBkHQQRdiZyBQSwVj8FlJrNwdK142-_dUMFQ3QVYxOFRYVjVKSUQwMk9QWlQ0S0pMQy4u">Handshake Event Posting Form</a></li>
  	<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=E8mlZpm3iEqGBkHQQRdiZyBQSwVj8FlJrNwdK142-_dUOTNRWDhDMlpEMUkxMVQ5UVNZQ0ZUUEdHUS4u">Handshake Job Posting Form</a></li>
 </ul>
-</section><section class="info-section"> [tabbyending]
-
-</section></div>
-<a href="https://www.umw.edu/careercenter/"><button class="btn btn-default navbar-btn" type="button">HOME</button></a> <a href="https://umw.joinhandshake.com/"><button class="btn btn-default navbar-btn" type="button">Handshake Sign-in</button></a>
+</section><section class="info-section"> [tabbyending]</section><section><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-md.png"><img class="size-medium wp-image-401 aligncenter" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-md-300x48.png" alt="" width="300" height="48" /></a></section></div>
