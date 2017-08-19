@@ -35,6 +35,7 @@ Handshake is<strong> used on over 170 U.S. university campuses</strong>, includi
  	<li><a href="https://support.joinhandshake.com/hc/en-us/articles/115011431228-Employers-Getting-Started">Setti</a><a href="https://support.joinhandshake.com/hc/en-us/articles/115011431228-Employers-Getting-Started">ng Up Your Account</a></li>
  	<li><a href="https://support.joinhandshake.com/hc/en-us/categories/202707307-Employer">Step-by-Step G</a><a href="https://support.joinhandshake.com/hc/en-us/categories/202707307-Employer">uides</a></li>
  	<li><a href="https://www.umw.edu/careercenter/employers/policies-guidelines/">Recruiting Policies and Guidelines</a></li>
+ 	<li>Recruitment Guide</li>
  	<li><a href="https://umw.joinhandshake.com/register">Access Handshake</a></li>
 </ul>
 <h3><i class="emoji__container emoji--pin">📌</i> Multi-school job posting</h3>
