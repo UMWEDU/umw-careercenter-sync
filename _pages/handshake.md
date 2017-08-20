@@ -25,6 +25,8 @@ Handshake is<strong> used on over 170 U.S. university campuses</strong>, includi
  	<li><a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Step-by-Step Guides</a></li>
  	<li><a href="https://umw.joinhandshake.com/login">Access Handshake  - Use your UMW NetID and Password</a></li>
 </ul>
+
+
 </div>
 <div class="content-main"><section class="info-section">[tabby title="For Employers"]<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png"><img class="alignnone size-full wp-image-402" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png" alt="" width="188" height="30" /></a></section>
 <h2 class="info-section">Handshake helps over 200,000 top employers easily find, recruit and hire the best college talent across the country.</h2>
