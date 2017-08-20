@@ -106,4 +106,4 @@ Handshake is<strong> used on over 170 U.S. university campuses</strong>, includi
  	<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=E8mlZpm3iEqGBkHQQRdiZyBQSwVj8FlJrNwdK142-_dUMFQ3QVYxOFRYVjVKSUQwMk9QWlQ0S0pMQy4u">Handshake Event Posting Form</a></li>
  	<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=E8mlZpm3iEqGBkHQQRdiZyBQSwVj8FlJrNwdK142-_dUOTNRWDhDMlpEMUkxMVQ5UVNZQ0ZUUEdHUS4u">Handshake Job Posting Form</a></li>
 </ul>
-</section><section class="info-section"> [tabbyending]
+</section><section class="info-section"> [tabbyending]</section></div>
