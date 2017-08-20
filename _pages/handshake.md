@@ -20,10 +20,14 @@ Handshake is<strong> used on over 170 U.S. university campuses</strong>, includi
 <p class="students__highlight-details-text">Simple but powerful search tools and alerts help you find the best fit from more than 1,000,000 jobs and internships posted by 200,000 companies, non-profits and government organizations.</p>
 
 <ul>
+ 	<li style="list-style-type: none">
+<ul>
  	<li><a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">Book an Appointment </a></li>
  	<li><a href="https://support.joinhandshake.com/hc/en-us/sections/204202108-Getting-Started">Setting Up Your Account</a></li>
  	<li><a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Step-by-Step Guides</a></li>
  	<li><a href="https://umw.joinhandshake.com/login">Access Handshake  - Use your UMW NetID and Password</a></li>
+</ul>
+</li>
 </ul>
 
 
@@ -85,7 +89,7 @@ Handshake is<strong> used on over 170 U.S. university campuses</strong>, includi
 <div class="small-12 medium-6 columns"></div>
 </div>
 </div>
-</section><section></section><section class="info-section">[tabby title="For Alumni"]<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png"><img class="alignnone size-full wp-image-402" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png" alt="" width="188" height="30" /></a></section><section><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/umwLogoNew.png"><img class="size-medium wp-image-390 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/umwLogoNew-300x117.png" alt="" width="300" height="117" /></a></section>
+</section><section class="info-section">[tabby title="For Alumni"]<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png"><img class="alignnone size-full wp-image-402" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png" alt="" width="188" height="30" /></a></section><section><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/umwLogoNew.png"><img class="size-medium wp-image-390 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/umwLogoNew-300x117.png" alt="" width="300" height="117" /></a></section>
 <h2 class="info-section">Show off your best self to employers</h2>
 <p class="info-section">Quickly build out a rich profile that helps you stand out when employers search for alumni. Use our tips and examples to make it easy.</p>
 
@@ -95,13 +99,19 @@ Handshake is<strong> used on over 170 U.S. university campuses</strong>, includi
  	<li><a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">Book an Appointment </a></li>
  	<li class="info-section"><a href="https://umw.joinhandshake.com/register">Access Handshake</a></li>
 </ul>
-<section></section><section class="info-section">[tabby title="For Faculty and Staff"]<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png"><img class="alignnone size-full wp-image-402" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png" alt="" width="188" height="30" /></a></section>
+<section class="info-section">[tabby title="For Faculty and Staff"]<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png"><img class="alignnone size-full wp-image-402" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png" alt="" width="188" height="30" /></a></section>
 <h2><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/04/handshake-user-avatar-2-1.png"><img class="size-medium wp-image-276 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/04/handshake-user-avatar-2-1-91x300.png" alt="" width="91" height="300" /></a>How can you use Handshake?</h2>
 <section><strong>You can share career and professional development information to post in our career management platform, Handshake. Click <a href="https://support.joinhandshake.com/hc/en-us/articles/218692718">here</a> to view more ways to use Handshake. To sign up for your own <em>University Employer</em> account, click <a href="https://umw.joinhandshake.com/register?user_type=Employers&amp;employer_invite_token=B4xnvUReiRpHCcPm1VdMPPY1Q5JOdJcT">here</a>. </strong>
 <ul>
- 	<li><section class="info-section"><a href="https://www.umw.edu/careercenter/handshake/can-faculty-staff-use-handshake/">How Faculty and Staff Can Use Handshake</a></section><section></section></li>
+ 	<li><section class="info-section"><a href="https://www.umw.edu/careercenter/handshake/can-faculty-staff-use-handshake/">How Faculty and Staff Can Use Handshake</a></section></li>
  	<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=E8mlZpm3iEqGBkHQQRdiZyBQSwVj8FlJrNwdK142-_dUQzVOT01NT1RVR0hSV1A3QjlZR084UEQ2QS4u">Handshake Mass Email Request Form</a></li>
  	<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=E8mlZpm3iEqGBkHQQRdiZyBQSwVj8FlJrNwdK142-_dUMFQ3QVYxOFRYVjVKSUQwMk9QWlQ0S0pMQy4u">Handshake Event Posting Form</a></li>
  	<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=E8mlZpm3iEqGBkHQQRdiZyBQSwVj8FlJrNwdK142-_dUOTNRWDhDMlpEMUkxMVQ5UVNZQ0ZUUEdHUS4u">Handshake Job Posting Form</a></li>
 </ul>
-</section><section class="info-section"> [tabbyending]</section><section></section></div>
+</section><section class="info-section"> [tabbyending]</section></div>
+<section></section><section></section><section></section>
+<div style="text-align: right;width: 230px"></div>
+<!-- end sw-rss-feed code -->
+
+
+<div class="tintup" style="height: 500px;width: 100%"></div>
