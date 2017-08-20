@@ -29,8 +29,6 @@ Handshake is<strong> used on over 170 U.S. university campuses</strong>, includi
 </ul>
 </li>
 </ul>
-
-
 </div>
 <div class="content-main"><section class="info-section">[tabby title="For Employers"]<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png"><img class="alignnone size-full wp-image-402" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png" alt="" width="188" height="30" /></a></section>
 <h2 class="info-section">Handshake helps over 200,000 top employers easily find, recruit and hire the best college talent across the country.</h2>
@@ -108,10 +106,4 @@ Handshake is<strong> used on over 170 U.S. university campuses</strong>, includi
  	<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=E8mlZpm3iEqGBkHQQRdiZyBQSwVj8FlJrNwdK142-_dUMFQ3QVYxOFRYVjVKSUQwMk9QWlQ0S0pMQy4u">Handshake Event Posting Form</a></li>
  	<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=E8mlZpm3iEqGBkHQQRdiZyBQSwVj8FlJrNwdK142-_dUOTNRWDhDMlpEMUkxMVQ5UVNZQ0ZUUEdHUS4u">Handshake Job Posting Form</a></li>
 </ul>
-</section><section class="info-section"> [tabbyending]</section></div>
-<section></section><section></section><section></section>
-<div style="text-align: right;width: 230px"></div>
-<!-- end sw-rss-feed code -->
-
-
-<div class="tintup" style="height: 500px;width: 100%"></div>
+</section><section class="info-section"> [tabbyending]
