@@ -2,14 +2,12 @@
 ID: 33
 post_title: Academic Credit Internships
 author: Emily
-post_date: 2016-06-30 16:12:58
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/careercenter/students/internships/credit/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-06-30 16:12:58
 ---
 Internships provide structured learning experiences and must be evaluated by a faculty member and approved in advance by the department you are seeking academic credit from. Credit is only awarded for internships that incorporate a hands-on experience per the duties outlined in the contract, and includes academic components which are determined at the discretion of your faculty sponsor. Requested internships should provide an opportunity for you to apply and supplement knowledge gained in the classroom. Academic departments have the final decision for the approval of an academic internship.
 
@@ -52,7 +50,7 @@ Interested in doing an internship for credit? Follow the steps below.
 </ul>
 <strong>Step 6: Complete the Academic Internship Contract</strong>
 <ul>
- 	<li>You must fully complete the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/06/internshipcontract2edit2.pdf">academic internship contract</a> – read all policies, complete all questions, and collect all signatures.</li>
+ 	<li>You must fully complete the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/06/internshipcontract2edit2.pdf">Fall 2017 Internship Contract</a>– read all policies, complete all questions, and collect all signatures.</li>
  	<li>Make a copy of your internship contract for your faculty sponsor.</li>
 </ul>
 <strong>Step 7: Submit Completed Contract to the Office of the Registrar</strong>
