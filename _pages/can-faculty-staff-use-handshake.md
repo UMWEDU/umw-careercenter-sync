@@ -18,7 +18,7 @@ Your department can use Handshake to recruit UMW students for on-campus employme
  	<li>Faculty can post on campus jobs and interact with students like an employer would</li>
  	<li>Faculty manage their own profiles</li>
  	<li>Register here, <a href="http://bit.ly/universityemployer">http://bit.ly/universityemployer </a></li>
- 	<li>View or<a href="https://www.umw.edu/careercenter/?attachment_id=387"> Guide</a> on how to post opportunities</li>
+ 	<li>View our<a href="https://www.umw.edu/careercenter/?attachment_id=387"> Guide</a> on how to post opportunities</li>
 </ul>
 [tabby title="Admin Accounts at University - like your career services account"]
 <ul>
