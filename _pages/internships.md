@@ -13,6 +13,6 @@ Internships provide an excellent opportunity to gain professional work experienc
 
 [children]
 <ul>
- 	<li><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/06/internshipcontract2edit2.pdf">Fall 2017 Internship Contract</a> - Completed contracts are delivered to the registrar's office (The Career Center no longer needs to review your contract)</li>
+ 	<li><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/06/internshipcontract2edit2.pdf">Academic Internship Contract</a> - Completed contracts are delivered to the registrar's office (The Career Center no longer needs to review your contract)</li>
 </ul>
 &nbsp;
