@@ -32,7 +32,7 @@ post_date: 2016-06-29 18:55:06
  	<li>Career coaching</li>
 </ul>
 <strong>Mary Becelia, Career Coach
-</strong>540-654-5648, mbecelia@umw.edu
+</strong>540-654-5646, mbecelia@umw.edu
 <ul>
  	<li>Roadmap</li>
  	<li>Career coaching</li>
