@@ -22,11 +22,3 @@ FOCUS 2 combines self-assessment, career and major exploration, decision making 
 Email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a> to receive the link and code to access Focus2.
 
 &nbsp;
-
-<img class="alignnone wp-image-144" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/11/strengths-finder-389x202-300x156.jpg" alt="strengths-finder-389x202" width="252" height="131" />
-
-<strong>StrengthsFinder</strong>
-
-Take the Clifton StrengthsFinder assessment to discover your <strong>top 5 strengths. </strong>Learn how your dominant talents help you excel, and begin your path to better performance and higher engagement. This assessment will help you learn how to maximize your talents and connect them to a career path.
-
-You must first <a href="http://www.umw.edu/careercenter/students/appointments/">have an appointment</a> with a Career Coach to be give the code to StrengthsFinder.
