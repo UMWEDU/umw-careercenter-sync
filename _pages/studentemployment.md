@@ -2,14 +2,12 @@
 ID: 133
 post_title: Student Employment in the Career Center
 author: bfaison
-post_date: 2016-10-31 13:05:03
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/careercenter/students/studentemployment/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-10-31 13:05:03
 ---
 <strong>Peer Career Consultant Position Overview:</strong>
 
@@ -50,39 +48,14 @@ Peer Career Consultant (PCC’s) are undergraduate students who serve as pivotal
 </ul>
 &nbsp;
 
-<strong>Peer Career Ambassador Position Overview:</strong>
-
-Peer Career Ambassadors (PCA’s) are undergraduate students who serve as the face of the Center for Career and Professional Development. PCA's act as a liaison between the campus community and the Career Center. Similar to PCC's, they help the Career Center staff in strategizing ways to increase the visibility of the department to the UMW undergraduate community.  The PCAs also are a crucial part of the Career Center's efforts to promote services, program offerings, and the Career Center brand across campus.
-
-<strong>Responsibilities Include:</strong>
-<ul>
- 	<li>Engage campus community and create awareness about upcoming Career Center events.</li>
- 	<li>Contribute to Career Center social media</li>
- 	<li>Attend Monthly Training Meetings</li>
- 	<li>Assist with Career Center events such as Career Fair, Graduate School Fair, &amp; Meet the Firms</li>
- 	<li>Assist with various office projects</li>
- 	<li>Network with Alumni (as needed)</li>
- 	<li>Additional duties and projects as assigned</li>
-</ul>
-<strong>Qualifications:</strong>
-<ul>
- 	<li>At least a 2.75 GPA</li>
- 	<li>Ability to attend major Career Center Events and 1-2 hours weekly</li>
- 	<li><strong>Ability to commit to working for BOTH semesters</strong></li>
- 	<li>Excellent communication skills, maturity, initiative, and desire to help</li>
- 	<li>Basic knowledge of social media platforms</li>
- 	<li>Public speaking and presentation skills</li>
-</ul>
-&nbsp;
-
 For questions:
 
 Contact ccpd@umw.edu
 
 &nbsp;
 
-Application Deadline: Feb. 1 2017
+Application Deadline: TBA
 
-The PCC Application &amp; PCA applications are open for submissions.
+The PCC Application is currently closed.
 
 <a href="https://goo.gl/forms/b74VbYaWjxb9W6F92">Click here for the application!</a>
