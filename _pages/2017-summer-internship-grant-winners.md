@@ -106,6 +106,20 @@ Laurel, MD
 
 &nbsp;
 
+&nbsp;
+
+<strong>Julia Gibbons- c/o 2019</strong>
+
+International Affairs Major
+
+Tahirih Justice Center
+
+Falls Church, VA
+
+&nbsp;
+
+&nbsp;
+
 <strong>Angie Thomson- c/o 2018</strong>
 
 Art History Major
