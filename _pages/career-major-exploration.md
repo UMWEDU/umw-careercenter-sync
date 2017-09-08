@@ -11,8 +11,6 @@ post_date: 2017-03-13 00:23:25
 ---
 <a href="http://www.bls.gov/ooh"><strong>The Occupational Outlook Handbook</strong></a><b> </b>can help you find career information on duties, education, and training, pay, and the outlook for hundreds of occupations.
 
-&nbsp;
-
 <a href="http://www.naceweb.org/knowledge/career-readiness-competencies.aspx"><b>Career Readiness Defined </b></a>
 
 The National Association of Colleges and Employers, through a task force of college career services and HR/staffing professionals, has developed a definition, based on extensive research among employers, and identified seven competencies associated with career readiness.
