@@ -2,22 +2,16 @@
 ID: 223
 post_title: Career and Major Exploration
 author: kdanzey
-post_date: 2017-03-13 00:23:25
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/toolkit/career-major-exploration/
+  http://www.umw.edu/careercenter/students/toolkit/career-major-exploration/
 published: true
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2017-03-13 00:23:25
 ---
 <a href="http://www.bls.gov/ooh"><strong>The Occupational Outlook Handbook</strong></a><b> </b>can help you find career information on duties, education, and training, pay, and the outlook for hundreds of occupations.
 
-<a href="http://whatcanidowiththismajor.com/major/"><b>What Can I Do With This Major </b></a>
-
-Whether you are exploring multiple majors or searching for information about your chosen field, this site will help you connect majors to careers. Learn about the typical career areas and the types of employers that hire people with each major, as well as strategies to make you a more marketable candidate.
+&nbsp;
 
 <a href="http://www.naceweb.org/knowledge/career-readiness-competencies.aspx"><b>Career Readiness Defined </b></a>
 
