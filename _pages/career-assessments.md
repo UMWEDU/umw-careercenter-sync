@@ -14,11 +14,21 @@ If you are looking for a little guidance in figuring out your career path, these
 &nbsp;
 
 <a href="http://www.focus2career.com/Portal/Register.cfm?Unique=%7bts%20'2016-07-29%2008:44:50'%7d&amp;SID=1400&amp;CFID=12805227&amp;CFTOKEN=396f8e9bd8070e9d-22CEC939-B82A-72DD-7468EE05ADAE2B06"><strong><img class="alignnone wp-image-139 size-medium" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/11/focus2logo-300x58.png" alt="focus2logo" width="300" height="58" /></strong></a>
-
-<strong>Focus2</strong>
-
+<h4><strong>Focus2</strong></h4>
 FOCUS 2 combines self-assessment, career and major exploration, decision making and action planning. Your assessment results will be matched to career options and majors/programs offered at UMW. With the help of a Career Coach, FOCUS 2 guides you through a reliable career and education decision making model to help you select a major, make informed career decisions, and take action.
 
 Email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a> to receive the link and code to access Focus2.
+<h4><strong>CareerOneStop Interest Assessment</strong></h4>
+<div id="divCenter">
+<div id="wrapper"><form id="Form1" enctype="multipart/form-data" method="post" name="Form1">
+<div id="divSitetcm24-18339-64" class="COSHomePageSiteTemplate">
+<div id="content-column" class="responseContent">
+<div id="page-text" class="clearfix">
 
-&nbsp;
+The <a href="https://www.careeronestop.org/Toolkit/Careers/interest-assessment.aspx">Interest Assessment </a>matches your interests to careers. You answer 30 short questions by saying how much interest you have in different activities. Those answers create your Interest Profile. Then you see a list of careers that are good matches for your unique Interest Profile.
+
+</div>
+</div>
+</div>
+</form></div>
+</div>
