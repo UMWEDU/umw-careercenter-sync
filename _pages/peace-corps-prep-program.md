@@ -2,14 +2,12 @@
 ID: 231
 post_title: Peace Corps Prep
 author: kdanzey
-post_date: 2017-03-31 11:06:18
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/careercenter/students/peace-corps-prep-program/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2017-03-31 11:06:18
 ---
 <h2><img class="wp-image-235 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="Peace Corps Prep Logo" width="482" height="255" /></h2>
 &nbsp;
@@ -37,6 +35,8 @@ https://www.youtube.com/watch?v=8uRbeW-Vro8&amp;index=2&amp;list=PL2B90BEBDEE484
 <h2><strong>Competencies
 </strong></h2>
 Leveraging concrete knowledge and skills is central to on the ground international development work. Through this PC Prep program, you will begin to build a professional specialty, which should serve your career well whether or not you become a Peace Corps Volunteer.
+
+Participants will complete the requirements of each competency listed below by their graduation date <em>(Training and Experience, Intercultural Competence, Professional and Leadership Development, and Foreign Language Skills).</em>
 <h4 style="text-align: left"><span style="color: #003366"><strong>Training and Experience</strong></span></h4>
 Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector.
 
