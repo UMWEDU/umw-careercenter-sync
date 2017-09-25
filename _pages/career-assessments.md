@@ -13,7 +13,7 @@ If you are looking for a little guidance in figuring out your career path, these
 
 &nbsp;
 
-<a href="http://www.focus2career.com/Portal/Register.cfm?Unique=%7bts%20'2016-07-29%2008:44:50'%7d&amp;SID=1400&amp;CFID=12805227&amp;CFTOKEN=396f8e9bd8070e9d-22CEC939-B82A-72DD-7468EE05ADAE2B06"><strong><img class="alignnone wp-image-139 size-medium" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/11/focus2logo-300x58.png" alt="focus2logo" width="300" height="58" /></strong></a>
+<a href="https://www.focus2career.com/Portal/Login.cfm?SID=1400"><img class="alignnone wp-image-139 size-medium" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/11/focus2logo-300x58.png" alt="focus2logo" width="300" height="58" /></a>
 <h4><strong>Focus2</strong></h4>
 FOCUS 2 combines self-assessment, career and major exploration, decision making and action planning. Your assessment results will be matched to career options and majors/programs offered at UMW. With the help of a Career Coach, FOCUS 2 guides you through a reliable career and education decision making model to help you select a major, make informed career decisions, and take action.
 
