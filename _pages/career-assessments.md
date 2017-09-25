@@ -5,7 +5,7 @@ author: rwagner
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/career-assessments/
+  http://www.umw.edu/careercenter/students/toolkit/career-assessments/
 published: true
 post_date: 2016-11-01 09:33:14
 ---
