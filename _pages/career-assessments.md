@@ -17,7 +17,9 @@ If you are looking for a little guidance in figuring out your career path, these
 <h4><strong>Focus2</strong></h4>
 FOCUS 2 combines self-assessment, career and major exploration, decision making and action planning. Your assessment results will be matched to career options and majors/programs offered at UMW. With the help of a Career Coach, FOCUS 2 guides you through a reliable career and education decision making model to help you select a major, make informed career decisions, and take action.
 
-Email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a> to receive the link and code to access Focus2.
+Already have an account? <a href="https://www.focus2career.com/Portal/Login.cfm?SID=1400">Click here.</a>
+
+Email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a> to receive the link and code to access Focus2. Once you have the code, you can <a href="https://www.focus2career.com/Portal/Register.cfm?SID=1400">create your account here.</a>
 <h4><strong>CareerOneStop Interest Assessment</strong></h4>
 <div id="divCenter">
 <div id="wrapper"><form id="Form1" enctype="multipart/form-data" method="post" name="Form1">
