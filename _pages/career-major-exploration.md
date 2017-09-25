@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2017-03-13 00:23:25
 ---
+<a href="https://www.umw.edu/careercenter/students/toolkit/career-assessments/"><strong>Career Assessments</strong></a><strong>:</strong> Check out our helpful Career Assessments, including Focus2.
+
 <a href="http://www.bls.gov/ooh"><strong>The Occupational Outlook Handbook</strong></a><b> </b>can help you find career information on duties, education, and training, pay, and the outlook for hundreds of occupations.
 
 <a href="http://www.naceweb.org/knowledge/career-readiness-competencies.aspx"><b>Career Readiness Defined </b></a>
