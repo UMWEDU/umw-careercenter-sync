@@ -124,7 +124,7 @@ Falls Church, VA
 
 Art History Major
 
-Museum of Fine Arts, Boston
+Museum of Fine Arts
 
 Boston, MA
 
