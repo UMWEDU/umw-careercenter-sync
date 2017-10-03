@@ -2,14 +2,12 @@
 ID: 11
 post_title: Policies and Guidelines
 author: Emily
-post_date: 2016-06-28 20:04:48
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/careercenter/employers/policies-guidelines/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-06-28 20:04:48
 ---
 The University of Mary Washington Career Center has created guidelines and policies for all postings and recruitment done through our job portal, Handshake.
 
@@ -24,6 +22,6 @@ All posts must adhere to the following standards:
 </ul>
 <strong>Statement of Non-Discrimination</strong>
 
-The University of Mary Washington subscribes to the principles of equal opportunity and affirmative action. The University does not discriminate on the basis of race, color, religion, disability, national origin, political affiliation, marital status, sexual orientation, sex, or age in recruiting, admitting, and enrolling students, or hiring and promoting faculty and staff members. The University will not recognize or condone student, faculty, or staff organizations that discriminate in selecting members. Complaints of discrimination should be directed to the University’s Affirmative Action/Equal Employment Opportunity Officer.
+At the University of Mary Washington the principles of equal opportunity and affirmative action are practiced. The University does not discriminate on the basis of race, religion, color, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, family medical history or genetic information, political affiliation, military service, or other non-merit based factors in recruiting, admitting, enrolling students or hiring and promoting faculty and staff members. Complaints of discrimination should be directed to the <a href="http://www.umw.edu/nondiscrimination/">AA/EEO officer</a> of the University.
 
 <strong>The University of Mary Washington’s Center for Career and Professional Development reserves the right to accept or deny any position or recruiting organization based upon our own criteria. Additionally, at any time we may deny or remove access rights for organizations that do not meet the above standards.</strong>
