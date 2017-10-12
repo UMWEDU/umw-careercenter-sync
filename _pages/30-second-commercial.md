@@ -10,7 +10,7 @@ published: true
 post_date: 2017-10-12 12:41:05
 ---
 When meeting new individuals in a professional setting, such as networking events and career fairs, it is important to make a strong first impression. By developing your personalized “30-second commercial,” you will be able to quickly and effectively market yourself to others.
-<h3><strong>Your 30-second commercial should</strong>:</h3>
+<h2><strong>Your 30-second commercial should</strong>:</h2>
 <ul>
  	<li><em>Identify who you are</em></li>
  	<li><em>Highlight a few strengths and accomplishments</em></li>
@@ -22,7 +22,7 @@ As you can see in the sample below, the student highlights his name, major/indus
 Remember, the 30-second commercial can also be useful when writing resumes/cover letters, writing emails to employers, or when leaving voicemails.
 
 Also, don’t forget to practice! It will help you deliver your 30-second commercial seamlessly with confidence; however, you don’t want to sound like a robot!
-<h3><strong>Do’s and Don’ts for the 30-Second Commercial</strong></h3>
+<h2><strong>Do’s and Don’ts for the 30-Second Commercial</strong></h2>
 <h4><strong>DO</strong></h4>
 <ul>
  	<li>Focus on your strengths and assets that you would like to use in your career.</li>
@@ -39,7 +39,7 @@ Also, don’t forget to practice! It will help you deliver your 30-second commer
  	<li>Ramble. If you run out of things to say ask a question to the employer such as, “is there anything else you would like to know about me?” or “Would you like me to talk more about my experience?”</li>
  	<li>Don’t forget to ask for a business card, the name of a person you can follow up with, or advice for future action you should take.</li>
 </ul>
-<h3><strong>Sample Template &amp; Example</strong></h3>
+<h2><strong>Sample Template &amp; Example</strong></h2>
 <h4><strong>Sample Template</strong></h4>
 <em>The following is a sample template to get you started on developing on your own 30-second commercial.</em>
 
