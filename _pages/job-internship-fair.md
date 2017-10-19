@@ -2,16 +2,18 @@
 ID: 185
 post_title: 'Job &amp; Internship Fair'
 author: rwagner
-post_date: 2017-02-02 14:25:38
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/careercenter/employers/job-internship-fair/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2017-02-02 14:25:38
 ---
-<h2><img class="alignright wp-image-59 " src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/CareerCenterHome-300x121.jpg" width="337" height="136" />SAVE THE DATE!</h2>
+<h2>SAVE THE DATE!</h2>
+https://youtu.be/DAsalZWqq-w
+
+&nbsp;
+
 Our Fall 2017 Fair will be held on 10/24/17 from 3-6 p.m. in the University Center, Chandler Ballroom.
 
 A few updates this year:
