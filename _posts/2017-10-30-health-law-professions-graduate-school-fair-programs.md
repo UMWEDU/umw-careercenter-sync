@@ -76,11 +76,9 @@ post_date: 2017-10-30 19:02:51
 </ul>
 <h2><strong>Appalachian School of Law</strong></h2>
 <ul>
- 	<li>Clinical Mental Health Counseling: Master of Arts Degree</li>
- 	<li>Health Administration: Master of Health Administration Degree</li>
- 	<li>Higher Education: Master of Arts Degree</li>
- 	<li>Nursing: Master of Science in Nursing Degree</li>
- 	<li>Nutrition: Master of Science Degree</li>
+ 	<li>Natural Resources Law Program Certificate</li>
+ 	<li>Juris Doctor</li>
+ 	<li>Litigation Certificate</li>
 </ul>
 <h2><strong>George Mason University Antonin Scalia Law School</strong></h2>
 <ul>
