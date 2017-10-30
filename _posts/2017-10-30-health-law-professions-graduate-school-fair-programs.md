@@ -9,19 +9,18 @@ permalink: >
 published: true
 post_date: 2017-10-30 19:02:51
 ---
-<h2>Fair Information</h2>
-Date: Wednesday, November 1, 2017
+<h2></h2>
+<h2><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/09/22792203_863643987142419_7945681596114282144_o.jpg"><img class=" wp-image-459 alignleft" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/09/22792203_863643987142419_7945681596114282144_o-300x296.jpg" alt="" width="390" height="385" /></a></h2>
+<h2>Date: Wednesday, November 1, 2017</h2>
+<h3>Time: 12:00 p.m. – 3:00 p.m.</h3>
+<h3>Location: Chandler Ballroom, University Center</h3>
+<p class=" ">Did you know there are more occupations in the health and law fields than becoming a doctor or lawyer? This fair brings together medical schools, law schools, and graduate programs within the two disciplines.</p>
+&nbsp;
 
-Time: 12:00 p.m. – 3:00 p.m.
+&nbsp;
+<p class=" "> Learn about admissions requirements and application deadlines for graduate programs. Speak with graduate admissions advisors from local and national universities. Register at <a href="http://bit.ly/umwregistrationgradfair">http://bit.ly/umwregistrationgradfair</a>.</p>
 
-Location: Chandler Ballroom, University Center
-<p class=" ">Did you know there are more occupations in the health and law fields than becoming a doctor or lawyer? This fair brings together medical schools, law schools, and graduate programs within the two disciplines. Register at https://adobe.ly/2yy0RRl.</p>
-
-<ul>
- 	<li class=" ">Learn about admissions requirements and application deadlines for graduate programs</li>
- 	<li class=" ">Speak with graduate admissions advisors from local and national universities</li>
-</ul>
-https://youtu.be/qJvXvlvpIeo
+<h2></h2>
 <h2><strong>Eastern Virginia Medical School</strong></h2>
 <ul>
  	<li>Art Therapy &amp; Counseling</li>
@@ -48,7 +47,7 @@ https://youtu.be/qJvXvlvpIeo
  	<li>Pastoral Clinical Mental Health Counseling</li>
  	<li>School Counseling (M.A.)</li>
 </ul>
-<h2><strong> </strong><strong>Georgetown University and George Mason University GeorgeSquared</strong></h2>
+<h2><strong>Georgetown University and George Mason University GeorgeSquared</strong></h2>
 <ul>
  	<li>Advanced Biomedical Sciences Certificate Curriculum</li>
 </ul>
