@@ -15,9 +15,12 @@ Date: Wednesday, November 1, 2017
 Time: 12:00 p.m. – 3:00 p.m.
 
 Location: Chandler Ballroom, University Center
+<p class=" ">Did you know there are more occupations in the health and law fields than becoming a doctor or lawyer? This fair brings together medical schools, law schools, and graduate programs within the two disciplines. Register at https://adobe.ly/2yy0RRl.</p>
 
-Gain visibility and get to know University of Mary Washington students who are interested in pursuing graduate study leading to a career in health or law related professions.The University of Mary Washington is one of Virginia’s outstanding public liberal arts universities, providing a superior education that inspires and enables our students to make positive changes in the world.<strong> Find out more about our institution at </strong><a href="http://www.umw.edu/about/"><strong>http://www.umw.edu/about/</strong></a>.
-
+<ul>
+ 	<li class=" ">Learn about admissions requirements and application deadlines for graduate programs</li>
+ 	<li class=" ">Speak with graduate admissions advisors from local and national universities</li>
+</ul>
 https://youtu.be/qJvXvlvpIeo
 <h2><strong>Eastern Virginia Medical School</strong></h2>
 <ul>
