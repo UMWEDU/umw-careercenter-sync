@@ -62,8 +62,6 @@ post_date: 2017-10-30 19:02:51
  	<li>Physician Assistant Studies</li>
  	<li>Public Health</li>
  	<li>Organizational Leadership</li>
- 	<li>Special Education</li>
- 	<li>Organizational Leadership</li>
  	<li>Master in Literacy Education</li>
  	<li>Healthcare Management</li>
  	<li>Master of Science in Nursing</li>
