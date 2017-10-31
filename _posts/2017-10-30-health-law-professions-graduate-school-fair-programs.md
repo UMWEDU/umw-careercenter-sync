@@ -146,7 +146,6 @@ post_date: 2017-10-30 19:02:51
  	<li>Criminal Justice (Applied Sociology, M.A.)</li>
  	<li>Environmental Health (Community Health, M.S.)</li>
  	<li>Public Health (M.P.H.)</li>
- 	<li>Public Health (M.P.H.)</li>
  	<li>Dental Hygiene (M.S.)</li>
  	<li>Exercise Science &amp; Wellness (Education, M.S.Ed.)</li>
  	<li>Family Nurse Practitioner Role (Nursing, M.S.N.)</li>
