@@ -47,7 +47,7 @@ post_date: 2017-10-30 19:02:51
  	<li>Pastoral Clinical Mental Health Counseling</li>
  	<li>School Counseling (M.A.)</li>
 </ul>
-<h2><strong>Georgetown University and George Mason University GeorgeSquared</strong></h2>
+<h2><strong>Georgetown University and George Mason University George Squared</strong></h2>
 <ul>
  	<li>Advanced Biomedical Sciences Certificate Curriculum</li>
 </ul>
