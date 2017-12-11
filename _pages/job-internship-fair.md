@@ -25,4 +25,4 @@ Our Spring 2018 Fair will be held on 3/15/18 from 3-6 p.m. in the University Cen
 </ul>
 Questions? Please contact Rose Maddox, rwagner@umw.edu.
 
-&nbsp;
+<b><i>Note: This spring, the UMW Career Center will also be hosting a SUMMER JOB AND INTERNSHIP FAIR on April 11, 2018. If you are specifically recruiting for summer jobs or internships, this may be a better fit for your organization. Registration for this fair will begin in January 2018 and will also be done through Handshake. Email ccpd@umw.edu if you would like to be added to the contact list for this event.</i></b>
