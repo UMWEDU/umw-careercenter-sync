@@ -10,13 +10,7 @@ published: true
 post_date: 2017-02-02 14:25:38
 ---
 <h2>SAVE THE DATE!</h2>
-https://youtu.be/DAsalZWqq-w
-
-&nbsp;
-
-Our Fall 2017 Fair will be held on 10/24/17 from 3-6 p.m. in the University Center, Chandler Ballroom.
-
-A few updates this year:
+Our Spring 2018 Fair will be held on 3/15/18 from 3-6 p.m. in the University Center, Chandler Ballroom.
 <ul>
  	<li>Both employing organizations and graduate schools will be invited to attend our fall fair.</li>
  	<li>The fees are as follows:
@@ -27,7 +21,7 @@ A few updates this year:
  	<li>$25 per additional representative</li>
 </ul>
 </li>
- 	<li>The UMW Career Center is now using <a href="http://www.umw.edu/careercenter/handshake/">HANDSHAKE!</a>  - Employing organizations must be registered in Handshake in order to register for the fair. We will send invites to the fair as the date gets closer.</li>
+ 	<li>The UMW Career Center is now using <a href="http://www.umw.edu/careercenter/handshake/">HANDSHAKE!</a>  - Employing organizations must be registered in Handshake in order to register for the fair. We will send invites to register for the fair in late December/early January.</li>
 </ul>
 Questions? Please contact Rose Maddox, rwagner@umw.edu.
 
