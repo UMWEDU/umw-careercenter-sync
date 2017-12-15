@@ -21,7 +21,7 @@ post_date: 2017-08-21 13:25:59
 
 There has been an error processing your payment.
 
-Please use the ‘back’ button to return to the portal and try again.
+To return to the payment site, please click here.
 
 If you have questions or need assistance, please call the UMW Career Center at 540-654-5646 or email ccpd@umw.edu.
 
