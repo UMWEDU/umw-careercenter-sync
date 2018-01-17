@@ -5,7 +5,7 @@ author: rwagner
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/fair-payment-success/
+  http://www.umw.edu/careercenter/employers/fair-payment-success/
 published: true
 post_date: 2017-08-21 13:24:19
 ---
