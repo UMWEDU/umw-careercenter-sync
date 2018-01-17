@@ -5,7 +5,7 @@ author: rwagner
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/fair-payment-error/
+  http://www.umw.edu/careercenter/employers/fair-payment-error/
 published: true
 post_date: 2017-08-21 13:25:59
 ---
