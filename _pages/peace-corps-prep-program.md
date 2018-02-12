@@ -78,12 +78,12 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
  	<li>Receive notification of acceptance into the program
 <ul>
  	<li><em>Students will be notified of their application status in time for <a href="http://academics.umw.edu/registrar/course-schedules-and-registration/">registration</a> for the following semester (2-3 weeks after the application deadline).</em></li>
-</ul>
-</li>
  	<li>Begin completing the requirements for the UMW Peace Corps Prep Certificate
 <ul>
  	<li><em>Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.</em></li>
  	<li><em>Each semester, the Coordinator will conduct a workshop for all newly admitted PCPP students. The coordinator will organize gatherings of students in the PCPP, inviting students to attend on-campus or off-campus events related to PCPP topics of interest.</em></li>
+</ul>
+</li>
 </ul>
 </li>
 </ol>
@@ -91,22 +91,12 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 <h4><strong>Applications accepted on a rolling basis as of February 1, 2018</strong></h4>
 <h4><span style="color: #000000"><strong>November 14, 2017</strong>:</span> Spring 2018 Cohort      <span style="color: #000000"><strong>March 1, 2018:</strong> </span>Fall 2018 Cohort</h4>
 For assistance with the application process or further information, contact the UMW Peace Corps Prep at peacecorpsprep@umw.edu.
-
+<p style="text-align: left"><strong>Program Contacts:</strong></p>
+<p style="text-align: left">Erin Dandridge, Program Assistant</p>
+<p style="text-align: left"><a href="mailto:edandrid@umw.edu">edandrid@umw.edu</a></p>
+<p style="text-align: left">Kyle Danzey, Director</p>
+<p style="text-align: left"><a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a></p>
 &nbsp;
-
-[one-half-first]
-
-<strong>Program Contacts:</strong>
-
-Erin Dandridge, Program Assistant
-
-<a href="mailto:edandrid@umw.edu">edandrid@umw.edu</a>
-
-Kyle Danzey, Director
-
-<a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a>
-
-[/one-half-first][one-half][/one-half]
 
 &nbsp;
 <h6> _______________________________________________________</h6>
