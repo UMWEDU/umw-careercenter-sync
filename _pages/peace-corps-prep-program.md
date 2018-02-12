@@ -55,16 +55,14 @@ Working across cultures often entails verbal and nonverbal languages distinct fr
 <i>Where would you like to serve? </i>PC Prep minimum course requirements align with those needed by applicants to the Peace Corps itself, which vary by linguistic region.
 
 <a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/foreign-language-skills/">See Requirements</a>
-
-&nbsp;
-<h4></h4>
+<h2><a href="https://www.umw.edu/careercenter/applypeacecorpsprep/">Apply Here</a></h2>
 For assistance with the application process or further information, contact the UMW Peace Corps Prep at peacecorpsprep@umw.edu.
 <h2 style="text-align: left"><strong>Program Contacts</strong></h2>
 <p style="text-align: left">Erin Dandridge, Program Assistant</p>
 <p style="text-align: left"><a href="mailto:edandrid@umw.edu">edandrid@umw.edu</a></p>
 <p style="text-align: left">Kyle Danzey, Director</p>
 <p style="text-align: left"><a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a></p>
-&nbsp;
+
 <h6> _______________________________________________________</h6>
 <h6>Center for Career and Professional Development</h6>
 <h6>Suite 206, University Center</h6>
