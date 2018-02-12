@@ -71,14 +71,10 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 <ol>
  	<li>Review the <strong><a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/05/PCPP-Student-Guide.pdf">Student Guide</a>
 </strong></li>
- 	<li>Submit an <a href="https://umw.joinhandshake.com/jobs/762875/share_preview">Online Application </a>in Handshake at <a href="https://umw.joinhandshake.com/jobs/762875/share_preview">https://umw.joinhandshake.com/jobs/762875/share_preview </a><a href="https://umw.joinhandshake.com/jobs/762875/share_preview">
-</a>
-<ol>
- 	<li>From your homepage, select <em><strong>Jobs &amp; Internships</strong></em> on the left-hand menu.</li>
- 	<li>Under <em><strong>Keyword</strong></em> type <strong><em>Peace Corps Prep Application.</em></strong></li>
- 	<li>Review and complete the application then select <em><strong>Apply Now.</strong></em></li>
-</ol>
-</li>
+ 	<li>Review the Digital Signature Guide used to sign the application.</li>
+ 	<li>Review and complete the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Application</a>.</li>
+ 	<li>Review and complete the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/CreateDigitalSignature.pdf2_.pdf">Release of Information</a>.</li>
+ 	<li>Submit the application and release of information form to peacecorpsprep@umw.edu<em><strong>.</strong></em></li>
  	<li>Receive notification of acceptance into the program
 <ul>
  	<li><em>Students will be notified of their application status in time for <a href="http://academics.umw.edu/registrar/course-schedules-and-registration/">registration</a> for the following semester (2-3 weeks after the application deadline).</em></li>
@@ -92,20 +88,25 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 </li>
 </ol>
 <h2><strong>Application Deadlines</strong></h2>
+<h4><strong>Applications accepted on a rolling basis as of February 1, 2018</strong></h4>
 <h4><span style="color: #000000"><strong>November 14, 2017</strong>:</span> Spring 2018 Cohort      <span style="color: #000000"><strong>March 1, 2018:</strong> </span>Fall 2018 Cohort</h4>
-For assistance with the application process or further information, contact the UMW Peace Corps Prep Coordinator:
-<h6>Kyle Danzey<img class="alignleft wp-image-256" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/AAEAAQAAAAAAAATHAAAAJGI1ZjQ5OTk1LTVkYzUtNGFiOC04NzRiLTEzODVhYjdkMDU3OA-300x300.jpeg" alt="Kyle Danzey, Assistant Director for Career and Professional Development" width="133" height="133" /></h6>
-<h6>Assistant Director for Career and Professional Development</h6>
-<h6><a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a></h6>
-<h6>540-654-1022</h6>
-<h6></h6>
-<h6></h6>
+For assistance with the application process or further information, contact the UMW Peace Corps Prep at peacecorpsprep@umw.edu.
+
+<strong>Program Contacts:</strong>
+
+Erin Dandridge, Program Assistant
+
+edandrid@umw.edu
+
 &nbsp;
+
+Kyle Danzey, Director
+
+<a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a>
+<h6></h6>
 <h6>Center for Career and Professional Development</h6>
 <h6>Suite 206, University Center</h6>
 <h6><a href="http://www.umw.edu/careercenter">www.umw.edu/careercenter</a></h6>
-<h6></h6>
-<h6></h6>
 <h6><a href="https://umw.joinhandshake.com/login">Request an appointment in Handshake.</a></h6>
 <h6><a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">How do I request an appointment?</a></h6>
 <h6>[googlemaps https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3131.013059589835!2d-77.47862568438124!3d38.30236518940152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6c1f0d1d720db%3A0x89ff51f216e95296!2sCenter+for+Career+and+Professional+Development!5e0!3m2!1sen!2sus!4v1491006547731&amp;w=600&amp;h=450]</h6>
