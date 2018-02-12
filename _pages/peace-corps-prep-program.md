@@ -92,18 +92,24 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 <h4><span style="color: #000000"><strong>November 14, 2017</strong>:</span> Spring 2018 Cohort      <span style="color: #000000"><strong>March 1, 2018:</strong> </span>Fall 2018 Cohort</h4>
 For assistance with the application process or further information, contact the UMW Peace Corps Prep at peacecorpsprep@umw.edu.
 
+&nbsp;
+
+[one-half-first]
+
 <strong>Program Contacts:</strong>
 
 Erin Dandridge, Program Assistant
 
-edandrid@umw.edu
-
-&nbsp;
+<a href="mailto:edandrid@umw.edu">edandrid@umw.edu</a>
 
 Kyle Danzey, Director
 
 <a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a>
-<h6></h6>
+
+[/one-half-first][one-half][/one-half]
+
+&nbsp;
+<h6> _______________________________________________________</h6>
 <h6>Center for Career and Professional Development</h6>
 <h6>Suite 206, University Center</h6>
 <h6><a href="http://www.umw.edu/careercenter">www.umw.edu/careercenter</a></h6>
