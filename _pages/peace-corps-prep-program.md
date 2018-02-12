@@ -55,49 +55,15 @@ Working across cultures often entails verbal and nonverbal languages distinct fr
 <i>Where would you like to serve? </i>PC Prep minimum course requirements align with those needed by applicants to the Peace Corps itself, which vary by linguistic region.
 
 <a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/foreign-language-skills/">See Requirements</a>
-<h2><strong>Eligibility</strong></h2>
-<ul>
- 	<li>Be a UMW degree-seeking student.</li>
- 	<li>Be a second-semester freshman, sophomore, or first-semester junior in good standing.</li>
- 	<li>All majors welcome.</li>
-</ul>
-<h2><strong>Program Benefits</strong></h2>
-A formal partnership between the Peace Corps and UMW that allows UMW students, who have strong interests in global citizenship, to prepare simultaneously for the Peace Corps.
 
-Students who successfully complete the program gain g<span id="ctl00_contentPlaceHolder_mainDrop_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_TextLabel">lobal and intercultural fluency which is one of eight <a href="http://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">career ready competencies </a>identified by the <a href="http://www.naceweb.org/">National Association of Colleges and Employers</a>.</span>
-
-Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps and a graduation cord.
-<h2><strong>Application Process</strong></h2>
-<ol>
- 	<li>Review the <strong><a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/05/PCPP-Student-Guide.pdf">Student Guide</a>
-</strong></li>
- 	<li>Review the Digital Signature Guide used to sign the application.</li>
- 	<li>Review and complete the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Application</a>.</li>
- 	<li>Review and complete the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/CreateDigitalSignature.pdf2_.pdf">Release of Information</a>.</li>
- 	<li>Submit the application and release of information form to peacecorpsprep@umw.edu<em><strong>.</strong></em></li>
- 	<li>Receive notification of acceptance into the program
-<ul>
- 	<li><em>Students will be notified of their application status in time for <a href="http://academics.umw.edu/registrar/course-schedules-and-registration/">registration</a> for the following semester (2-3 weeks after the application deadline).</em></li>
- 	<li>Begin completing the requirements for the UMW Peace Corps Prep Certificate
-<ul>
- 	<li><em>Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.</em></li>
- 	<li><em>Each semester, the Coordinator will conduct a workshop for all newly admitted PCPP students. The coordinator will organize gatherings of students in the PCPP, inviting students to attend on-campus or off-campus events related to PCPP topics of interest.</em></li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
-<h2><strong>Application Deadlines</strong></h2>
-<h4><strong>Applications accepted on a rolling basis as of February 1, 2018</strong></h4>
-<h4><span style="color: #000000"><strong>November 14, 2017</strong>:</span> Spring 2018 Cohort      <span style="color: #000000"><strong>March 1, 2018:</strong> </span>Fall 2018 Cohort</h4>
+&nbsp;
+<h4></h4>
 For assistance with the application process or further information, contact the UMW Peace Corps Prep at peacecorpsprep@umw.edu.
-<p style="text-align: left"><strong>Program Contacts:</strong></p>
+<h2 style="text-align: left"><strong>Program Contacts</strong></h2>
 <p style="text-align: left">Erin Dandridge, Program Assistant</p>
 <p style="text-align: left"><a href="mailto:edandrid@umw.edu">edandrid@umw.edu</a></p>
 <p style="text-align: left">Kyle Danzey, Director</p>
 <p style="text-align: left"><a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a></p>
-&nbsp;
-
 &nbsp;
 <h6> _______________________________________________________</h6>
 <h6>Center for Career and Professional Development</h6>
