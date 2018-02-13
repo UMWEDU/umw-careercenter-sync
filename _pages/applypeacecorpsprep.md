@@ -49,7 +49,7 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 </strong></li>
  	<li>Review the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/CreateDigitalSignature.pdf2_.pdf">Digital Signature Guide</a> used to sign the application.</li>
  	<li>Review and complete the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Application</a>.</li>
- 	<li>Review and complete the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/CreateDigitalSignature.pdf2_.pdf">Release of Information</a>.</li>
+ 	<li>Review and complete the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Release_of_Information1.pdf">Release of Information</a>.</li>
  	<li>Submit the application and release of information form to peacecorpsprep@umw.edu<em><strong>.
 </strong></em></li>
  	<li>Receive notification of acceptance into the program
