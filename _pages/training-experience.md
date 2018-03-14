@@ -2,20 +2,31 @@
 ID: 240
 post_title: Training and Experience
 author: kdanzey
-post_date: 2017-03-31 18:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/peace-corps-prep-program/training-experience/
+  http://umwwebmaster.staging.wpengine.com/careercenter/students/peace-corps-prep-program/training-experience/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2017-03-31 18:21:22
 ---
-<a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><img class="alignnone wp-image-235" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="309" height="164" /></a>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector. There are <u>six sectors</u> in which Peace Corps Volunteers serve—detailed below. <b><u>Choose one sector to focus on</u> </b>then complete at least 3 courses + 50 hours of related experience in that sector.
+<div class="accordion">
+
+[tabby title="tab 1"]
+
+tab content 1
+
+[tabby title="tab 2"]
+
+tab content 1
+
+[tabbyending]
+
+</div>
+<a href="https://www.peacecorps.gov/volunteer/university-programs/peace-corps-prep/"><img class="alignnone wp-image-235" src="http://umwwebmaster.staging.wpengine.com/careercenter/wp-content/uploads/sites/41/2017/03/PeaceCorpsPrep-1-300x159.jpg" alt="" width="309" height="164" /></a>Complete at least 3 courses that align with a specific work sector (they can but do not need to come from your academic major or minor). You also must accumulate a minimum of 50 hours of volunteer or work experience in that same sector. There are <u>six sectors</u> in which Peace Corps Volunteers serve—detailed below. <b><u>Choose one sector to focus on</u> </b>then complete at least 3 courses + 50 hours of related experience in that sector.
 
 [tabby title="Education"]
 <h4><strong><span style="color: #003366">Education</span></strong></h4>
-<img class="size-full wp-image-248 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R1.png" alt="" width="101" height="66" />
+<img class="size-full wp-image-248 alignright" src="http://umwwebmaster.staging.wpengine.com/careercenter/wp-content/uploads/sites/41/2017/03/R1.png" alt="" width="101" height="66" />
 <h6 style="text-align: left"></h6>
 <h6 style="text-align: left"></h6>
 <h6 style="text-align: left"><strong><i><u>If you choose Education, take three courses from one of the following areas</u></i><i>:</i></strong></h6>
@@ -51,7 +62,7 @@ wpcf-home-page-grid-inclusion:
 </ul>
 [tabby title="Health"]
 <h4><strong><span style="color: #003366"> Health</span></strong></h4>
-<img class="size-full wp-image-250 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R3.png" alt="" width="85" height="85" />
+<img class="size-full wp-image-250 alignright" src="http://umwwebmaster.staging.wpengine.com/careercenter/wp-content/uploads/sites/41/2017/03/R3.png" alt="" width="85" height="85" />
 <h6></h6>
 <h6></h6>
 <h6></h6>
@@ -86,7 +97,7 @@ wpcf-home-page-grid-inclusion:
 </ul>
 [tabby title="Environment"]
 <h4><strong><span style="color: #003366"> Environment</span></strong></h4>
-<img class="size-full wp-image-252 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R5.png" alt="" width="85" height="85" />
+<img class="size-full wp-image-252 alignright" src="http://umwwebmaster.staging.wpengine.com/careercenter/wp-content/uploads/sites/41/2017/03/R5.png" alt="" width="85" height="85" />
 <h6></h6>
 <h6></h6>
 <h6></h6>
@@ -130,7 +141,7 @@ wpcf-home-page-grid-inclusion:
 </ul>
 [tabby title="Agriculture"]
 <h4><strong><span style="color: #003366">Agriculture</span></strong></h4>
-<img class="size-full wp-image-249 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R2.png" alt="" width="85" height="85" />
+<img class="size-full wp-image-249 alignright" src="http://umwwebmaster.staging.wpengine.com/careercenter/wp-content/uploads/sites/41/2017/03/R2.png" alt="" width="85" height="85" />
 <h6></h6>
 <h6></h6>
 <h6></h6>
@@ -159,7 +170,7 @@ wpcf-home-page-grid-inclusion:
 </ul>
 [tabby title="Youth Development"]
 <h4><span style="color: #003366"><strong>Youth in Development</strong></span></h4>
-<img class="size-full wp-image-251 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R4.png" alt="" width="85" height="85" />
+<img class="size-full wp-image-251 alignright" src="http://umwwebmaster.staging.wpengine.com/careercenter/wp-content/uploads/sites/41/2017/03/R4.png" alt="" width="85" height="85" />
 <h6></h6>
 <h6></h6>
 <h6></h6>
@@ -187,7 +198,7 @@ wpcf-home-page-grid-inclusion:
 </ul>
 [tabby title="Community Economic Development"]
 <h4><span style="color: #003366"><strong>Community Economic Development</strong></span></h4>
-<img class="wp-image-253 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/03/R6.png" alt="" width="85" height="85" />
+<img class="wp-image-253 alignright" src="http://umwwebmaster.staging.wpengine.com/careercenter/wp-content/uploads/sites/41/2017/03/R6.png" alt="" width="85" height="85" />
 <h6></h6>
 <h6></h6>
 <h6></h6>
