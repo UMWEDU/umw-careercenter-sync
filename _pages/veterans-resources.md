@@ -2,14 +2,12 @@
 ID: 86
 post_title: Veterans Resources
 author: kdanzey
-post_date: 2016-10-05 09:18:20
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/careercenter/students/veterans-resources/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-10-05 09:18:20
 ---
 <a href="http://www.vets.gov/veterans-employment-center">Veterans Employment Center</a> - A resource to help connect veterans and their families to career development opportunities
 <div class="tab active">
