@@ -19,7 +19,7 @@ The 3+3 Program provides a fast track to a career in law, allowing you to join t
 
 UMW students must finish major and general education requirements by the end of the third year, and make a formal timely application to GMU's law school (including LSAT scores). The fourth year is spent at GMU as a first year law student. The UMW undergraduate degree would be awarded from UMW following successful completion of the first year at GMU's law school.  Enrolling in the 3-3 program does not guarantee entrance nor lock one into going to GMU's law school.
 
-For more information on the program, <a href="https://www.law.gmu.edu/admissions/jd/3_3_program/faq_33"><strong>click here.</strong></a>
+For more information on the program, <a href="https://www.law.gmu.edu/admissions/jd/3_3_program/faqs_umw"><strong>click here.</strong></a>
 
 For questions about the program, please contact:
 
