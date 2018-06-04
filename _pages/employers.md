@@ -20,20 +20,14 @@ Download and share our new recruitment guide. <a href="http://www.umw.edu/caree
 <h2>Post a Job or Internship</h2>
 Register today to begin posting your open positions on <a href="https://umw.joinhandshake.com/employer_registrations/new">Handshake</a>, UMW’s official job portal, where undergraduates, students, and alumni can apply for full time, part time, <a href="http://www.umw.edu/careercenter/employers/internships/">internship</a> and volunteer opportunities.
 <h2>Attend Career &amp; Graduate School Fairs</h2>
-Our <a href="https://www.umw.edu/careercenter/employers/job-internship-fair/">fall and spring fairs</a>, as well as at targeted employer events, are heavily marketed to and attended by our talented UMW students.
+Our fall and spring fairs, as well as at targeted employer events, are heavily marketed to and attended by our talented UMW students. Email ccpd@umw.edu for more information.
 <h2>Host an Information Session</h2>
 Hosting an information session is a great opportunity to effectively promote your organization and meet targeted, qualified talent.
-<h2>Build Your Campus Brand</h2>
-Not sure where to start? Meet with UMW Career Center staff to discuss your company information, job and internship opportunities, and configure the best on-campus recruiting options for you. Email ccpd@umw.edu to request a visit.
-<h2>Volunteer</h2>
-Students love connecting with employers and alumni. Volunteer opportunities include reviewing resumes and cover letters, providing informational or mock interviews to students, or coming up with your own, customized program.
 
 </div>
 <div class="one-half">
 <h2>Interview Students on Campus</h2>
 Your company can interview students year-round using our in-office conference room, centrally located in the new University Center. We also invite you to conduct mock interviews to help students learn more about the interview process.
-<h2>Become a Featured Employer</h2>
-We can feature your company through our marketing outlets across campus! If you want to be highlighted, please send a short description of your organization, open positions, and any additional information, and we will do the rest!
 <h2>Connect with Students Online</h2>
 Joining our social media accounts is a great way to reach out to students.
 <ul>
