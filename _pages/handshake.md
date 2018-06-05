@@ -22,6 +22,9 @@ Handshake is<strong> used on over 170 U.S. university campuses</strong>, includi
 <ul>
  	<li style="list-style-type: none">
 <ul>
+ 	<li><a href="https://spark.adobe.com/page/xwKUqMf8ZtoKt/">Start Here - Handshake Overview</a></li>
+ 	<li><a href="https://joinhandshake.com/tos/">Terms of Service</a></li>
+ 	<li><a href="https://joinhandshake.com/privacy-policy/">Privacy Policy</a></li>
  	<li><a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">Book an Appointment </a></li>
  	<li><a href="https://support.joinhandshake.com/hc/en-us/sections/204202108-Getting-Started">Setting Up Your Account</a></li>
  	<li><a href="https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni">Step-by-Step Guides</a></li>
