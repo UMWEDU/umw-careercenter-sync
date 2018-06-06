@@ -18,7 +18,7 @@ If you are interested in recruiting our students or using our space for remote w
 Download and share our new recruitment guide. <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/08/UMW-Employer-Packet.pdf">UMW Employer Packet</a>
 <div class="one-half first">
 <h2>Post a Job or Internship</h2>
-Register today to begin posting your open positions on <a href="https://umw.joinhandshake.com/employer_registrations/new">Handshake</a>, UMW’s official job portal, where undergraduates, students, and alumni can apply for full time, part time, <a href="http://www.umw.edu/careercenter/employers/internships/">internship</a> and volunteer opportunities.
+Register today to begin posting your open positions on <a href="https://umw.joinhandshake.com/employer_registrations/new">Handshake</a>, UMW’s official job portal, where undergraduates, students, and alumni can apply for full time, part time, <a href="http://www.umw.edu/careercenter/employers/internships/">internship</a> and volunteer opportunities. Click <a href="https://app.joinhandshake.com/login?school_approval_token=FIBIH_JSSdQwqkVVNBrj44WllWwDkdtr_KNY6-yVL9wvuFGX-n9zEg">here</a> to register or log in to your Handshake account.
 <h2>Attend Career &amp; Graduate School Fairs</h2>
 Our fall and spring fairs, as well as at targeted employer events, are heavily marketed to and attended by our talented UMW students. Email ccpd@umw.edu for more information.
 <h2>Host an Information Session</h2>
