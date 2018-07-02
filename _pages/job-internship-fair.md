@@ -10,13 +10,13 @@ published: true
 post_date: 2017-02-02 14:25:38
 ---
 <h2>SAVE THE DATE!</h2>
-Our Spring 2018 Fair will be held on 3/15/18 from 3-6 p.m. in the University Center, Chandler Ballroom.
+Our Fall 2018 Fair will be held on 10/25/18 from 3-6 p.m. in the University Center, Chandler Ballroom.
+
+This fair offers you the opportunity to recruit high quality UMW students and alumni for your organization or graduate school programs. The University of Mary Washington has selective admission standards and a curriculum that emphasizes writing, public speaking, and problem-solving skills. Our graduates make excellent grad students, employees and interns, and this fair is the perfect forum for meeting many of them.
 <ul>
- 	<li>Both employing organizations and graduate schools will be invited to attend our fall fair.</li>
  	<li>The fees are as follows:
 <ul>
  	<li>For-Profit Organizations: $200 for two representatives</li>
- 	<li>Graduate Schools (by invite only): $200 for two representatives</li>
  	<li>Non-Profit &amp; Government Organizations: $100 for two representatives</li>
  	<li>$25 per additional representative</li>
 </ul>
@@ -31,4 +31,5 @@ Our Spring 2018 Fair will be held on 3/15/18 from 3-6 p.m. in the University Cen
 </ol>
 Questions? Please contact Rose Maddox, rwagner@umw.edu.
 
-<b><i>Note: This spring, the UMW Career Center will also be hosting a SUMMER JOB AND INTERNSHIP FAIR on April 11, 2018. If you are specifically recruiting for summer jobs or internships, this may be a better fit for your organization. Registration for this fair will begin in January 2018 and will also be done through Handshake. Email ccpd@umw.edu if you would like to be added to the contact list for this event.</i></b>
+<b><i>Note: Space is limited. Registration will close once capacity is hit. At that time, you may be placed on a 'wait list' in case any spots become available.
+</i></b>
