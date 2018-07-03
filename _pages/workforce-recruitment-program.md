@@ -41,23 +41,17 @@ With the Workforce Recruitment Program, students can:
  	<li>Earn additional experience and expand their network of contacts while on the job</li>
  	<li>Demonstrate that students with disabilities can make fantastic employees</li>
 </ul>
-<strong>Registration and Application (Complete both steps)</strong>
+<strong>Registration and Application</strong>
 <ol>
- 	<li>Register for the WRP Information Session, which will be held Monday, September 18, 2017 from 12:00 pm - 1:00 pm.
-<ol>
- 	<li><a href="https://umw.joinhandshake.com/events/69374/share_preview">https://umw.joinhandshake.com/events/69374/share_preview</a></li>
-</ol>
-</li>
- 	<li>Apply by October 17, 2017 at <a href="https://umw.joinhandshake.com/jobs/888141/share_preview">https://umw.joinhandshake.com/jobs/888141/share_preview</a>
-<ol>
- 	<li><strong><em>Application Opens on August 28, 2017</em></strong></li>
-</ol>
-</li>
+ 	<li><em>WRP Application opens on August 27, 2018 and closes in October.</em><strong><em>
+</em></strong></li>
+ 	<li>Students can register by visiting <a href="http://www.wrp.gov">www.wrp.gov</a>. Click the 'Student Registration' button. The registration will prompt questions. Once the UMW Campus Coordinator approves your registration, you will receive an email prompting you to complete the rest of the application, including uploading documents such as your 'Schedule A' letter. This is a required document.</li>
 </ol>
 <strong> </strong><strong>More Information </strong>
-
-For specific details about the Workforce Recruitment Program as it relates to the University of Mary Washington, or to express your interest in becoming a WRP candidate, please contact Kyle Danzey at <a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu</a> or 540-654-1022.
-
+<ul>
+ 	<li>For specific questions about the Workforce Recruitment Program and application process as it relates to the University of Mary Washington, please contact Rose Maddox at <a href="mailto:rwagner@umw.edu">rwagner@umw.edu</a>.</li>
+ 	<li>If you would like to make an appointment with a Career Coach to review your resume or practice your interview skills, please contact the Career Center at <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a> or 540-654-5646.</li>
+</ul>
 For more information about the Workforce Recruitment Program, visit the following links:
 <ul>
  	<li><a href="http://www.dol.gov/odep/pubs/brochures/wrp1.html">Office of Disability Employment Policy (ODEP): The Workforce Recruitment Program for College Students with Disabilities</a></li>
