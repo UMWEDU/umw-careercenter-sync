@@ -10,11 +10,7 @@ published: true
 post_date: 2017-02-02 14:25:38
 ---
 <h2>SAVE THE DATE!</h2>
-Our Fall 2018 Fair will be held on 10/25/18 from 3-6 p.m. in the University Center, Chandler Ballroom.
-
-Registration for this event will open in early to mid July.
-
-This fair offers you the opportunity to recruit high quality UMW students and alumni for your organization or graduate school programs. The University of Mary Washington has selective admission standards and a curriculum that emphasizes writing, public speaking, and problem-solving skills. Our graduates make excellent grad students, employees and interns, and this fair is the perfect forum for meeting many of them.
+Our Fall 2018 Fair will be held on 10/25/18 from 3-6 p.m. in the University Center, Chandler Ballroom. This fair offers you the opportunity to recruit high quality UMW students and alumni for your organization or graduate school programs. The University of Mary Washington has selective admission standards and a curriculum that emphasizes writing, public speaking, and problem-solving skills. Our graduates make excellent grad students, employees and interns, and this fair is the perfect forum for meeting many of them.
 <ul>
  	<li>The fees are as follows:
 <ul>
