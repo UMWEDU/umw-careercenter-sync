@@ -26,3 +26,4 @@ For additional information on program requirements, please click the links below
  	<li><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/08/Requirements-for-the-Accelerated-Pharmacy-Program.pdf">Requirements for the Accelerated Pharmacy Program</a></li>
  	<li><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/08/UMW-Graduation-Requirements-for-34-SU-BJD-Pharmacy-students.pdf">UMW Graduation Requirements for 3+4 SU BJD Pharmacy students</a></li>
 </ul>
+Questions?  Please contact Dr. Deb O’Dell at <a href="mailto:dodell@umw.edu">dodell@umw.edu</a>
