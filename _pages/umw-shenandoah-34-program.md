@@ -23,6 +23,6 @@ UMW students must finish major* and general education requirements by the end of
 
 For additional information on program requirements, please click the links below:
 <ul>
- 	<li>Requirements for the 3 + 4 Accelerated Pharmacy Program at the SU BJD School of Pharmacy</li>
- 	<li>University of Mary Washington Graduation Requirements</li>
+ 	<li><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/08/Requirements-for-the-Accelerated-Pharmacy-Program.pdf">Requirements for the Accelerated Pharmacy Program</a></li>
+ 	<li><a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/08/UMW-Graduation-Requirements-for-34-SU-BJD-Pharmacy-students.pdf">UMW Graduation Requirements for 3+4 SU BJD Pharmacy students</a></li>
 </ul>
