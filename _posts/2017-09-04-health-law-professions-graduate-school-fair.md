@@ -10,19 +10,19 @@ published: true
 post_date: 2017-09-04 15:14:57
 ---
 <h2 style="text-align: left">Fair Information</h2>
-Date: Wednesday, November 1, 2017
+Date: Tuesday, November 6th
 
-Time: 12:00 p.m. – 3:00 p.m.
+Time: 12:00 p.m. – 2:30 p.m.
 
 Location: Chandler Ballroom, University Center
 
 Gain visibility and get to know University of Mary Washington students who are interested in pursuing graduate study leading to a career in health or law related professions.The University of Mary Washington is one of Virginia’s outstanding public liberal arts universities, providing a superior education that inspires and enables our students to make positive changes in the world.<strong> Find out more about our institution at </strong><a href="http://www.umw.edu/about/"><strong>http://www.umw.edu/about/</strong></a>.
 
-https://youtu.be/qJvXvlvpIeo
-
 We ask that participating institutions have a graduate program related to the areas listed below.
 
-To register, visit<strong> <a href="http://bit.ly/2iVzkTQ">http://bit.ly/2iVzkTQ</a></strong>. The deadline for registration is 5:00 p.m. on October 20, 2017. For more information, please contact Bianca Hightower at <a href="mailto:bfaison@umw.edu">bfaison@umw.edu</a> or 540-654-5646.
+To register, visit<strong> </strong> <a href="https://app.joinhandshake.com/career_fairs/7022/employer_preview">https://app.joinhandshake.com/career_fairs/7022/employer_preview</a>
+
+The deadline for registration is 5:00 p.m. on October 20, 2017. For more information, please contact Bianca Hightower at <a href="mailto:bfaison@umw.edu">bfaison@umw.edu</a> or 540-654-5646.
 
 [one-half-first]
 <h2>Health Related</h2>
