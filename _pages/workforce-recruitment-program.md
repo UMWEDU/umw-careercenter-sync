@@ -5,7 +5,7 @@ author: kdanzey
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/workforce-recruitment-program/
+  http://www.umw.edu/careercenter/students/workforce-recruitment-program/
 published: true
 post_date: 2016-10-05 15:17:51
 ---
@@ -45,7 +45,7 @@ With the Workforce Recruitment Program, students can:
 <ol>
  	<li><em>WRP Application opens on August 27, 2018 and closes in October.</em><strong><em>
 </em></strong></li>
- 	<li>Students can register by visiting <a href="http://www.wrp.gov">www.wrp.gov</a>. Click the 'Student Registration' button. The registration will prompt questions. Once the UMW Campus Coordinator approves your registration, you will receive an email prompting you to complete the rest of the application, including uploading documents such as your 'Schedule A' letter. This is a required document.</li>
+ 	<li>Students can register by visiting <a href="https://wrp.gov/LoginPre.do?method=login">www.wrp.gov</a>. Click the 'Student Registration' button. The registration will prompt questions. Once the UMW Campus Coordinator approves your registration, you will receive an email prompting you to complete the rest of the application, including uploading documents such as your 'Schedule A' letter. This is a required document.</li>
 </ol>
 <strong> </strong><strong>More Information </strong>
 <ul>
