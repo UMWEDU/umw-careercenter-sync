@@ -10,7 +10,7 @@ published: true
 post_date: 2017-09-04 15:14:57
 ---
 <h2 style="text-align: left">Fair Information</h2>
-Date: Tuesday, November 6th
+Date: Tuesday, November 6th 2018
 
 Time: 12:00 p.m. – 2:30 p.m.
 
@@ -22,7 +22,7 @@ We ask that participating institutions have a graduate program related to the ar
 
 To register, visit<strong> </strong> <a href="https://app.joinhandshake.com/career_fairs/7022/employer_preview">https://app.joinhandshake.com/career_fairs/7022/employer_preview</a>
 
-The deadline for registration is 5:00 p.m. on October 20, 2017. For more information, please contact Bianca Hightower at <a href="mailto:bfaison@umw.edu">bfaison@umw.edu</a> or 540-654-5646.
+The deadline for registration is 5:00 p.m. on October 26, 2018. For more information, please contact Bianca Hightower at <a href="mailto:bfaison@umw.edu">bfaison@umw.edu</a> or 540-654-5646.
 
 [one-half-first]
 <h2>Health Related</h2>
