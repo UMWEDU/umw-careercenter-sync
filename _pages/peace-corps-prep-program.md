@@ -56,11 +56,9 @@ Working across cultures often entails verbal and nonverbal languages distinct fr
 
 <a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/foreign-language-skills/">See Requirements</a>
 <h2><a href="https://www.umw.edu/careercenter/applypeacecorpsprep/">Apply Here</a></h2>
-For assistance with the application process or further information, contact the UMW Peace Corps Prep at peacecorpsprep@umw.edu.
-<h2 style="text-align: left"><strong>Program Contacts</strong></h2>
-Rose Maddox
+For assistance with the application process or further information, contact the UMW Career Center at ccpd@umw.edu or 540-654-5646.
 
-ccpd@umw.edu
+&nbsp;
 <h6> _______________________________________________________</h6>
 <h6>Center for Career and Professional Development</h6>
 <h6>Suite 206, University Center</h6>
