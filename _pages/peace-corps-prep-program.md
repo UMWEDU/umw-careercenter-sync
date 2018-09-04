@@ -58,13 +58,13 @@ Working across cultures often entails verbal and nonverbal languages distinct fr
 <h2><a href="https://www.umw.edu/careercenter/applypeacecorpsprep/">Apply Here</a></h2>
 For assistance with the application process or further information, contact the UMW Peace Corps Prep at peacecorpsprep@umw.edu.
 <h2 style="text-align: left"><strong>Program Contacts</strong></h2>
-Tim O'Donnell
+Rose Maddox
 
-todonnel@umw.edu
+ccpd@umw.edu
 <h6> _______________________________________________________</h6>
 <h6>Center for Career and Professional Development</h6>
 <h6>Suite 206, University Center</h6>
 <h6><a href="http://www.umw.edu/careercenter">www.umw.edu/careercenter</a></h6>
-<h6><a href="https://umw.joinhandshake.com/login">Request an appointment in Handshake.</a></h6>
-<h6><a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">How do I request an appointment?</a></h6>
+<h6></h6>
+<h6></h6>
 <h6>[googlemaps https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3131.013059589835!2d-77.47862568438124!3d38.30236518940152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6c1f0d1d720db%3A0x89ff51f216e95296!2sCenter+for+Career+and+Professional+Development!5e0!3m2!1sen!2sus!4v1491006547731&amp;w=600&amp;h=450]</h6>
