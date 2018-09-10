@@ -57,5 +57,5 @@ Interested in doing an internship for credit? Follow the steps below.
 <ul>
  	<li>Submit your completed contract to the <a href="http://academics.umw.edu/registrar/">Office of the Registrar</a> – Lee Hall 2<sup>nd</sup></li>
  	<li>After two to three business days, check that the internship has been added to your schedule.</li>
- 	<li>Completed contracts MUST be approved prior to the end of the add/drop period. Check with your academic department for other deadlines.<strong><em> ALL late contracts will need to be approved by </em></strong><a href="http://academics.umw.edu/academicservices/"><strong><em>Academic Services</em></strong></a><strong><em> through their ‘late add’ process.</em></strong></li>
+ 	<li>Completed contracts MUST be approved prior to the end of the add/drop period. Check with your academic department for other deadlines.<strong><em> ALL late contracts will need to be approved by the Registar's Office. </em></strong></li>
 </ul>
