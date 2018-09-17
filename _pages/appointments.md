@@ -24,6 +24,7 @@ Appointment types include:
  	<li>Career Options</li>
  	<li>Major Exploration/Choosing a Major</li>
  	<li>Graduate School Assistance</li>
+ 	<li>New Fall 2018: WALK-IN Pre-Health Academic/Career Advising, every Wednesday and Thursday, 1-4 p.m.</li>
 </ul>
 Appointment hours are Monday through Friday, 9 a.m. to 5 p.m. Please review your confirmation email regarding the location of your appointment.
 <h3>To book an appointment:</h3>
