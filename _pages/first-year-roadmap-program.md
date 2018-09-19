@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-03-29 13:46:04
 ---
-<strong>WHAT: </strong>This is a career coaching program focused on career exploration. It will set you on the road to career and professional readiness. Space is limited and participation is by application only. Applications are due August 1. The program will begin in November 2018 and end in April 2019.
+<strong>WHAT: </strong>This is a career coaching program focused on career exploration. It will set you on the road to career and professional readiness. Space is limited and participation is by application only. The program will begin in November 2018 and end in April 2019.
 
 <strong>YOUR COMMITMENT: </strong>All participants must agree that this is a high-value opportunity requiring commitment, active involvement, and follow-through. In additional completing regular homework essential to the success of the program, you agree to (1) four coaching sessions, (2) participation in at least two programs or workshops offered by the Center for Career and Professional Development and (3) attendance at the spring Job and Internship Fair (4) attendance at the culminating Etiquette Dinner.
 
@@ -17,7 +17,7 @@ post_date: 2017-03-29 13:46:04
 
 <strong>Sample Program Schedule:</strong>
 
-<strong>Introductory meeting</strong> (Mid to Late October)
+<strong>Introductory meeting</strong> (Early to mid November)
 <ul>
  	<li><strong>Goal</strong>: To gather information and build a relationship with your coach</li>
  	<li><strong>Activity</strong>: Discuss your background, interests, goals</li>
