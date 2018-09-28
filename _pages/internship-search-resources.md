@@ -28,7 +28,7 @@ Local and Regional internships (listings)
  	<li><a href="http://www.vahistorical.org/contact-us/jobs-and-volunteering">Virginia Historical Society</a></li>
  	<li><a href="https://www.geico.com/careers/students-and-grads/internships/">Geico Internships</a></li>
  	<li><a href="http://www.obsidiansg.com/index.php/about/internship">Obsidian Solutions Group</a></li>
- 	<li><a href="https://www.richmondfed.org/education/for_students/college_students">Richmond Federal Bank Internships</a></li>
+ 	<li><a href="https://www.richmondfed.org/about_us/careers/students_and_recent_graduates">Richmond Federal Bank Internships</a></li>
 </ul>
 &nbsp;
 
@@ -59,7 +59,7 @@ Major Internship Programs
 
 <a href="https://www.amazon.jobs/team-category/university-recruiting">Amazon</a>
 
-<a href="https://intern.nasa.gov/ossi/web/public/main/index.cfm%3FsolarAction%3Dview%26subAction%3Dcontent%26contentCode%3DHOME_PAGE_INTERNSHIPS">NASA</a>
+<a href="https://intern.nasa.gov/">NASA</a>
 
 <a href="https://careers.microsoft.com/students/internships">Microsoft</a>
 
@@ -82,11 +82,11 @@ Volunteer Opportunities
  	<li><a href="http://www.volunteermatch.org/">Volunteer Match</a></li>
  	<li><a href="https://www.dosomething.org/us">Do Something</a></li>
  	<li><a href="http://www.fredericksburgva.gov/index.aspx?NID=557">Fredericksburg Volunteer Opportunities</a></li>
- 	<li><a href="http://www.hopehouseva.org/volunteer/">Hope House Volunteer</a></li>
+ 	<li>Hope House Volunteer</li>
  	<li><a href="http://www.marysshelterva.org/volunteer/">Mary's Shelter</a></li>
  	<li><a href="http://www.librarypoint.org/volunteer_intern_opps">Central Rappahannock Regional Library</a></li>
  	<li><a href="http://www.rappahannockunitedway.org/volunteer.html">Rappahannock United Way</a></li>
- 	<li><a href="http://www.peacework.org/home.php">Peacework</a></li>
+ 	<li>Peacework</li>
  	<li><a href="http://www.idealist.org/">Idealist</a></li>
  	<li><a href="http://www.1-800-volunteer.org/">1-800-volunteer</a></li>
 </ul>
@@ -107,7 +107,6 @@ Medical / Health Summer research programs
  	<li><a href="http://people.rit.edu/gtfsbi/Symp/premed.htm">General Pre-Med (provided by RIT)</a></li>
  	<li><a href="http://people.rit.edu/gtfsbi/Symp/vetag.htm">Pre-Vet (provided by RIT)</a></li>
  	<li><a href="http://www.nih.gov/">National Institutes of Health</a></li>
- 	<li><a href="http://www.cdc.gov/employment/menu_cto.html">CDC</a></li>
  	<li><a href="http://people.rit.edu/gtfsbi/Symp/ecology.htm">Ecology, Animal/Plant Bio, Marine Science (provided by RIT)</a></li>
 </ul>
 &nbsp;
@@ -142,15 +141,10 @@ Political
  	<li><a href="http://www.nsf.gov/about/career_opps/careers/student.jsp">National Science Foundation</a></li>
  	<li><a href="http://www.asee.org/">American Society for Engineering Education</a></li>
  	<li><a href="http://www.apa.org/science/">APA Science Directorate</a></li>
- 	<li><a href="http://www.serc.si.edu/pro_training/index.aspx">Smithsonian Environmental Research Center</a></li>
  	<li><a href="http://www.spsnational.org/about/">Society of Physics Students</a></li>
  	<li><a href="http://www.northropgrumman.com/">Northrup Grumman</a></li>
- 	<li><a href="http://www.aaas.org/careercenter/internships/">American Association for the Advancement of Science</a></li>
  	<li><a href="http://secure.ibpaalliance.org/assets/usrdocs/internship-programs.html">International Biopharmaceutical Association </a></li>
  	<li><a href="http://www.csiip.spacegrant.org/">Commonwealth STEM Industry Internship Program</a></li>
- 	<li><a href="https://www.facebook.com/">Commonwealth STEM Facebook Page</a></li>
- 	<li><a href="http://www.merck.com/careers/university/internships.html">Merck</a></li>
- 	<li><a href="http://www.dom.com/jobs/campus.jsp">Dominion Virginia Power</a></li>
  	<li><a href="http://careers.physicstoday.org/search/index.cfm">Physics Today</a></li>
  	<li><a href="http://www.nature.com/naturejobs/index.html">Naturejobs.com</a></li>
  	<li><a href="http://hroffice.nrl.navy.mil/student/student_public.asp">Naval Research Laboratory</a></li>
@@ -171,29 +165,26 @@ Political
  	<li><a href="http://www.iesabroad.org/study-abroad/internships" target="_blank" rel="noopener">IES</a> – Summer internships in one of <a href="https://www.iesabroad.org/study-abroad/internships/locations-programs" target="_blank" rel="noopener">thirteen cities</a> or semester placements in <a href="https://www.iesabroad.org/study-abroad/programs/barcelona-%E2%80%93-full-time-semester-internship" target="_blank" rel="noopener">Barcelona</a>, <a href="https://www.iesabroad.org/study-abroad/programs/dublin-%E2%80%93-full-time-semester-internship" target="_blank" rel="noopener">Dublin</a>, <a href="https://www.iesabroad.org/study-abroad/programs/london-%E2%80%93-full-time-semester-internship" target="_blank" rel="noopener">London</a>, or <a href="https://www.iesabroad.org/study-abroad/programs/rome-full-time-semester-internship" target="_blank" rel="noopener">Rome</a>.</li>
  	<li><a href="http://teanabroad.org/program-finder/?program-types=internship" target="_blank" rel="noopener">TEAN</a> – Summer and semester internships in Australia, China, New Zealand, Thailand.</li>
 </ul>
-<div>Students may also pursue an internship as part of a summer or semester abroad experience.  Please make sure to collaborate both with the Career Center and the <a href="http://international.umw.edu/cie-staff-2/" target="_blank" rel="noopener">Center for International Education.</a></div>
+<div>Students may also pursue an internship as part of a summer or semester abroad experience.  Please make sure to collaborate both with the Career Center and the <a href="https://international.umw.edu/">Center for International Education.</a></div>
 </div>
 </div>
 &nbsp;
 
-<a href="http://www.bigapplehead.com/">New York Metro Area</a>
+New York Metro Area
 <ul>
  	<li><a href="http://www.nyc.gov/html/dcas/html/work/internship.shtml">Internships with the City of New York</a></li>
  	<li><a href="http://www.internships.com/internship-jobs/newyork">New York City Interns</a></li>
 </ul>
 Journalism/Media Entertainment
 <ul>
- 	<li><a href="http://www.4entertainmentjobs.com/">4entertainmentjobs</a></li>
  	<li><a href="http://media411.tvjobs.com/">Media411</a></li>
  	<li><a href="http://www.entertainmentcareers.net/jcat.asp?jcat=114">Entertainment Careers</a></li>
  	<li><a href="http://www.irts.org/programs/sfp/sfp.html">International Radio and TV Society Foundation</a></li>
  	<li><a href="http://www.wdwcollegeprogram.com/sap/its/mimes/zh_wdwcp/index.html">Walt Disney World</a></li>
  	<li><a href="http://www.magazine.org/careers/">Magazine Publishers of America</a></li>
  	<li><a href="http://www.npr.org/about/jobs/intern/">National Public Radio</a></li>
- 	<li><a href="http://www.mrc.org/%20">Media Research Center</a></li>
  	<li><a href="http://www.nbc4.com/station/1159856/detail.html">NBC4 News Washington DC</a></li>
  	<li><a href="http://www.fcac.org/">Fairfax Public Access</a></li>
- 	<li><a href="http://www.dc-opera.org/">The Washington Opera</a></li>
  	<li><a href="http://www.wolftrap.org/Education/Internships_for_College_Students.aspx">Wolf Trap Foundation for the Performing Arts</a></li>
  	<li><a href="http://www.viacomcareers.com/">MTV</a></li>
  	<li><a href="http://journalismjobs.com/">Journalism Jobs</a></li>
@@ -219,8 +210,6 @@ The Arts
 <ul>
  	<li><a href="http://artjobs.artsearch.us/%20">ArtJob</a></li>
  	<li><a href="http://www.creativehotlist.com/">Creative Hotlist</a></li>
- 	<li><a href="http://www.artschools.com/careers-jobs/">Art Schools</a></li>
- 	<li><a href="http://www.moma.org/learn/courses/internships">MoMA</a></li>
 </ul>
 Museum Interests/ Preservation
 <ul>
@@ -246,14 +235,12 @@ Environmental/ Outdoor / Conservation
  	<li><a href="http://www.thesca.org/">Student Conservation Association</a></li>
  	<li><a href="http://www.humanesociety.org/">The Humane Society of the U.S.</a></li>
  	<li><a href="http://www.fws.gov/northeast/easternshore/">Eastern Shore of Virginia National Wildlife Refuge</a></li>
- 	<li><a href="http://www.nwf.org/careergateway/index.cfm">National Wildlife Federation</a></li>
  	<li><a href="http://www.aza.org/JobListings/">Association of Zoos and Aquariums</a></li>
  	<li><a href="http://www.ecojobs.com/index.php">Environmental Jobs and Opportunities</a></li>
  	<li><a href="http://www.audubon.org/">National Audubon Society</a></li>
  	<li><a href="http://www.sustainablebusiness.com/index.cfm/go/greendreamjobs.main">Green Dream Jobs</a></li>
  	<li><a href="http://www.backdoorjobs.com/">Back Door Jobs</a></li>
  	<li><a href="http://www.greenpeace.org/usa/en/about/jobs/internship/">Greenpeace USA</a></li>
- 	<li><a href="http://www.ofertia.com/empleos-sostenibles/jobs/">Sustainable Business Jobs </a></li>
 </ul>
 Nonprofit
 <ul>
@@ -269,18 +256,12 @@ Spanish
 <ul>
  	<li><a href="http://www.sedcenter.org/index.html">Spanish Education Center</a></li>
 </ul>
-VA State Government
-<ul>
- 	<li>Virginia (Government and Non-Profit Opportunities)</li>
-</ul>
 Washington DC / Federal (Various)
 <ul>
  	<li><a href="http://www.democracymatters.org/">Democracy Matters</a></li>
  	<li><a href="http://www.twc.edu/">The Washington Center</a></li>
  	<li><a href="http://www.ielnet.org/">Washington Internship Institute</a></li>
- 	<li><a href="http://millercenter.org/presidentialclassroom">Presidential Classroom</a></li>
  	<li><a href="http://www.usajobs.gov/">USA Jobs</a></li>
- 	<li><a href="http://csce.gov/index.cfm?FuseAction=Home.Internships">Commission on Security and Cooperation in Europe</a></li>
  	<li>To intern with a specific state Senator, go directly to that Senator’s website</li>
 </ul>
 &nbsp;
@@ -288,17 +269,17 @@ Washington DC / Federal (Various)
 Specific Federal Government Agencies
 <ul>
  	<li><a href="http://www.usa.gov/Agencies/Federal/All_Agencies/index.shtml">USA.gov (A – Z index of government agencies and organizations)</a></li>
- 	<li><a href="http://www.nsa.gov/careers/opportunities_4_u/students/index.shtml">National Security Agency</a></li>
+ 	<li>National Security Agency</li>
  	<li><a href="https://www.cia.gov/">Central Intelligence Agency</a></li>
  	<li><a href="http://www.dia.mil/">Defense Intelligence Agency</a></li>
  	<li><a href="http://www.dhs.gov/xabout/careers/content_multi_image_0011.shtm">Department of Homeland Security</a></li>
  	<li><a href="http://govcentral.monster.com/education/articles/1821-secret-service-internships">U.S. Secret Service</a></li>
  	<li><a href="http://www.fletc.gov/student-information/college-intern-program">Federal Law Enforcement Training Center</a></li>
- 	<li><a href="http://www.justice.gov/06employment/06-3.html">U.S. Department of Justice</a></li>
- 	<li><a href="http://www.whitehouse.gov/government/wh-intern.html">The White House</a></li>
+ 	<li>U.S. Department of Justice</li>
+ 	<li>The White House</li>
  	<li><a href="http://www.supremecourtus.gov/jobs/jip/jip.html">The Supreme Court</a></li>
  	<li><a href="http://www.nih.gov/">National Institute of Health</a></li>
- 	<li><a href="http://www.jobs.irs.gov/stu_employment.html">Internal Revenue Service</a></li>
+ 	<li>Internal Revenue Service</li>
  	<li><a href="http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/jobs/internship">U.S. Department of Housing and Urban Development</a></li>
  	<li><a href="http://www.energy.gov/scholarships&amp;internships.htm">U.S. Department of Energy</a></li>
  	<li><a href="http://www.usda.gov/wps/portal/usda/usdahome">U.S. Department of Agriculture</a></li>
@@ -307,11 +288,11 @@ Specific Federal Government Agencies
  	<li><a href="http://www.doi.gov/index.cfm">U.S. Department of Interior</a></li>
  	<li><a href="http://www.ice.gov/careers/internships/index.htm">U.S. Immigration and Customs Enforcement</a></li>
  	<li><a href="http://www.navsea.navy.mil/Home/WarfareCenters/NSWCDahlgren.aspx">Naval Surface Warfare Center – Dahlgren</a></li>
- 	<li><a href="http://www.ojp.usdoj.gov/about/offices/ocom.htm">Office of Communications (Office of Justice Programs)</a></li>
- 	<li><a href="http://careers.dot.gov/stu_intern.html">U.S. Department of Transportation</a></li>
+ 	<li>Office of Communications (Office of Justice Programs)</li>
+ 	<li>U.S. Department of Transportation</li>
  	<li><a href="http://www.federalreserve.gov/careers/internships.htm">Federal Reserve Board</a></li>
  	<li><a href="http://www.ferc.gov/careers/student-rel.asp">Federal Energy Regulatory Commission</a></li>
- 	<li><a href="http://www.usccr.gov/jobs/jobs.htm">U.S. Commission on Civil Rights</a></li>
+ 	<li>U.S. Commission on Civil Rights</li>
  	<li><a href="http://www.archives.gov/careers/internships/">National Archives and Records Administration</a></li>
  	<li><a href="http://hr.commerce.gov/Careers/StudentCareerOpportunities/index.htm">Department of Commerce</a></li>
  	<li><a href="http://www.loc.gov/hr/employment/index.php">Library of Congress</a></li>
