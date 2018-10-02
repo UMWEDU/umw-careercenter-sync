@@ -41,6 +41,17 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
  	<li>Be a UMW degree-seeking student.</li>
  	<li>Be a second-semester freshman, sophomore, or first-semester junior in good standing.</li>
 </ul>
+<h2>To apply</h2>
+<ul>
+ 	<li>Review the Peace Corps Prep <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/05/PCPP-Student-Guide.pdf">student guide</a></li>
+ 	<li>Submit a completed <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Peace Corps Prep Application</a> to ccpd@umw.edu</li>
+ 	<li>You will be contacted by a staff member regarding next steps</li>
+</ul>
+<h2>Deadlines</h2>
+<ul>
+ 	<li>For admission into the spring 2019 cohort, applications are due by November 14, 2018.</li>
+ 	<li>For admission into the fall 2019 cohort, applications are due by March 1, 2019.</li>
+</ul>
 <h2>Program Contacts</h2>
 Career Center, 540-654-5646, ccpd@umw.edu
 
