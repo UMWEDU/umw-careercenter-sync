@@ -40,37 +40,8 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 <ul>
  	<li>Be a UMW degree-seeking student.</li>
  	<li>Be a second-semester freshman, sophomore, or first-semester junior in good standing.</li>
- 	<li>All majors welcome.</li>
 </ul>
-<h2><strong>Application Process</strong></h2>
-<i>*The forms are PDF fillable and must be opened in Adobe Acrobat. Download at </i><a href="https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html"><i>https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html</i></a>
-<ol>
- 	<li>Review the <strong><a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/05/PCPP-Student-Guide.pdf">Student Guide</a>
-</strong></li>
- 	<li>Review the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/CreateDigitalSignature.pdf2_.pdf">Digital Signature Guide</a> used to sign the application.</li>
- 	<li>Review and complete the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Application</a>.</li>
- 	<li>Review and complete the <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Release_of_Information1.pdf">Release of Information</a>.</li>
- 	<li>Submit the application and release of information form to peacecorpsprep@umw.edu<em><strong>.
-</strong></em></li>
- 	<li>Receive notification of acceptance into the program
-<ul>
- 	<li><em>Students will be notified of their application status in time for <a href="http://academics.umw.edu/registrar/course-schedules-and-registration/">registration</a> for the following semester (2-3 weeks after the application deadline).</em></li>
- 	<li>Begin completing the requirements for the UMW Peace Corps Prep Certificate
-<ul>
- 	<li><em>Upon acceptance into the program, each student will fill out a tentative curricular plan for completion of the program.</em></li>
- 	<li><em>Each semester, the Coordinator will conduct a workshop for all newly admitted PCPP students. The coordinator will organize gatherings of students in the PCPP, inviting students to attend on-campus or off-campus events related to PCPP topics of interest.</em></li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
-<h2><strong>Application Deadlines</strong></h2>
-<h4><strong>Applications accepted on a rolling basis as of February 1, 2018</strong></h4>
-<h4><strong>November 14, 2017</strong>: Spring 2018 Cohort      <strong>March 1, 2018:</strong> Fall 2018 Cohort</h4>
-For assistance with the application process or further information, contact the UMW Peace Corps Prep at <a href="mailto:peacecorpsprep@umw.edu">peacecorpsprep@umw.edu</a>.
-<h2><strong>Program Contacts</strong></h2>
-Tim O'Donnell
+<h2>Program Contacts</h2>
+Career Center, 540-654-5646, ccpd@umw.edu
 
-todonnel@umw.edu
-
-&nbsp;
+Center for International Education, 540-654-1434, <a href="https://international.umw.edu/center-for-international-education-2/email-cie/">Email CIE</a>
