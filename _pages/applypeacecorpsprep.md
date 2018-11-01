@@ -43,7 +43,7 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 </ul>
 <h2>To apply</h2>
 <ul>
- 	<li>Review the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/11/PCP-student-guide-EDITED.pdf">Peace Corps Prep Student Guide</a></li>
+ 	<li>Review the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/11/PCP-Student-Guide-November-2018.pdf">Peace Corps Prep Student Guide</a></li>
  	<li>Submit a completed <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Peace Corps Prep Application</a> to ccpd@umw.edu</li>
  	<li>You will be contacted by a staff member regarding next steps</li>
 </ul>
