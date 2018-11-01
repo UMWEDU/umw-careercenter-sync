@@ -35,7 +35,7 @@ A formal partnership between the Peace Corps and UMW that allows UMW students, w
 
 Students who successfully complete the program gain g<span id="ctl00_contentPlaceHolder_mainDrop_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_TextLabel">lobal and intercultural fluency which is one of eight <a href="http://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">career ready competencies </a>identified by the <a href="http://www.naceweb.org/">National Association of Colleges and Employers</a>.</span>
 
-Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps and a graduation cord. Read more about the program at<a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/"> www.umw.edu/careercenter/students/peace-corps-prep-program</a>.
+Peace Corps Prep Program graduates receive a signed certificate of completion from the Peace Corps and a graduation cord.
 <h2><strong>Eligibility</strong></h2>
 <ul>
  	<li>Be a UMW degree-seeking student.</li>
@@ -43,7 +43,7 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 </ul>
 <h2>To apply</h2>
 <ul>
- 	<li>Review the Peace Corps Prep <a href="https://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/05/PCPP-Student-Guide.pdf">student guide</a></li>
+ 	<li>Review the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/11/PCP-student-guide-EDITED.pdf">Peace Corps Prep Student Guide</a></li>
  	<li>Submit a completed <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Peace Corps Prep Application</a> to ccpd@umw.edu</li>
  	<li>You will be contacted by a staff member regarding next steps</li>
 </ul>
