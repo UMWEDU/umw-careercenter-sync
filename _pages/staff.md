@@ -15,6 +15,13 @@ post_date: 2016-06-29 18:55:06
  	<li>Strategy/mission/vision</li>
  	<li>Curriculum</li>
 </ul>
+<strong>Andrea Cordray, Assistant Director for Career &amp; Professional Development
+</strong>540-654-1091, bfaison@umw.edu
+<ul>
+ 	<li>Programs and Events</li>
+ 	<li>Marketing</li>
+ 	<li>Career coaching</li>
+</ul>
 <strong>Bianca Hightower, Assistant Director for Career &amp; Professional Development
 </strong>540-654-1091, bfaison@umw.edu
 <ul>
