@@ -56,13 +56,13 @@ Working across cultures often entails verbal and nonverbal languages distinct fr
 
 <a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/foreign-language-skills/">See Requirements</a>
 <h2><a href="https://www.umw.edu/careercenter/applypeacecorpsprep/">Apply Here</a></h2>
-For assistance with the application process or further information, contact the UMW Career Center at ccpd@umw.edu or 540-654-5646.
+For assistance with the application process or further information, contact the UMW Center for International Education:
 
-&nbsp;
+CIE is located in Lee Hall (4th floor)
+Phone (540) 654-1434
+Fax (540) 654-1119<a href="http://international.umw.edu//email-cie/">
+Email Us</a>
 <h6> _______________________________________________________</h6>
-<h6>Center for Career and Professional Development</h6>
-<h6>Suite 206, University Center</h6>
-<h6><a href="http://www.umw.edu/careercenter">www.umw.edu/careercenter</a></h6>
 <h6></h6>
 <h6></h6>
-<h6>[googlemaps https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3131.013059589835!2d-77.47862568438124!3d38.30236518940152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6c1f0d1d720db%3A0x89ff51f216e95296!2sCenter+for+Career+and+Professional+Development!5e0!3m2!1sen!2sus!4v1491006547731&amp;w=600&amp;h=450]</h6>
+<h6></h6>
