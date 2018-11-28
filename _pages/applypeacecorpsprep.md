@@ -44,7 +44,7 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 <h2>To apply</h2>
 <ul>
  	<li>Review the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/11/PCP-Student-Guide-November-2018.pdf">Peace Corps Prep Student Guide</a></li>
- 	<li>Print the official <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Peace Corps Prep Application</a> and turn it into the CIE Office, Lee Hall 4th Floor</li>
+ 	<li>Print the official <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Peace Corps Prep Application</a> and the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/11/PCPP_Release_of_Information1.pdf">Release of Information</a> and turn both into the CIE Office, which is located in Lee Hall on the 4th Floor</li>
  	<li>You will be contacted by the UMW Peace Corps Prep Coordinator, Jose Sainz, regarding next steps</li>
 </ul>
 <h2>Deadlines</h2>
