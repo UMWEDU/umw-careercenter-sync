@@ -44,8 +44,8 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
 <h2>To apply</h2>
 <ul>
  	<li>Review the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/11/PCP-Student-Guide-November-2018.pdf">Peace Corps Prep Student Guide</a></li>
- 	<li>Submit a completed <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Peace Corps Prep Application</a> to ccpd@umw.edu</li>
- 	<li>You will be contacted by a staff member regarding next steps</li>
+ 	<li>Print the official <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/02/PCPP_Application_Revised_JAN_181.pdf">Peace Corps Prep Application</a> and turn it into the CIE Office, Lee Hall 4th Floor</li>
+ 	<li>You will be contacted by the UMW Peace Corps Prep Coordinator, Jose Sainz, regarding next steps</li>
 </ul>
 <h2>Deadlines</h2>
 <ul>
@@ -53,6 +53,6 @@ Peace Corps Prep Program graduates receive a signed certificate of completion f
  	<li>For admission into the fall 2019 cohort, applications are due by March 1, 2019.</li>
 </ul>
 <h2>Program Contacts</h2>
-Career Center, 540-654-5646, ccpd@umw.edu
-
 Center for International Education, 540-654-1434, <a href="https://international.umw.edu/center-for-international-education-2/email-cie/">Email CIE</a>
+
+Career Center, 540-654-5646, <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>
