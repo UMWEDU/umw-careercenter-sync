@@ -31,7 +31,6 @@ For 13 years, the Peace Corps has ranked the University of Mary Washington among
 </tr>
 </tbody>
 </table>
-https://www.youtube.com/watch?v=8uRbeW-Vro8&amp;index=2&amp;list=PL2B90BEBDEE4842E2
 <h2><strong>Competencies
 </strong></h2>
 Leveraging concrete knowledge and skills is central to on the ground international development work. Through this PC Prep program, you will begin to build a professional specialty, which should serve your career well whether or not you become a Peace Corps Volunteer.
@@ -55,14 +54,23 @@ Working across cultures often entails verbal and nonverbal languages distinct fr
 <i>Where would you like to serve? </i>PC Prep minimum course requirements align with those needed by applicants to the Peace Corps itself, which vary by linguistic region.
 
 <a href="https://www.umw.edu/careercenter/students/peace-corps-prep-program/foreign-language-skills/">See Requirements</a>
-<h2><a href="https://www.umw.edu/careercenter/applypeacecorpsprep/">Apply Here</a></h2>
-For assistance with the application process or further information, contact the UMW Center for International Education:
+<h2><strong>Eligibility</strong></h2>
+<ul>
+ 	<li>Must be a UMW degree-seeking student.</li>
+ 	<li>Must be a second-semester freshman, sophomore, or first-semester junior in good standing.</li>
+</ul>
+<h2><strong>To apply</strong></h2>
+<ul>
+ 	<li>Review the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/11/PCP-Student-Guide-November-2018.pdf">Peace Corps Prep Student Guide.</a></li>
+ 	<li>Complete the Peace Corps Prep Application.</li>
+ 	<li>You will be contacted by the UMW Peace Corps Prep Coordinator, Jose Sainz, regarding next steps.</li>
+</ul>
+<h2><strong>Deadlines</strong></h2>
+<ul>
+ 	<li>For admission into the spring 2019 cohort, applications are due by November 14, 2018.</li>
+ 	<li>For admission into the fall 2019 cohort, applications are due by March 1, 2019.</li>
+</ul>
+<h2><strong>Program Contacts</strong></h2>
+Center for International Education, 540-654-1434, <a href="https://international.umw.edu/center-for-international-education-2/email-cie/">Email CIE</a>
 
-CIE is located in Lee Hall (4th floor)
-Phone (540) 654-1434
-Fax (540) 654-1119<a href="http://international.umw.edu//email-cie/">
-Email Us</a>
-<h6> _______________________________________________________</h6>
-<h6></h6>
-<h6></h6>
-<h6></h6>
+Career Center, 540-654-5646, <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>
