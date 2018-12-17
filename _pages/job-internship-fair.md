@@ -1,6 +1,6 @@
 ---
 ID: 185
-post_title: 'Job &amp; Internship Fair'
+post_title: 'Spring 2019 Job &amp; Internship Fair'
 author: rwagner
 post_excerpt: ""
 layout: page
@@ -10,17 +10,17 @@ published: true
 post_date: 2017-02-02 14:25:38
 ---
 <h2>SAVE THE DATE!</h2>
-Our Fall 2018 Fair will be held on 10/25/18 from 3-6 p.m. in the University Center, Chandler Ballroom. This fair offers you the opportunity to recruit high quality UMW students and alumni for your organization or graduate school programs. The University of Mary Washington has selective admission standards and a curriculum that emphasizes writing, public speaking, and problem-solving skills. Our graduates make excellent grad students, employees and interns, and this fair is the perfect forum for meeting many of them.
+Our Spring 2019 Fair will be held on 3/21/19 from 3-6 p.m. in the University Center, Chandler Ballroom. This fair offers you the opportunity to recruit high quality UMW students and alumni for your organization or graduate school programs. The University of Mary Washington has selective admission standards and a curriculum that emphasizes writing, public speaking, and problem-solving skills. Our graduates make excellent grad students, employees and interns, and this fair is the perfect forum for meeting many of them.
 <ul>
  	<li>The fees are as follows:
 <ul>
  	<li>For-Profit Organizations: $200 for two representatives</li>
- 	<li>Non-Profit &amp; Government Organizations: $100 for two representatives</li>
+ 	<li>Non-Profit &amp; Government Organizations: $100 for two representatives (Note: government contractors fall under the 'for-profit' category)</li>
  	<li>$25 per additional representative</li>
 </ul>
 </li>
 </ul>
-To register for the event click here: <a href="https://app.joinhandshake.com/career_fairs/6467/employer_preview">Fall 2018 Job &amp; Internship Fair Employer Registration</a>
+To register for the event click here: <a href="https://app.joinhandshake.com/career_fairs/8802/employer_preview">Spring 2019 Job &amp; Internship Fair Employer Registration</a>
 
 Employers must be registered in Handshake in order to register for this event. Here are the instructions to create a Handshake account:
 <ol>
