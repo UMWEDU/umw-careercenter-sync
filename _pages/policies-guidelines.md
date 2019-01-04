@@ -18,7 +18,7 @@ All posts must adhere to the following standards:
  	<li>Postings will not be approved if students must pay for opportunities.</li>
  	<li>Employers who wish to recruit at the University of Mary Washington must refer to the <a href="http://www.naceweb.org/career-development/organizational-structure/principles-for-professional-practice/">Principles for Professional Practice for Employment Professionals</a>, created by the National Association of Colleges and Employers.</li>
  	<li>We will support and approve internship postings that are learning experiences for our students. Admin and clerical internships may not be approved.</li>
- 	<li>We WILL NOT allow any postings from private families/individuals. This includes, but is not limited to: personal care assistants, house cleaning, nannies, tutors, and pet care.</li>
+ 	<li>We WILL NOT allow any postings from private families/individuals. This includes, but is not limited to: personal care assistants, house cleaning, maintenance, painting, nannies, babysitters, tutors, and pet care. Only postings that include a business license number will be permitted to post.</li>
 </ul>
 <strong>Statement of Non-Discrimination</strong>
 
