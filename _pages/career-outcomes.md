@@ -17,6 +17,8 @@ In addition to providing outcomes for individual classes, the First-Destination 
 
 Click the links below to learn more about our graduating classes:
 
-<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/11/Outcomes-v2.pdf">UMW Class of 2017 Outcomes</a>
+UMW Class of 2017 Outcomes
+
+<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/11/Outcomes-v2.pdf">UMW Class of 2017 Outcomes Infographic</a>
 
 &nbsp;
