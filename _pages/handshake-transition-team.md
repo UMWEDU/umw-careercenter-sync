@@ -5,7 +5,7 @@ author: rwagner
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/handshake/handshake-transition-team/
+  http://www.umw.edu/careercenter/handshake-transition-team/
 published: true
 post_date: 2017-02-14 09:18:11
 ---
