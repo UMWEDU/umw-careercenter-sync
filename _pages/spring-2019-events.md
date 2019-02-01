@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2019-01-09 09:46:09
 ---
+2/11 - Peace Corps Information Session
+
 2/26 - STEM Speed Networking (Pre-Registration Required)
 
 3/14 - Resume Walk-In Day
@@ -16,10 +18,6 @@ post_date: 2019-01-09 09:46:09
 3/15 - Resume Walk-In Day
 
 3/18 - GEICO Recruiting Day
-
-3/21 - CIA Office Hours*
-
-3/21 - CIA Information Session (Pre-Registration Required)
 
 3/21 - Job &amp; Internship Fair
 
