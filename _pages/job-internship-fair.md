@@ -10,6 +10,8 @@ published: true
 post_date: 2017-02-02 14:25:38
 ---
 <h2>SAVE THE DATE!</h2>
+NOTE: As of 2/13/19, we have hit employer capacity for this event. If you are an employer and would like to be added to a wait list, please email rwagner@umw.edu
+
 Our Spring 2019 Fair will be held on 3/21/19 from 3-6 p.m. in the University Center, Chandler Ballroom. This fair offers you the opportunity to recruit high quality UMW students and alumni for your organization or graduate school programs. The University of Mary Washington has selective admission standards and a curriculum that emphasizes writing, public speaking, and problem-solving skills. Our graduates make excellent grad students, employees and interns, and this fair is the perfect forum for meeting many of them.
 <ul>
  	<li>The fees are as follows:
