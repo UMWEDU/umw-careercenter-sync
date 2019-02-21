@@ -15,7 +15,6 @@ Peer Career Consultant (PCC’s) are undergraduate students who serve as pivotal
 
 <strong>Responsibilities Include:</strong>
 <ul>
- 	<li>Staffing the reception area during Career Center operating hours</li>
  	<li>Conducting walk in hours weekly, assisting students in 1:1 appointments on the topics of
 <ul>
  	<li>Resume Review</li>
@@ -28,11 +27,12 @@ Peer Career Consultant (PCC’s) are undergraduate students who serve as pivotal
 </ul>
 </li>
  	<li>Contribute to Career Center social media</li>
+ 	<li>Conduct or assist with workshops and presentations to various constituents</li>
  	<li>Attend Weekly Training Meetings</li>
  	<li>Assist with Career Center events such as Career Fair, Graduate School Fair, &amp; Meet the Firms</li>
  	<li>Act as a front line employer liaison and assist with employer events</li>
  	<li>Network with Alumni (as needed)</li>
- 	<li>Conduct or assist with workshops and presentations to various constituents</li>
+ 	<li>Staffing the reception area during Career Center operating hours (as needed)</li>
  	<li>Additional duties and projects as assigned</li>
 </ul>
 <strong>Qualifications:</strong>
