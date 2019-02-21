@@ -14,7 +14,7 @@ The University of Mary Washington Career Center has created guidelines and polic
 All posts must adhere to the following standards:
 <ul>
  	<li>All employer profiles must include an email address, phone number and location for the company’s contact. Emails must be with a company domain (those using gmail, yahoo, Hotmail, etc. will not be approved). Address must be verifiable through Google Maps.</li>
- 	<li>If other schools have flagged your organization within Handshake or if you have a low trust score, we reserve the right to deny your request to recruit.</li>
+ 	<li>If other schools have flagged your organization within Handshake or if you have a low trust score (below 80%), we reserve the right to deny your request to recruit.</li>
  	<li>Postings will not be approved if students must pay for opportunities.</li>
  	<li>Employers who wish to recruit at the University of Mary Washington must refer to the <a href="http://www.naceweb.org/career-development/organizational-structure/principles-for-professional-practice/">Principles for Professional Practice for Employment Professionals</a>, created by the National Association of Colleges and Employers.</li>
  	<li>We will support and approve internship postings that are learning experiences for our students. Admin and clerical internships may not be approved.</li>
