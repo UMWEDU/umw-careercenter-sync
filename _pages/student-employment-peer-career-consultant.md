@@ -51,3 +51,5 @@ For questions:
 Contact ccpd@umw.edu
 
 To apply, please complete the application below:
+
+[gravityform id="15" title="true" description="true"]
