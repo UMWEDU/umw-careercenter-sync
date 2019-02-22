@@ -15,7 +15,7 @@ The Center for Career and Professional Development offers two opportunities for 
 
 In this role, you will assist us in running the Center’s day-to-day operations, educate students, employers, and faculty about our services and resources, and assist with preparing for and executing employer events and job fairs. Career Ambassadors will be trained to run the front desk, post jobs and internships in our database, Handshake, and assist the needs of our students and alums. We are looking for committed and motivated students with strong customer service skills.
 
-To learn more and to apply to be a Career Ambassador, click here.
+To learn more and to apply to be a Career Ambassador, <a href="https://www.umw.edu/careercenter/students/studentemployment/student-employment-career-ambassador/">click here.</a>
 
 &nbsp;
 
@@ -23,4 +23,4 @@ To learn more and to apply to be a Career Ambassador, click here.
 
 Peer Career Consultant (PCC’s) are undergraduate students who serve as pivotal members of the Center for Career &amp; Professional Development. In addition to serving as the front line contact for students, parents, alumni and employers at the Career Center, PCC’s also serve a critical role in many other functions of the Career Center. They are trained to develop the skills and expertise needed to assist their peers with their career-related needs.
 
-To learn more and to apply to be a Peer Career Consultant, click here.
+To learn more and to apply to be a Peer Career Consultant,<a href="https://www.umw.edu/careercenter/students/studentemployment/student-employment-peer-career-consultant/"> click here.</a>
