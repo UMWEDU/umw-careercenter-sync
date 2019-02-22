@@ -19,7 +19,7 @@ The University of Mary Washington Career Center, located on the second floor of 
 
 <strong>Eligibility:</strong>
 <ul>
- 	<li>5 GPA</li>
+ 	<li>2.5 GPA</li>
  	<li>Freshman, Sophomore, or Junior status</li>
  	<li>Commitment to serve during the fall 2019 and spring 2020 semesters</li>
  	<li>Commitment to work at least 10 hours per week during the semesters</li>
