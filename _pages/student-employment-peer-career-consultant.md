@@ -19,7 +19,8 @@ Peer Career Consultant (PCC’s) are undergraduate students who serve as pivotal
 <ul>
  	<li>Resume Review</li>
  	<li>Cover Letter Review</li>
- 	<li>Employ An Eagle &amp; The Job Search</li>
+ 	<li>Handshake System Overview</li>
+ 	<li>Handshake &amp; The Job Search</li>
  	<li>Job Applications</li>
  	<li>Interviewing Skills</li>
  	<li>Internship Search</li>
