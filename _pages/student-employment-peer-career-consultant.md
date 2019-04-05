@@ -51,6 +51,6 @@ For questions:
 
 Contact ccpd@umw.edu
 
-To apply, please complete the application below:
+The PCC position is currently closed and is no longer accepting applications for the 2019-2020 academic year.
 
-[gravityform id="15" title="true" description="true"]
+&nbsp;
