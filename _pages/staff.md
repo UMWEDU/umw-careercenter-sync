@@ -16,7 +16,7 @@ post_date: 2016-06-29 18:55:06
  	<li>Curriculum</li>
 </ul>
 <strong>Andrea Cordray, Assistant Director for Career &amp; Professional Development
-</strong>540-654-1091, bfaison@umw.edu
+</strong>540-654-1242, acordray@umw.edu
 <ul>
  	<li>Programs and Events</li>
  	<li>Marketing</li>
