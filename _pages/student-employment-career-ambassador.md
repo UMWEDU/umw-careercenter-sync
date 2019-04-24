@@ -43,4 +43,6 @@ The University of Mary Washington Career Center, located on the second floor of 
 
 To apply, please complete the application below:
 
+<strong>This position is now closed.</strong>
+
 [gravityform id="14" title="true" description="true"]
