@@ -25,13 +25,5 @@ Your department can use Handshake to recruit UMW students for on-campus employme
  	<li>Faculty and staff have access to roles: manage experiences, manage students, view jobs posted, and create appointments with students</li>
  	<li>You can curate content (e.g. apply labels to job postings to share with their students)</li>
  	<li>You can send mass emails</li>
- 	<li>For approval, contact Kyle Danzey at <a href="mailto:kdanzey@umw.edu">kdanzey@umw.edu </a></li>
-</ul>
-[tabby title="Mentor Account"]
-<ul>
- 	<li>Faculty and staff manage their own accounts</li>
- 	<li>Students can search for faculty and staff based on expertise created in the system</li>
- 	<li>You can create relationships with students</li>
- 	<li>Create a Mentor Account here: <a href="https://app.joinhandshake.com/register">https://app.joinhandshake.com/register </a></li>
 </ul>
 <a href="https://www.umw.edu/careercenter/handshake/"><button class="btn btn-default navbar-btn" type="button">Back</button></a> <a href="https://umw.joinhandshake.com/"><button class="btn btn-default navbar-btn" type="button">Handshake Sign-in</button></a>
