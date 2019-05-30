@@ -207,7 +207,9 @@ Many veterans need help brushing up on basic math and writing skills, or just in
 
 <a href="https://www.hiringourheroes.org/">Veterans and Spouses Help Site</a> - Build Resumes and Find Job Fairs through Hiring Our Heroes
 
-<a href="http://veterans.nbcnews.com/">Job Search Assistance</a> - Empowering veterans and military spouses with employment and education opportunities.
+<a href="http://veterans.nbcnews.com/">Job Search Assistance</a> - Empowering veterans and military spouses with employment and education opportunities
+
+<a href="https://www.resumeengine.org/#/">Resumes</a> - Resume Builder for Military Members
 
 <a href="http://usajobs.gov">usajobs.gov</a> - Job and internship listings within the Federal Government
 
