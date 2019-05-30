@@ -211,6 +211,14 @@ Many veterans need help brushing up on basic math and writing skills, or just in
 
 <a href="https://www.resumeengine.org/#/">Resumes</a> - Resume Builder for Military Members
 
+<a href="https://www.militaryonesource.mil/military-life-cycle/separation-transition">Military Transition Assistance</a> - Information you need to have a smooth military separation and a successful return to civilian life
+
+<a href="https://money.usnews.com/money/careers/interviewing/articles/know-these-interview-questions-and-how-to-answer-them">Interviewing</a> - How to answer tough interview questions
+
+<a href="https://money.usnews.com/money/blogs/outside-voices-careers/2014/03/24/what-to-change-if-youre-getting-interviews-but-no-job-offers">Interview Strategy</a> - What to do when you get interviews but no job offers
+
+<a href="https://careerenlightenment.com/congrats-military-service-9-reasons-wont-hire-you">Reasons Employers May Not Hire You</a> - and how to fix them
+
 <a href="http://usajobs.gov">usajobs.gov</a> - Job and internship listings within the Federal Government
 
 <a href="http://veteranjobsmission.com">100,000 Jobs Mission</a> -  A list of over 140 companies looking to hire veterans
