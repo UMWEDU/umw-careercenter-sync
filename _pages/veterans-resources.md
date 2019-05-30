@@ -191,7 +191,7 @@ Many veterans need help brushing up on basic math and writing skills, or just in
 </div>
 <h2><b>ADDITIONAL STUDY SKILLS RESOURCES FOR VETERANS</b></h2>
 <ul class="devine-list">
- 	<li>mARMY CAREER AND ALUMNI PROGRAM <span class="click-more"><a href="https://www.acap.army.mil/default.aspx" target="_blank" rel="noopener noreferrer">READ MORE</a></span></li>
+ 	<li>ARMY CAREER AND ALUMNI PROGRAM <span class="click-more"><a href="https://www.acap.army.mil/default.aspx" target="_blank" rel="noopener noreferrer">READ MORE</a></span></li>
  	<li class="mRGtnun float-right">PETERSON’S ONLINE BASIC SKILLS COURSES<span class="click-more"><a href="http://www.nelnetsolutions.com/dantes/" target="_blank" rel="noopener noreferrer">READ MORE</a></span></li>
  	<li>COOK COUNSELING CENTER <span class="click-more"><a href="http://www.ucc.vt.edu/index.html" target="_blank" rel="noopener noreferrer">READ MORE</a></span></li>
  	<li class="mRGtnun float-right">STUDY GUIDES AND STRATEGIES <span class="click-more"><a href="http://www.studygs.net/" target="_blank" rel="noopener noreferrer">READ MORE</a></span></li>
