@@ -41,7 +41,8 @@ post_date: 2016-06-29 18:55:06
  	<li>Programs and events</li>
  	<li>Job postings</li>
 </ul>
-<strong><img class="alignleft size-full wp-image-634" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2019/06/Gallik-Stephen02-150x150.jpg" alt="" width="150" height="150" /></strong><strong>Steve Gallik, Pre-Health Careers Advisor, Biology Professor
+<strong>
+<img class="alignleft size-full wp-image-634" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2019/06/Gallik-Stephen02-150x150.jpg" alt="" width="150" height="150" /></strong><strong>Steve Gallik, Pre-Health Careers Advisor, Biology Professor
 </strong>540-654-1419, sgallik@umw.edu
 <ul>
  	<li>Pre-Health Career Coaching</li>
