@@ -15,7 +15,7 @@ Pre-medicine, pre-dentistry and pre-veterinary medicine are career paths, not ma
 
 During their first year, students must give careful attention to the professional school admission requirements, which are available on the respective school websites. The pre-health advisor, Dr. Steve Gallik, Professor of Biology, is available to help students select courses that meet these requirements and prepare for the relevant admission examination.
 
-Dr. Gallik host office hours in the Career Center (UC Suite 206) on <strong>Wednesdays and Thursdays from 1-4 p.m.</strong> (beginning August 22, 2019). To schedule an appointment, please visit <a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">Handshake.</a>
+Dr. Gallik host office hours in the Career Center (UC Suite 206) on <strong>Wednesdays and Thursdays from 1-4 p.m.</strong> beginning August 22, 2019. To schedule an appointment, please visit <a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">Handshake.</a>
 
 To learn more, visit the <a href="https://cas.umw.edu/prehealth/">Pre-Health Careers Advising</a> website.
 
