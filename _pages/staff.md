@@ -9,7 +9,17 @@ permalink: >
 published: true
 post_date: 2016-06-29 18:55:06
 ---
-<strong><img class="alignleft size-thumbnail wp-image-630" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2019/06/andreacordray-150x150.jpg" alt="" width="150" height="150" />Andrea Cordray, Assistant Director for Career &amp; Professional Development
+<strong><img class="alignleft size-thumbnail wp-image-643" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2019/06/BinkleyPaul-Photo-150x150.jpg" alt="" width="150" height="150" /></strong><strong>Paul Binkley, Executive Director for Career &amp; Professional Development
+</strong>540-654-5683, pbinkley@umw.edu
+<ul>
+ 	<li>Mission, Vision, Strategy</li>
+ 	<li>Curriculum</li>
+</ul>
+&nbsp;
+
+<strong><img class="alignleft size-thumbnail wp-image-630" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2019/06/andreacordray-150x150.jpg" alt="" width="150" height="150" /></strong>
+
+<strong>Andrea Cordray, Assistant Director for Career &amp; Professional Development
 </strong>540-654-1242, acordray@umw.edu
 <ul>
  	<li>Programs and Events</li>
