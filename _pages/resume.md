@@ -2,24 +2,22 @@
 ID: 75
 post_title: Resume Guide
 author: Shelley Keith
-post_date: 2016-08-22 19:31:09
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/careercenter/students/toolkit/resume/
+  http://www.umw.edu/careercenter/students/toolkit/resume/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-08-22 19:31:09
 ---
 <div class="three-fourths first">A resume is a professional introduction of yourself (to prospective employers or graduate schools) that clearly and concisely describes your skills and qualifications as they relate to the position you are trying to obtain. You may customize your resume to appeal to a particular employer, but in each case be sure to place the most significant information on the first page. A resume will not get you a job, but a well-written resume is key in securing an interview. Remember: a resume is a tool to market and promote yourself!</div>
 <div class="one-fourth" style="background-color: #edf3f4; border: 2px solid #edf3f4;">
 <h2>Downloads</h2>
-<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/Compiled-Example-Resumes.pdf">Compiled Example Resumes</a> [pdf]
+<a href="/sample-resumes/">Sample Resumes</a>
 
-<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/Transferrable-skills.pdf">Transferrable Skills Checklist</a> [pdf]
+<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/08/Transferrable-skills.pdf">Transferable Skills Checklist</a> [pdf]
 
 </div>
-<h2 style="clear: both;padding-top: 1em;">Preparing to Write Your Resume</h2>
+<h2 style="clear: both; padding-top: 1em;">Preparing to Write Your Resume</h2>
 <em>Identify one or more career directions</em> (Career Center staff can help you do this). It is easier to write a resume when you have knowledge of the needs of employers in your fields of interest. Become aware of the skills required to be successful in these fields.
 
 <em>Identify your skills, strengths, interests, and accomplishments</em> as they relate to a job search. In order to write your resume you must think about your past experiences, the skills you gained, what you accomplished, and how these skills and accomplishments are transferrable to the job or internship you want to obtain.
