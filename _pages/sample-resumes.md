@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/sample-resumes/
+  http://www.umw.edu/careercenter/students/toolkit/resume/sample-resumes/
 published: true
 post_date: 2019-07-02 15:38:11
 ---
