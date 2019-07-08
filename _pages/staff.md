@@ -60,7 +60,7 @@ post_date: 2016-06-29 18:55:06
  	<li>Medical School Preparation</li>
 </ul>
 &nbsp;
-
+&nbsp;
 <img class="alignleft size-thumbnail wp-image-635" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2019/06/kinsley_2501-150x150.jpg" alt="" width="150" height="150" /><strong>Kim Kinsley, Career Coach, Business Professor
 </strong>540-654-1453, kkinsley@umw.edu
 <ul>
