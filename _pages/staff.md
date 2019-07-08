@@ -68,9 +68,10 @@ post_date: 2016-06-29 18:55:06
  	<li>Pre-Law Coaching</li>
 </ul>
 <strong>
-<img class="alignleft size-full wp-image-636" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2019/06/ODell-Deborah09-150x150.jpg" alt="" width="150" height="150" /></strong>
 
-<strong>Deborah O'Dell, Career Coach, Biology Professor
+</strong>
+
+<strong><img class="alignleft size-full wp-image-636" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2019/06/ODell-Deborah09-150x150.jpg" alt="" width="150" height="150" /></strong><strong>Deborah O'Dell, Career Coach, Biology Professor
 </strong>540-654-1417, dodell@umw.edu
 <ul>
  	<li>Career Coaching</li>
