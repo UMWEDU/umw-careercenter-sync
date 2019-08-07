@@ -43,7 +43,7 @@ With the Workforce Recruitment Program, students can:
 </ul>
 <strong>Registration and Application</strong>
 <ol>
- 	<li><em>WRP Application opens on August 27, 2018 and closes in October.</em><strong><em>
+ 	<li><em>WRP Application opens on August 26, 2019 and closes October 11, 2019.</em><strong><em>
 </em></strong></li>
  	<li>Students can register by visiting <a href="https://wrp.gov/LoginPre.do?method=login">www.wrp.gov</a>. Click the 'Student Registration' button. The registration will prompt questions. Once the UMW Campus Coordinator approves your registration, you will receive an email prompting you to complete the rest of the application, including uploading documents such as your 'Schedule A' letter. This is a required document.</li>
 </ol>
@@ -52,11 +52,10 @@ With the Workforce Recruitment Program, students can:
  	<li>For specific questions about the Workforce Recruitment Program and application process as it relates to the University of Mary Washington, please contact Rose Maddox at <a href="mailto:rwagner@umw.edu">rwagner@umw.edu</a>.</li>
  	<li>If you would like to make an appointment with a Career Coach to review your resume or practice your interview skills, please contact the Career Center at <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a> or 540-654-5646.</li>
 </ul>
-For more information about the Workforce Recruitment Program, visit the following links:
+For more information about the Workforce Recruitment Program, visit the following link:
 <ul>
- 	<li><a href="http://www.dol.gov/odep/pubs/brochures/wrp1.html">Office of Disability Employment Policy (ODEP): The Workforce Recruitment Program for College Students with Disabilities</a></li>
- 	<li><a href="https://wrp.gov/AboutPre.do#Students">Workforce Recruitment Program (WRP): Employers, Schools and Students</a></li>
- 	<li><a href="http://www.dol.gov/odep/wrp/Videos.htm">WRP Employability Video Series</a></li>
+ 	<li><a href="https://www.wrp.gov/wrp?id=wrp_about_us">Office of Disability Employment Policy (ODEP): The Workforce Recruitment Program for College Students with Disabilities</a></li>
+ 	<li><a href="https://www.wrp.gov/wrp?id=kb_article&amp;sys_id=e788b9cfdbbc330048d576708c961997">WRP Frequently Asked Questions</a></li>
 </ul>
 </div>
 </div>
