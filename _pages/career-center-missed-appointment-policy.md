@@ -21,7 +21,7 @@ The Career Center will send an email regarding the missed appointment.
 
 <strong>Second No Show</strong>
 
-The Career Center will send an email regarding the missed appointment to you and your Academic Advisor.
+The Career Center will send an email regarding the missed appointment to you and your academic advisor.
 
 <strong>Third No Show</strong>
 
