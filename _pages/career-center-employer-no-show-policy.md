@@ -25,7 +25,7 @@ If any of the above situations occur, the following actions will be taken:
 
 <strong>First No Show</strong>
 
-Your Handshake account will be blocked and you will be ineligible to activate your account or schedule additional on-campus interviews or register for employer events until an apology letter is submitted. In addition, the Career Center will contact your Academic Advisor to notify them of the missed interview or event.
+Your Handshake account will be blocked and you will be ineligible to activate your account or schedule additional on-campus interviews or register for employer events until an apology letter is submitted. In addition, the Career Center will contact your academic advisor to notify them of the missed interview or event.
 
 <strong>To remove the hold from your account</strong>
 <ul>
