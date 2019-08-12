@@ -19,6 +19,8 @@ post_date: 2019-08-12 10:18:05
 
 9/18 – <a href="https://umw.joinhandshake.com/events/307631/share_preview">Meet the Accounting Firms</a>
 
+9/25 - Kaeser Compressors Information Table
+
 9/26 – <a href="https://umw.joinhandshake.com/events/328036/share_preview">STEM Speed Networking*</a>
 
 10/9 – <a href="https://umw.joinhandshake.com/events/327127/share_preview">Pop Up Career Coaching</a>
