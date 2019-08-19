@@ -1,11 +1,11 @@
 ---
 ID: 549
-post_title: UMW/Shenandoah 3+4 Program
+post_title: UMW/Shenandoah Pharmacy 3+4 Program
 author: rwagner
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/students/graduate-school/umw-shenandoah-34-program/
+  http://www.umw.edu/careercenter/students/pre-health-careers-advising/umw-shenandoah-34-program/
 published: true
 post_date: 2018-08-15 09:18:48
 ---
