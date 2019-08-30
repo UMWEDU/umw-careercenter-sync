@@ -26,7 +26,7 @@ This is a career coaching program focused on exploration. It will set you on the
  	<li><strong>Homework</strong>: Complete at least one formal career assessment (FOCUS 2)</li>
  	<li><strong>Discuss</strong>: Customized Winter Break action plan (This will vary by student. Recommended elements include volunteer work, job shadow, social media clean-up, etc.)</li>
 </ul>
-<strong>Winter Beak Review</strong> (January)
+<strong>Winter Break Review</strong> (January)
 <ul>
  	<li><strong>Goal: </strong>Discuss assessment results and accomplishments from Winter Break</li>
  	<li><strong>Activity:</strong> Identify three career interests based on assessment the above elements</li>
