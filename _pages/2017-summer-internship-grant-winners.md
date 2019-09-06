@@ -1,6 +1,6 @@
 ---
 ID: 335
-post_title: 2017 Summer Internship Grant Winners
+post_title: Past Internship Grant Winners
 author: bfaison
 post_excerpt: ""
 layout: page
