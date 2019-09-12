@@ -2,16 +2,12 @@
 ID: 71
 post_title: Events
 author: Shelley Keith
-post_date: 2016-08-22 11:57:47
 post_excerpt: ""
 layout: page
 permalink: >
-  http://at.umw.edu/calendar/action~posterboard/request_format~html/tag_ids~144/
+  http://at.umw.edu/calendar/action~agenda/tag_ids~144/request_format~html/
 published: true
-wpcf-homepage-copy:
-  - Events
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-08-22 11:57:47
 ---
 &nbsp;
 <table dir="ltr" style="height: 1116px" border="1" width="248" cellspacing="0" cellpadding="0">
