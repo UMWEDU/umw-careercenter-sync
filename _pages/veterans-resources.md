@@ -209,8 +209,6 @@ Many veterans need help brushing up on basic math and writing skills, or just in
 
 <a href="http://veterans.nbcnews.com/">Job Search Assistance</a> - Empowering veterans and military spouses with employment and education opportunities
 
-<a href="https://www.resumeengine.org/#/">Resumes</a> - Resume Builder for Military Members
-
 <a href="https://www.militaryonesource.mil/military-life-cycle/separation-transition">Military Transition Assistance</a> - Information you need to have a smooth military separation and a successful return to civilian life
 
 <a href="https://money.usnews.com/money/careers/interviewing/articles/know-these-interview-questions-and-how-to-answer-them">Interviewing</a> - How to answer tough interview questions
