@@ -11,7 +11,7 @@ post_date: 2017-03-29 13:46:04
 ---
 <strong>A CHANCE TO JUMPSTART YOUR FUTURE WITH THE ROADMAP ACADEMY</strong>
 
-This is a career coaching program focused on exploration. It will set you on the road to career and professional readiness. Space is limited and participation is by application only. <strong>Applications are due September 23</strong>. The program run from October 2019 until April 2020.
+This is a career coaching program focused on exploration. It will set you on the road to career and professional readiness. Space is limited and participation is by application only. <strong>Applications are due September 30</strong>. The program run from October 2019 until April 2020.
 
 <strong>YOUR COMMITMENT: </strong>All participants must agree that this opportunity requires commitment, active involvement, and follow-through. In additional completing regular homework essential to the success of the program, you agree to (1) four coaching sessions, (2) to complete a resume and cover letter draft (3) attendance at the spring Job and Internship Fair.
 
