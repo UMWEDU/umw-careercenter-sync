@@ -10,23 +10,19 @@ published: true
 post_date: 2016-06-28 20:39:46
 ---
 <h2>Appointments with Career Center Professionals</h2>
-<em>Note: To book an appointment during the Summer 2018 semester, please email ccpd@umw.edu. </em>
-
 Are you unsure about your career path? Confused about whether or not to head straight to graduate school? Need a resume or cover letter review? We are happy to assist degree-seeking UMW students and alumni with career-related questions and coaching.
 
 Appointment types include:
 <ul>
- 	<li>Internship Search</li>
- 	<li>Mock Interviews</li>
- 	<li>Resume Reviews</li>
- 	<li>Job Search Assistance</li>
- 	<li>Interview Skills Assistance</li>
- 	<li>Career Options</li>
- 	<li>Major Exploration/Choosing a Major</li>
- 	<li>Graduate School Assistance</li>
- 	<li>New Fall 2018: WALK-IN Pre-Health Academic/Career Advising, every Wednesday and Thursday, 1-4 p.m.</li>
+ 	<li>Mock Interview</li>
+ 	<li>General Career Coaching</li>
+ 	<li>Document Review</li>
+ 	<li>Linked In/Digital Presence Review</li>
+ 	<li>Roadmap Academy</li>
+ 	<li>Job &amp; Internship Search Guidance</li>
+ 	<li>Pre-Health Advising (Drop In, Wednesdays &amp; Thursdays, 1-4 p.m.)</li>
+ 	<li>Appointment hours are Monday through Friday, 9 a.m. to 5 p.m. Please review your confirmation email regarding the location of your appointment.</li>
 </ul>
-Appointment hours are Monday through Friday, 9 a.m. to 5 p.m. Please review your confirmation email regarding the location of your appointment.
 <h3>To book an appointment:</h3>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">Book Online through your Handshake profile: </a>
