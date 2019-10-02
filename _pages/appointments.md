@@ -23,6 +23,11 @@ Appointment types include:
  	<li>Pre-Health Advising (Drop In, Wednesdays &amp; Thursdays, 1-4 p.m.)</li>
  	<li>Appointment hours are Monday through Friday, 9 a.m. to 5 p.m. Please review your confirmation email regarding the location of your appointment.</li>
 </ul>
+<strong>Fall 2019 Drop In Hours:</strong>
+<ul>
+ 	<li>Monday, Wednesday, Friday from 11:00am to 3:00 pm</li>
+ 	<li>Tuesday and Thursday from 12:30 pm to 4:00 pm.</li>
+</ul>
 <h3>To book an appointment:</h3>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">Book Online through your Handshake profile: </a>
