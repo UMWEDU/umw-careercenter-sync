@@ -12,4 +12,6 @@ Even after you’ve graduated, we are here to help! As a UMW alum, you are invit
 
 If you are an employer, the Career Center also offers many opportunities for UMW alumni to interact with and assist current students. Explore our <a href="https://www.umw.edu/careercenter/employers/">recruiting options</a> for information on ways to get involved. If you are interested in any of these options, please contact our office at 540-654-5646 or email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu.</a>
 
+Ready to get involved now? Please fill out the form below and we will contact you for next steps.
+
 [gravityform id="16" title="true" description="true"]
