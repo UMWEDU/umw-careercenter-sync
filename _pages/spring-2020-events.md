@@ -11,6 +11,15 @@ post_date: 2019-08-12 10:18:05
 ---
 The Career Center is hosting a variety of events during the Spring 2020 semester. More information and registration available <a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">via Handshake.</a>
 
+Employers interviewing on-campus this semester include:
+<ul>
+ 	<li>Traveler's Insurance</li>
+ 	<li>Spotsylvania County Schools</li>
+ 	<li>Convergenz</li>
+ 	<li>Sage Point Financial</li>
+ 	<li>Calibre CPA</li>
+ 	<li>and more to come!</li>
+</ul>
 <!--more-->
 
 <strong>2/3 – Major Fair, 12:30-3 pm, UC Chandler Ballroom</strong>
