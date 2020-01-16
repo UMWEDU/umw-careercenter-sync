@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-08-12 10:18:05
 ---
-The Career Center is hosting a variety of events during the Spring 2020 semester. Encourage your student to attend! More information and registration available <a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">via Handshake.</a>
+The Career Center is hosting a variety of events during the Spring 2020 semester. More information and registration available <a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">via Handshake.</a>
 
 <!--more-->
 
