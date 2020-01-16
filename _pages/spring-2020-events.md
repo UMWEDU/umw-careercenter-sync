@@ -11,7 +11,7 @@ post_date: 2019-08-12 10:18:05
 ---
 The Career Center is hosting a variety of events during the Spring 2020 semester. More information and registration available <a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">via Handshake.</a>
 
-Employers interviewing on-campus this semester include:
+Employers currently scheduled to interview on-campus this spring are listed below. Deadlines for each position are approaching quickly. More information is available on Handshake.
 <ul>
  	<li>Traveler's Insurance</li>
  	<li>Spotsylvania County Schools</li>
