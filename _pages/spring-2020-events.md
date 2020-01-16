@@ -113,4 +113,4 @@ The Career Center is hosting a variety of events during the Spring 2020 semester
 
 Registration available for all events <a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">via Handshake</a>. Questions? Contact the Career Center at 540-654-5646 or email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>.
 
-* For all on-campus interviews, students must first apply for the position (via Handshake) and will then be selected by the employer to sign up for a time slot. If students have any trouble with this process, please email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu.</a>
+<em>* For all on-campus interviews, students must first apply for the position (via Handshake) and will then be selected by the employer to sign up for a time slot. If students have any trouble with this process, please email </em><a href="mailto:ccpd@umw.edu"><em>ccpd@umw.edu.</em></a>
