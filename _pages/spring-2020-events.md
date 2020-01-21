@@ -18,6 +18,7 @@ Employers currently scheduled to interview on-campus this spring are listed belo
  	<li>Convergenz</li>
  	<li>Sage Point Financial</li>
  	<li>Calibre CPA</li>
+ 	<li>Ethos Group</li>
  	<li>and more to come!</li>
 </ul>
 <!--more-->
@@ -82,6 +83,10 @@ Employers currently scheduled to interview on-campus this spring are listed belo
 <strong>3/10 – Pop Up Career Coaching, 11-1 pm, UC 2<sup>nd</sup> Floor</strong>
 <ul>
  	<li>Stop by the Career Center table to ask questions, get a quick resume review, or chat about career options! No appointment necessary.</li>
+</ul>
+<strong>3/10 - Ethos Group On-Campus Interviews, All day, UC Suite 206*</strong>
+<ul>
+ 	<li>Apply for this position via Handshake and, if chosen by the employer, will be invited to sign up for an interview slot.</li>
 </ul>
 <strong>3/11 – GEICO Information Table, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
 <ul>
