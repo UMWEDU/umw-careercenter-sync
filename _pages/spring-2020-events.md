@@ -23,59 +23,59 @@ Employers currently scheduled to interview on-campus this spring are listed belo
 </ul>
 <!--more-->
 
-<strong>2/3 – Major Fair, 12:30-3 pm, UC Chandler Ballroom</strong>
+<strong>2/3 – <a href="https://umw.joinhandshake.com/events/423795/share_preview">Major Fair</a>, 12:30-3 pm, UC Chandler Ballroom</strong>
 <ul>
  	<li>Faculty and representatives from UMW’s academic departments and programs will be present to answer questions, discuss potential majors, and provide next steps for major declaration. (Co-hosted with the Office of Academic Services)</li>
 </ul>
-<strong>2/4 – Pop Up Career Coaching, 11-1 pm, UC 2<sup>nd</sup> Floor</strong>
+<strong>2/4 – <a href="https://umw.joinhandshake.com/events/429684/share_preview">Pop Up Career Coaching</a>, 11-1 pm, UC 2<sup>nd</sup> Floor</strong>
 <ul>
  	<li>Stop by the Career Center table to ask questions, get a quick resume review, or chat about career options! No appointment necessary.</li>
 </ul>
-<strong>2/9 – Traveler’s Insurance Information Session, 5-6 pm, UC Suite 206*</strong>
+<strong>2/9 – <a href="https://umw.joinhandshake.com/events/424238/share_preview">Traveler’s Insurance Information Session</a>, 5-6 pm, UC Suite 206*</strong>
 <ul>
  	<li>Information session for students who are signed up for an interview with Traveler’s Insurance on 2/10.</li>
 </ul>
-<strong>2/10 – Traveler’s Insurance On-Campus Interviews, All day, UC Suite 206*</strong>
+<strong>2/10 – <a href="https://umw.joinhandshake.com/interview_schedules/127703">Traveler’s Insurance On-Campus Interviews</a>, All day, UC Suite 206*</strong>
 <ul>
  	<li>Position(s) available: Surety Bond Underwriter, full-time</li>
  	<li>Traveler’s Insurance is hiring! Seniors or alums can apply for this position via Handshake and, if chosen by the employer, will be invited to sign up for an interview slot.</li>
 </ul>
-<strong>2/11 – Kings Dominion Information Table, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
+<strong>2/11 – <a href="https://umw.joinhandshake.com/events/423802/share_preview">Kings Dominion Information Table</a>, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
 <ul>
  	<li>A representative from Kings Dominion will be hosting an information table to discuss openings at the organization. They are recruiting for all departments: Entertainment, Rides, Admissions, Merchandise, Food &amp; Beverage, Security, Park Services, and Games.</li>
 </ul>
-<strong>2/12 – Spotsylvania County On-Campus Interviews, All day, UC Suite 206*</strong>
+<strong>2/12 – <a href="https://umw.joinhandshake.com/interview_schedules/132454">Spotsylvania County On-Campus Interviews</a>, All day, UC Suite 206*</strong>
 <ul>
  	<li>Position(s) available: Teachers</li>
  	<li>Spotsylvania County is hiring for a variety of teaching positions. Visit Handshake for more information.</li>
 </ul>
-<strong>2/13 – From Here to Career: Job Fair Prep Event, 11-2 pm, UC 2<sup>nd</sup> Floor Lobby</strong>
+<strong>2/13 – <a href="https://umw.joinhandshake.com/events/423805/share_preview">From Here to Career: Job Fair Prep Event</a>, 11-2 pm, UC 2<sup>nd</sup> Floor Lobby</strong>
 <ul>
  	<li>Drop by the UC Lobby anytime between 11am-2pm. Greeting you at each table will be Career Center staff and employers like GEICO and the Federal Reserve Bank of Richmond who will be discussing resumes, attire, elevator pitches, day-of job fair tips, and follow-up tips. Make your way to each table and gain EARLY access to employers at the fair on February 19th at 11 am.</li>
 </ul>
-<strong>2/14 – Resume Walk-In Day, 9-3 pm, UC Suite 206</strong>
+<strong>2/14 – <a href="https://umw.joinhandshake.com/events/414612/share_preview">Resume Walk-In Day, 9-3 pm</a>, UC Suite 206</strong>
 <ul>
  	<li>Come in any time today between 9am-3pm for a 15-minute resume review! (Just in time for the Job &amp; Internship Fair on 2/19). No appointment necessary.</li>
 </ul>
-<strong>2/17 – Resume Walk-In Day, 4-8 pm, UC Suite 206</strong>
+<strong>2/17 – <a href="https://umw.joinhandshake.com/events/414615/share_preview">Resume Walk-In Day</a>, 4-8 pm, UC Suite 206</strong>
 <ul>
  	<li>Come in any time today between 4-8 pm for a 15-minute resume review! (Just in time for the Job &amp; Internship Fair on 2/19). No appointment necessary. Pizza and drinks provided.</li>
 </ul>
-<strong>2/19 – Job &amp; Internship Fair, 12-3 pm, UC Chandler Ballroom</strong>
+<strong>2/19 – <a href="https://umw.joinhandshake.com/career_fairs/13815/student_preview?token=Qj3bn_hHvG7tnNzVThBCyd2sZOqjoHBSsdyD3YJypiDue8MU3yexog">Job &amp; Internship Fair</a>, 12-3 pm, UC Chandler Ballroom</strong>
 <ul>
  	<li>This event attracts local and regional employers who will be searching to fill full-time and internship positions. Organizations attending include representatives from corporations, federal and state government, and non-profit organizations. All students, alumni, and community members are welcome and are encouraged to arrive with resumes and dressed in business professional attire. Visit Handshake to view the list of employers attending.</li>
 </ul>
-<strong>2/20 – Convergenz On-Campus Interviews, All day, UC Suite 206*</strong>
+<strong>2/20 – <a href="https://umw.joinhandshake.com/interview_schedules/128862">Convergenz On-Campus Interviews</a>, All day, UC Suite 206*</strong>
 <ul>
  	<li>Position(s) available: Recruiter/Sales, full-time</li>
- 	<li>Seniors or alums can apply for this position via Handshake and, if chosen by the employer, will be invited to sign up for an interview slot.</li>
+ 	<li>Seniors or alums can apply for this position via Handshake. The employer will then reach out to schedule an interview.</li>
 </ul>
-<strong>2/24 – Sage Point Financial On-Campus Interviews, All day, UC Suite 206*</strong>
+<strong>2/24 – <a href="https://umw.joinhandshake.com/interview_schedules/131029">Sage Point Financial On-Campus Interviews</a>, All day, UC Suite 206*</strong>
 <ul>
  	<li>Position(s) available: Financial Advisor Internship</li>
  	<li>SagePoint is offering a paid internship in Richmond, VA. Sophomores, Juniors, and Seniors can apply for this position via Handshake and, if chosen by the employer, will be invited to sign up for an interview slot.</li>
 </ul>
-<strong>2/25 – Calibre CPA Group On-Campus Interviews, All day, UC Suite 206*</strong>
+<strong>2/25 – <a href="https://umw.joinhandshake.com/interview_schedules/131656">Calibre CPA Group On-Campus Interviews</a>, All day, UC Suite 206*</strong>
 <ul>
  	<li>Position(s) available: Summer 2020 Audit Internship</li>
  	<li>Calibre is offering a paid internship. Juniors and Seniors can apply for this position via Handshake and, if chosen by the employer, will be invited to sign up for an interview slot.</li>
@@ -84,7 +84,7 @@ Employers currently scheduled to interview on-campus this spring are listed belo
 <ul>
  	<li>Stop by the Career Center table to ask questions, get a quick resume review, or chat about career options! No appointment necessary.</li>
 </ul>
-<strong>3/10 - Ethos Group On-Campus Interviews, All day, UC Suite 206*</strong>
+<strong>3/10 - <a href="https://umw.joinhandshake.com/interview_schedules/132396">Ethos Group On-Campus Interviews</a>, All day, UC Suite 206*</strong>
 <ul>
  	<li>Apply for this position via Handshake and, if chosen by the employer, will be invited to sign up for an interview slot.</li>
 </ul>
