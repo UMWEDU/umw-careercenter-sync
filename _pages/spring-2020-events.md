@@ -80,7 +80,7 @@ Employers currently scheduled to interview on-campus this spring are listed belo
  	<li>Position(s) available: Summer 2020 Audit Internship</li>
  	<li>Calibre is offering a paid internship. Juniors and Seniors can apply for this position via Handshake and, if chosen by the employer, will be invited to sign up for an interview slot.</li>
 </ul>
-<strong>3/10 – Pop Up Career Coaching, 11-1 pm, UC 2<sup>nd</sup> Floor</strong>
+<strong>3/10 – <a href="https://umw.joinhandshake.com/events/429685/share_preview">Pop Up Career Coaching</a>, 11-1 pm, UC 2<sup>nd</sup> Floor</strong>
 <ul>
  	<li>Stop by the Career Center table to ask questions, get a quick resume review, or chat about career options! No appointment necessary.</li>
 </ul>
@@ -88,7 +88,7 @@ Employers currently scheduled to interview on-campus this spring are listed belo
 <ul>
  	<li>Apply for this position via Handshake and, if chosen by the employer, will be invited to sign up for an interview slot.</li>
 </ul>
-<strong>3/11 – GEICO Information Table, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
+<strong>3/11 – <a href="https://umw.joinhandshake.com/events/414623/share_preview">GEICO Information Table</a>, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
 <ul>
  	<li>A representative from GEICO will be tabling to discuss opportunities at the organization.</li>
 </ul>
@@ -96,32 +96,32 @@ Employers currently scheduled to interview on-campus this spring are listed belo
 <ul>
  	<li>Stop by the Career Center to have a quick chat with representatives from the Federal Reserve Bank of Richmond. Here’s your opportunity to make some great connections with an employer!</li>
 </ul>
-<strong>3/19 – Giving Day, All day, UC 2<sup>nd</sup> Floor</strong>
+<strong>3/19 – <a href="https://umw.joinhandshake.com/events/423819/share_preview">Giving Day</a>, All day, UC 2<sup>nd</sup> Floor</strong>
 <ul>
  	<li>Mary Wash Giving Day (#MaryWashDay) is a 24-hour online day of giving to the University of Mary Washington. Follow us on Social Media to join in the fun!</li>
  	<li>Facebook: <a href="https://secure-web.cisco.com/1D0bPjvi1WXKbeWZiNcDx10Ucw02HaqMICi7ocNc-ZJAOVokh7HOX0O6Xp6mSsgFZrzFC_zNDFYBFN_3HLibxJbx8qp43mdFh3fWjZAB7PDj7Pt6D2Pih4JNpD0Va8MgfROkGEpdfgy4fUs09MIaSvu9fODX3D29P-GOkh4JYiuMSOtVoeU2xe0Xr1EWPfoBUbJOgb_y1G8AFC0HS5c5_3d5o6Y0eXkW_Jm6rZg0s4r6A9WGZ7sSRDCMfe9tX-ACaQQaV7U3ldlV-eWf-cfNB0VzUO3hK8I3vn88pm7g7TLoEiEozajCJrlFCI65RASy1Vd0-cGmSwuvh1cWAlb6B3A/https%3A%2F%2Fwww.facebook.com%2FUMWCCPD%2F">https://www.facebook.com/UMWCCPD/</a></li>
  	<li>Instagram: <a href="https://secure-web.cisco.com/1NY90EW_8Nuvb8e2HvUza7gMUKtn_kD2GSU2y4CTLxPtrhL_n8lydgIf4rPl7x9PrnNDY7z1qPjRrGDKlTagv0wKqbgZqFx7h-MJ8eedvcaTZcr8pMZG4-G_gqlHaEL2Ks4R2P6ef9xo8mkFiVgnffB4iz4vOu5eV7S9pr-GE5JSm5uI52j9D_7BkDADwPJ9qcCcgKxiuXL6R_Wd8pI5js0lurBcDhTQOXCCdzIKQ-5c4D0fiMs5_RDXzG4g4rY0bqAZJ7nE76jUkW3bF620lze8pok15s9oC32VIJxE74uUDwAOncaRq7n496Cr0aDbt1fxCz4UXjlPXk1za6P7Bdw/https%3A%2F%2Fwww.instagram.com%2Fumw_ccpd%2F">https://www.instagram.com/umw_ccpd/</a></li>
  	<li>Twitter: <a href="https://secure-web.cisco.com/1Q7vnVpa78cS5Q5cEQkHqNlRBw98X2pAwxbmq0bogyM-7hIIRmzgkAyR8yobOYEX8IM9du7A5magQnbAk9jODYfCqirTXITKaGa5DVcGa_9B0kIMYx1dVbMW3U1983KF5350p99ittwAPIPVUp2OlcqMT0jMkH8Mgq73wB4QdiBEr04Z714-97_Fw4PwWNHtpAktIuPvEW9-x_259bsmOuaD0uj0Sl9Nn0JbXzUanxTW-T0oY60GE0ZfaeDl6y4RZ76AGY0nkxSnmuJ1-K3Pb98J5bLF3AOmoURAzlM3hwnaCHe0h7srAIe67OevCUYRutlj5J4MsxuSt-vwTiWXvgA/https%3A%2F%2Ftwitter.com%2FUMW_CCPD">https://twitter.com/UMW_CCPD</a></li>
 </ul>
-<strong>3/26 – Chesterfield County Police Information Table, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
+<strong>3/26 – <a href="https://umw.joinhandshake.com/events/423821/share_preview">Chesterfield County Police Information Table</a>, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
 <ul>
  	<li>A representative will be tabling to discuss opportunities at the organization.</li>
 </ul>
-<strong>4/7 – Pop Up Career Coaching, 11-1 pm, Ball Circle</strong>
+<strong>4/7 – <a href="https://umw.joinhandshake.com/events/429686/share_preview">Pop Up Career Coaching</a>, 11-1 pm, Ball Circle</strong>
 <ul>
  	<li>Stop by the Career Center table to ask questions, get a quick resume review, or chat about career options! No appointment necessary.</li>
 </ul>
-<strong>4/14 – Chesterfield County Police Information Table, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
+<strong>4/14 – <a href="https://umw.joinhandshake.com/events/423824/share_preview">Chesterfield County Police Information Table</a>, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
 <ul>
  	<li>A representative will be tabling to discuss opportunities at the organization.</li>
 </ul>
-<strong>4/21 – Chesterfield County Police Information Table, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
+<strong>4/21 – <a href="https://umw.joinhandshake.com/events/423825/share_preview">Chesterfield County Police Information Table</a>, 11-2 pm, UC 2<sup>nd</sup> Floor</strong>
 <ul>
  	<li>A representative will be tabling to discuss opportunities at the organization.</li>
 </ul>
 <strong>4/21 – Chesterfield County Police Applicant Testing, 5-7 pm, UC Column Room</strong>
 <ul>
- 	<li>Students interested in law enforcement will have the opportunity to test with a representative. Visit Handshake for more information.</li>
+ 	<li>Students interested in law enforcement will have the opportunity to test with a representative. Stop by their table on 4/14 or 4/21 for more information and to sign up.</li>
 </ul>
 &nbsp;
 
