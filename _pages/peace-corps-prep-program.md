@@ -74,11 +74,6 @@ Working across cultures often entails verbal and nonverbal languages distinct fr
  	<li>Complete the <a href="https://www.umw.edu/careercenter/applypeacecorpsprep/">Peace Corps Prep Application.</a></li>
  	<li>You will be contacted by the UMW Peace Corps Prep Coordinator, Jose Sainz, Director, Center for International Education, regarding next steps.</li>
 </ul>
-<h2><strong>Deadlines</strong></h2>
-<ul>
- 	<li>For admission into the spring 2019 cohort, applications are due by November 14, 2018.</li>
- 	<li>For admission into the fall 2019 cohort, applications are due by March 1, 2019.</li>
-</ul>
 <h2><strong>Program Contacts</strong></h2>
 <ul>
  	<li>Center for International Education, 540-654-1434, <a href="https://international.umw.edu/center-for-international-education-2/email-cie/">Email CIE</a></li>
