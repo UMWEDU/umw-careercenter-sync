@@ -70,7 +70,7 @@ Working across cultures often entails verbal and nonverbal languages distinct fr
 </ul>
 <h2><strong>To apply</strong></h2>
 <ul>
- 	<li>Review the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/11/PCP-Student-Guide-November-2018.pdf">Peace Corps Prep Student Guide.</a></li>
+ 	<li>Review the <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/01/PCP-Student-Guide-January-2020.pdf">Peace Corps Prep Student Guide</a></li>
  	<li>Complete the <a href="https://www.umw.edu/careercenter/applypeacecorpsprep/">Peace Corps Prep Application.</a></li>
  	<li>You will be contacted by the UMW Peace Corps Prep Coordinator, Jose Sainz, Director, Center for International Education, regarding next steps.</li>
 </ul>
