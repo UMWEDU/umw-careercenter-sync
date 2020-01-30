@@ -97,7 +97,6 @@ Recommended courses:
 <ul>
  	<li>Biology</li>
  	<li>Economics</li>
- 	<li></li>
  	<li>Earth &amp; Environmental Science</li>
  	<li>Geology</li>
  	<li>Philosophy</li>
