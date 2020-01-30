@@ -24,6 +24,7 @@ post_date: 2017-05-23 12:50:33
  	<li>SOCG 421 – Racial and Ethnic Relations</li>
  	<li>ANTH 211 – The Anthropology of Race</li>
  	<li>ANTH 212 – The Anthropology of Gender</li>
+ 	<li>ANTH 350 - Amazonian Peoples</li>
  	<li>HIST 462 – Women in Latin America</li>
  	<li>MDFL 201 – World Literature in Cultural Context</li>
  	<li>A qualifying and approved education abroad experience in a country that has previously hosted Peace Corps volunteers and which is approved by UMW’s Center for International Education (counts as 1 elective)*</li>
