@@ -66,6 +66,7 @@ Recommended courses:
 </ul>
 <h3>Recommended courses:</h3>
 <ul>
+ 	<li><span style="text-decoration: underline"><em>ANTH 371G - Medical Anthropology</em></span></li>
  	<li><em><u>BIOL 384 – Human Anatomy</u></em></li>
  	<li><em><u>BIOL 385 – Human Physiology</u></em></li>
  	<li><em><u>BIOL 391 – Immunology</u></em></li>
@@ -96,6 +97,7 @@ Recommended courses:
 <ul>
  	<li>Biology</li>
  	<li>Economics</li>
+ 	<li></li>
  	<li>Earth &amp; Environmental Science</li>
  	<li>Geology</li>
  	<li>Philosophy</li>
@@ -103,6 +105,7 @@ Recommended courses:
 </ul>
 <h3>Recommended courses:</h3>
 <ul>
+ 	<li><span style="text-decoration: underline"><em>ANTH 365 - Environment and Development Narratives</em></span></li>
  	<li><em><u>BIOL 231 – Botany</u></em></li>
  	<li><em><u>BIOL 424 – Tropical Ecology</u></em></li>
  	<li><em><u>BIOL 428 – Conservation Biology</u></em></li>
@@ -149,6 +152,7 @@ If you choose Agriculture, take three courses from one of the following areas:
 </ul>
 <h3>Recommended courses:</h3>
 <ul>
+ 	<li><span style="text-decoration: underline"><em>ANTH 321 - Anthropology of Food</em></span></li>
  	<li><em><u>BIOL 231 – Botany</u></em></li>
  	<li><em><u>BIOL 311 – Plant Ecology</u></em></li>
  	<li><em><u>BIOL 312 – Plant Physiology</u></em></li>
@@ -224,6 +228,8 @@ If you choose Community Economic Dev., take three courses from one of the follow
  	<li><em><u>ACCT 304 – Cost Managerial Accounting</u></em></li>
  	<li><em><u>ACCT 401 – Accounting Information Systems</u></em></li>
  	<li><em><u>ACCT 420 – Governmental and Not-for-Profit Accounting</u></em></li>
+ 	<li><em><span style="text-decoration: underline">ANTH 317 - World Economies</span></em></li>
+ 	<li><span style="text-decoration: underline"><em>ANTH 365 - Environment and Development Narratives</em></span></li>
  	<li><em><u>BUAD 473 – Environment of International Business</u></em></li>
  	<li><em><u>ECON 324 – Economics of Philanthropy and the Non-Profit Sector</u></em></li>
  	<li><em><u>ECON 381 – Microfinance for Development</u></em></li>
