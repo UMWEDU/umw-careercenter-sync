@@ -31,10 +31,6 @@ Employers currently scheduled to interview on-campus this spring are listed belo
 <ul>
  	<li>Stop by the Career Center table to ask questions, get a quick resume review, or chat about career options! No appointment necessary.</li>
 </ul>
-<strong>2/9 – <a href="https://umw.joinhandshake.com/events/424238/share_preview">Traveler’s Insurance Information Session</a>, 5-6 pm, UC Suite 206*</strong>
-<ul>
- 	<li>Information session for students who are signed up for an interview with Traveler’s Insurance on 2/10.</li>
-</ul>
 <strong>2/10 – <a href="https://umw.joinhandshake.com/interview_schedules/127703">Traveler’s Insurance On-Campus Interviews</a>, All day, UC Suite 206*</strong>
 <ul>
  	<li>Position(s) available: Surety Bond Underwriter, full-time</li>
@@ -69,6 +65,10 @@ Employers currently scheduled to interview on-campus this spring are listed belo
 <ul>
  	<li>Position(s) available: Recruiter/Sales, full-time</li>
  	<li>Seniors or alums can apply for this position via Handshake. The employer will then reach out to schedule an interview.</li>
+</ul>
+<strong>2/24 - <a href="https://umw.joinhandshake.com/events/444167/share_preview">Stafford County Parks &amp; Rec Information Table</a>, 10-1 pm, UC 2nd Floor</strong>
+<ul>
+ 	<li>A representative from Stafford County will be discussing employment opportunities.</li>
 </ul>
 <strong>2/24 – <a href="https://umw.joinhandshake.com/interview_schedules/131029">Sage Point Financial On-Campus Interviews</a>, All day, UC Suite 206*</strong>
 <ul>
