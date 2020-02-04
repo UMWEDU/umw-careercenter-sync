@@ -35,7 +35,7 @@ For 13 years, the Peace Corps has ranked the University of Mary Washington among
 <div class="layout-page__constrain">
 <div class="layout-page__main">
 <div class="layout-main-content">
-<div class="intro-paragraph is-double-spaced-below">Peace Corps Prep is a certificate program for undergraduates that centers on one empowering question: How can you prepare yourself to be the best Peace Corps Volunteer you can be? There is no one right answer to that question, but the Peace Corps has identified four core competencies that are critical to the intercultural fieldwork Peace Corps Volunteers do:<img class="wp-image-595 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/12/maize-224x300.png" alt="maize" width="314" height="421" /></div>
+<div class="intro-paragraph is-double-spaced-below">Peace Corps Prep is a program for undergraduates that centers on one empowering question: How can you prepare yourself to be the best Peace Corps Volunteer you can be? There is no one right answer to that question, but the Peace Corps has identified four core competencies that are critical to the intercultural fieldwork Peace Corps Volunteers do:<img class="wp-image-595 alignright" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2018/12/maize-224x300.png" alt="maize" width="314" height="421" /></div>
 </div>
 </div>
 </div>
