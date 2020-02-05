@@ -48,6 +48,10 @@ For 13 years, the Peace Corps has ranked the University of Mary Washington among
  	<li>Intercultural competence</li>
  	<li>Professional savvy and leadership</li>
 </ul>
+Completing the Peace Corps Prep program does not guarantee acceptance into the Peace Corps. However, completion of the program will give you a competitive edge.
+
+This program is not a UMW Certificate Program (it will not be included on a student's transcript). Once you complete the program, you will receive a certificate of completion from the Peace Corps.
+
 </div>
 </div>
 </div>
