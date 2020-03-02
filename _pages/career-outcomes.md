@@ -25,4 +25,8 @@ Click the links below to learn more about our graduating classes:
 
 <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2019/06/Class-of-2018-Outcomes.pdf">UMW Class of 2018 Outcomes Infographic</a>
 
+<a href="https://www.umw.edu/careercenter/alumni/career-outcomes/umw-class-of-2019-outcomes/">UMW Class of 2019 Outcomes</a>
+
+<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/03/First-Destination-Infographic-Class-of-2019.pdf">UMW Class of 2019 Infographic</a>
+
 &nbsp;
