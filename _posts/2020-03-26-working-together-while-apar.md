@@ -1,6 +1,6 @@
 ---
 ID: 783
-post_title: Working Together While Apar
+post_title: Working Together While Apart
 author: rwagner
 post_excerpt: ""
 layout: post
@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2020-03-26 11:06:02
 ---
-<span data-contrast="auto">Dear UMW Seniors,</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}" data-wac-het="1"> </span>
+<span data-contrast="auto">Dear UMW Students,</span>
 
 <span data-contrast="auto">I know and you know that this is a tough time and that we are all coping as best we can. I’ve read a lot about that and I know you have too. Please be aware that the UMW Career Center (CCPD) is right there with you in the </span><span data-contrast="auto">'mixedupcrazyconfused'</span><span data-contrast="auto"> swirl of emotions that you are experiencing. We also share in the sense that the world has been rocked and perhaps permanently shifted in the past couple of weeks.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}" data-wac-het="1"> </span>
 
