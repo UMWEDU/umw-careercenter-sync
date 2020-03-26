@@ -1,6 +1,6 @@
 ---
 ID: 783
-post_title: Working Together While Apart
+post_title: 'Career Chats: Working Together While Apart'
 author: rwagner
 post_excerpt: ""
 layout: post
