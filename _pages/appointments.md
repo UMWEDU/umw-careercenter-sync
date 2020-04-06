@@ -20,8 +20,8 @@ Appointment types include:
  	<li>Linked In/Digital Presence Review</li>
  	<li>Roadmap Academy</li>
  	<li>Job &amp; Internship Search Guidance</li>
- 	<li>Pre-Health Advising (Drop In, Wednesdays &amp; Thursdays, 1-4 p.m.)</li>
- 	<li>Appointment hours are Monday through Friday, 9 a.m. to 5 p.m. Please review your confirmation email regarding the location of your appointment.</li>
+ 	<li>Pre-Health Advising</li>
+ 	<li>Appointment hours are Monday through Friday, 9 a.m. to 5 p.m. via email, phone or Zoom currently. Please review your confirmation email regarding the details of your appointment.</li>
 </ul>
 <h3><strong>Virtual Appointments:</strong></h3>
 Available virtually and ready to assist, the UMW Center for Career and Professional Development is here to provide support and help you identify your professional development needs.
