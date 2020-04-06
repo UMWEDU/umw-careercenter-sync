@@ -29,9 +29,9 @@ Available virtually and ready to assist, the UMW Center for Career and Professio
 <strong>Virtual Drop-In Sessions </strong><strong>
 </strong>Running from Tuesday, April 7 – Friday, May 8, and hosted virtually on Zoom, 15 minute drop-in sessions provide personalized meeting opportunities and assistance in answering employment questions, exploring job and internship search strategies, interview preparation, highlighting networking opportunities tips and advice for resumes/cover letters, and more. Upon entering Zoom, you may not immediately be able to join the meeting if a Career Coach is meeting with another student. Please note, if this happens students will be placed into a queue and greeted based on their original arrival time.
 <ul>
- 	<li><strong>Monday-Friday, 11:00 a.m. - 1:00 p.m. <a href="https://zoom.us/j/355128468">Enter Zoom meeting here.</a>
+ 	<li><strong>Monday-Friday, <a href="https://www.umw.edu/careercenter/students/appointments/">11:00 a.m. - 1:00 p.m.</a>  Click the link to join!
 </strong></li>
- 	<li><strong>Monday - Friday, 3:00-5:00 p.m.: </strong><a href="https://zoom.us/j/797382927"><strong>Enter Zoom meeting here.</strong></a></li>
+ 	<li><strong>Monday - Friday, <a href="https://zoom.us/j/797382927">3:00-5:00 p.m.</a></strong></li>
 </ul>
 <strong>Virtual Resume and/or Cover Letter Review </strong><strong>
 </strong>Another way for students to have their resume and/or cover letter reviewed is to email their documents to <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>.
