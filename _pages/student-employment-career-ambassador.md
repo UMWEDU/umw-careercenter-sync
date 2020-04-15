@@ -11,7 +11,7 @@ post_date: 2019-02-22 09:37:36
 ---
 <strong>Type of Position:</strong>
 
-Paid Student Aide position for fall 2019 and spring 2020 semesters
+Paid Student Aide position for fall 2020 and spring 2021 semesters
 
 <strong>Introduction:</strong>
 
@@ -21,7 +21,7 @@ The University of Mary Washington Career Center, located on the second floor of 
 <ul>
  	<li>2.5 GPA</li>
  	<li>Freshman, Sophomore, or Junior status</li>
- 	<li>Commitment to serve during the fall 2019 and spring 2020 semesters</li>
+ 	<li>Commitment to serve during the fall 2020 and spring 2021 semesters</li>
  	<li>Commitment to work at least 10 hours per week during the semesters</li>
 </ul>
 <strong>Responsibilities:</strong>
