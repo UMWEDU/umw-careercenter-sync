@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2020-04-28 20:35:19
 ---
-<em><strong>With apologies to Margaret Wise Brown…</strong></em>
+<strong>With apologies to Margaret Wise Brown…</strong>
 
 In the bunker where you work
 
@@ -25,7 +25,7 @@ And a laptop all charged up
 
 And an energy drink and the number for your shrink
 
-And a phone and a charger
+And random roll of TP
 
 And a bowl full of chips
 
@@ -42,5 +42,7 @@ Good luck with the future*
 Good luck to each and every Eagle…good luck to YOU!
 
 *PSA: The Career Center is here to help you even after graduation! All our services are free to you and we will be operating from our bunkers, available via email, phone and Zoom!
+
+&nbsp;
 
 <em>Mary Becelia, Career Coach</em>
