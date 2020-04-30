@@ -20,6 +20,12 @@ The University has a limited number of grant awards intended to provide support 
 
 Internship grants are competitively awarded through a selection process administered by the Center for Career and Professional Development. The CCPD is responsible for announcing opportunities to students, managing the receipt of applications, and working with institutional sponsors to support the selection and end-of-experience reporting requirements.
 
+</div>
+If interested in an internship grant, please complete the PRELIMINARY application below. If chosen, you may be required to complete additional information via the Scholar Manager Platform.
+
+&nbsp;
+<div class="entry-content">
+
 In order to learn more about our various internship grants, find out if you are eligible, and apply, please visit the <a href="https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=1046">Career Center Internship Grant Application</a> page.
 
 </div>
