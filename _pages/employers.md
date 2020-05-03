@@ -25,6 +25,10 @@ Handshake is UMW’s official job and internship database. Handshake allows you 
 For more information, visit our <a href="https://www.umw.edu/careercenter/handshake/">Handshake Overview Page</a> and click on the ‘Employers’ tab.
 <h2>Host A Virtual Recruiting Event</h2>
 Our fall and spring fairs, as well as at targeted employer events, are heavily marketed to and attended by our talented UMW students. Email ccpd@umw.edu for more information. Note: Due to the COVID-19 pandemic, we will not be hosting a Fall 2020 Job &amp; Internship Fair. Instead, learn more about our Industry Weeks.
+<h2>Marketing Requests</h2>
+We can assist with promoting your organization, events, and positions to students and alumni for free! Complete our <a href="https://www.umw.edu/careercenter/employers/employer-marketing-request/">Employer Marketing Request Form</a> at least 2 weeks prior to your event or application deadline.
+
+Questions? Contact Employer Relations Manager Rose Maddox at <a href="mailto:rwagner@umw.edu">rwagner@umw.edu</a>.
 
 </div>
 <div class="one-half">
@@ -47,10 +51,8 @@ Joining our social media accounts is a great way to reach out to students.
 Due to the ongoing COVID-19 pandemic, the UMW Career Center will not be hosting a traditional Job &amp; Internship Fair during the Fall 2020 semester. Instead, we invite you to participate in one of our virtual Industry Weeks.
 
 For more information, and to complete the Industry Week Interest Form, <a href="https://www.umw.edu/careercenter/employers/fall-2020-employer-industry-weeks/">click here.</a>
-<h2>Marketing Requests</h2>
-We can assist with promoting your organization, events, and positions to students and alumni for free! Complete our <a href="https://www.umw.edu/careercenter/employers/employer-marketing-request/">Employer Marketing Request Form</a> at least 2 weeks prior to your event or application deadline.
 
-Questions? Contact Employer Relations Manager Rose Maddox at <a href="mailto:rwagner@umw.edu">rwagner@umw.edu</a>.
+&nbsp;
 
 &nbsp;
 
