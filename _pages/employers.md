@@ -46,8 +46,6 @@ Joining our social media accounts is a great way to reach out to students.
 <h2>Industry Weeks</h2>
 Due to the ongoing COVID-19 pandemic, the UMW Career Center will not be hosting a traditional Job &amp; Internship Fair during the Fall 2020 semester. Instead, we invite you to participate in one of our virtual Industry Weeks.
 
-Employers can sign up for a one hour time slot to host a virtual session during their week. During this time, students can ask questions, provide their elevator pitch, and network with representatives from your organization. We encourage employers to be creative and to think of this as a virtual Job Fair interaction.
-
 For more information, and to complete the Industry Week Interest Form, <a href="https://www.umw.edu/careercenter/employers/fall-2020-employer-industry-weeks/">click here.</a>
 <h2>Marketing Requests</h2>
 We can assist with promoting your organization, events, and positions to students and alumni for free! Complete our <a href="https://www.umw.edu/careercenter/employers/employer-marketing-request/">Employer Marketing Request Form</a> at least 2 weeks prior to your event or application deadline.
