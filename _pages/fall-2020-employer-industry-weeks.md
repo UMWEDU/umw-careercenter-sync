@@ -29,4 +29,6 @@ We currently have the following weeks scheduled:
 </ul>
 If you are interested in participating in one of our Industry Weeks, complete the form below. More information will be sent out this summer.
 
-&nbsp;
+Questions? Contact Rose Maddox at <a href="mailto:rwagner@umw.edu">rwagner@umw.edu</a>.
+
+[gravityform id="19" title="true" description="false"]
