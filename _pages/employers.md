@@ -38,10 +38,6 @@ If your company is looking to conduct interviews virtually, this can be done via
 Please follow these steps to request virtual interviews: <a href="https://support.joinhandshake.com/hc/en-us/articles/360045688654-Hosting-Virtual-Interviews">Hosting Virtual Interviews</a>
 
 </div>
-<h2>Marketing Requests</h2>
-We can assist with promoting your organization, events, and positions to students and alumni for free! Complete our <a href="https://www.umw.edu/careercenter/employers/employer-marketing-request/">Employer Marketing Request Form</a> at least 2 weeks prior to your event or application deadline.
-
-Questions? Contact Employer Relations Manager Rose Maddox at <a href="mailto:rwagner@umw.edu">rwagner@umw.edu</a>.
 <div class="one-half">
 <h2>Connect with Students Online</h2>
 Joining our social media accounts is a great way to reach out to students.
@@ -51,6 +47,9 @@ Joining our social media accounts is a great way to reach out to students.
  	<li>Facebook: <a href="https://www.facebook.com/UMWCCPD/">UMW Career Center</a></li>
  	<li>Instagram: <a href="https://www.instagram.com/umw_ccpd/?hl=en">@umw_ccpd</a></li>
 </ul>
-&nbsp;
+<h2>Marketing Requests</h2>
+We can assist with promoting your organization, events, and positions to students and alumni for free! Complete our <a href="https://www.umw.edu/careercenter/employers/employer-marketing-request/">Employer Marketing Request Form</a> at least 2 weeks prior to your event or application deadline.
+
+Questions? Contact Employer Relations Manager Rose Maddox at <a href="mailto:rwagner@umw.edu">rwagner@umw.edu</a>.
 
 </div>
