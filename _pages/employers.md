@@ -21,15 +21,15 @@ Download and share our recruitment guide. <a href="http://www.umw.edu/careercent
 <div class="one-half first">
 <h2>Post a Job or Internship</h2>
 Register today to begin posting your open positions on <a href="https://umw.joinhandshake.com/employer_registrations/new">Handshake</a>, UMW’s official job portal, where undergraduates, students, and alumni can apply for full time, part time, <a href="http://www.umw.edu/careercenter/employers/internships/">internship</a> and volunteer opportunities. Click <a href="https://app.joinhandshake.com/login?school_approval_token=FIBIH_JSSdQwqkVVNBrj44WllWwDkdtr_KNY6-yVL9wvuFGX-n9zEg">here</a> to register or log in to your Handshake account.
-<h2>Attend Career &amp; Graduate School Fairs</h2>
+<h2>Attend Job &amp; Internship Fairs</h2>
 Our fall and spring fairs, as well as at targeted employer events, are heavily marketed to and attended by our talented UMW students. Email ccpd@umw.edu for more information.
 <h2>Host an Information Session</h2>
-Hosting an information session is a great opportunity to effectively promote your organization and meet targeted, qualified talent.
+Hosting an information session is a great opportunity to effectively promote your organization and meet targeted, qualified talent. Consider hosting a <a href="https://www.umw.edu/careercenter/employers/virtual-recruiting-events/">virtual recruiting event.</a>
 
 </div>
 <div class="one-half">
-<h2>Interview Students on Campus</h2>
-Your company can interview students year-round using our in-office conference room, centrally located in the new University Center. We also invite you to conduct mock interviews to help students learn more about the interview process.
+<h2>Interview Students</h2>
+Your company can interview students year-round. We also invite you to conduct mock interviews to help students learn more about the interview process. Consider virtual interviews.
 <h2>Connect with Students Online</h2>
 Joining our social media accounts is a great way to reach out to students.
 <ul>
@@ -37,7 +37,6 @@ Joining our social media accounts is a great way to reach out to students.
  	<li>Twitter: <a href="https://twitter.com/UMW_CCPD">@UMW_CCPD</a></li>
  	<li>Facebook: <a href="https://www.facebook.com/UMWCCPD/">UMW Career Center</a></li>
 </ul>
-<h2>Reserve Our Office Spaces</h2>
-Our new space is equipped with a large conference room available for your use. Interested in being present on campus? <a href="http://www.umw.edu/careercenter/contact/">Contact us</a> to reserve this space.
+&nbsp;
 
 </div>
