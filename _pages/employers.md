@@ -25,10 +25,6 @@ Handshake is UMW’s official job and internship database. Handshake allows you 
 For more information, visit our <a href="https://www.umw.edu/careercenter/handshake/">Handshake Overview Page</a> and click on the ‘Employers’ tab.
 <h2>Host A Virtual Recruiting Event</h2>
 Our fall and spring fairs, as well as at targeted employer events, are heavily marketed to and attended by our talented UMW students. Email ccpd@umw.edu for more information. Note: Due to the COVID-19 pandemic, we will not be hosting a Fall 2020 Job &amp; Internship Fair. Instead, learn more about our Industry Weeks.
-<h2>Host an Information Session</h2>
-Hosting a virtual recruiting event will allow you to connect with students and alumni without having to come to campus. Events must be requested via Handshake.
-
-For more information, and steps on requesting virtual events, <a href="https://www.umw.edu/careercenter/employers/virtual-recruiting-events/">click here.</a>
 
 </div>
 <div class="one-half">
