@@ -10,7 +10,6 @@ published: true
 post_date: 2016-12-02 10:58:55
 ---
 <div class="content-main"> Handshake is a combination of some of the best tools on the web today, taken from services like Instagram, Facebook, Twitter, and LinkedIn. It’s designed to help us precisely target career information, internship, employment opportunities, and career related events to student’s specific major, degree type, and interests.</div>
-https://www.youtube.com/watch?v=jB-zmARNSnE
 <div class="content-main">
 
 Handshake is<strong> used on over 170 U.S. university campuses</strong>, including schools like Stanford University, Cornell University, Villanova University, and Wake Forest University. Likewise<strong>, 80% of Fortune 100 companies</strong>, including Goldman Sachs, Citigroup, Google, Microsoft, and JP Morgan, are using Handshake to recruit from colleges and universities.[tabby title="For Students"]<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png"><img class="alignnone size-full wp-image-402" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2016/12/hs-logo-primary-sm.png" alt="" width="188" height="30" /></a>
