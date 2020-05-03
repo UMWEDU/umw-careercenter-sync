@@ -42,11 +42,12 @@ With the Workforce Recruitment Program, students can:
  	<li>Demonstrate that students with disabilities can make fantastic employees</li>
 </ul>
 <strong>Registration and Application</strong>
-<ol>
- 	<li><em>WRP Application opens on August 26, 2019 and closes October 11, 2019.</em><strong><em>
-</em></strong></li>
- 	<li>Students can register by visiting <a href="https://wrp.gov/LoginPre.do?method=login">www.wrp.gov</a>. Click the 'Student Registration' button. The registration will prompt questions. Once the UMW Campus Coordinator approves your registration, you will receive an email prompting you to complete the rest of the application, including uploading documents such as your 'Schedule A' letter. This is a required document.</li>
-</ol>
+
+<em>The Next WRP Cycle will occur in Fall 2020. To be added to a list to receive more information, please email Rose Maddox at <a href="mailto:rwagner@umw.edu">rwagner@umw.edu</a>. </em><strong><em>
+</em></strong>
+
+Students can register by visiting <a href="https://wrp.gov/LoginPre.do?method=login">www.wrp.gov</a>. Click the 'Student Registration' button. The registration will prompt questions. Once the UMW Campus Coordinator approves your registration, you will receive an email prompting you to complete the rest of the application, including uploading documents such as your 'Schedule A' letter. This is a required document.
+
 <strong> </strong><strong>More Information </strong>
 <ul>
  	<li>For specific questions about the Workforce Recruitment Program and application process as it relates to the University of Mary Washington, please contact Rose Maddox at <a href="mailto:rwagner@umw.edu">rwagner@umw.edu</a>.</li>
