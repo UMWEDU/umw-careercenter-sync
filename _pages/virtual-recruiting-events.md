@@ -13,6 +13,8 @@ Virtual events are an impactful way for employers to connect with students. It a
 
 If you would like to host a virtual event, you must submit a <a href="https://support.joinhandshake.com/hc/en-us/articles/360045228793-Hosting-Virtual-Events-for-Core-Employers-">virtual event request via Handshake. </a>
 
+If you would like to host virtual interviews, please follow these steps: <a href="https://support.joinhandshake.com/hc/en-us/articles/360045688654-Hosting-Virtual-Interviews">Virtual Interviews via Handshake</a>
+
 Once your event has been submitted and approved, the UMW Career Center will market to students through the following outlets:
 <ul>
  	<li>Career Center Social Media Accounts: Instagram, Facebook, and Twitter</li>
