@@ -15,7 +15,9 @@ The Center for Career and Professional Development serves as a place where stude
 
 If you are interested in recruiting our students or using our space for remote work, hosting an alum reception, or conducting interviews, please contact us at 540-654-5646 or email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>.
 
-Download and share our new recruitment guide. <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/08/UMW-Employer-Packet.pdf">UMW Employer Packet</a>
+<strong>Note: We will not be hosting any in-person events for the Spring 2020, Summer 2020, or Fall 2020 semesters due to the COVID-19 pandemic. Only virtual options are available at this time.</strong>
+
+Download and share our recruitment guide. <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2017/08/UMW-Employer-Packet.pdf">UMW Employer Packet</a>
 <div class="one-half first">
 <h2>Post a Job or Internship</h2>
 Register today to begin posting your open positions on <a href="https://umw.joinhandshake.com/employer_registrations/new">Handshake</a>, UMW’s official job portal, where undergraduates, students, and alumni can apply for full time, part time, <a href="http://www.umw.edu/careercenter/employers/internships/">internship</a> and volunteer opportunities. Click <a href="https://app.joinhandshake.com/login?school_approval_token=FIBIH_JSSdQwqkVVNBrj44WllWwDkdtr_KNY6-yVL9wvuFGX-n9zEg">here</a> to register or log in to your Handshake account.
