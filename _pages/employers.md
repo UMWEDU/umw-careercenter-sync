@@ -13,8 +13,6 @@ post_date: 2016-06-28 19:30:02
 
 The Center for Career and Professional Development serves as a place where students, alumni, employers, and academic programs converge in a variety of programs, opportunities, and services related to career and professional development.
 
-If you are interested in recruiting our students or using our space for remote work, hosting an alum reception, or conducting interviews, please contact us at 540-654-5646 or email <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>.
-
 <strong>UMW Fall 2020 Recruiting Options</strong>
 
 <em>Note: Due to the COVID-19 pandemic, we are only allowing virtual recruiting options for the Summer 2020 and Fall 2020 semesters.</em>
