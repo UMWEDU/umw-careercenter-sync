@@ -50,8 +50,4 @@ Due to the ongoing COVID-19 pandemic, the UMW Career Center will not be hosting 
 
 For more information, and to complete the Industry Week Interest Form, <a href="https://www.umw.edu/careercenter/employers/fall-2020-employer-industry-weeks/">click here.</a>
 
-&nbsp;
-
-&nbsp;
-
 </div>
