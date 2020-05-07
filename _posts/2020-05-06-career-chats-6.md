@@ -11,11 +11,11 @@ post_date: 2020-05-06 08:47:45
 ---
 Let’s do this thing. Let’s accomplish something tangible today. My plan? To finish this blog post. My hope for you? To read it and write a good solid first draft of your resume. Here goes!
 
-[caption id="attachment_786" align="alignright" width="300"]<img class="size-medium wp-image-786" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/04/thumbnail_MBecelia-300x260.jpg" alt="" width="300" height="260" /> Mary Becelia, Career Coach[/caption]
+First, why do you need a resume? Because employers expect it. Enough said. But if you want more data, <a href="https://www.careeronestop.org/JobSearch/Resumes/ResumeGuide/WhyYouNeedaGreatResume/why-you-need-a-great-resume.aspx">here’s some more information</a>
 
-First, why do you need a resume? Because employers expect it. Enough said. But if you want more data, <a href="https://www.careeronestop.org/JobSearch/Resumes/ResumeGuide/WhyYouNeedaGreatResume/why-you-need-a-great-resume.aspx">here’s some more information</a>.
+[caption id="attachment_786" align="alignright" width="300"]<img class="size-medium wp-image-786" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/04/thumbnail_MBecelia-300x260.jpg" alt="" width="300" height="260" />  Mary Becelia, Career Coach[/caption]
 
-Second, should you use a template? Probably not. <em>Why not,</em> you ask? <a href="https://www.blueskyresumes.com/blog/should-you-use-a-resume-template/">This sums up my thinking</a>.
+Second, should you use a template? Probably not. <em>Why not,</em> you ask? <a href="https://www.blueskyresumes.com/blog/should-you-use-a-resume-template/">This sums up my thinking</a>
 
 Now, to commence! I recommend that you now read over the section on the CCPD website devoted to <a href="https://www.umw.edu/careercenter/students/toolkit/resume/">resume writing</a>. This will give you the information you need to start writing or updating your resume. Be sure to also look at the sample resumes we’ve provided as well. There’s nothing like a good, solid example to help you decide how you want to format your resume.
 
