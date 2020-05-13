@@ -11,7 +11,7 @@ post_date: 2020-05-13 08:59:08
 ---
 It’s always a good time when you are staring at a blank screen, wondering where to start. You got your resume written, revised it multiple times and finally polished it to the point of perfection. You felt really, really good about that… for about two minutes. Then you realized: The Cover Letter. A new mountain to climb, a new writing style to master.  Forget it, you think, I’ll check Tik Tok instead…
 
-Not so fast! You are going to have to come to grips with writing a cover letter sooner or later.  It had might as well be sooner, right?  And since a picture (or an example) is worth a thousand words, I’ve provided one, below.  And because this whole cover letter writing business is so miserable to start with, I’ve taken a little artistic liberty and gone to Hollywood to craft this sample because if writing a cover letter is low on the fun quotient, at least learning about it had might as well be sort of amusing. And, as always, the Career Center is here to help you with cover letter critiques via phone, Zoom or email.
+Not so fast! You are going to have to come to grips with writing a cover letter sooner or later.  It had might as well be sooner, right?  And since a picture (or an example) is worth a thousand words, I’ve provided one, below.  And because this whole cover letter writing business is so miserable to start with, I’ve taken a little artistic liberty and gone to Hollywood to craft this sample because if writing a cover letter is low on the fun quotient, at least learning about it had might as well be sort of amusing. As always, the Career Center is here to help you with cover letter critiques via phone, Zoom or email.
 
 &nbsp;
 
