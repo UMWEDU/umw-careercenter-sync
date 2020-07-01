@@ -5,7 +5,7 @@ author: rwagner
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/workforce-recruitment-program/wrp-resource-guide/
+  http://www.umw.edu/careercenter/students/workforce-recruitment-program/wrp-resource-guide/
 published: true
 post_date: 2017-08-02 11:10:08
 ---
