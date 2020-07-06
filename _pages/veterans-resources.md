@@ -36,7 +36,7 @@ THE U.S. DEPARTMENT OF VETERANS AFFAIRSBenefits.va.gov provides a one-page PDF f
  	<li>
 <div class="left-list">
 
-IRAQ AND AFGHANISTAN VETERANS OF AMERICANewgibill.org explains how the Post-9/11 GI Bill replaces the older Montgomery GI Bill system by providing veterans with up-front tuition payments directly to their schools. Veterans can also find a checklist on the site to help them through the various steps in preparing to start school, including applying for plan benefits. <a href="https://newgibill.squarespace.com/post-911-gi-bill/" target="_blank" rel="noopener noreferrer">READ MORE</a>
+IRAQ AND AFGHANISTAN VETERANS OF AMERICANewgibill.org explains how the Post-9/11 GI Bill replaces the older Montgomery GI Bill system by providing veterans with up-front tuition payments directly to their schools. Veterans can also find a checklist on the site to help them through the various steps in preparing to start school, including applying for plan benefits.
 
 </div></li>
  	<li>
