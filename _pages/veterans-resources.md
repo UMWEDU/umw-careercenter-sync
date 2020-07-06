@@ -105,8 +105,7 @@ NATIONAL ASSOCIATION OF INDEPENDENT COLLEGES AND UNIVERSITIES This website provi
 
 INSIDE HIGHER ED This news source explains how more than 700 colleges signed up to participate in the Yellow Ribbon Program when it launched in 2009.
 
-</div>
-<div class="list-read-more"><a href="http://www.insidehighered.com/news/2009/06/25/yellowribbon" target="_blank" rel="noopener noreferrer">READ MORE</a></div></li>
+</div></li>
  	<li>
 <div class="left-list">
 
@@ -129,7 +128,7 @@ SCHOOLS PARTICIPATING IN THE YELLOW RIBBON PROGRAM The U.S. Department of Vetera
 </div>
 <div class="left-list">
 
-GOOGLE SVA SCHOLARSHIP <span class="click-more"><a>READ MORE </a></span>Veterans pursuing computer science or a related degree field may be eligible to receive a $10,000 scholarship from Google and the Student Veterans of America.
+GOOGLE SVA SCHOLARSHIP: Veterans pursuing computer science or a related degree field may be eligible to receive a $10,000 scholarship from Google and the Student Veterans of America.
 
 THE WHITE HOUSE The full impact of the Post-9/11 GI Bill can be understood through this 2013 White House press release that showcases the one-millionth veteran to become the recipient of the bill’s benefits. Veterans may find this veteran’s story encouraging as they embark on their own adventures to make use of the Post-9/11 GI Bill.
 <div class="veteran-main-block">
@@ -151,12 +150,12 @@ Veterans who want to attend a private or a public out-of-state school could end 
 <div class="mid-content">
 <div class="additional-list">
 <ul class="devine-list">
- 	<li>MARINE GUNNERY SERGEANT JOHN DAVID FRY SCHOLARSHIP <span class="click-more"><a href="http://www.benefits.va.gov/gibill/docs/factsheets/fry_scholarship.pdf" target="_blank" rel="noopener noreferrer">READ MORE </a></span>Children whose parents died in the line of duty after Sept. 10, 2001 can receive up to 36 months of educational benefits at the 100 percent level. Benefits are available until a beneficiary’s 33rd birthday, but cannot be used in conjunction with the Yellow Ribbon program.</li>
+ 	<li>MARINE GUNNERY SERGEANT JOHN DAVID FRY SCHOLARSHIP: Children whose parents died in the line of duty after Sept. 10, 2001 can receive up to 36 months of educational benefits at the 100 percent level. Benefits are available until a beneficiary’s 33rd birthday, but cannot be used in conjunction with the Yellow Ribbon program.</li>
  	<li class="mRGtnun float-right">SWIFT TRANSPORTATION COMPANY <span class="click-more"><a href="http://www.truckinginfo.com/news/story/2012/03/swift-offers-driving-academy-scholarships-for-veterans.aspx" target="_blank" rel="noopener noreferrer">READ MORE</a> </span>Veterans interested in a trucking career can look to Swift Transportation for help with tuition assistance. The company has provided full scholarships to veterans to attend a Swift Academy of their choosing. Selective Reservists (including National Guard) are eligible for $1,000 scholarships. Both scholarships require a one-year commitment.</li>
- 	<li>MILITARY OFFICERS ASSOCIATION OF AMERICA <span class="click-more"><a href="http://www.moaa.org/Main_Menu/Access_Member_Benefits/Educational_Assistance/Loans,_Scholarships_and_Grants/Student_Loan_Programs.html" target="_blank" rel="noopener noreferrer">READ MORE</a></span> This organization makes interest-free loans available to students under the age of 24 who are children of former, active or retired officers or enlisted military personnel. Students must be pursuing a full-time undergraduate program and can receive interest-free loans for amounts up to $5,500 that are renewable for up to five years.</li>
+ 	<li>MILITARY OFFICERS ASSOCIATION OF AMERICA: This organization makes interest-free loans available to students under the age of 24 who are children of former, active or retired officers or enlisted military personnel. Students must be pursuing a full-time undergraduate program and can receive interest-free loans for amounts up to $5,500 that are renewable for up to five years.</li>
  	<li class="mRGtnun float-right">SURVIVORS’ AND DEPENDENTS’ EDUCATIONAL ASSISTANCE PROGRAM <span class="click-more"><a href="http://www.benefits.va.gov/gibill/survivor_dependent_assistance.asp" target="_blank" rel="noopener noreferrer">READ MORE</a> </span>Educational benefits are provided to eligible beneficiaries of veterans who are completely disabled from a service-related injury or whom have died as a result of duty or from a service-obtained injury. Benefits can be used to toward apprenticeships, certificate and degree programs and on-the-job training.</li>
  	<li>NAVY/MARINE CORPS RELIEF SOCIETY <span class="click-more"><a href="http://www.nmcrs.org/pages/education-loans-and-scholarships" target="_blank" rel="noopener noreferrer">READ MORE</a></span> Interest-free loans and grants are available to the children of veterans (including deceased) and active-duty military personnel dependents who want to pursue a two- or four-year undergraduate education at an accredited institution.</li>
- 	<li class="mRGtnun float-right">TROOPS TO TEACHERS <span class="click-more"><a>READ MORE</a></span> This federal and state funded program helps former and current members of the U.S. military pursue training to start a second career as a teacher. Stipends may be available to eligible candidates.</li>
+ 	<li class="mRGtnun float-right">TROOPS TO TEACHERS: This federal and state funded program helps former and current members of the U.S. military pursue training to start a second career as a teacher. Stipends may be available to eligible candidates.</li>
  	<li>PARALYZED VETERANS OF AMERICA <span class="click-more"><a href="http://www.pva.org/find-support/membership/scholarship-program" target="_blank" rel="noopener noreferrer">READ MORE</a></span> Members of Paralyzed Veterans, their spouses, and their unmarried children may be eligible for scholarship money to attend an accredited school or university. More than $300,000 has been awarded since the founding of the scholarship program in 1986.</li>
  	<li class="mRGtnun float-right">VETERANS EDUCATION ASSISTANCE PROGRAM <span class="click-more"><a href="http://www.benefits.va.gov/gibill/veap.asp" target="_blank" rel="noopener noreferrer">READ MORE</a></span> Veterans who have contributed to an education fund with deductions from their military paycheck will have these matched by the VA on a 2-to-1 basis and can use these funds to seek a certificate or college degree, licensing and certifications, correspondence courses, and more. Veterans that served between 1977 and 1985 may be eligible for this program.</li>
  	<li>PAT TILLMAN FOUNDATION <span class="click-more"><a href="http://pattillmanfoundation.org/our-story/" target="_blank" rel="noopener noreferrer">READ MORE </a></span>Veterans and their spouses who show leadership potential are eligible for scholarships through this foundation. More than $4.6 million in scholarships has already been given, many to students pursuing degrees at the master’s and doctorate levels.</li>
@@ -186,15 +185,13 @@ Many veterans need help brushing up on basic math and writing skills, or just in
 
 </div>
 <div class="veteran-two-list">
-<p class="mRGtnun">For example, Sierra College, in Rocklin, Calif., offers a <a href="http://help.sierracollege.edu/" target="_blank" rel="noopener noreferrer">Boots to Books</a> program, which includes a three-unit English class and a three-unit personal development class, both specifically designed to address the needs of veterans. Students returning to school will want to check with their specific college or postsecondary institution to see what kinds of special services or classes are available for veterans.</p>
+<p class="mRGtnun">For example, Sierra College, in Rocklin, Calif., offers a Boots to Books program, which includes a three-unit English class and a three-unit personal development class, both specifically designed to address the needs of veterans. Students returning to school will want to check with their specific college or postsecondary institution to see what kinds of special services or classes are available for veterans.</p>
 
 </div>
 <h2><b>ADDITIONAL STUDY SKILLS RESOURCES FOR VETERANS</b></h2>
 <ul class="devine-list">
- 	<li>ARMY CAREER AND ALUMNI PROGRAM <span class="click-more"><a href="https://www.acap.army.mil/default.aspx" target="_blank" rel="noopener noreferrer">READ MORE</a></span></li>
  	<li class="mRGtnun float-right">PETERSON’S ONLINE BASIC SKILLS COURSES <span class="click-more"><a href="http://www.nelnetsolutions.com/dantes/" target="_blank" rel="noopener noreferrer">READ MORE</a></span></li>
  	<li>COOK COUNSELING CENTER <span class="click-more"><a href="http://www.ucc.vt.edu/index.html" target="_blank" rel="noopener noreferrer">READ MORE</a></span></li>
- 	<li class="mRGtnun float-right">STUDY GUIDES AND STRATEGIES <span class="click-more"><a href="http://www.studygs.net/" target="_blank" rel="noopener noreferrer">READ MORE</a></span></li>
 </ul>
 [tabby title="Job Search"]
 
@@ -227,8 +224,6 @@ Many veterans need help brushing up on basic math and writing skills, or just in
 
 <a href="http://ClearedJobs.Net">ClearedJobs.Net</a> - A growing job board for professionals with security clearances looking for jobs in the defense and intelligence community
 
-<a href="http://veterans.nbcnews.com/find-a-job/how-to-write-a-cover-letter/">Writing a Cover Letter</a> - Next Steps for Vets provides a comprehensive list of tips to write a cover letter
-
 <a href="http://HireVeterans.com">HireVeterans.com</a> - Connecting U.S. military veterans with civilian careers
 
 <a href="http://civilianjobs.com">civilianjobs.com</a> - An online networking solution for U.S. soldiers, sailors, airmen, and Marines that are currently transitioning from the military as well as veterans with varying amounts of business experience
@@ -240,8 +235,6 @@ Many veterans need help brushing up on basic math and writing skills, or just in
 <a href="http://vetjobs.com">vetjobs.com</a> - Resource for those transitioning from the military, National Guard, Reserve Component Members, and veterans that have separated over the last several decades and are now productive members of the civilian work force in all disciplines
 
 <a href="http://taonline.com">TAOnline.com</a> - The largest single source of transition assistance information and tools for today's separating military. On this transition assistance web site service members, both prior and current, can find the resources needed to transition from their much appreciated military service, to the perfect civilian career. Contains resume information, transition locator, job hunting advice, and relocation information
-
-<a href="https://www.nrd.gov/home/veterans_job_bank">Nat</a><a href="http://www.nrd.gov/home/veterans_job_bank">ional Resource Directory</a> - Resource to connect wounded warriors, service members, veterans, and those who support them, including information on benefits &amp; compensation, education &amp; training, and employment
 
 <a href="http://www.military.com/veteran-jobs">Military.com (monster Veteran Employment Center)</a> - Free resources to connect and inform the Americans with military affinity, including active duty, reservists, guard members, retirees, veterans, and family members
 
