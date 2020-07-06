@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-08-14 14:44:11
 ---
-[gravityform id="9" title="true" description="true"]
+To request a virtual program or presentation, please email ccpd@umw.edu
