@@ -21,15 +21,16 @@ We currently have the following weeks planned:
 
 Fall 2020
 <ul>
- 	<li>Business, Consulting, and Management Week: 9/14 - 9/18</li>
+ 	<li>Business, Consulting, and Management Week: 9/6 - 9/10</li>
+ 	<li>Meet the Accounting Firms Week: 9/14 - 9/18 (please email <a href="mailto:kwhitacr@umw.edu">kwhitacr@umw.edu</a> to sign up for this COB event)</li>
  	<li>STEM (Science, Technology, Engineering, and Math) Week: 9/28 - 10/2</li>
- 	<li>Government and Law Week: (Dates TBD)</li>
+ 	<li>Government and Law Week: 10/12 - 10/16</li>
 </ul>
 Spring 2021
 <ul>
- 	<li>Arts &amp; Creative Careers Week: (Dates TBD)</li>
- 	<li>NGO &amp; Non-Profit Week: (Dates TBD)</li>
- 	<li>Business, Consulting, and Management Week: (Dates TBD)</li>
+ 	<li>Arts &amp; Creative Careers Week: 2/8 - 2/12</li>
+ 	<li>NGO &amp; Non-Profit Week: 2/22 - 2/26</li>
+ 	<li>Business, Consulting, and Management Week: 3/22 - 3/26</li>
 </ul>
 If you are interested in participating in one of our Industry Weeks, complete the form below. More information will be sent out this summer.
 
