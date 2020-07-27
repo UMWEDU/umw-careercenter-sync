@@ -21,7 +21,7 @@ We currently have the following weeks planned:
 
 Fall 2020
 <ul>
- 	<li>Business, Consulting, and Management Week: 9/6 - 9/10</li>
+ 	<li>Business, Consulting, and Management Week: 9/7 - 9/11</li>
  	<li>Meet the Accounting Firms Week: 9/14 - 9/18 (please email <a href="mailto:kwhitacr@umw.edu">kwhitacr@umw.edu</a> to sign up for this COB event)</li>
  	<li>STEM (Science, Technology, Engineering, and Math) Week: 9/28 - 10/2</li>
  	<li>Government and Law Week: 10/12 - 10/16</li>
