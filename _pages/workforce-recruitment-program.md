@@ -20,7 +20,7 @@ post_date: 2016-10-05 15:17:51
 
 &nbsp;
 
-If you are a University of Mary Washington student with a disability, you are welcome to participate in our annual Workforce Recruitment Program (WRP), sponsored by the federal government. This program provides an opportunity for eligible students and graduates to be interviewed by a federal recruiter for internships, co-ops, or even permanent employment.
+If you are a University of Mary Washington student with a disability, you are welcome to participate in our annual Workforce Recruitment Program (WRP), sponsored by the federal government. This program provides an opportunity for eligible students and graduates to be interviewed by a federal recruiter for internships, co-ops, or even permanent employment. <span class="ng-scope">The WRP is not a guarantee of employment, though it improves your chances of receiving federal opportunities. WRP candidates should continue to pursue other opportunities in addition to WRP.</span>
 
 <strong>Who is Eligible to Participate in WRP?</strong>
 
@@ -52,7 +52,7 @@ With the Workforce Recruitment Program, students can:
 </ul>
 <strong>Registration and Application</strong>
 
-Students can register by visiting <a href="https://wrp.gov/LoginPre.do?method=login">www.wrp.gov</a>. Click the 'Student Registration' button. The registration will prompt questions. Once the UMW Campus Coordinator approves your registration, you will receive an email prompting you to complete the rest of the application, including uploading documents such as your 'Schedule A' letter. This is a required document.
+Students can register by visiting <a href="https://wrp.gov/LoginPre.do?method=login">www.wrp.gov</a>. Click the 'Student Registration' button. The registration will prompt questions. Once the UMW Campus Coordinator approves your registration, you will receive an email prompting you to complete the rest of the application, including uploading documents such as your 'Schedule A' letter, a resume, and transcripts. Schedule A is a required document.
 
 <strong> </strong><strong>More Information </strong>
 <ul>
