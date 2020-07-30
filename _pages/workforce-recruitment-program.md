@@ -41,10 +41,16 @@ With the Workforce Recruitment Program, students can:
  	<li>Earn additional experience and expand their network of contacts while on the job</li>
  	<li>Demonstrate that students with disabilities can make fantastic employees</li>
 </ul>
+<strong>Important Dates</strong>
+<ul>
+ 	<li><strong>August 24, 2020 –</strong> Student registration opens</li>
+ 	<li><strong>October 14, 2020 </strong>– Student registration closes</li>
+ 	<li><strong>October 16, 2020 – </strong>Student application deadline - All materials must be submitted</li>
+ 	<li><strong>October 21-23, 2020</strong>– School Coordinator creates interview schedule</li>
+ 	<li><strong>October 26 - November 18, 2020–</strong> Interviews take place</li>
+ 	<li><strong>December 2020 </strong>– Student applications available to employers for one year</li>
+</ul>
 <strong>Registration and Application</strong>
-
-<em>The Next WRP Cycle will occur in Fall 2020. To be added to a list to receive more information, please email Rose Maddox at <a href="mailto:rwagner@umw.edu">rwagner@umw.edu</a>. </em><strong><em>
-</em></strong>
 
 Students can register by visiting <a href="https://wrp.gov/LoginPre.do?method=login">www.wrp.gov</a>. Click the 'Student Registration' button. The registration will prompt questions. Once the UMW Campus Coordinator approves your registration, you will receive an email prompting you to complete the rest of the application, including uploading documents such as your 'Schedule A' letter. This is a required document.
 
