@@ -31,15 +31,19 @@ Recommended virtual event platforms include:
 Creative Formats to Consider for your Virtual Event
 <ul>
  	<li>Office Tour</li>
+ 	<li>A Day in the Life at "XYZ" Company</li>
+ 	<li>Open Office Hours</li>
+ 	<li>Focus on a career related topic - resume, cover letter, mock interview, networking, while also discussing your organization.</li>
  	<li>'Ask me Anything' Session (also called AMA)</li>
  	<li>Employer or alumni panel</li>
- 	<li>Themed - bring your pet, coffee chat, happy hour, etc.</li>
+ 	<li>Themed - bring your pet, coffee chat, lunch and learn, etc.</li>
  	<li>
 <div>Virtual Shadowing (allowing a student to spend an hour or two with an employer while they work)</div></li>
- 	<li>Feature live polling during your session</li>
+ 	<li>Feature live polling during your session. Quizzes and polls, hosted by free services like <a href="https://kahoot.com/">Kahoot </a>and <a href="https://www.polleverywhere.com/">Poll Everywhere</a>, allow attendees to answer quick trivia questions using their phones.</li>
 </ul>
 Additional Tips for Virtual Events
 <ul>
+ 	<li>Be creative in your session title.</li>
  	<li>Be sure to test your audio and video at least 20 minutes prior to your event.</li>
  	<li>Record your session. You may be able to use it for additional recruiting purposes. The UMW Career Center may also request to record some of the sessions in order to keep a database of employer sessions.</li>
  	<li>Schedule at a time that does not conflict with class schedules. Consider evenings or weekends. Tuesday-Thursday are typically the best days to host a session.</li>
