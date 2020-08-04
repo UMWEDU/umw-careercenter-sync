@@ -28,10 +28,19 @@ Recommended virtual event platforms include:
  	<li><a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software">Microsoft Teams</a></li>
  	<li><a href="https://www.webex.com/">WebEx</a></li>
 </ul>
+Creative Formats to Consider for your Virtual Event
+<ul>
+ 	<li>Office Tour</li>
+ 	<li>'Ask me Anything' Session (also called AMA)</li>
+ 	<li>Employer or alumni panel</li>
+ 	<li>Themed - bring your pet, coffee chat, happy hour, etc.</li>
+ 	<li>
+<div>Virtual Shadowing (allowing a student to spend an hour or two with an employer while they work)</div></li>
+ 	<li>Feature live polling during your session</li>
+</ul>
 Additional Tips for Virtual Events
 <ul>
  	<li>Be sure to test your audio and video at least 20 minutes prior to your event.</li>
- 	<li>Consider alternative formats, including an office tour, AMA (Ask me Anything), or Employee Panel. This will keep students engaged and interested.</li>
  	<li>Record your session. You may be able to use it for additional recruiting purposes. The UMW Career Center may also request to record some of the sessions in order to keep a database of employer sessions.</li>
  	<li>Schedule at a time that does not conflict with class schedules. Consider evenings or weekends. Tuesday-Thursday are typically the best days to host a session.</li>
  	<li>Events should be a maximum of 45 minutes. Be sure to leave time at the end for questions.</li>
