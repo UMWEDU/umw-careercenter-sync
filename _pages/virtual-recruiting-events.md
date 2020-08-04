@@ -39,7 +39,7 @@ Creative Formats to Consider for your Virtual Event
  	<li>Themed - bring your pet, coffee chat, lunch and learn, etc.</li>
  	<li>
 <div>Virtual Shadowing (allowing a student to spend an hour or two with an employer while they work)</div></li>
- 	<li>Feature live polling during your session. Quizzes and polls, hosted by free services like <a href="https://kahoot.com/">Kahoot </a>and <a href="https://www.polleverywhere.com/">Poll Everywhere</a>, allow attendees to answer quick trivia questions using their phones.</li>
+ 	<li>Feature live polling during your session. Quizzes and polls, hosted by free services like <a href="https://www.mentimeter.com/">Mentimeter</a>, <a href="https://kahoot.com/">Kahoot </a>and <a href="https://www.polleverywhere.com/">Poll Everywhere</a>, allow attendees to answer quick trivia questions using their phones.</li>
 </ul>
 Additional Tips for Virtual Events
 <ul>
