@@ -73,3 +73,19 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<strong>STEM (Science, Technology, Engineering, and Math) Week: 9/28 - 10/2
+</strong>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/537815/share_preview">American Systems: September 29, 11-12 pm</a>
+<ul>
+ 	<li>Founded in 1975, AMERICAN SYSTEMS is an employee-owned federal government contractor supporting national priority programs through our strategic solutions in the areas of: Enterprise IT, Test &amp; Evaluation, Acquisition &amp; Lifecycle Support, Engineering &amp; Analysis, and Training. With approximately 1,400 employees in 25 office locations and more than 125 field sites, AMERICAN SYSTEMS is known for anticipating and responding rapidly to our customers’ present and future needs. <em>Positions Available: Internships, Full-Time Jobs</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/541422/share_preview">Anavation, LLC: September 30, 12-1 pm</a>
+<ul>
+ 	<li>AnaVation is currently looking for hard working, bright, and energetic undergraduate students to join our 2021 Summer Internship Program. We have opportunities to support software design, coding, debugging, business analytics and data science focuses. Interns will be supporting a small team project, as well as receive professional development sessions and participate in industry Certification programs. <em>Positions Available: Internships</em></li>
+</ul>
+</li>
+</ul>
