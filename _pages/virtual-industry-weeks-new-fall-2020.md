@@ -17,13 +17,25 @@ post_date: 2020-08-20 22:15:39
  	<li>Discuss <span class="markqmwr1mbtl" data-markjs="true" data-ogac="" data-ogab="" data-ogsc="" data-ogsb="">job</span> &amp; internship opportunities and how to apply</li>
  	<li>Answer student and alumni questions</li>
 </ul>
+To register for a session, click the hyperlinks below.
+
 (Note: The session list below is updated DAILY. Check your email or your Handshake event calendar for the most up-to-date list of sessions)
 
 <img class="aligncenter wp-image-842 size-large" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/08/117184950_1628124364027707_9038351929480846469_o-1024x390.png" alt="" width="1024" height="390" />
 <div></div>
 <div>Fall 2020</div>
 <ul>
- 	<li><a href="http://secure-web.cisco.com/1tUxGYZiG8mXGLqR6YEaLdUaIIOYL9Yj5KD5ht43yXjmCT6gpTGmtGJ9rTrGx0T93oPvuWcvAGFPyT-lczmKPuHL0UtSYPLgbY0tgAarGTC_dbXUDUi0jZBvslleP9UoP1OTwBnbEHsZck3U2bIcoerTNIlXticzQm4HCFcsU5bGzAMZlIKYzwBtNnpWotvL-I5y_36o4-CirF98qPS7e0cf2Dir-IQ06GURPBA2Bjs-QMKjtwfvm6ATRv-TFCA91nj-3thh0esXnQkl5Z2NDh6Nl7BBUk2OumhzJRlKBhvVKjwSR3PfNLCCdNo2J2rnuf2xCBKI_SZBfZPK8vyjmSA/http%3A%2F%2Femail.mail.joinhandshake.com%2Fc%2FeJxlj0FyhCAQRU-ju1itgIMLFikTL5ADUAz0jCQCFuB4_aCZZJOqXvx6v7r_byM411deW9FBB8A7aC_AGG_apicw0X5oGYzvI4xjRcEpuzSfwfpZeZNm9YWNDq6eBdyQan7VTPVsYARbRTinN0oZMZQC1IuYc15TRV6rbiqzuf3_ocLxgT6nIhhpyUCLKG5EuUZ8WNwrMi0hVuQNqq7fspMpbFFjAU6lJI9-GJ-WQ2M3Vyw88BPq4HNJKLQvAaT_xcqtyt594Zu3Mqt4x4xGnqupjiLu6u7LaQpHczRbnUV3YS8feg5hqf_ekGePc01aI35CvgFlc3Nx" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">Business, Consulting, and Management Week</a>: 9/7 – 9/11</li>
+ 	<li>Business, Consulting, and Management Week: 9/7 – 9/11
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/532665/share_preview">Marstel-Day, LLC: September 7, 1-2 pm</a>
+<ul>
+ 	<li>
+<p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Marstel-Day support clients globally on their environmental priorities, including strategy development; mission sustainment,</span> <span class="JsGRdQ">infrastructure, NEPA, natural/cultural resources, climate resiliency, GIS mapping/analyses, and stakeholder engagement.</span> Hiring for: Internships, Part-Time Jobs, Full-Time Jobs</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
  	<li><a href="http://secure-web.cisco.com/1eW-2Gx3x88CR38o4feo3F2fvcGkrw3AksmQlxCfv0Bc9AATX57s0rNviQVqGgXipGdpVEXbS7xW6CxvMHk4OLCo6j7PbQDLkBCuPyQmcRrX3CifBfLLi9p0ltri13ONwRhgLENacFFFNbfosRfDGafXrN9B8uDWuR2Ng794Vyi_h4waoIzEbZtBRBgUxk3XLXAt2Lnscoe7lujSpPjXqoerD5fFxrGfqvzKpn2Oyb-ZiShkFsC6sLkKixmrKkbQSXSF2_4Lgi9xMRl169VizyKBZ7sox8owv7T8fgk-suXNBwr-gM5UVBMOcjCrprTTwweWwUHeNUBHZO5P-v4OmFw/http%3A%2F%2Femail.mail.joinhandshake.com%2Fc%2FeJxlj0FuhiAQhU-juxoEQVywaGy9QA9AEEelFTCAv9cv2r_dNJnFy_cy895MgnM98tIIjDBCHKO6RZTyqq4YQUPDupqi_r1HfV80yCqzVZ_euFW5Ka7qCyrtbbkKoriaO8y6VoMeR455g5qxpR2bu1mxttzEmtIeC_Ja4CHPYc__hzKHB7gUs6CkJh3NIrsB5B7gYeAsyLD5UJC3usDsSFZGfwQNGVgVo7z6QXhaFiZz2GzBhZ9Qe5dyQqYsBxD2i5XdlVlc5oczMqmwQIJJ3quxDCKcanH5dIOu5jAdZRK4pS8fevV-K__ekHePe02aSfyEfAPjQXPv" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">STEM Week</a>: 9/28 – 10/2</li>
  	<li><a href="http://secure-web.cisco.com/1inOyjiOHfK5R1GTj1JNlE_vUlrYHKOgKAOETdhPeQ0V40o3N1hxHQODu98dWQeDyaTgt6OCkult7KXRju-B9Cn9Ht_6HBT-ECLbInuMDG29TO8IfvTCro53ht7T5m-YGiGMe9WCiooymOSvol83iXdssrI7rYgnYny7eoNOuwVqx8HopYQnFrVvXsluBbltgEYByfPpI6KfAuTk8rAlodo9sAmhW8NxugL-xA9hN4fLOooTvxRVQkWM63NAK5LMsJjICzNEphJVvjk7GzTML_R-u9jSbfQcTAannqYCGJvMfYzJX_ayedFpL9wIV89iVS1LS42tyak7aNo1D1yiWag/http%3A%2F%2Femail.mail.joinhandshake.com%2Fc%2FeJxlj0FyhCAQRU-ju1gICrhgkTLxAjkAhdAZmQhYgOP1g2aSTap68ev96v6_jeBcz7y2AiOMEMeoZajvedM2lKCpo0Pbo_F9RONYdcgpuzb3YP2ivEmL-oJGB1cvAmaisSGs6wgzRPe4mylRLbQD1Yx94noVS85bqshrhacyuzv-HyocHuBzKqInLRl4EcWNILcIDwtHRaY1xIq84QrTPTuZwh41FOBUSvLsB_FpOTB2d8WCEz-hDj6XhEJpCSD0Fyu3KXvzhe_eyqziDTIYea2mOop4qJsvpzt0Ngez11lg1r986CWEtf57Q149rjVpjfgJ-QaUXHOl" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">Government and Law Week</a>: 10/12 – 10/16</li>
 </ul>
