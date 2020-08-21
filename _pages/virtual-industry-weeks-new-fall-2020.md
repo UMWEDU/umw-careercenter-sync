@@ -73,6 +73,8 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<strong>Meet the Accounting Firms Week: 9/14 - 9/18</strong>
+
 <strong>STEM (Science, Technology, Engineering, and Math) Week: 9/28 - 10/2
 </strong>
 <ul>
@@ -125,4 +127,10 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
-&nbsp;
+<strong>Arts &amp; Creative Careers Week: 2/8 - 2/12</strong>
+
+<strong>NGO's &amp; Non-Profits Week: 2/22 - 2/26</strong>
+
+<strong>Business, Management, and Consulting Week: 3/22 - 3/26</strong>
+
+Questions? Contact the Career Center at ccpd@umw.edu
