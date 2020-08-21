@@ -22,23 +22,54 @@ To register for a session, click the hyperlinks below.
 (Note: The session list below is updated DAILY. Check your email or your Handshake event calendar for the most up-to-date list of sessions)
 
 <img class="aligncenter wp-image-842 size-large" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/08/117184950_1628124364027707_9038351929480846469_o-1024x390.png" alt="" width="1024" height="390" />
-<div></div>
-<div>Fall 2020</div>
-<ul>
- 	<li><strong>Business, Consulting, and Management Week: 9/7 – 9/11</strong>
+
+<strong>Business, Consulting, and Management Week: 9/7 – 9/11</strong>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/532665/share_preview">Marstel-Day, LLC: September 7, 1-2 pm</a>
 <ul>
- 	<li>
-<p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Marstel-Day support clients globally on their environmental priorities, including strategy development; mission sustainment,</span> <span class="JsGRdQ">infrastructure, NEPA, natural/cultural resources, climate resiliency, GIS mapping/analyses, and stakeholder engagement.</span> <em>Positions Available: Internships, Part-Time Jobs, Full-Time Jobs</em></p>
-</li>
+ 	<li>Marstel-Day support clients globally on their environmental priorities, including strategy development; mission sustainment, infrastructure, NEPA, natural/cultural resources, climate resiliency, GIS mapping/analyses, and stakeholder engagement. <em>Positions Available: Internships, Part-Time Jobs, Full-Time Jobs</em></li>
 </ul>
 </li>
+</ul>
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/545732/share_preview">Northwestern Mutual: September 8, 11-12 pm</a>
 <ul>
  	<li>Interns with Northwestern Mutual have the same opportunities to build their careers as full-time representatives. Supported by our network of specialists, training programs and mentoring opportunities, interns have access to the resources, products and assistance they need to help their clients and build their practices. If you enjoy working in a fast-paced, highly productive, values-driven environment, then this just might be the right opportunity for you! <em>Positions Available: Internships</em></li>
 </ul>
 </li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/534408/share_preview">Enterprise Holdings: September 9, 11-12 pm</a>
+<ul>
+ 	<li>If you’re looking to start your career with a company that grows their managers and leaders from within the organization, then Enterprise is for you. Whether you see yourself in sales, business development, customer service or operations, we will prepare you to create your ideal career. <em>Positions Available: Internships, Full-Time Jobs</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/532986/share_preview">LIDL: September 9, 1-2 pm</a>
+<ul>
+ 	<li>We operate more than 11,000 stores and are active in 32 countries, employing around 287,000 people globally. Our continued growth is determined by expansion, development and constant improvement in our stores, and teams, by fostering an environment for leadership growth and continuous success. <em>Positions Available: Part-Time Jobs, Full-Time Jobs</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/537749/share_preview">Federal Bureau of Investigation (FBI): September 9, 2-3 pm</a>
+<ul>
+ 	<li>The FBI Honors Internship Program will be open for applications from August 21 to September 30. This program is open to all full-time students who maintain a 3.0 (or greater) GPA. This session will discuss the internship program and how to apply. <em>Positions Available: Internships</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/531378/share_preview">GEICO: September 10, 11-12 pm</a>
+<ul>
+ 	<li>We are one of the nation's largest and fastest-growing auto insurers. We're an industry leader employing thousands of dedicated and hard-working associates. We offer training and career advancement in a financially stable and rewarding workplace. Our employees like to: work with people, analyze numbers, interact with customers, be challenged, work in a fast-paced environment, utilize the latest technologies, do something new, and make a difference. <em>Positions Available: Full-Time Jobs</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/537750/share_preview">Federal Bureau of Investigation (FBI): September 10, 5:30-6:30 pm</a>
+<ul>
+ 	<li>The FBI Honors Internship Program will be open for applications from August 21 to September 30. This program is open to all full-time students who maintain a 3.0 (or greater) GPA. This session will discuss the internship program and how to apply. <em>Positions Available: Internships</em></li>
 </ul>
 </li>
 </ul>
