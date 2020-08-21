@@ -89,3 +89,40 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<strong>Government &amp; Law Week: 10/12 - 10/16</strong>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/545381/share_preview">FEMA: October 13, 2-3 pm</a>
+<ul>
+ 	<li>We are a team of federal leaders who support the people and communities of our nation by providing experience, perspective, and resources in emergency management. For us, emergency management is not a job, it’s a calling. Each of us finds strength and value from our role at FEMA, whether we are helping others in the office or in the field. <em>Positions Available: Internships, Part-Time Jobs, Full-Time Jobs</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/532678/share_preview">Prince William County Police: October 13, 4-5 pm</a>
+<ul>
+ 	<li>Prince William County is located in Northern Virginia approximately 25 miles south of Washington, DC. The Prince William County Police Department is comprised of 700 sworn police officers that serve a citizen population over 465,000. This nationally accredited law enforcement agency offers a competitive salary, permanent non-rotating work schedule, take home vehicle program, paid retirement, outstanding benefits and numerous specialty units. <em>Positions Available: Full-Time Jobs</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/534485/share_preview">Peace Corps Virtual Session (Pre-Recorded)</a>
+<ul>
+ 	<li>The Peace Corps is a service opportunity for motivated changemakers to immerse themselves in a community abroad, working side by side with local leaders to tackle the most pressing challenges of our generation.</li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/545382/share_preview">FEMA Corps: October 15, 10-11 am</a>
+<ul>
+ 	<li>AmeriCorps NCCC and the Federal Emergency Management Agency (FEMA) partnered to create FEMA Corps so people like you can help communities prepare for and respond to disasters. FEMA Corps can help you get a foot in the door to work for the federal government and gain experience in the emergency management sector.</li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/531447/share_preview">Fairfax County Police: October 15, 12-1 pm</a>
+<ul>
+ 	<li>Are you ready for an exciting career in Law Enforcement? Look no further than The Fairfax County Police Department. You will receive the training and skills to provide essential law enforcement and public safety services to over 1.2million residents and its visitors. Our state-of-the-art academy will train you to enforce criminal laws, traffic regulations, and maintain public order through service orientated policing. You will receive firearms, self-defense, driving skills, and criminal investigations, just to name a few, that will allow you to succeed while on patrol and beyond. <em>Positions Available: Internships, Full-Time Jobs.</em></li>
+</ul>
+</li>
+</ul>
+&nbsp;
