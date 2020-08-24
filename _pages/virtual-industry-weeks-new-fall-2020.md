@@ -39,6 +39,13 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/549761/share_preview">Global Dimensions, LLC: September 8, 1-2 pm</a>
+<ul>
+ 	<li>Federal government contractor that provides interpretation and translation services, as well as Intelligence analysis and IT engineering. Headquartered in Fredericksburg, VA. Virtual company that offers the opportunity to intern at the VA office or possibly remotely. Contingent on COVID-19 restrictions. <em>Positions Available: Internships</em></li>
+</ul>
+</li>
+</ul>
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/534408/share_preview">Enterprise Holdings: September 9, 11-12 pm</a>
 <ul>
  	<li>If you’re looking to start your career with a company that grows their managers and leaders from within the organization, then Enterprise is for you. Whether you see yourself in sales, business development, customer service or operations, we will prepare you to create your ideal career. <em>Positions Available: Internships, Full-Time Jobs</em></li>
