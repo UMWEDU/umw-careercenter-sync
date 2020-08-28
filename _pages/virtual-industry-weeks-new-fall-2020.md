@@ -176,6 +176,9 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
+ 	<li><span style="text-decoration: underline">Peace Corps: February 23, 12-1 pm (Details Pending)</span></li>
+</ul>
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/531471/share_preview">Childhelp: February 24, 1-2 pm</a>
 <ul>
  	<li><span class="secondary-detail">Psychiatric residential facility for children ages 5 to 14. Join our Info Session to meet Childhelp Representatives and learn about the Career Opportunities available. <em>Positions Available: Full Time</em>
