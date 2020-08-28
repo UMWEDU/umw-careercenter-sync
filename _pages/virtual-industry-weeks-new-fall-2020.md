@@ -190,6 +190,13 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/531478/share_preview">Catholic Charities, Diocese of Arlington - Newcomer Services: February 25, 4-5 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">Catholic Charities, Diocese of Arlington's Newcomer Services responds to the Church's call for social justice by welcoming the stranger to this country, regardless of ethnicity, religion, nationality, or ability to pay. Our goal is for immigrants to achieve self-sufficiency and participate fully in the greater community. We achieve this goal by offering a combination of legal services, education and workforce development services, and migration and refugee services. <em>Positions Available: Internships, Volunteers</em></span></li>
+</ul>
+</li>
+</ul>
 <strong>Business, Management, and Consulting Week: 3/22 - 3/26</strong>
 
 Questions? Contact the Career Center at ccpd@umw.edu
