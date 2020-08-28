@@ -201,5 +201,11 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <strong>Business, Management, and Consulting Week: 3/22 - 3/26</strong>
-
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/545747/share_preview">Northwestern Mutual: March 23, 11-12 pm</a>
+<ul>
+ 	<li>Interns with Northwestern Mutual have the same opportunities to build their careers as full-time representatives. Supported by our network of specialists, training programs and mentoring opportunities, interns have access to the resources, products and assistance they need to help their clients and build their practices. If you enjoy working in a fast-paced, highly productive, values-driven environment, then this just might be the right opportunity for you! <em>Positions Available: Internships</em></li>
+</ul>
+</li>
+</ul>
 Questions? Contact the Career Center at ccpd@umw.edu
