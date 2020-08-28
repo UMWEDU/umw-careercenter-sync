@@ -171,7 +171,7 @@ To register for a session, click the hyperlinks below.
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/549716/share_preview">DisAbility Resource Center: February 22, 12-1 pm</a>
 <ul>
- 	<li><span class="secondary-detail">The disAbility Resource Center (dRC) believes in community inclusion and a purposeful life for people of all disabilities and all ages. The dRC provides FREE, individual services based on the specific needs of a person with a disability. Positions Available</span><em><span class="secondary-detail">: Interns, Volunteer Positions</span></em></li>
+ 	<li><span class="secondary-detail">The disAbility Resource Center (dRC) believes in community inclusion and a purposeful life for people of all disabilities and all ages. The dRC provides FREE, individual services based on the specific needs of a person with a disability. <em>Positions Available</em></span><em><span class="secondary-detail">: Interns, Volunteer Positions</span></em></li>
 </ul>
 </li>
 </ul>
@@ -183,8 +183,13 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
-&nbsp;
-
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/534382/share_preview">Alternative Paths Training School: February 25, 1-2 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">APTS is a year round special education day school offering a highly structured classroom setting for students whose disabilities include Autism and other Developmental Disabilities, not limited to Emotional and or Learning Disabilities. <em>Positions Available: Part time and Full time Jobs</em></span></li>
+</ul>
+</li>
+</ul>
 <strong>Business, Management, and Consulting Week: 3/22 - 3/26</strong>
 
 Questions? Contact the Career Center at ccpd@umw.edu
