@@ -9,9 +9,7 @@ permalink: >
 published: true
 post_date: 2020-08-20 22:15:39
 ---
-<div>The UMW Career Center has pivoted to virtual-only appointments and events. Our traditional career <span class="mark84u7vn03c" data-markjs="true" data-ogac="" data-ogab="" data-ogsc="" data-ogsb="">fair</span>s will be replaced with virtual “Industry Weeks” which will give you access to employers in your area of interest.</div>
-<div></div>
-<div>Employers will host one hour, virtual sessions where they will:</div>
+<div>The UMW Career Center has pivoted to virtual-only appointments and events. Our traditional career <span class="mark84u7vn03c" data-markjs="true" data-ogac="" data-ogab="" data-ogsc="" data-ogsb="">fair</span>s will be replaced with virtual “Industry Weeks” which will give you access to employers in your area of interest. Employers will host one hour, virtual sessions where they will:</div>
 <ul>
  	<li>Give an overview of company mission and culture</li>
  	<li>Discuss <span class="markqmwr1mbtl" data-markjs="true" data-ogac="" data-ogab="" data-ogsc="" data-ogsb="">job</span> &amp; internship opportunities and how to apply</li>
