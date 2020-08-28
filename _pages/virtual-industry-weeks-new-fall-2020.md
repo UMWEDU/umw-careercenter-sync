@@ -111,6 +111,12 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<ul>
+ 	<li><span style="text-decoration: underline">Tech Wizards: September 30, 3-4 pm (Details Pending)</span></li>
+</ul>
+<ul>
+ 	<li><span style="text-decoration: underline">NSWC Dahlgren: October 1, 4-5 pm (Details Pending)</span></li>
+</ul>
 <strong>Government &amp; Law Week: 10/12 - 10/16</strong>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/545381/share_preview">FEMA: October 13, 2-3 pm</a>
