@@ -168,6 +168,22 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <strong>NGO's &amp; Non-Profits Week: 2/22 - 2/26</strong>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/549716/share_preview">DisAbility Resource Center: February 22, 12-1 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">The disAbility Resource Center (dRC) believes in community inclusion and a purposeful life for people of all disabilities and all ages. The dRC provides FREE, individual services based on the specific needs of a person with a disability. Positions Available</span><em><span class="secondary-detail">: Interns, Volunteer Positions</span></em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/531471/share_preview">Childhelp: February 24, 1-2 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">Psychiatric residential facility for children ages 5 to 14. Join our Info Session to meet Childhelp Representatives and learn about the Career Opportunities available. <em>Positions Available: Full Time</em>
+</span></li>
+</ul>
+</li>
+</ul>
+&nbsp;
 
 <strong>Business, Management, and Consulting Week: 3/22 - 3/26</strong>
 
