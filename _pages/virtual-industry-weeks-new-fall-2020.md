@@ -208,4 +208,21 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<ul>
+ 	<li><span style="text-decoration: underline">Enterprise: March 24, 11-12 pm (Details Pending)</span></li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/534477/share_preview">LIDL: March 24, 1-2 pm</a>
+<ul>
+ 	<li>We operate more than 11,000 stores and are active in 32 countries, employing around 287,000 people globally. Our continued growth is determined by expansion, development and constant improvement in our stores, and teams, by fostering an environment for leadership growth and continuous success. <em>Positions Available: Part-Time Jobs, Full-Time Jobs</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/531481/share_preview">GEICO: March 25, 10-11 am</a>
+<ul>
+ 	<li>We are one of the nation's largest and fastest-growing auto insurers. We're an industry leader employing thousands of dedicated and hard-working associates. We offer training and career advancement in a financially stable and rewarding workplace. Our employees like to: work with people, analyze numbers, interact with customers, be challenged, work in a fast-paced environment, utilize the latest technologies, do something new, and make a difference. <em>Positions Available: Full-Time Jobs</em></li>
+</ul>
+</li>
+</ul>
 Questions? Contact the Career Center at ccpd@umw.edu
