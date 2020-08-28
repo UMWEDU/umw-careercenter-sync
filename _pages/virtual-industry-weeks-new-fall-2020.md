@@ -133,6 +133,9 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
+ 	<li><span style="text-decoration: underline">Federal Reserve Bank of Richmond: October 14, 1-2 pm (Details Pending)</span></li>
+</ul>
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/534485/share_preview">Peace Corps Virtual Session (Pre-Recorded)</a>
 <ul>
  	<li>The Peace Corps is a service opportunity for motivated changemakers to immerse themselves in a community abroad, working side by side with local leaders to tackle the most pressing challenges of our generation.</li>
