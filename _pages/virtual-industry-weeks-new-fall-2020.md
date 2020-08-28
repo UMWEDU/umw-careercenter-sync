@@ -157,7 +157,16 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <strong>Arts &amp; Creative Careers Week: 2/8 - 2/12</strong>
-
+<ul>
+ 	<li><span style="text-decoration: underline">StepVA: February 8, 11-12 pm (Details Pending)</span></li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/531468/share_preview">GEICO: February 9, 11-12 pm</a>
+<ul>
+ 	<li>We are one of the nation's largest and fastest-growing auto insurers. We're an industry leader employing thousands of dedicated and hard-working associates. We offer training and career advancement in a financially stable and rewarding workplace. Our employees like to: work with people, analyze numbers, interact with customers, be challenged, work in a fast-paced environment, utilize the latest technologies, do something new, and make a difference. <em>Positions Available: Full-Time Jobs</em></li>
+</ul>
+</li>
+</ul>
 <strong>NGO's &amp; Non-Profits Week: 2/22 - 2/26</strong>
 
 <strong>Business, Management, and Consulting Week: 3/22 - 3/26</strong>
