@@ -113,7 +113,11 @@ To register for a session, click the hyperlinks below.
  	<li><span style="text-decoration: underline">Tech Wizards: September 30, 3-4 pm (Details Pending)</span></li>
 </ul>
 <ul>
- 	<li><span style="text-decoration: underline">NSWC Dahlgren: October 1, 4-5 pm (Details Pending)</span></li>
+ 	<li><a href="https://umw.joinhandshake.com/events/557735/share_preview"><span style="text-decoration: underline">NSWC Dahlgren: October 1, 4-5 pm</span></a>
+<ul>
+ 	<li><span class="secondary-detail">We are a 100% software development organization building various kinds of systems for the US Navy and Marine Corps. We are not working on systems currently deployed in the fleet. We are focused on building prototypes or fielding completely new systems bringing new capability to the fleet. All of the software we write goes directly to sailers and marines. We are focused on the use of modern development concepts, languages, and techniques.</span> <em>Positions Available: Internships, Full-Time Jobs</em></li>
+</ul>
+</li>
 </ul>
 <strong>Government &amp; Law Week: 10/12 - 10/16</strong>
 <ul>
