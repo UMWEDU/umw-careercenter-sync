@@ -44,7 +44,12 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
- 	<li><span style="text-decoration: underline">Federal Reserve Bank of Richmond: September 8, 4-5 pm  (Details Pending)</span></li>
+ 	<li><span style="text-decoration: underline"><a href="https://umw.joinhandshake.com/events/559398/share_preview">Federal Reserve Bank of Richmond: September 8, 4-5 pm</a>
+</span>
+<ul>
+ 	<li>We are a diverse team of 2,700 at the Richmond Fed, one of 12 regional Federal Reserve Banks working together and with the national Board of Governors to strengthen our nation’s economy and communities. We bring integrity and passion to our work — from conducting monetary policy and working to ensure a safe and sound financial system, to providing tools and resources to help you make more informed financial decisions. <em>Positions Available: Internships, Full-Time Jobs</em></li>
+</ul>
+</li>
 </ul>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/534408/share_preview">Enterprise Holdings: September 9, 11-12 pm</a>
