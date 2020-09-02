@@ -23,13 +23,6 @@ To register for a session, click the hyperlinks below.
 
 <strong>Business, Consulting, and Management Week: 9/7 – 9/11</strong>
 <ul>
- 	<li><a href="https://umw.joinhandshake.com/events/532665/share_preview">Marstel-Day, LLC: September 7, 1-2 pm</a>
-<ul>
- 	<li>Marstel-Day support clients globally on their environmental priorities, including strategy development; mission sustainment, infrastructure, NEPA, natural/cultural resources, climate resiliency, GIS mapping/analyses, and stakeholder engagement. <em>Positions Available: Internships, Part-Time Jobs, Full-Time Jobs</em></li>
-</ul>
-</li>
-</ul>
-<ul>
  	<li><a href="https://umw.joinhandshake.com/events/545732/share_preview">Northwestern Mutual: September 8, 11-12 pm</a>
 <ul>
  	<li>Interns with Northwestern Mutual have the same opportunities to build their careers as full-time representatives. Supported by our network of specialists, training programs and mentoring opportunities, interns have access to the resources, products and assistance they need to help their clients and build their practices. If you enjoy working in a fast-paced, highly productive, values-driven environment, then this just might be the right opportunity for you! <em>Positions Available: Internships</em></li>
@@ -121,6 +114,13 @@ To register for a session, click the hyperlinks below.
  	<li><a href="https://umw.joinhandshake.com/events/557735/share_preview"><span style="text-decoration: underline">NSWC Dahlgren: October 1, 4-5 pm</span></a>
 <ul>
  	<li><span class="secondary-detail">We are a 100% software development organization building various kinds of systems for the US Navy and Marine Corps. We are not working on systems currently deployed in the fleet. We are focused on building prototypes or fielding completely new systems bringing new capability to the fleet. All of the software we write goes directly to sailers and marines. We are focused on the use of modern development concepts, languages, and techniques.</span> <em>Positions Available: Internships, Full-Time Jobs</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/532665/share_preview">Marstel-Day, LLC: October 2, 11-12 pm</a>
+<ul>
+ 	<li>Marstel-Day support clients globally on their environmental priorities, including strategy development; mission sustainment, infrastructure, NEPA, natural/cultural resources, climate resiliency, GIS mapping/analyses, and stakeholder engagement. <em>Positions Available: Internships, Part-Time Jobs, Full-Time Jobs</em></li>
 </ul>
 </li>
 </ul>
