@@ -5,7 +5,7 @@ author: rwagner
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/careercenter/big-interview/
+  http://www.umw.edu/careercenter/students/big-interview/
 published: true
 post_date: 2020-09-10 16:21:14
 ---
