@@ -126,6 +126,13 @@ To register for a session, click the hyperlinks below.
 </ul>
 <strong>Government &amp; Law Week: 10/12 - 10/16</strong>
 <ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/571284/share_preview">Rappahannock Area Alcohol Safety Action Program (RAASAP): October 12, 4-5 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">The Rappahannock Area Alcohol Safety Action Program (RAASAP) is one of 24 ASAPs located throughout Virginia, and we provide probation and intervention services for the Commonwealth’s courts. Our jurisdiction is Fredericksburg city, Stafford County, King George County, Spotsylvania County, and Caroline County. Our mission is to improve highway safety by decreasing the incidence of driving under the influence of alcohol and other drugs, leading to the reduction of alcohol and drug related fatalities and crashes. <em>Hiring: Interns</em></span></li>
+</ul>
+</li>
+</ul>
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/545381/share_preview">FEMA: October 13, 2-3 pm</a>
 <ul>
  	<li>We are a team of federal leaders who support the people and communities of our nation by providing experience, perspective, and resources in emergency management. For us, emergency management is not a job, it’s a calling. Each of us finds strength and value from our role at FEMA, whether we are helping others in the office or in the field. <em>Positions Available: Internships, Part-Time Jobs, Full-Time Jobs</em></li>
