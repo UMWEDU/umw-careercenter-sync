@@ -13,7 +13,7 @@ The Career Center is excited to introduce a new online system for interview prep
 
 <a href="https://umw.biginterview.com/"><img class="aligncenter wp-image-859 size-full" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/09/BigInterview_Logo_BlackPNG.png" alt="" width="1000" height="203" /></a>
 
-<a href="https://umw.biginterview.com/">Big Interview</a> includes:
+<a href="https://umw.biginterview.com/">Big Interview</a> includes:<img class="alignright wp-image-863 size-medium" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/09/Tell-Me-About-Yourself-300x300.png" alt="" width="300" height="300" />
 <ul>
  	<li>Mock interview practice and recording tool</li>
  	<li>Ability for faculty to create assignments and customizable evaluations</li>
