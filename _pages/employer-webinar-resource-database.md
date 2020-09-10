@@ -9,11 +9,7 @@ permalink: >
 published: true
 post_date: 2020-09-10 10:22:04
 ---
-Did you miss one of our Industry Week sessions? No problem!
-
-Recordings of the webinars, as well as additional resources and powerpoints, can be found here.
-
-<em>Note: Only those employers who gave permission to record will be posted below.</em>
+Did you miss one of our Industry Week sessions? No problem! Recordings of the webinars, as well as additional resources and powerpoints, can be found here. <em>Note: Only those employers who gave permission to record will be posted below.</em>
 
 <span style="text-decoration: underline"><strong>Business &amp; Accounting Weeks</strong></span>
 
