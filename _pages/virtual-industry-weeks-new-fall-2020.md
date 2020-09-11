@@ -92,13 +92,14 @@ To register for a session, click the hyperlinks below.
  	<li>We are a diverse team of 2,700 at the Richmond Fed, one of 12 regional Federal Reserve Banks working together and with the national Board of Governors to strengthen our nation’s economy and communities. We bring integrity and passion to our work — from conducting monetary policy and working to ensure a safe and sound financial system, to providing tools and resources to help you make more informed financial decisions. <em>Positions Available: Internships, Full-Time Jobs</em></li>
 </ul>
 </li>
+</ul>
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/537815/share_preview">American Systems: September 29, 11-12 pm</a>
 <ul>
  	<li>Founded in 1975, AMERICAN SYSTEMS is an employee-owned federal government contractor supporting national priority programs through our strategic solutions in the areas of: Enterprise IT, Test &amp; Evaluation, Acquisition &amp; Lifecycle Support, Engineering &amp; Analysis, and Training. With approximately 1,400 employees in 25 office locations and more than 125 field sites, AMERICAN SYSTEMS is known for anticipating and responding rapidly to our customers’ present and future needs. <em>Positions Available: Internships, Full-Time Jobs</em></li>
 </ul>
 </li>
 </ul>
-&nbsp;
 <ul>
  	<li><span style="text-decoration: underline">CACI: September 29, 1-2 pm (Details Pending)</span></li>
  	<li><a href="https://umw.joinhandshake.com/events/541422/share_preview">Anavation, LLC: September 30, 12-1 pm</a>
