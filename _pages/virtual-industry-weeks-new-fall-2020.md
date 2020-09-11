@@ -102,6 +102,9 @@ To register for a session, click the hyperlinks below.
 </ul>
 <ul>
  	<li><span style="text-decoration: underline">CACI: September 29, 1-2 pm (Details Pending)</span></li>
+</ul>
+&nbsp;
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/541422/share_preview">Anavation, LLC: September 30, 12-1 pm</a>
 <ul>
  	<li>AnaVation is currently looking for hard working, bright, and energetic undergraduate students to join our 2021 Summer Internship Program. We have opportunities to support software design, coding, debugging, business analytics and data science focuses. Interns will be supporting a small team project, as well as receive professional development sessions and participate in industry Certification programs. <em>Positions Available: Internships</em></li>
