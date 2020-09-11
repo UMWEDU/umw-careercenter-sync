@@ -27,7 +27,11 @@ Fall 2020
 </ul>
 </li>
  	<li>Meet the Accounting Firms Week: 9/14 - 9/18 (please email <a href="mailto:kwhitacr@umw.edu">kwhitacr@umw.edu</a> to sign up for this COB event)</li>
- 	<li>STEM (Science, Technology, Engineering, and Math) Week: 9/28 - 10/2</li>
+ 	<li>STEM (Science, Technology, Engineering, and Math) Week: 9/28 - 10/2
+<ul>
+ 	<li>Note: We have hit employer capacity for our Fall STEM week. To be added to a wait list, email rwagner@umw.edu</li>
+</ul>
+</li>
  	<li>Government and Law Week: 10/12 - 10/16</li>
 </ul>
 Spring 2021
