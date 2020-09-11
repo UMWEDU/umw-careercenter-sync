@@ -92,18 +92,15 @@ To register for a session, click the hyperlinks below.
  	<li>We are a diverse team of 2,700 at the Richmond Fed, one of 12 regional Federal Reserve Banks working together and with the national Board of Governors to strengthen our nation’s economy and communities. We bring integrity and passion to our work — from conducting monetary policy and working to ensure a safe and sound financial system, to providing tools and resources to help you make more informed financial decisions. <em>Positions Available: Internships, Full-Time Jobs</em></li>
 </ul>
 </li>
-</ul>
-<ul>
  	<li><a href="https://umw.joinhandshake.com/events/537815/share_preview">American Systems: September 29, 11-12 pm</a>
 <ul>
  	<li>Founded in 1975, AMERICAN SYSTEMS is an employee-owned federal government contractor supporting national priority programs through our strategic solutions in the areas of: Enterprise IT, Test &amp; Evaluation, Acquisition &amp; Lifecycle Support, Engineering &amp; Analysis, and Training. With approximately 1,400 employees in 25 office locations and more than 125 field sites, AMERICAN SYSTEMS is known for anticipating and responding rapidly to our customers’ present and future needs. <em>Positions Available: Internships, Full-Time Jobs</em></li>
 </ul>
 </li>
 </ul>
+&nbsp;
 <ul>
  	<li><span style="text-decoration: underline">CACI: September 29, 1-2 pm (Details Pending)</span></li>
-</ul>
-<ul>
  	<li><a href="https://umw.joinhandshake.com/events/541422/share_preview">Anavation, LLC: September 30, 12-1 pm</a>
 <ul>
  	<li>AnaVation is currently looking for hard working, bright, and energetic undergraduate students to join our 2021 Summer Internship Program. We have opportunities to support software design, coding, debugging, business analytics and data science focuses. Interns will be supporting a small team project, as well as receive professional development sessions and participate in industry Certification programs. <em>Positions Available: Internships</em></li>
@@ -111,7 +108,18 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
- 	<li><span style="text-decoration: underline">Tech Wizards: September 30, 3-4 pm (Details Pending)</span></li>
+ 	<li><span style="text-decoration: underline">Tech Wizards: September 30, 3-4 pm (Details Pending)</span>
+<ul>
+ 	<li><span class="color_35">Tech Wizards is a small business, founded in 2005 with the goal of providing quality system and software engineering and support services to the government and commercial arenas. Our mission is to provide our customers with system solutions grounded in efficient and effective design principles. </span><em>Positions Available: FT Jobs</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/572418/share_preview">Froehling &amp; Robertson, Inc.: October 1, 12-1 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">While F&amp;R is the oldest independent testing firm in the united States, our professional staff spans generations combining innovative young engineers and scientists and a deep bench of experienced and highly knowledgeable senior staff dedicated to mentoring. A minority–owned business headquartered in Richmond, VA, with locations throughout the mid-Atlantic, F&amp;R has a multi-disciplined staff that provides geotechnical and construction engineering and environmental consulting services. At F&amp;R we believe in the vital link of stability between the earth and the built world. We do the work the matters. And we exist to advance the quality and stability of every project we touch in order to protect people and property.</span> <em>Positions Available: Internships, PT Jobs, FT Jobs</em></li>
+</ul>
+</li>
 </ul>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/557735/share_preview"><span style="text-decoration: underline">NSWC Dahlgren: October 1, 4-5 pm</span></a>
