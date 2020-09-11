@@ -27,10 +27,22 @@ Appointment types include:
 </ul>
 <h3><strong>Virtual Appointments:</strong></h3>
 Available virtually and ready to assist, the UMW Center for Career and Professional Development is here to provide support and help you identify your professional development needs.
+
+Available virtually and ready to assist, the UMW Center for Career and Professional Development is here to provide support and help you identify your professional development needs.
+
+<strong>Virtual Drop-In Sessions
+</strong>UMW Drop-In Career Coaching hosted virtually on Zoom, 15-minute drop-in sessions provide personalized meeting opportunities and assistance in answering employment questions, exploring job and internship search strategies, interview preparation, highlighting networking opportunities tips and advice for resumes/cover letters, and more. Upon entering Zoom, you may not immediately be able to join the meeting if a Career Coach is meeting with another student. Please note, if this happens students will be placed into a queue and greeted based on their original arrival time.
+<ul>
+ 	<li><strong>Monday-Friday, </strong><a href="https://umw-sso.zoom.us/j/91447389472?pwd=NlA2SG5Pdmx3QTFRNHpBaFdGaS9Hdz09"><strong>11:00 a.m. - 6:00 p.m.</strong></a><strong>  Click the link to join!</strong></li>
+</ul>
+<strong>Virtual Resume and/or Cover Letter Review </strong>
+
+Another way for students to have their resume and/or cover letter reviewed is to email their documents to <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>.
 <h3>To book an appointment:</h3>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/login?requested_authentication_method=standard">Book Online through your Handshake profile</a></li>
- 	<li><a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">Handshake Appointment Request Instructions </a></li>
+ 	<li><a href="https://support.joinhandshake.com/hc/en-us/articles/219133257-How-do-I-request-an-appointment-">Handshake Appointment Request Instruction</a></li>
+ 	<li>Call our office at 540-654-5646.</li>
  	<li>Email us at <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>.</li>
 </ul>
 *Note: If the University is closed, appointments will be cancelled and it will be the student’s responsibility to reschedule.
