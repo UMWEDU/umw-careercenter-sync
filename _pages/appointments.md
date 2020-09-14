@@ -31,10 +31,13 @@ Available virtually and ready to assist, the UMW Center for Career and Professio
 Available virtually and ready to assist, the UMW Center for Career and Professional Development is here to provide support and help you identify your professional development needs.
 
 <strong>Virtual Drop-In Sessions
-</strong>UMW Drop-In Career Coaching hosted virtually on Zoom, 15-minute drop-in sessions provide personalized meeting opportunities and assistance in answering employment questions, exploring job and internship search strategies, interview preparation, highlighting networking opportunities tips and advice for resumes/cover letters, and more. Upon entering Zoom, you may not immediately be able to join the meeting if a Career Coach is meeting with another student. Please note, if this happens students will be placed into a queue and greeted based on their original arrival time.
+
+</strong>UMW Peer Career Consultants (PCCs) are available for 10-15 minute drop-in meetings. UMW’s PCCs are well-trained on resumes, cover letters, job and internship search strategies, interview preparation, building professional networks, and more.
 <ul>
  	<li><strong>Monday-Friday, </strong><a href="https://umw-sso.zoom.us/j/91447389472?pwd=NlA2SG5Pdmx3QTFRNHpBaFdGaS9Hdz09"><strong>10:00 a.m. - 6:00 p.m.</strong></a><strong>  Click the link to join!</strong></li>
 </ul>
+Upon entering Zoom, you may not immediately be able to join the meeting if a Career Coach is meeting with another student. Please note, if this happens students will be placed into a queue and greeted based on their original arrival time.
+
 <strong>Virtual Resume and/or Cover Letter Review </strong>
 
 Another way for students to have their resume and/or cover letter reviewed is to email their documents to <a href="mailto:ccpd@umw.edu">ccpd@umw.edu</a>.
