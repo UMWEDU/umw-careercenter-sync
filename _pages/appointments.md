@@ -25,9 +25,7 @@ Appointment types include:
  	<li>Pre-Health Advising</li>
  	<li>Appointment hours are Monday through Friday, 9 a.m. to 5 p.m. via email, phone or Zoom currently. Please review your confirmation email regarding the details of your appointment.</li>
 </ul>
-<h3><strong>Virtual Appointments:</strong></h3>
-Available virtually and ready to assist, the UMW Center for Career and Professional Development is here to provide support and help you identify your professional development needs.
-
+<h3><strong>Virtual Appointments</strong></h3>
 Available virtually and ready to assist, the UMW Center for Career and Professional Development is here to provide support and help you identify your professional development needs.
 
 <strong>Virtual Drop-In Sessions</strong>
