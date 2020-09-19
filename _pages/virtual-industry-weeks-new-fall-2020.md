@@ -112,7 +112,7 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
- 	<li><span style="text-decoration: underline">Tech Wizards: September 30, 3-4 pm (Details Pending)</span>
+ 	<li><a href="https://umw.joinhandshake.com/events/580283/share_preview"><span style="text-decoration: underline">Tech Wizards: September 30, 3-4 pm</span></a>
 <ul>
  	<li><span class="color_35">Tech Wizards is a small business, founded in 2005 with the goal of providing quality system and software engineering and support services to the government and commercial arenas. Our mission is to provide our customers with system solutions grounded in efficient and effective design principles. </span><em>Positions Available: FT Jobs</em></li>
 </ul>
