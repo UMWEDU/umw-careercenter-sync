@@ -187,7 +187,11 @@ To register for a session, click the hyperlinks below.
 </ul>
 <strong>Arts &amp; Creative Careers Week: 2/8 - 2/12</strong>
 <ul>
- 	<li><span style="text-decoration: underline">StepVA: February 8, 11-12 pm (Details Pending)</span></li>
+ 	<li><a href="https://umw.joinhandshake.com/events/580287/share_preview"><span style="text-decoration: underline">StepVA: February 8, 11-12 pm</span></a>
+<ul>
+ 	<li>STEP VA, Inc (Sensory + Theatre = Endless Possibilities) is a 501c3 organization whose mission is to empower people with special needs through artistic expression and sensory exploration. We provide class series, workshops, and summer sessions, using music, art, theatre, and dance as a means to build confidence and increase social engagement.. Partnering our participants with volunteers (ages 13 + adult) provides a rich opportunity for growth, better understanding, and professional exposure to music, occupational, speech, and physical therapists, special and general education teachers, and other professionals in the arts. In addition we partner with the community for performance based activities, social open mic nights . We further have expanded our partnerships to host Operation Boredom Buster event where meals and fun activities were collected, donated, and delivered to various areas in the community to families with special needs children and adults. <em>Positions Available: Volunteers</em></li>
+</ul>
+</li>
 </ul>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/531468/share_preview">GEICO: February 9, 11-12 pm</a>
