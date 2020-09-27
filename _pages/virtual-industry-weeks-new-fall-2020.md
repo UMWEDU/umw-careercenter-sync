@@ -101,9 +101,14 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
- 	<li><span style="text-decoration: underline">CACI: September 29, 1-2 pm (Details Pending)</span></li>
+ 	<li><span style="text-decoration: underline"><a href="https://umw.joinhandshake.com/events/586811/share_preview">CACI: September 29, 1-2 pm</a>
+</span>
+<ul>
+ 	<li><span class="secondary-detail">CACI International Inc is an American multinational professional services and information technology company headquartered in Arlington, Virginia. CACI provides services to many branches of the US federal government including defense, homeland security, intelligence, and healthcare. The King George/Dahlgren VA office supports our NSWCDD Navy customer. <em>Positions Available: Part-time jobs, Full-time jobs, Internships</em>
+</span></li>
 </ul>
-&nbsp;
+</li>
+</ul>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/541422/share_preview">Anavation, LLC: September 30, 12-1 pm</a>
 <ul>
