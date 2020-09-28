@@ -167,7 +167,11 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
- 	<li><span style="text-decoration: underline">Federal Reserve Bank of Richmond: October 14, 1-2 pm (Details Pending)</span></li>
+ 	<li><a href="https://umw.joinhandshake.com/events/587812/share_preview"><span style="text-decoration: underline">Federal Reserve Bank of Richmond: October 14, 1-2 pm</span></a>
+<ul>
+ 	<li>We are a diverse team of 2,700 at the Richmond Fed, one of 12 regional Federal Reserve Banks working together and with the national Board of Governors to strengthen our nation’s economy and communities. We bring integrity and passion to our work — from conducting monetary policy and working to ensure a safe and sound financial system, to providing tools and resources to help you make more informed financial decisions. <em>Positions Available: Internships, Full-Time Jobs</em></li>
+</ul>
+</li>
 </ul>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/534485/share_preview">Peace Corps Virtual Session (Pre-Recorded)</a>
