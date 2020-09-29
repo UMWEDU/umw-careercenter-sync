@@ -258,6 +258,13 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/589013/share_preview">Marine Corps Systems Command: March 23, 1-2 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">Marine Corps Systems Command (MCSC) is the acquisition command of the Marine Corps, serving as head of contracting authority and exercising technical authority for all Marine Corps ground weapon and information technology programs. Our Headquarters is located on historic Hospital Point aboard Marine Corps Base Quantico, VA, the campus is the home of the Marine Corps acquisition professionals. The MCSC team includes expert contracting professionals. MCSC has a diverse team of Marines, Sailors, civilians and contractor support personnel united by a common purpose: to equip and sustain Marine forces with the most capable and cost-effective systems for current and future expeditionary and crisis-response operations.</span> <em>Positions Available: Internships, FT Jobs</em></li>
+</ul>
+</li>
+</ul>
+<ul>
  	<li><span style="text-decoration: underline">Enterprise: March 24, 11-12 pm (Details Pending)</span></li>
 </ul>
 <ul>
