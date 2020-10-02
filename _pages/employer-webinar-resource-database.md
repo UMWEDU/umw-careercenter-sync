@@ -11,6 +11,10 @@ post_date: 2020-09-10 10:22:04
 ---
 Did you miss one of our Industry Week sessions? No problem! Recordings of the webinars, as well as additional resources and powerpoints, can be found here. <em>Note: Only those employers who gave permission to record will be posted below.</em>
 <h3><span style="text-decoration: underline"><strong>Webinars</strong></span></h3>
+<a href="https://www.youtube.com/watch?v=PEvViOaKNV4&amp;list=PL1r73lszxAJocT3b0oJolgbduXmwK5wNF&amp;index=5">Anavation</a>
+
+<a href="https://www.youtube.com/watch?v=ApaQ64yfhgM&amp;list=PL1r73lszxAJocT3b0oJolgbduXmwK5wNF&amp;index=4&amp;t=21s">Froehling &amp; Robertson</a>
+
 <a href="https://www.youtube.com/watch?v=o3-bJiUJ4Rw">GEICO</a>
 
 <a href="https://www.youtube.com/watch?v=KERkC_QEiQ4&amp;list=PL1r73lszxAJocT3b0oJolgbduXmwK5wNF">Global Dimensions, LLC </a>
