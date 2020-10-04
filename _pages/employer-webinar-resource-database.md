@@ -20,6 +20,10 @@ Did you miss one of our Industry Week sessions? No problem! Recordings of the we
 <a href="https://www.youtube.com/watch?v=KERkC_QEiQ4&amp;list=PL1r73lszxAJocT3b0oJolgbduXmwK5wNF">Global Dimensions, LLC </a>
 
 <a href="https://www.youtube.com/watch?v=TfQoddnpC8k&amp;list=PL1r73lszxAJocT3b0oJolgbduXmwK5wNF&amp;index=2">Northwestern Mutual </a>
+
+<a href="https://www.youtube.com/watch?v=XCp68DdZLwA&amp;t=8s">NSWC Dahlgren</a>
+
+<a href="https://www.youtube.com/watch?v=ZJ8iIv5q9JA&amp;t=5s">Marstel-Day, LLC</a>
 <h3><span style="text-decoration: underline"><strong>Handouts &amp; Slideshows
 </strong></span></h3>
 <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/09/RPO_One_Pager_New_Version.pdf">FBI Resource Planning Office</a>
