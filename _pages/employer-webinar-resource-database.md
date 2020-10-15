@@ -34,6 +34,16 @@ Did you miss one of our Industry Week sessions? No problem! Recordings of the we
 
 <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/09/RPO_General_Info_Session_Flyer.pdf">FBI - Upcoming Events </a>
 
+<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/10/FEMA-Flyer-FT-Positions.pdf">FEMA Flyer - FT Positions</a>
+
+<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/10/FEMA-Flyer-Reservists.pdf">FEMA Flyer - Reservists</a>
+
+<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/10/FEMA-Flyer-Schedule-A.pdf">FEMA Flyer - Schedule A</a>
+
+<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/10/FEMA-Flyer-Students.pdf">FEMA Flyer - Students</a>
+
+<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/10/FEMA-Flyer-Veterans.pdf">FEMA Flyer - Veterans</a>
+
 <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/09/Virtual-Career-Fairs_Summer-2020.pdf">Keiter CPA</a>
 
 <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/10/UMW-Dahlgren.pptx">NSWC Dahlgren Presentation Powerpoint</a>
