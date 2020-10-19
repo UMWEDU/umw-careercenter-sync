@@ -46,6 +46,8 @@ Did you miss one of our Industry Week sessions? No problem! Recordings of the we
 
 <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/09/Virtual-Career-Fairs_Summer-2020.pdf">Keiter CPA</a>
 
+<a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/10/MCSC-Presentation.pptx">Marine Corps Systems Command Powerpoint</a>
+
 <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/10/UMW-Dahlgren.pptx">NSWC Dahlgren Presentation Powerpoint</a>
 
 <a href="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/10/RAASAP-UMW-Presentation.pdf">RAASAP Presentation</a>
