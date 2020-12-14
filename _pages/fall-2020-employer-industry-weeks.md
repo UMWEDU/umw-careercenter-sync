@@ -38,7 +38,11 @@ Spring 2021
 <ul>
  	<li>Arts &amp; Creative Careers Week: 2/8 - 2/12</li>
  	<li>NGO &amp; Non-Profit Week: 2/22 - 2/26</li>
- 	<li>Business, Consulting, and Management Week: 3/22 - 3/26</li>
+ 	<li>Business, Consulting, and Management Week: 3/22 - 3/26
+<ul>
+ 	<li>Note: We have hit employer capacity for our Spring Business week. To be added to a wait list, email rwagner@umw.edu</li>
+</ul>
+</li>
 </ul>
 If you are interested in participating in one of our Industry Weeks, complete the form below. More information will be sent out this summer.
 
