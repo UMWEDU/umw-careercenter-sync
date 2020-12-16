@@ -78,6 +78,13 @@ To register for a session, click the hyperlinks below.
 </ul>
 <strong>Business, Management, and Consulting Week: 3/22 - 3/26</strong>
 <ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/639393/share_preview">Resume Workshop - Hosted by Top Dog Career Consultants: March 22, 12-1 pm</a>
+<ul>
+ 	<li> Top Dog Career Consultants offers professional writing services to professionals of multiple industries and career levels. A representative will be hosting a resume workshop as well as discussing internship opportunities at the organization. <em>Positions Available: Internships</em></li>
+</ul>
+</li>
+</ul>
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/545747/share_preview">Northwestern Mutual: March 23, 11-12 pm</a>
 <ul>
  	<li>Interns with Northwestern Mutual have the same opportunities to build their careers as full-time representatives. Supported by our network of specialists, training programs and mentoring opportunities, interns have access to the resources, products and assistance they need to help their clients and build their practices. If you enjoy working in a fast-paced, highly productive, values-driven environment, then this just might be the right opportunity for you! <em>Positions Available: Internships</em></li>
