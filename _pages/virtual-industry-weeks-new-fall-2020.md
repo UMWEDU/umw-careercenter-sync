@@ -115,4 +115,11 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/645385/share_preview">Global Dimensions: March 25, 12-1 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">Federal government contractor that provides interpretation and translation services, as well as Intelligence analysis and IT engineering. Headquartered in Fredericksburg, VA. Virtual company that offers the opportunity to intern at the VA office or possibly remotely. Contingent on COVID-19 restrictions. <em>Positions Available: Internships</em></span></li>
+</ul>
+</li>
+</ul>
 Questions? Contact the Career Center at ccpd@umw.edu
