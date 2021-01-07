@@ -43,6 +43,14 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/649856/share_preview">Olney Theatre Center: February 10, 2-3 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">Olney Theatre Center is a Teaching Theater, committed to training the next generation of theatre makers and committed to providing these training opportunities for individuals of all backgrounds and identities. Every year, sixteen apprentices live on campus and work under the professional mentorship of our 35-person full time staff (a quarter of whom are apprentice alumni!). These emerging professionals serve key responsibilities in virtually every department of the organization. During this session, Jason King Jones, Senior Associate Artistic Director, will share excerpts of a virtual campus tour of Olney Theatre Center's 4-theater complex, discuss the yearlong apprentice training program, and answer questions. <em>Positions Available: Internships</em>
+</span></li>
+</ul>
+</li>
+</ul>
 <strong>NGO's &amp; Non-Profits Week: 2/22 - 2/26</strong>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/549716/share_preview">DisAbility Resource Center: February 22, 12-1 pm</a>
