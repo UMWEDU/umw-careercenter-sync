@@ -52,7 +52,12 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
- 	<li><span style="text-decoration: underline">Peace Corps: February 23, 12-1 pm (Details Pending)</span></li>
+ 	<li><span style="text-decoration: underline"><a href="https://umw.joinhandshake.com/events/648872/share_preview">Peace Corps: February 23, 12-1 pm</a>
+</span>
+<ul>
+ 	<li><span class="secondary-detail">Save the date for an upcoming virtual session offered by the Peace Corps. Learn more about the application process, tips for applying, and what being a Peace Corps Volunteer entails.</span></li>
+</ul>
+</li>
 </ul>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/531471/share_preview">Childhelp: February 24, 1-2 pm</a>
