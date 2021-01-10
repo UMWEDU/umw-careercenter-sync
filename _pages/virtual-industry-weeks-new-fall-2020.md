@@ -51,6 +51,13 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/651437/share_preview">Virginia Repertory Theatre: February 11, 1-2 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">Virginia Repertory Theatre is a nonprofit, professional theatre company and the result of the 2012 merger of Barksdale Theatre and Theatre IV. With a budget of $5.6 million, four distinct venues, an educational touring arm, and an annual audience over 530,000, Virginia Rep is the largest professional theatre and one of the largest performing arts organizations in Central Virginia. We are dedicated to the development and production of new plays, and we seek outside producing collaboration to ensure the play has a life beyond its development and production at Virginia Rep. <em>Positions Available: Future Internships</em></span></li>
+</ul>
+</li>
+</ul>
 <strong>NGO's &amp; Non-Profits Week: 2/22 - 2/26</strong>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/549716/share_preview">DisAbility Resource Center: February 22, 12-1 pm</a>
