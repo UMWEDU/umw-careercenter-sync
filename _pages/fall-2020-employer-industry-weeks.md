@@ -26,7 +26,8 @@ Fall 2020
  	<li>STEM (Science, Technology, Engineering, and Math) Week: 9/28 - 10/2</li>
  	<li>Government and Law Week: 10/12 - 10/16</li>
 </ul>
-Spring 2021: <strong>NOTE: We have hit employer capacity for all of our Spring Industry Weeks. To be added to a wait list or to discuss alternative sessions, email rwagner@umw.edu</strong>
+Spring 2021: <strong>NOTE: We have hit employer capacity for all of our Spring Industry Weeks. You may still complete the interest form but are not guaranteed a time slot.
+</strong>
 <ul>
  	<li>Arts &amp; Creative Careers Week: 2/8 - 2/12</li>
  	<li>NGO &amp; Non-Profit Week: 2/22 - 2/26</li>
