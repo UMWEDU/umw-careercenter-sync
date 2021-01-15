@@ -83,14 +83,6 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
- 	<li><a href="https://umw.joinhandshake.com/events/531471/share_preview">Childhelp: February 24, 1-2 pm</a>
-<ul>
- 	<li><span class="secondary-detail">Psychiatric residential facility for children ages 5 to 14. Join our Info Session to meet Childhelp Representatives and learn about the Career Opportunities available. <em>Positions Available: Full Time</em>
-</span></li>
-</ul>
-</li>
-</ul>
-<ul>
  	<li><a href="https://umw.joinhandshake.com/events/534382/share_preview">Alternative Paths Training School: February 25, 1-2 pm</a>
 <ul>
  	<li><span class="secondary-detail">APTS is a year round special education day school offering a highly structured classroom setting for students whose disabilities include Autism and other Developmental Disabilities, not limited to Emotional and or Learning Disabilities. <em>Positions Available: Part time and Full time Jobs</em></span></li>
@@ -101,6 +93,13 @@ To register for a session, click the hyperlinks below.
  	<li><a href="https://umw.joinhandshake.com/events/531478/share_preview">Catholic Charities, Diocese of Arlington - Newcomer Services: February 25, 4-5 pm</a>
 <ul>
  	<li><span class="secondary-detail">Catholic Charities, Diocese of Arlington's Newcomer Services responds to the Church's call for social justice by welcoming the stranger to this country, regardless of ethnicity, religion, nationality, or ability to pay. Our goal is for immigrants to achieve self-sufficiency and participate fully in the greater community. We achieve this goal by offering a combination of legal services, education and workforce development services, and migration and refugee services. <em>Positions Available: Internships, Volunteers</em></span></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/531471/share_preview">Childhelp: February 26, 1-2 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">Psychiatric residential facility for children ages 5 to 14. Join our Info Session to meet Childhelp Representatives and learn about the Career Opportunities available. <em>Positions Available: Full Time</em></span></li>
 </ul>
 </li>
 </ul>
