@@ -44,6 +44,14 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/656350/share_preview">'Be Your Own Boss: <span class="secondary-detail">A UMW Alumni Panel on Entrepreneurship &amp; Freelance Work</span>: Feb.9, 4-5 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">Two UMW Alumni will be discussing their career paths post-graduation, which include starting their own businesses. Panelists include Alexis Ankersen (UMW class of '15) founder of <a href="https://www.topdogcareers.com/">Top Dog Career Consultants</a> &amp; Anna Talcott (UMW Class of '19) founder of '<a href="https://www.facebook.com/aesthetic.eye.social/">Aesthetic Eye Social Media</a>' &amp; '<a href="https://www.adogsmomco.com/">A Dog's Mom, Co.</a>'
+</span></li>
+</ul>
+</li>
+</ul>
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/656634/share_preview">Portland Stage Theatre: February 10, 1-2 pm</a>
 <ul>
  	<li><span class="secondary-detail">As the leading professional theater in Northern New England, Portland Stage is committed to creating great art, passionate about using the theater to educate, and dedicated to enriching our community. Portland Stage offers a number of different internships each season. This will mostly be an information conversation about the application process, the specifics of each internship, and how COVID has affected our plans. There will be plenty of time set aside for Questions and Answers as well. <em>Positions Available: Internships</em>
