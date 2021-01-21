@@ -144,6 +144,13 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/667632/share_preview">Federal Reserve Bank of Richmond: March 24, 2-3 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">We are a diverse team of 2,700 at the Richmond Fed, one of 12 regional Federal Reserve Banks working together and with the national Board of Governors to strengthen our nation’s economy and communities. We bring integrity and passion to our work — from conducting monetary policy and working to ensure a safe and sound financial system, to providing tools and resources to help you make more informed financial decisions. <em>Hiring: Internships, Full-Time Jobs</em></span></li>
+</ul>
+</li>
+</ul>
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/531481/share_preview">GEICO: March 25, 10-11 am</a>
 <ul>
  	<li>We are one of the nation's largest and fastest-growing auto insurers. We're an industry leader employing thousands of dedicated and hard-working associates. We offer training and career advancement in a financially stable and rewarding workplace. Our employees like to: work with people, analyze numbers, interact with customers, be challenged, work in a fast-paced environment, utilize the latest technologies, do something new, and make a difference. <em>Positions Available: Full-Time Jobs</em></li>
