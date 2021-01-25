@@ -164,4 +164,12 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<strong>Additional Spring 2021 Sessions</strong>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/670701/share_preview">From Here to Career: A Career Prep Bootcamp hosted by the Federal Reserve Bank of Richmond: March 2, 12-1 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">Representatives from the Federal Reserve Bank of Richmond will be hosting a one-hour, virtual Career Prep Bootcamp, covering topics like resumes, networking, interviewing, attire, and tips for virtual settings. Representatives will also be hosting 20 minute 1:1 sessions with students and alumni the afternoon of March 2nd. Visit the '<a href="https://umw.joinhandshake.com/interview_schedules">interviews'</a> section of your Handshake profile for more information and to sign up for a time slot. (Note: These are virtual informational interviews)</span></li>
+</ul>
+</li>
+</ul>
 Questions? Contact the Career Center at ccpd@umw.edu
