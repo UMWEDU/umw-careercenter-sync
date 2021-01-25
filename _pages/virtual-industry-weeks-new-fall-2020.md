@@ -1,6 +1,6 @@
 ---
 ID: 841
-post_title: 'Virtual Industry Weeks &#8211; NEW Fall 2020'
+post_title: 'Virtual Industry Weeks &#8211; Spring 2021'
 author: rwagner
 post_excerpt: ""
 layout: page
