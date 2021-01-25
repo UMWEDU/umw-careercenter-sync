@@ -20,7 +20,7 @@ post_date: 2020-08-20 22:15:39
 </ul>
 To register for a session, click the hyperlinks below.
 
-(Note: The session list below is updated DAILY. Check your email or your Handshake event calendar for the most up-to-date list of sessions)
+(Note: The session list below is updated DAILY. Check your email or your Handshake event calendar for the most up-to-date list of sessions. Both current students and alumni are welcome to register and attend)
 
 <img class="aligncenter wp-image-842 size-large" src="http://www.umw.edu/careercenter/wp-content/uploads/sites/41/2020/08/117184950_1628124364027707_9038351929480846469_o-1024x390.png" alt="" width="1024" height="390" />
 
