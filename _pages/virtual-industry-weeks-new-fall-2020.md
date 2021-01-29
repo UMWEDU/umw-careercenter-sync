@@ -172,4 +172,11 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<ul>
+ 	<li>Federal Reserve Bank of Richmond Informational Interviews: March 2, 1-4 pm
+<ul>
+ 	<li>Sign up in the 'interviews' section of Handshake for a 20 minute time slot with a representative from the Federal Reserve Bank of Richmond. Take this opportunity to network, virtually, with one of Richmond's top employers.</li>
+</ul>
+</li>
+</ul>
 Questions? Contact the Career Center at ccpd@umw.edu
