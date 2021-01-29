@@ -173,7 +173,7 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
- 	<li>Federal Reserve Bank of Richmond Informational Interviews: March 2, 1-4 pm
+ 	<li><a href="https://umw.joinhandshake.com/jobs/4370415?ref=preview-header-click">Federal Reserve Bank of Richmond Informational Interviews: March 2, 1-4 pm</a>
 <ul>
  	<li>Sign up in the 'interviews' section of Handshake for a 20 minute time slot with a representative from the Federal Reserve Bank of Richmond. Take this opportunity to network, virtually, with one of Richmond's top employers.</li>
 </ul>
