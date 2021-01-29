@@ -164,6 +164,13 @@ To register for a session, click the hyperlinks below.
 </ul>
 </li>
 </ul>
+<ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/677281/share_preview">Ethos Group: March 25, 2-3 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">Ethos Group provides automotive dealerships across the country with a variety of products and services which help to increase their profitability and create exceptional customer experiences. </span><span class="secondary-detail">We will discuss what Ethos Group does, the Business Manager position we recruit for, along with the career path and growth opportunities the automotive industry provides.</span> <em>Positions Available: Full Time</em></li>
+</ul>
+</li>
+</ul>
 <strong>Additional Spring 2021 Sessions</strong>
 <ul>
  	<li><a href="https://umw.joinhandshake.com/events/670701/share_preview">From Here to Career: A Career Prep Bootcamp hosted by the Federal Reserve Bank of Richmond: March 2, 12-1 pm</a>
