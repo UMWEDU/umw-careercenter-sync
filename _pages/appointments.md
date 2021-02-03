@@ -32,7 +32,8 @@ Available virtually and ready to assist, the UMW Center for Career and Professio
 
 UMW Peer Career Consultants (PCCs) are available for 10-15 minute drop-in meetings. UMW’s PCCs are well-trained on resumes, cover letters, job and internship search strategies, interview preparation, building professional networks, and more.
 <ul>
- 	<li><strong>Monday-Friday, </strong><a href="https://umw-sso.zoom.us/j/91447389472?pwd=NlA2SG5Pdmx3QTFRNHpBaFdGaS9Hdz09"><strong>12:00 p.m. - 6:00 p.m.</strong></a><strong>  Click the link to join!</strong></li>
+ 	<li><strong>Monday and Wednesday, </strong><a href="https://umw-sso.zoom.us/j/91447389472?pwd=NlA2SG5Pdmx3QTFRNHpBaFdGaS9Hdz09"><strong>3:00 p.m. - 6:00 p.m.</strong></a><strong>  Click the link to join!</strong></li>
+ 	<li><strong>Tuesday, Thursday and Friday, <a href="https://umw-sso.zoom.us/j/91447389472?pwd=NlA2SG5Pdmx3QTFRNHpBaFdGaS9Hdz09">12:00 p.m. - 6:00 p.m.</a>  Click the link to join!</strong></li>
 </ul>
 Upon entering Zoom, you may not immediately be able to join the meeting if a Career Coach is meeting with another student. Please note, if this happens students will be placed into a queue and greeted based on their original arrival time.
 
