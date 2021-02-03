@@ -120,6 +120,13 @@ To register for a session, click the hyperlinks below.
 </li>
 </ul>
 <ul>
+ 	<li><a href="https://umw.joinhandshake.com/events/681894/share_preview">PowerSchool: March 23, 12-1 pm</a>
+<ul>
+ 	<li><span class="secondary-detail">PowerSchool is the #1 leading education technology platform for K-12, serving more than 32 million students, 66 million parents, and 100 million users in over 70 countries around the world. We provide the industry’s first Unified Classroom experience with best -in-class, secure, and compliant online solutions, including registration and school choice, student information systems, learning management and classroom collaboration, assessment, analytics, and special education management. </span><span class="secondary-detail">We will use our session to talk about what PowerSchool is, our values, what we do, and if time allows, we will highlight some open jobs. Our jobs may include internships and full time positions.</span></li>
+</ul>
+</li>
+</ul>
+<ul>
  	<li><a href="https://umw.joinhandshake.com/events/589013/share_preview">Marine Corps Systems Command: March 23, 1-2 pm</a>
 <ul>
  	<li><span class="secondary-detail">Marine Corps Systems Command (MCSC) is the acquisition command of the Marine Corps, serving as head of contracting authority and exercising technical authority for all Marine Corps ground weapon and information technology programs. Our Headquarters is located on historic Hospital Point aboard Marine Corps Base Quantico, VA, the campus is the home of the Marine Corps acquisition professionals. The MCSC team includes expert contracting professionals. MCSC has a diverse team of Marines, Sailors, civilians and contractor support personnel united by a common purpose: to equip and sustain Marine forces with the most capable and cost-effective systems for current and future expeditionary and crisis-response operations.</span> <em>Positions Available: Internships, FT Jobs</em></li>
